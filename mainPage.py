@@ -80,8 +80,8 @@ team_df = st.dataframe({
                hide_index = True, use_container_width=True)
 
 col_1, col_2 = st.columns(2) #영역구분
-col_1.text(f"(3)Git 주소\n(https://github.com/kimdongwhee/secondPJT_Adios.git)")
-col_2.link_button(label="Git 바로가기", url="https://github.com/kimdongwhee/secondPJT_Adios.git", use_container_width=True)
+col_1.text(f"(3)Git 주소\n(https://github.com/kimdongwhee/secondPJT_Adios)")
+col_2.link_button(label="Git 바로가기", url="https://github.com/kimdongwhee/secondPJT_Adios", use_container_width=True)
 col_1.text(f"(4)Google 드라이브")
 col_2.link_button(label="Google 드라이브 바로가기", url="https://drive.google.com/drive/folders/1iy4h1HnOX9Y316nLQ38MHKoESUCjM1qm?usp=sharing", use_container_width=True)
 
