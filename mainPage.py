@@ -29,7 +29,7 @@ team_df = st.dataframe({
              "데이터 수집/전처리, 챗봇구현(LangChain), StreamLit & Git 관리운영, 발표자료 작성",
               "데이터 전처리, 모델 선정/학습/평가, 발표자료 작성",
               "데이터 시각화, 모델 선정/학습/평가, 발표자료 작성",
-              "데이터 전처리, 모델 선정/학습/평가, 발표자료 작성",
+              "데이터 수집/전처리, 챗봇구현(LangChain), StreamLit & Git 관리운영, 발표자료 작성",
               " 데이터 수집/전처리, 챗봇구현(LangChain)/모델평가, 발표자료 작성"
               ]},
                hide_index = True, use_container_width=True)
