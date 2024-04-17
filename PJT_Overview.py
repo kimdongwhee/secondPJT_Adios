@@ -24,13 +24,14 @@ st.subheader(":three: 수행팀원 및 역할")
 st.text("(1)팀명 : Adios(총 6명)")
 st.text("(2)프로젝트 R&R(Role and Responsibilities)")
 team_df = st.dataframe({
-    "이름" : ["김동휘","김성일","정현수","오지영","임경란","신대근"],
-    "역할" : ["기획, 데이터 수집/전처리, 챗봇구현(LangChain)/모델평가, StreamLit & Git 관리운영, 발표자료 작성",
-             "데이터 수집/전처리, 챗봇구현(LangChain), StreamLit & Git 관리운영, 발표자료 작성",
-              "데이터 수집/전처리, 모델 훈련/평가/검증, 발표자료 작성",
-              "데이터 시각화, 발표자료 작성",
-              "데이터 수집/전처리, 챗봇구현(LangChain), 발표자료 작성",
-              "데이터 수집/전처리, 모델 훈련/평가/검증, 발표자료 작성"
+    "이름" : ["김동휘","김성일","정현수","오지영","임경란","서한울","신대근"],
+    "역할" : ["기획, StreamLit 구현, 데이터 수집/전처리, Langchain 모델구축, git관리", 
+            "StreamLit 구현, 구현, 데이터 수집/전처리, 데이터 수집, Langchain 모델구축", 
+            "데이터 수집/전처리, 예측/분류 및 Langchain 모델 구축", 
+            "데이터 전처리, 데이터 시각화", 
+            "데이터 수집/전처리, Langchain 모델구축", 
+            "데이터 전처리, 예측/분류 및 Langchain 모델 구축", 
+            "데이터 전처리, 예측/분류 및 Langchain 모델 구축"
               ]},
                hide_index = True, use_container_width=True)
 
