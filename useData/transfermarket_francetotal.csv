@@ -1,0 +1,2067 @@
+team name,num,name,age,nationality,position,market value
+Squad Paris Saint-Germain,99,Gianluigi Donnarumma,25,Italy,Goalkeeper,€40.00m
+Squad Paris Saint-Germain,80,Arnau Tenas,22,Spain,Goalkeeper,€5.00m
+Squad Paris Saint-Germain,1,Keylor Navas,37,Costa Rica,Goalkeeper,€2.00m
+Squad Paris Saint-Germain,16,Sergio Rico,30,Spain,Goalkeeper,€2.00m
+Squad Paris Saint-Germain,30,Alexandre Letellier,33,France,Goalkeeper,€300k
+Squad Paris Saint-Germain,5,Marquinhos,29,Brazil,Centre-Back,€55.00m
+Squad Paris Saint-Germain,37,Milan Skriniar,29,Slovakia,Centre-Back,€40.00m
+Squad Paris Saint-Germain,35,Lucas Beraldo,20,Brazil,Centre-Back,€20.00m
+Squad Paris Saint-Germain,3,Presnel Kimpembe,28,France,Centre-Back,€15.00m
+Squad Paris Saint-Germain,25,Nuno Mendes,21,Portugal,Left-Back,€60.00m
+Squad Paris Saint-Germain,21,Lucas Hernández,28,France,Left-Back,€45.00m
+Squad Paris Saint-Germain,97,Layvin Kurzawa,31,France,Left-Back,€2.50m
+Squad Paris Saint-Germain,2,Achraf Hakimi,25,Morocco,Right-Back,€65.00m
+Squad Paris Saint-Germain,26,Nordi Mukiele,26,France,Right-Back,€10.00m
+Squad Paris Saint-Germain,4,Manuel Ugarte,23,Uruguay,Defensive Midfield,€60.00m
+Squad Paris Saint-Germain,15,Danilo Pereira,32,Portugal,Defensive Midfield,€9.00m
+Squad Paris Saint-Germain,33,Warren Zaïre-Emery,18,France,Central Midfield,€60.00m
+Squad Paris Saint-Germain,17,Vitinha,24,Portugal,Central Midfield,€45.00m
+Squad Paris Saint-Germain,8,Fabián Ruiz,28,Spain,Central Midfield,€30.00m
+Squad Paris Saint-Germain,28,Carlos Soler,27,Spain,Central Midfield,€20.00m
+Squad Paris Saint-Germain,38,Ethan Mbappé,17,France,Central Midfield,€500k
+Squad Paris Saint-Germain,19,Kang-in Lee,23,"Korea, South",Attacking Midfield,€22.00m
+Squad Paris Saint-Germain,41,Senny Mayulu,17,France,Attacking Midfield,€1.00m
+Squad Paris Saint-Germain,29,Bradley Barcola,21,France,Left Winger,€40.00m
+Squad Paris Saint-Germain,10,Ousmane Dembélé,26,France,Right Winger,€60.00m
+Squad Paris Saint-Germain,11,Marco Asensio,28,Spain,Right Winger,€20.00m
+Squad Paris Saint-Germain,7,Kylian Mbappé,25,France,Centre-Forward,€180.00m
+Squad Paris Saint-Germain,23,Randal Kolo Muani,25,France,Centre-Forward,€60.00m
+Squad Paris Saint-Germain,9,Gonçalo Ramos,22,Portugal,Centre-Forward,€50.00m
+Squad AS Monaco,16,Philipp Köhn,26,Switzerland,Goalkeeper,€7.00m
+Squad AS Monaco,1,Radoslaw Majecki,24,Poland,Goalkeeper,€3.00m
+Squad AS Monaco,50,Yann Lienard,21,France,Goalkeeper,€200k
+Squad AS Monaco,22,Mohammed Salisu,25,Ghana,Centre-Back,€15.00m
+Squad AS Monaco,3,Guillermo Maripán,29,Chile,Centre-Back,€10.00m
+Squad AS Monaco,88,Soungoutou Magassa,20,France,Centre-Back,€10.00m
+Squad AS Monaco,5,Thilo Kehrer,27,Germany,Centre-Back,€9.00m
+Squad AS Monaco,12,Caio Henrique,26,Brazil,Left-Back,€20.00m
+Squad AS Monaco,14,Ismail Jakobs,24,Senegal,Left-Back,€8.00m
+Squad AS Monaco,20,Kassoum Ouattara,19,France,Left-Back,€6.00m
+Squad AS Monaco,2,Vanderson,22,Brazil,Right-Back,€20.00m
+Squad AS Monaco,99,Wilfried Singo,23,Cote d'Ivoire,Right-Back,€20.00m
+Squad AS Monaco,4,Mohamed Camara,24,Mali,Defensive Midfield,€25.00m
+Squad AS Monaco,6,Denis Zakaria,27,Switzerland,Defensive Midfield,€25.00m
+Squad AS Monaco,19,Youssouf Fofana,25,France,Central Midfield,€28.00m
+Squad AS Monaco,37,Edan Diop,19,France,Central Midfield,€2.00m
+Squad AS Monaco,17,Aleksandr Golovin,27,Russia,Attacking Midfield,€30.00m
+Squad AS Monaco,7,Eliesse Ben Seghir,19,Morocco,Attacking Midfield,€15.00m
+Squad AS Monaco,21,Maghnes Akliouche,22,France,Attacking Midfield,€15.00m
+Squad AS Monaco,18,Takumi Minamino,29,Japan,Left Winger,€15.00m
+Squad AS Monaco,27,Krépin Diatta,25,Senegal,Right Winger,€12.00m
+Squad AS Monaco,29,Folarin Balogun,22,United States,Centre-Forward,€30.00m
+Squad AS Monaco,36,Breel Embolo,27,Switzerland,Centre-Forward,€12.00m
+Squad AS Monaco,10,Wissam Ben Yedder,33,France,Centre-Forward,€10.00m
+Squad Stade Rennais FC,1,Gauthier Gallon,30,France,Goalkeeper,€1.50m
+Squad Stade Rennais FC,30,Steve Mandanda,39,France,Goalkeeper,€1.00m
+Squad Stade Rennais FC,40,Geoffrey Lembet,35,Central African Republic,Goalkeeper,€150k
+Squad Stade Rennais FC,5,Arthur Theate,23,Belgium,Centre-Back,€20.00m
+Squad Stade Rennais FC,16,Jeanuël Belocian,19,France,Centre-Back,€10.00m
+Squad Stade Rennais FC,36,Alidu Seidu,23,Ghana,Centre-Back,€9.00m
+Squad Stade Rennais FC,23,Warmed Omari,23,France,Centre-Back,€8.00m
+Squad Stade Rennais FC,4,Christopher Wooh,22,Cameroon,Centre-Back,€6.00m
+Squad Stade Rennais FC,3,Adrien Truffert,22,France,Left-Back,€18.00m
+Squad Stade Rennais FC,43,Mahamadou Nagida,18,Cameroon,Left-Back,€500k
+Squad Stade Rennais FC,17,Guéla Doué,21,Cote d'Ivoire,Right-Back,€7.00m
+Squad Stade Rennais FC,6,Azor Matusiwa,25,Netherlands,Defensive Midfield,€13.00m
+Squad Stade Rennais FC,8,Baptiste Santamaria,29,France,Defensive Midfield,€12.00m
+Squad Stade Rennais FC,14,Benjamin Bourigeaud,30,France,Central Midfield,€18.00m
+Squad Stade Rennais FC,28,Enzo Le Fée,24,France,Attacking Midfield,€20.00m
+Squad Stade Rennais FC,33,Désiré Doué,18,France,Attacking Midfield,€20.00m
+Squad Stade Rennais FC,11,Ludovic Blas,26,France,Attacking Midfield,€18.00m
+Squad Stade Rennais FC,32,Fabian Rieder,22,Switzerland,Attacking Midfield,€10.00m
+Squad Stade Rennais FC,10,Amine Gouiri,24,Algeria,Left Winger,€28.00m
+Squad Stade Rennais FC,7,Martin Terrier,27,France,Left Winger,€25.00m
+Squad Stade Rennais FC,34,Ibrahim Salah,22,Morocco,Left Winger,€5.00m
+Squad Stade Rennais FC,9,Arnaud Kalimuendo,22,France,Centre-Forward,€20.00m
+Squad Stade Rennais FC,99,Bertuğ Yıldırım,21,Türkiye,Centre-Forward,€4.00m
+Squad Stade Rennais FC,39,Mathis Lambourde,18,France,Centre-Forward,€500k
+Squad OGC Nice,1,Marcin Bulka,24,Poland,Goalkeeper,€18.00m
+Squad OGC Nice,31,Maxime Dupé,31,France,Goalkeeper,€2.00m
+Squad OGC Nice,77,Teddy Boulhendi,23,Algeria,Goalkeeper,€150k
+Squad OGC Nice,6,Jean-Clair Todibo,24,France,Centre-Back,€35.00m
+Squad OGC Nice,4,Dante,40,Brazil,Centre-Back,€600k
+Squad OGC Nice,44,Amidou Doumbouya,16,France,Centre-Back,€500k
+Squad OGC Nice,34,Yannis Nahounou,19,France,Centre-Back,€150k
+Squad OGC Nice,26,Melvin Bard,23,France,Left-Back,€12.00m
+Squad OGC Nice,15,Romain Perraud,26,France,Left-Back,€6.00m
+Squad OGC Nice,23,Jordan Lotomba,25,Switzerland,Right-Back,€8.00m
+Squad OGC Nice,2,Valentin Rosier,27,France,Right-Back,€5.00m
+Squad OGC Nice,33,Antoine Mendy,19,France,Right-Back,€800k
+Squad OGC Nice,55,Youssouf Ndayishimiye,25,Burundi,Defensive Midfield,€18.00m
+Squad OGC Nice,8,Pablo Rosario,27,Netherlands,Defensive Midfield,€7.00m
+Squad OGC Nice,21,Alexis Beka Beka,23,France,Defensive Midfield,€2.00m
+Squad OGC Nice,19,Khéphren Thuram,23,France,Central Midfield,€35.00m
+Squad OGC Nice,28,Hicham Boudaoui,24,Algeria,Central Midfield,€9.00m
+Squad OGC Nice,11,Morgan Sanson,29,France,Central Midfield,€7.00m
+Squad OGC Nice,32,Tom Louchet,20,France,Central Midfield,€2.50m
+Squad OGC Nice,39,Daouda Traoré,17,France,Central Midfield,€100k
+Squad OGC Nice,18,Alexis Claude-Maurice,25,France,Attacking Midfield,€4.00m
+Squad OGC Nice,7,Jérémie Boga,27,Cote d'Ivoire,Left Winger,€15.00m
+Squad OGC Nice,10,Sofiane Diop,23,Morocco,Left Winger,€15.00m
+Squad OGC Nice,25,Mohamed-Ali Cho,20,France,Left Winger,€10.00m
+Squad OGC Nice,27,Aliou Baldé,21,Senegal,Left Winger,€1.00m
+Squad OGC Nice,9,Terem Moffi,24,Nigeria,Centre-Forward,€25.00m
+Squad OGC Nice,24,Gaëtan Laborde,29,France,Centre-Forward,€15.00m
+Squad OGC Nice,29,Evann Guessand,22,Cote d'Ivoire,Centre-Forward,€8.00m
+Squad LOSC Lille,30,Lucas Chevalier,22,France,Goalkeeper,€22.00m
+Squad LOSC Lille,1,Vito Mannone,36,Italy,Goalkeeper,€250k
+Squad LOSC Lille,16,Adam Jakubech,27,Slovakia,Goalkeeper,€250k
+Squad LOSC Lille,15,Leny Yoro,18,France,Centre-Back,€40.00m
+Squad LOSC Lille,4,Alexsandro,24,Brazil,Centre-Back,€7.00m
+Squad LOSC Lille,14,Samuel Umtiti,30,France,Centre-Back,€3.00m
+Squad LOSC Lille,28,Rafael Fernandes,21,Portugal,Centre-Back,€1.50m
+Squad LOSC Lille,5,Gabriel Gudmundsson,24,Sweden,Left-Back,€4.00m
+Squad LOSC Lille,31,Ismaily,34,Brazil,Left-Back,€2.00m
+Squad LOSC Lille,18,Bafodé Diakité,23,France,Right-Back,€15.00m
+Squad LOSC Lille,22,Tiago Santos,21,Portugal,Right-Back,€8.00m
+Squad LOSC Lille,6,Nabil Bentaleb,29,Algeria,Defensive Midfield,€8.00m
+Squad LOSC Lille,21,Benjamin André,33,France,Defensive Midfield,€8.00m
+Squad LOSC Lille,20,Ignacio Miramón,20,Argentina,Defensive Midfield,€3.00m
+Squad LOSC Lille,32,Ayyoub Bouaddi,16,France,Central Midfield,€5.00m
+Squad LOSC Lille,8,Angel Gomes,23,England,Attacking Midfield,€22.00m
+Squad LOSC Lille,12,Yusuf Yazıcı,27,Türkiye,Attacking Midfield,€10.00m
+Squad LOSC Lille,10,Rémy Cabella,34,France,Attacking Midfield,€4.00m
+Squad LOSC Lille,7,Hákon Arnar Haraldsson,21,Iceland,Left Winger,€8.00m
+Squad LOSC Lille,19,Tiago Morais,20,Portugal,Left Winger,€3.00m
+Squad LOSC Lille,17,Ivan Cavaleiro,30,Angola,Left Winger,€2.50m
+Squad LOSC Lille,23,Edon Zhegrova,25,Kosovo,Right Winger,€15.00m
+Squad LOSC Lille,11,Adam Ounas,27,Algeria,Right Winger,€5.00m
+Squad LOSC Lille,9,Jonathan David,24,Canada,Centre-Forward,€50.00m
+Squad LOSC Lille,24,Andrej Ilic,24,Serbia,Centre-Forward,€3.00m
+Squad Olympique Lyon,23,Lucas Perri,26,Brazil,Goalkeeper,€6.00m
+Squad Olympique Lyon,1,Anthony Lopes,33,Portugal,Goalkeeper,€5.00m
+Squad Olympique Lyon,30,Justin Bengui Joao,18,France,Goalkeeper,€300k
+Squad Olympique Lyon,12,Jake O'Brien,22,Ireland,Centre-Back,€9.00m
+Squad Olympique Lyon,55,Duje Caleta-Car,27,Croatia,Centre-Back,€7.00m
+Squad Olympique Lyon,2,Sinaly Diomandé,23,Cote d'Ivoire,Centre-Back,€5.00m
+Squad Olympique Lyon,14,Adryelson,26,Brazil,Centre-Back,€5.00m
+Squad Olympique Lyon,5,Dejan Lovren,34,Croatia,Centre-Back,€2.00m
+Squad Olympique Lyon,3,Nicolás Tagliafico,31,Argentina,Left-Back,€8.00m
+Squad Olympique Lyon,21,Henrique Silva,29,Brazil,Left-Back,€1.00m
+Squad Olympique Lyon,20,Saël Kumbedi,19,France,Right-Back,€9.00m
+Squad Olympique Lyon,22,Clinton Mata,31,Angola,Right-Back,€4.00m
+Squad Olympique Lyon,24,Johann Lepenant,21,France,Defensive Midfield,€7.00m
+Squad Olympique Lyon,31,Nemanja Matic,35,Serbia,Defensive Midfield,€3.50m
+Squad Olympique Lyon,4,Paul Akouokou,26,Cote d'Ivoire,Defensive Midfield,€2.00m
+Squad Olympique Lyon,25,Orel Mangala,26,Belgium,Central Midfield,€22.00m
+Squad Olympique Lyon,6,Maxence Caqueret,24,France,Central Midfield,€20.00m
+Squad Olympique Lyon,8,Corentin Tolisso,29,France,Central Midfield,€5.00m
+Squad Olympique Lyon,34,Mahamadou Diawara,19,France,Central Midfield,€3.00m
+Squad Olympique Lyon,84,Mohamed El Arouch,20,France,Central Midfield,€2.00m
+Squad Olympique Lyon,98,Ainsley Maitland-Niles,26,England,Right Midfield,€7.00m
+Squad Olympique Lyon,11,Malick Fofana,19,Belgium,Left Midfield,€12.00m
+Squad Olympique Lyon,18,Rayan Cherki,20,France,Attacking Midfield,€25.00m
+Squad Olympique Lyon,17,Saïd Benrahma,28,Algeria,Left Winger,€22.00m
+Squad Olympique Lyon,37,Ernest Nuamah,20,Ghana,Right Winger,€18.00m
+Squad Olympique Lyon,9,Gift Orban,21,Nigeria,Centre-Forward,€15.00m
+Squad Olympique Lyon,10,Alexandre Lacazette,32,France,Centre-Forward,€10.00m
+Squad Olympique Lyon,7,Mama Baldé,28,Guinea-Bissau,Centre-Forward,€4.00m
+Squad Olympique Marseille,16,Pau López,29,Spain,Goalkeeper,€10.00m
+Squad Olympique Marseille,36,Rubén Blanco,28,Spain,Goalkeeper,€2.50m
+Squad Olympique Marseille,1,Simon Ngapandouetnbu,21,Cameroon,Goalkeeper,€300k
+Squad Olympique Marseille,99,Chancel Mbemba,29,DR Congo,Centre-Back,€15.00m
+Squad Olympique Marseille,5,Leonardo Balerdi,25,Argentina,Centre-Back,€10.00m
+Squad Olympique Marseille,4,Samuel Gigot,30,France,Centre-Back,€9.00m
+Squad Olympique Marseille,18,Bamo Meïté,22,Cote d'Ivoire,Centre-Back,€5.00m
+Squad Olympique Marseille,3,Quentin Merlin,21,France,Left-Back,€10.00m
+Squad Olympique Marseille,6,Ulisses Garcia,28,Switzerland,Left-Back,€4.00m
+Squad Olympique Marseille,7,Jonathan Clauss,31,France,Right-Back,€15.00m
+Squad Olympique Marseille,62,Amir Murillo,28,Panama,Right-Back,€3.00m
+Squad Olympique Marseille,19,Geoffrey Kondogbia,31,Central African Republic,Defensive Midfield,€15.00m
+Squad Olympique Marseille,22,Pape Gueye,25,Senegal,Defensive Midfield,€6.00m
+Squad Olympique Marseille,17,Jean Onana,24,Cameroon,Defensive Midfield,€4.00m
+Squad Olympique Marseille,21,Valentin Rongier,29,France,Central Midfield,€15.00m
+Squad Olympique Marseille,27,Jordan Veretout,31,France,Central Midfield,€15.00m
+Squad Olympique Marseille,8,Azzedine Ounahi,23,Morocco,Central Midfield,€12.00m
+Squad Olympique Marseille,34,Bilal Nadir,20,Morocco,Central Midfield,€500k
+Squad Olympique Marseille,37,Emran Soglo,18,England,Left Midfield,€1.00m
+Squad Olympique Marseille,11,Amine Harit,26,Morocco,Attacking Midfield,€15.00m
+Squad Olympique Marseille,44,Luis Henrique,22,Brazil,Left Winger,€6.00m
+Squad Olympique Marseille,23,Ismaïla Sarr,26,Senegal,Right Winger,€20.00m
+Squad Olympique Marseille,20,Joaquín Correa,29,Argentina,Second Striker,€8.00m
+Squad Olympique Marseille,29,Iliman Ndiaye,24,Senegal,Centre-Forward,€18.00m
+Squad Olympique Marseille,14,Faris Moumbagna,23,Cameroon,Centre-Forward,€8.00m
+Squad Olympique Marseille,10,Pierre-Emerick Aubameyang,34,Gabon,Centre-Forward,€4.00m
+Squad RC Lens,30,Brice Samba,29,France,Goalkeeper,€15.00m
+Squad RC Lens,16,Jean-Louis Leca,38,France,Goalkeeper,€200k
+Squad RC Lens,40,Yannick Pandor,22,Comoros,Goalkeeper,€150k
+Squad RC Lens,4,Kevin Danso,25,Austria,Centre-Back,€25.00m
+Squad RC Lens,14,Facundo Medina,24,Argentina,Centre-Back,€25.00m
+Squad RC Lens,24,Jonathan Gradit,31,France,Centre-Back,€5.00m
+Squad RC Lens,25,Abdukodir Khusanov,20,Uzbekistan,Centre-Back,€2.00m
+Squad RC Lens,3,Deiver Machado,30,Colombia,Left-Back,€4.00m
+Squad RC Lens,21,Massadio Haidara,31,Mali,Left-Back,€2.50m
+Squad RC Lens,13,Jhoanner Chávez,21,Ecuador,Left-Back,€2.00m
+Squad RC Lens,2,Ruben Aguilar,30,France,Right-Back,€6.00m
+Squad RC Lens,6,Salis Abdul Samed,24,Ghana,Defensive Midfield,€12.00m
+Squad RC Lens,26,Nampalys Mendy,31,Senegal,Defensive Midfield,€3.00m
+Squad RC Lens,18,Andy Diouf,20,France,Central Midfield,€10.00m
+Squad RC Lens,23,Neil El Aynaoui,22,Morocco,Central Midfield,€8.00m
+Squad RC Lens,29,Przemyslaw Frankowski,29,Poland,Right Midfield,€9.00m
+Squad RC Lens,19,Jimmy Cabot,29,France,Right Midfield,€3.00m
+Squad RC Lens,10,David Pereira da Costa,23,Portugal,Attacking Midfield,€8.00m
+Squad RC Lens,11,Angelo Fulgini,27,France,Attacking Midfield,€8.00m
+Squad RC Lens,28,Adrien Thomasson,30,France,Attacking Midfield,€6.00m
+Squad RC Lens,32,Ayanda Sishuba,19,Belgium,Attacking Midfield,€500k
+Squad RC Lens,37,Nolan Bonte,20,France,Attacking Midfield,€100k
+Squad RC Lens,27,Morgan Guilavogui,26,Guinea,Right Winger,€3.50m
+Squad RC Lens,9,Elye Wahi,21,France,Centre-Forward,€35.00m
+Squad RC Lens,22,Wesley Saïd,28,France,Centre-Forward,€4.00m
+Squad RC Lens,7,Florian Sotoca,33,France,Centre-Forward,€3.50m
+Squad RC Lens,36,Ibrahima Baldé,21,France,Centre-Forward,€400k
+Squad RC Strasbourg Alsace,36,Alaa Bellaarouch,22,Morocco,Goalkeeper,€1.50m
+Squad RC Strasbourg Alsace,1,Matthieu Dreyer,35,France,Goalkeeper,€200k
+Squad RC Strasbourg Alsace,30,Alexandre Pierre,23,Haiti,Goalkeeper,€100k
+Squad RC Strasbourg Alsace,24,Abakar Sylla,21,Cote d'Ivoire,Centre-Back,€12.00m
+Squad RC Strasbourg Alsace,29,Ismaël Doukouré,20,France,Centre-Back,€12.00m
+Squad RC Strasbourg Alsace,5,Lucas Perrin,25,France,Centre-Back,€3.00m
+Squad RC Strasbourg Alsace,13,Saïdou Sow,21,Guinea,Centre-Back,€2.00m
+Squad RC Strasbourg Alsace,25,Steven Baseya,19,France,Centre-Back,€50k
+Squad RC Strasbourg Alsace,3,Thomas Delaine,32,France,Left-Back,€1.20m
+Squad RC Strasbourg Alsace,2,Frédéric Guilbert,29,France,Right-Back,€4.00m
+Squad RC Strasbourg Alsace,28,Marvin Senaya,23,France,Right-Back,€1.00m
+Squad RC Strasbourg Alsace,4,Karol Fila,25,Poland,Right-Back,€800k
+Squad RC Strasbourg Alsace,18,Junior Mwanga,20,France,Defensive Midfield,€7.00m
+Squad RC Strasbourg Alsace,27,Ibrahima Sissoko,26,Mali,Defensive Midfield,€5.00m
+Squad RC Strasbourg Alsace,6,Jean-Eudes Aholou,30,Cote d'Ivoire,Defensive Midfield,€1.00m
+Squad RC Strasbourg Alsace,8,Andrey Santos,19,Brazil,Central Midfield,€14.00m
+Squad RC Strasbourg Alsace,7,Jessy Deminguet,26,France,Central Midfield,€1.50m
+Squad RC Strasbourg Alsace,19,Habib Diarra,20,Senegal,Attacking Midfield,€18.00m
+Squad RC Strasbourg Alsace,26,Dilane Bakwa,21,France,Left Winger,€7.00m
+Squad RC Strasbourg Alsace,23,Ângelo,19,Brazil,Right Winger,€15.00m
+Squad RC Strasbourg Alsace,10,Emanuel Emegha,21,Netherlands,Centre-Forward,€12.00m
+Squad RC Strasbourg Alsace,11,Moïse Sahi Dion,22,Cote d'Ivoire,Centre-Forward,€2.00m
+Squad RC Strasbourg Alsace,12,Lebo Mothiba,28,South Africa,Centre-Forward,€1.50m
+Squad RC Strasbourg Alsace,9,Kévin Gameiro,36,France,Centre-Forward,€800k
+Squad Stade Reims,94,Yehvann Diouf,24,France,Goalkeeper,€10.00m
+Squad Stade Reims,96,Alexandre Olliero,28,France,Goalkeeper,€500k
+Squad Stade Reims,16,Ludovic Butelle,41,France,Goalkeeper,€100k
+Squad Stade Reims,2,Joseph Okumu,26,Kenya,Centre-Back,€9.00m
+Squad Stade Reims,24,Emmanuel Agbadou,26,Cote d'Ivoire,Centre-Back,€9.00m
+Squad Stade Reims,5,Yunis Abdelhamid,36,Morocco,Centre-Back,€700k
+Squad Stade Reims,18,Sergio Akieme,26,Spain,Left-Back,€8.00m
+Squad Stade Reims,25,Thibault De Smet,25,Belgium,Left-Back,€4.00m
+Squad Stade Reims,32,Thomas Foket,29,Belgium,Right-Back,€7.00m
+Squad Stade Reims,4,Maxime Busi,24,Belgium,Right-Back,€2.00m
+Squad Stade Reims,45,Thérence Koudou,19,France,Right-Back,€600k
+Squad Stade Reims,6,Valentin Atangana,18,France,Defensive Midfield,€800k
+Squad Stade Reims,26,Benjamin Stambouli,33,France,Defensive Midfield,€800k
+Squad Stade Reims,15,Marshall Munetsi,27,Zimbabwe,Central Midfield,€12.00m
+Squad Stade Reims,10,Teddy Teuma,30,Malta,Central Midfield,€7.00m
+Squad Stade Reims,8,Amir Richardson,22,Morocco,Central Midfield,€6.00m
+Squad Stade Reims,14,Reda Khadra,22,Germany,Attacking Midfield,€3.00m
+Squad Stade Reims,72,Amadou Koné,18,Cote d'Ivoire,Attacking Midfield,€400k
+Squad Stade Reims,9,Mohamed Daramy,22,Denmark,Left Winger,€10.00m
+Squad Stade Reims,17,Keito Nakamura,23,Japan,Left Winger,€10.00m
+Squad Stade Reims,67,Mamadou Diakhon,18,France,Left Winger,€700k
+Squad Stade Reims,7,Junya Ito,31,Japan,Right Winger,€10.00m
+Squad Stade Reims,22,Oumar Diakité,20,Cote d'Ivoire,Centre-Forward,€6.00m
+Squad Stade Reims,27,Adama Bojang,19,The Gambia,Centre-Forward,€500k
+Squad FC Lorient,38,Yvon Mvogo,29,Switzerland,Goalkeeper,€3.50m
+Squad FC Lorient,1,Alfred Gomis,30,Senegal,Goalkeeper,€1.50m
+Squad FC Lorient,94,Dominique Youfeigane,24,Central African Republic,Goalkeeper,€250k
+Squad FC Lorient,3,Montassar Talbi,25,Tunisia,Centre-Back,€8.00m
+Squad FC Lorient,95,Isaak Touré,21,France,Centre-Back,€8.00m
+Squad FC Lorient,13,Formose Mendy,23,Senegal,Centre-Back,€5.00m
+Squad FC Lorient,32,Nathaniel Adjei,21,Ghana,Centre-Back,€2.50m
+Squad FC Lorient,15,Julien Laporte,30,France,Centre-Back,€2.00m
+Squad FC Lorient,4,Loris Mouyokolo,22,France,Centre-Back,€400k
+Squad FC Lorient,5,Benjamin Mendy,29,France,Left-Back,€2.00m
+Squad FC Lorient,12,Darlin Yongwa,23,Cameroon,Left-Back,€1.50m
+Squad FC Lorient,24,Gédéon Kalulu,26,DR Congo,Right-Back,€4.00m
+Squad FC Lorient,7,Panos Katseris,22,Greece,Right-Back,€2.50m
+Squad FC Lorient,2,Igor Silva,27,Brazil,Right-Back,€1.20m
+Squad FC Lorient,19,Laurent Abergel,31,France,Defensive Midfield,€3.00m
+Squad FC Lorient,14,Tiemoué Bakayoko,29,France,Defensive Midfield,€2.00m
+Squad FC Lorient,8,Bonke Innocent,28,Nigeria,Defensive Midfield,€1.50m
+Squad FC Lorient,17,Jean-Victor Makengo,25,France,Central Midfield,€8.00m
+Squad FC Lorient,6,Imrân Louza,24,Morocco,Central Midfield,€7.00m
+Squad FC Lorient,44,Ayman Kari,19,France,Central Midfield,€2.50m
+Squad FC Lorient,37,Théo Le Bris,21,France,Left Midfield,€2.50m
+Squad FC Lorient,22,Eli Junior Kroupi,17,France,Attacking Midfield,€15.00m
+Squad FC Lorient,21,Julien Ponceau,23,France,Attacking Midfield,€3.00m
+Squad FC Lorient,97,Quentin Boisgard,27,France,Attacking Midfield,€900k
+Squad FC Lorient,10,Badredine Bouanani,19,Algeria,Right Winger,€5.00m
+Squad FC Lorient,9,Mohamed Bamba,22,Cote d'Ivoire,Centre-Forward,€5.00m
+Squad FC Lorient,11,Bamba Dieng,24,Senegal,Centre-Forward,€5.00m
+Squad FC Lorient,27,Aiyegun Tosin,25,Benin,Centre-Forward,€3.50m
+Squad FC Toulouse,50,Guillaume Restes,19,France,Goalkeeper,€12.00m
+Squad FC Toulouse,30,Álex Domínguez,25,Spain,Goalkeeper,€300k
+Squad FC Toulouse,1,Thomas Himeur,23,France,Goalkeeper,€150k
+Squad FC Toulouse,40,Justin Lacombe,21,France,Goalkeeper,€100k
+Squad FC Toulouse,6,Logan Costa,23,Cape Verde,Centre-Back,€8.00m
+Squad FC Toulouse,13,Christian Mawissa,18,France,Centre-Back,€7.00m
+Squad FC Toulouse,2,Rasmus Nicolaisen,27,Denmark,Centre-Back,€6.00m
+Squad FC Toulouse,23,Moussa Diarra,23,Mali,Centre-Back,€1.50m
+Squad FC Toulouse,25,Kévin Keben,20,Cameroon,Centre-Back,€400k
+Squad FC Toulouse,17,Gabriel Suazo,26,Chile,Left-Back,€3.00m
+Squad FC Toulouse,26,Ylies Aradj,18,France,Left-Back,€50k
+Squad FC Toulouse,3,Mikkel Desler,29,Denmark,Right-Back,€3.00m
+Squad FC Toulouse,12,Warren Kamanzi,23,Norway,Right-Back,€1.50m
+Squad FC Toulouse,4,Stijn Spierings,28,Netherlands,Defensive Midfield,€5.00m
+Squad FC Toulouse,24,Cristian Cásseres Jr.,24,Venezuela,Central Midfield,€3.50m
+Squad FC Toulouse,8,Vincent Sierro,28,Switzerland,Central Midfield,€3.00m
+Squad FC Toulouse,37,Yann Gboho,23,France,Attacking Midfield,€3.50m
+Squad FC Toulouse,20,Niklas Schmidt,26,Germany,Attacking Midfield,€3.00m
+Squad FC Toulouse,5,Denis Genreau,24,Australia,Attacking Midfield,€2.00m
+Squad FC Toulouse,11,César Gelabert,23,Spain,Attacking Midfield,€1.50m
+Squad FC Toulouse,22,Naatan Skyttä,21,Finland,Attacking Midfield,€400k
+Squad FC Toulouse,10,Ibrahim Cissoko,21,Netherlands,Left Winger,€2.00m
+Squad FC Toulouse,7,Zakaria Aboukhlal,24,Morocco,Right Winger,€10.00m
+Squad FC Toulouse,15,Aron Dønnum,25,Norway,Right Winger,€3.50m
+Squad FC Toulouse,80,Shavy Babicka,23,Gabon,Right Winger,€2.00m
+Squad FC Toulouse,9,Thijs Dallinga,23,Netherlands,Centre-Forward,€15.00m
+Squad FC Toulouse,19,Frank Magri,24,Cameroon,Centre-Forward,€3.00m
+Squad Stade Brestois 29,40,Marco Bizot,33,Netherlands,Goalkeeper,€4.00m
+Squad Stade Brestois 29,30,Grégoire Coudert,25,France,Goalkeeper,€400k
+Squad Stade Brestois 29,16,Yan Marillat,29,France,Goalkeeper,€200k
+Squad Stade Brestois 29,3,Lilian Brassier,24,France,Centre-Back,€10.00m
+Squad Stade Brestois 29,5,Brendan Chardonnet,29,France,Centre-Back,€8.00m
+Squad Stade Brestois 29,25,Julien Le Cardinal,26,France,Centre-Back,€1.50m
+Squad Stade Brestois 29,2,Bradley Locko,21,France,Left-Back,€10.00m
+Squad Stade Brestois 29,19,Jordan Amavi,30,France,Left-Back,€1.50m
+Squad Stade Brestois 29,18,Antonin Cartillier,19,France,Left-Back,€200k
+Squad Stade Brestois 29,27,Kenny Lala,32,France,Right-Back,€3.00m
+Squad Stade Brestois 29,12,Luck Zogbé,19,Cote d'Ivoire,Right-Back,€100k
+Squad Stade Brestois 29,20,Pierre Lees-Melou,30,France,Defensive Midfield,€10.00m
+Squad Stade Brestois 29,28,Jonas Martin,34,France,Defensive Midfield,€1.20m
+Squad Stade Brestois 29,45,Mahdi Camara,25,France,Central Midfield,€9.00m
+Squad Stade Brestois 29,8,Hugo Magnetti,25,France,Central Midfield,€6.00m
+Squad Stade Brestois 29,11,Axel Camblan,20,France,Left Midfield,€600k
+Squad Stade Brestois 29,23,Kamory Doumbia,21,Mali,Attacking Midfield,€3.00m
+Squad Stade Brestois 29,22,Jérémy Le Douaron,25,France,Left Winger,€5.00m
+Squad Stade Brestois 29,21,Billal Brahimi,24,Algeria,Left Winger,€4.00m
+Squad Stade Brestois 29,26,Mathias Pereira Lage,27,France,Left Winger,€2.00m
+Squad Stade Brestois 29,14,Adrien Lebeau,24,France,Left Winger,€300k
+Squad Stade Brestois 29,10,Romain Del Castillo,28,France,Right Winger,€9.00m
+Squad Stade Brestois 29,7,Martín Satriano,23,Uruguay,Centre-Forward,€6.00m
+Squad Stade Brestois 29,9,Steve Mounié,29,Benin,Centre-Forward,€5.00m
+Squad Montpellier HSC,40,Benjamin Lecomte,32,France,Goalkeeper,€4.00m
+Squad Montpellier HSC,16,Dimitry Bertaud,25,DR Congo,Goalkeeper,€1.20m
+Squad Montpellier HSC,1,Belmin Dizdarevic,22,Bosnia-Herzegovina,Goalkeeper,€200k
+Squad Montpellier HSC,4,Kiki Kouyaté,27,Mali,Centre-Back,€5.00m
+Squad Montpellier HSC,27,Becir Omeragic,22,Switzerland,Centre-Back,€5.00m
+Squad Montpellier HSC,5,Modibo Sagnan,25,Mali,Centre-Back,€3.00m
+Squad Montpellier HSC,6,Christopher Jullien,31,France,Centre-Back,€3.00m
+Squad Montpellier HSC,3,Issiaga Sylla,30,Guinea,Left-Back,€2.50m
+Squad Montpellier HSC,17,Théo Sainte-Luce,25,France,Left-Back,€1.50m
+Squad Montpellier HSC,-,Lucas Mincarelli,20,France,Left-Back,€600k
+Squad Montpellier HSC,77,Falaye Sacko,28,Mali,Right-Back,€4.00m
+Squad Montpellier HSC,29,Enzo Tchato,21,Cameroon,Right-Back,€2.50m
+Squad Montpellier HSC,36,Silvan Hefti,26,Switzerland,Right-Back,€2.50m
+Squad Montpellier HSC,13,Joris Chotard,22,France,Defensive Midfield,€10.00m
+Squad Montpellier HSC,12,Jordan Ferri,32,France,Central Midfield,€5.00m
+Squad Montpellier HSC,22,Khalil Fayad,19,France,Central Midfield,€5.00m
+Squad Montpellier HSC,18,Léo Leroy,24,France,Central Midfield,€1.20m
+Squad Montpellier HSC,11,Téji Savanier,32,France,Attacking Midfield,€9.00m
+Squad Montpellier HSC,19,Sacha Delaye,21,France,Attacking Midfield,€400k
+Squad Montpellier HSC,23,Yann Karamoh,25,France,Left Winger,€3.00m
+Squad Montpellier HSC,10,Wahbi Khazri,33,Tunisia,Left Winger,€2.00m
+Squad Montpellier HSC,7,Arnaud Nordin,25,France,Right Winger,€7.00m
+Squad Montpellier HSC,9,Mousa Tamari,26,Jordan,Right Winger,€7.00m
+Squad Montpellier HSC,70,Tanguy Coulibaly,23,France,Right Winger,€2.00m
+Squad Montpellier HSC,8,Akor Adams,24,Nigeria,Centre-Forward,€12.00m
+Squad FC Nantes,1,Alban Lafont,25,France,Goalkeeper,€10.00m
+Squad FC Nantes,16,Rémy Descamps,27,France,Goalkeeper,€1.50m
+Squad FC Nantes,30,Denis Petric,35,Slovenia,Goalkeeper,€150k
+Squad FC Nantes,44,Nathan Zeze,18,France,Centre-Back,€5.00m
+Squad FC Nantes,24,Eray Cömert,26,Switzerland,Centre-Back,€4.00m
+Squad FC Nantes,2,Jean-Kévin Duverne,26,Haiti,Centre-Back,€3.50m
+Squad FC Nantes,21,Jean-Charles Castelletto,29,Cameroon,Centre-Back,€3.50m
+Squad FC Nantes,45,Bastien Meupiyou,18,France,Centre-Back,€1.00m
+Squad FC Nantes,4,Nicolas Pallois,36,France,Centre-Back,€800k
+Squad FC Nantes,3,Nicolas Cozza,25,France,Left-Back,€3.50m
+Squad FC Nantes,98,Kelvin Amian,26,France,Right-Back,€2.50m
+Squad FC Nantes,5,Pedro Chirivella,26,Spain,Defensive Midfield,€7.00m
+Squad FC Nantes,6,Douglas Augusto,27,Brazil,Central Midfield,€6.00m
+Squad FC Nantes,8,Samuel Moutoussamy,27,DR Congo,Central Midfield,€4.00m
+Squad FC Nantes,17,Moussa Sissoko,34,France,Central Midfield,€1.20m
+Squad FC Nantes,25,Florent Mollet,32,France,Attacking Midfield,€2.00m
+Squad FC Nantes,27,Moses Simon,28,Nigeria,Left Winger,€12.00m
+Squad FC Nantes,23,Stredair Appuah,19,France,Left Winger,€600k
+Squad FC Nantes,11,Marcus Coco,27,Guadeloupe,Right Winger,€1.50m
+Squad FC Nantes,12,Abdoul Kader Bamba,29,France,Right Winger,€900k
+Squad FC Nantes,31,Mostafa Mohamed,26,Egypt,Centre-Forward,€10.00m
+Squad FC Nantes,39,Matthis Abline,21,France,Centre-Forward,€4.00m
+Squad FC Nantes,77,Bénie Traoré,21,Cote d'Ivoire,Centre-Forward,€4.00m
+Squad FC Nantes,7,Ignatius Ganago,25,Cameroon,Centre-Forward,€3.50m
+Squad FC Nantes,15,Tino Kadewere,28,Zimbabwe,Centre-Forward,€2.50m
+Squad Le Havre AC,30,Arthur Desmas,30,France,Goalkeeper,€2.50m
+Squad Le Havre AC,1,Mathieu Gorgelin,33,France,Goalkeeper,€200k
+Squad Le Havre AC,93,Arouna Sangante,22,Senegal,Centre-Back,€10.00m
+Squad Le Havre AC,6,Étienne Youté Kinkoué,22,France,Centre-Back,€5.00m
+Squad Le Havre AC,4,Gautier Lloris,28,France,Centre-Back,€3.00m
+Squad Le Havre AC,22,Yoann Salmier,31,French Guiana,Centre-Back,€1.50m
+Squad Le Havre AC,27,Christopher Operi,26,Cote d'Ivoire,Left-Back,€2.50m
+Squad Le Havre AC,24,Cheick Doumbia,19,France,Left-Back,€100k
+Squad Le Havre AC,7,Loïc Nego,33,Hungary,Right-Back,€1.00m
+Squad Le Havre AC,17,Oualid El Hajjam,33,Morocco,Right-Back,€900k
+Squad Le Havre AC,94,Abdoulaye Touré,30,Guinea,Defensive Midfield,€2.50m
+Squad Le Havre AC,25,Aloïs Confais,27,France,Defensive Midfield,€300k
+Squad Le Havre AC,14,Daler Kuzyaev,31,Russia,Central Midfield,€9.00m
+Squad Le Havre AC,8,Yassine Kechta,22,Morocco,Central Midfield,€4.00m
+Squad Le Havre AC,19,Rassoul Ndiaye,22,Senegal,Central Midfield,€3.00m
+Squad Le Havre AC,5,Oussama Targhalline,21,Morocco,Central Midfield,€1.00m
+Squad Le Havre AC,28,André Ayew,34,Ghana,Left Winger,€1.20m
+Squad Le Havre AC,23,Josué Casimir,22,Guadeloupe,Right Winger,€2.50m
+Squad Le Havre AC,29,Samuel Grandsir,27,France,Right Winger,€1.80m
+Squad Le Havre AC,11,Emmanuel Sabbi,26,United States,Right Winger,€1.20m
+Squad Le Havre AC,9,Mohamed Bayo,25,Guinea,Centre-Forward,€6.00m
+Squad Le Havre AC,21,Antoine Joujou,21,France,Centre-Forward,€1.20m
+Squad Le Havre AC,20,Andy Logbo,19,France,Centre-Forward,€800k
+Squad Le Havre AC,13,Steve Ngoura,19,France,Centre-Forward,€300k
+Squad Clermont Foot 63,99,Mory Diaw,30,Senegal,Goalkeeper,€2.00m
+Squad Clermont Foot 63,1,Massamba N'Diaye,22,Senegal,Goalkeeper,€500k
+Squad Clermont Foot 63,16,Théo Borne,21,France,Goalkeeper,€100k
+Squad Clermont Foot 63,4,Chrislain Matsima,21,France,Centre-Back,€7.00m
+Squad Clermont Foot 63,17,Andy Pelmard,24,France,Centre-Back,€3.50m
+Squad Clermont Foot 63,5,Maximiliano Caufriez,27,Belgium,Centre-Back,€3.00m
+Squad Clermont Foot 63,21,Florent Ogier,35,France,Centre-Back,€400k
+Squad Clermont Foot 63,97,Jérémy Jacquet,18,France,Centre-Back,€300k
+Squad Clermont Foot 63,3,Neto Borges,27,Brazil,Left-Back,€3.50m
+Squad Clermont Foot 63,22,Yoël Armougom,25,France,Left-Back,€300k
+Squad Clermont Foot 63,15,Cheick Oumar Konaté,20,Mali,Right-Back,€1.50m
+Squad Clermont Foot 63,2,Mehdi Zeffane,31,Algeria,Right-Back,€600k
+Squad Clermont Foot 63,7,Yohann Magnin,26,France,Defensive Midfield,€2.00m
+Squad Clermont Foot 63,12,Maxime Gonalons,35,France,Defensive Midfield,€800k
+Squad Clermont Foot 63,25,Johan Gastien,36,France,Defensive Midfield,€600k
+Squad Clermont Foot 63,6,Habib Keïta,22,Mali,Central Midfield,€800k
+Squad Clermont Foot 63,10,Muhammed Cham,23,Austria,Attacking Midfield,€6.00m
+Squad Clermont Foot 63,26,Alan Virginius,21,France,Left Winger,€3.50m
+Squad Clermont Foot 63,18,Elbasan Rashani,30,Kosovo,Left Winger,€1.80m
+Squad Clermont Foot 63,91,Jérémie Bela,31,Angola,Left Winger,€800k
+Squad Clermont Foot 63,8,Bilal Boutobba,25,France,Right Winger,€2.00m
+Squad Clermont Foot 63,11,Jim Allevinah,29,Gabon,Right Winger,€2.00m
+Squad Clermont Foot 63,23,Shamar Nicholson,27,Jamaica,Centre-Forward,€6.00m
+Squad Clermont Foot 63,95,Grejohn Kyei,28,France,Centre-Forward,€1.80m
+Squad Clermont Foot 63,9,Komnen Andric,28,Serbia,Centre-Forward,€1.20m
+Squad FC Metz,1,Guillaume Dietsch,23,France,Goalkeeper,€700k
+Squad FC Metz,16,Alexandre Oukidja,35,Algeria,Goalkeeper,€500k
+Squad FC Metz,30,Marc-Aurèle Caillard,29,France,Goalkeeper,€300k
+Squad FC Metz,5,Fali Candé,26,Guinea-Bissau,Centre-Back,€2.50m
+Squad FC Metz,29,Christophe Hérelle,31,Martinique,Centre-Back,€1.80m
+Squad FC Metz,8,Ismaël Traoré,37,Cote d'Ivoire,Centre-Back,€300k
+Squad FC Metz,15,Abou Lo,24,Senegal,Centre-Back,€250k
+Squad FC Metz,38,Sadibou Sané,19,Senegal,Centre-Back,€200k
+Squad FC Metz,3,Matthieu Udol,28,France,Left-Back,€2.50m
+Squad FC Metz,22,Kevin Van Den Kerkhof,28,Algeria,Right-Back,€3.00m
+Squad FC Metz,39,Koffi Kouao,25,Cote d'Ivoire,Right-Back,€1.50m
+Squad FC Metz,2,Maxime Colin,32,France,Right-Back,€1.00m
+Squad FC Metz,27,Danley Jean Jacques,23,Haiti,Defensive Midfield,€2.00m
+Squad FC Metz,6,Kévin N'Doram,28,France,Defensive Midfield,€1.50m
+Squad FC Metz,25,Arthur Atta,21,France,Defensive Midfield,€500k
+Squad FC Metz,12,Warren Tchimbembé,25,Congo,Defensive Midfield,€400k
+Squad FC Metz,18,Lamine Camara,20,Senegal,Central Midfield,€8.00m
+Squad FC Metz,34,Joseph Nduquidi,19,France,Central Midfield,€700k
+Squad FC Metz,14,Cheikh Sabaly,25,Senegal,Left Winger,€2.00m
+Squad FC Metz,11,Didier Lamkel Zé,27,Cameroon,Left Winger,€1.10m
+Squad FC Metz,-,Maïdine Douane,21,Algeria,Left Winger,€300k
+Squad FC Metz,7,Papa Amadou Diallo,19,Senegal,Left Winger,€250k
+Squad FC Metz,36,Ablie Jallow,25,The Gambia,Right Winger,€2.00m
+Squad FC Metz,99,Joel Asoro,24,Sweden,Right Winger,€1.50m
+Squad FC Metz,26,Malick Mbaye,20,Senegal,Right Winger,€500k
+Squad FC Metz,10,Georges Mikautadze,23,Georgia,Centre-Forward,€9.00m
+Squad FC Metz,17,Benjamin Tetteh,26,Ghana,Centre-Forward,€1.20m
+Squad FC Metz,37,Ibou Sané,19,Senegal,Centre-Forward,€200k
+Squad AS Saint-Étienne,30,Gautier Larsonneur,27,France,Goalkeeper,€3.50m
+Squad AS Saint-Étienne,42,Etienne Green,23,England,Goalkeeper,€800k
+Squad AS Saint-Étienne,16,Boubacar Fall,23,Senegal,Goalkeeper,€150k
+Squad AS Saint-Étienne,21,Dylan Batubinsika,28,DR Congo,Centre-Back,€1.50m
+Squad AS Saint-Étienne,23,Anthony Briançon,29,France,Centre-Back,€1.50m
+Squad AS Saint-Étienne,3,Mickaël Nade,25,France,Centre-Back,€800k
+Squad AS Saint-Étienne,19,Léo Pétrot,27,France,Centre-Back,€800k
+Squad AS Saint-Étienne,13,Mahmoud Bentayg,24,Morocco,Left-Back,€400k
+Squad AS Saint-Étienne,27,Yvann Maçon,25,France,Right-Back,€2.00m
+Squad AS Saint-Étienne,8,Dennis Appiah,31,France,Right-Back,€1.00m
+Squad AS Saint-Étienne,26,Lamine Fomba,26,France,Defensive Midfield,€1.50m
+Squad AS Saint-Étienne,7,Thomas Monconduit,33,France,Defensive Midfield,€500k
+Squad AS Saint-Étienne,6,Benjamin Bouchouari,22,Morocco,Central Midfield,€3.00m
+Squad AS Saint-Étienne,29,Aimen Moueffek,23,Morocco,Central Midfield,€1.50m
+Squad AS Saint-Étienne,5,Florian Tardieu,31,France,Central Midfield,€1.20m
+Squad AS Saint-Étienne,14,Dylan Chambost,26,France,Attacking Midfield,€800k
+Squad AS Saint-Étienne,34,Antoine Gauthier,19,France,Attacking Midfield,€100k
+Squad AS Saint-Étienne,10,Nathanaël Mbuku,22,France,Left Winger,€1.50m
+Squad AS Saint-Étienne,18,Mathieu Cafaro,27,France,Right Winger,€2.50m
+Squad AS Saint-Étienne,17,Stéphane Diarra,25,Cote d'Ivoire,Right Winger,€1.50m
+Squad AS Saint-Étienne,20,Maxence Rivera,21,France,Right Winger,€300k
+Squad AS Saint-Étienne,9,Ibrahim Sissoko,28,Mali,Centre-Forward,€2.50m
+Squad AS Saint-Étienne,11,Irvin Cardona,26,France,Centre-Forward,€1.80m
+Squad AS Saint-Étienne,25,Ibrahima Wadji,28,Senegal,Centre-Forward,€1.00m
+Squad ESTAC Troyes,38,Doğan Alemdar,21,Türkiye,Goalkeeper,€3.00m
+Squad ESTAC Troyes,16,Nicolas Lemaître,27,France,Goalkeeper,€500k
+Squad ESTAC Troyes,30,Zacharie Boucher,32,France,Goalkeeper,€200k
+Squad ESTAC Troyes,1,Corentin Michel,24,Belgium,Goalkeeper,€100k
+Squad ESTAC Troyes,3,Abdoulaye Ndiaye,22,Senegal,Centre-Back,€3.00m
+Squad ESTAC Troyes,22,Tanguy Zoukrou,20,France,Centre-Back,€1.50m
+Squad ESTAC Troyes,4,Emmanuel Ntim,28,Ghana,Centre-Back,€700k
+Squad ESTAC Troyes,5,Mehdi Tahrat,34,Algeria,Centre-Back,€300k
+Squad ESTAC Troyes,36,Rudy Kohon,19,France,Centre-Back,€300k
+Squad ESTAC Troyes,37,Eric N'Jo,19,France,Centre-Back,€100k
+Squad ESTAC Troyes,12,Abdu Conté,26,Portugal,Left-Back,€1.20m
+Squad ESTAC Troyes,8,Ismaël Boura,23,Comoros,Left-Back,€1.00m
+Squad ESTAC Troyes,32,Mathis Hamdi,20,France,Left-Back,€150k
+Squad ESTAC Troyes,18,Thierno Baldé,21,France,Right-Back,€3.00m
+Squad ESTAC Troyes,19,Andreas Bruus,25,Denmark,Right-Back,€1.00m
+Squad ESTAC Troyes,42,Abdoulaye Kanté,18,Cote d'Ivoire,Defensive Midfield,€800k
+Squad ESTAC Troyes,24,Xavier Chavalerin,33,France,Central Midfield,€1.20m
+Squad ESTAC Troyes,15,Ante Palaversa,24,Croatia,Central Midfield,€400k
+Squad ESTAC Troyes,31,Danel Dongmo,23,Cameroon,Central Midfield,€100k
+Squad ESTAC Troyes,21,Luka Ilic,24,Serbia,Attacking Midfield,€2.00m
+Squad ESTAC Troyes,28,Mouhamed Diop,23,Senegal,Attacking Midfield,€800k
+Squad ESTAC Troyes,10,Youssouf M'Changama,33,Comoros,Attacking Midfield,€400k
+Squad ESTAC Troyes,23,Junior Olaitan,21,Benin,Attacking Midfield,€400k
+Squad ESTAC Troyes,11,Rafiki Saïd,24,Comoros,Left Winger,€1.50m
+Squad ESTAC Troyes,20,Renaud Ripart,31,France,Right Winger,€1.20m
+Squad ESTAC Troyes,27,Kyliane Dong,19,France,Right Winger,€1.00m
+Squad ESTAC Troyes,7,Mamady Bangré,22,Burkina Faso,Right Winger,€900k
+Squad ESTAC Troyes,14,Simon Elisor,24,France,Centre-Forward,€1.20m
+Squad ESTAC Troyes,40,Jaurès Assoumou,21,Cote d'Ivoire,Centre-Forward,€600k
+Squad ESTAC Troyes,17,Nicolas de Préville,33,France,Centre-Forward,€300k
+Squad AJ Auxerre,16,Donovan Léon,31,French Guiana,Goalkeeper,€500k
+Squad AJ Auxerre,30,Sonny Laiton,24,Madagascar,Goalkeeper,€250k
+Squad AJ Auxerre,40,Théo De Percin,23,Martinique,Goalkeeper,€100k
+Squad AJ Auxerre,37,Raphaël Adiceam,33,France,Goalkeeper,€50k
+Squad AJ Auxerre,4,Jubal,30,Brazil,Centre-Back,€2.00m
+Squad AJ Auxerre,5,Théo Pellenard,30,France,Centre-Back,€1.00m
+Squad AJ Auxerre,6,Saad Agouzoul,26,Morocco,Centre-Back,€800k
+Squad AJ Auxerre,14,Gideon Mensah,25,Ghana,Left-Back,€2.50m
+Squad AJ Auxerre,13,Clément Akpa,22,Cote d'Ivoire,Left-Back,€600k
+Squad AJ Auxerre,2,Colin Dagba,25,France,Right-Back,€1.50m
+Squad AJ Auxerre,26,Paul Joly,23,France,Right-Back,€1.50m
+Squad AJ Auxerre,24,Ange Loïc N’Gatta,20,France,Right-Back,€150k
+Squad AJ Auxerre,42,Elisha Owusu,26,Ghana,Defensive Midfield,€2.50m
+Squad AJ Auxerre,97,Rayan Raveloson,27,Madagascar,Defensive Midfield,€1.80m
+Squad AJ Auxerre,18,Assane Dioussé,26,Senegal,Defensive Midfield,€900k
+Squad AJ Auxerre,8,Nathan Buayi-Kiala,20,France,Central Midfield,€200k
+Squad AJ Auxerre,10,Gaëtan Perrin,27,France,Right Midfield,€2.50m
+Squad AJ Auxerre,35,Kévin Danois,19,France,Attacking Midfield,€50k
+Squad AJ Auxerre,75,Issa Soumaré,23,Senegal,Left Winger,€900k
+Squad AJ Auxerre,7,Gauthier Hein,27,France,Right Winger,€2.50m
+Squad AJ Auxerre,17,Lassine Sinayoko,24,Mali,Right Winger,€2.00m
+Squad AJ Auxerre,11,Eros Maddy,23,Netherlands,Right Winger,€250k
+Squad AJ Auxerre,19,Florian Ayé,27,France,Centre-Forward,€1.80m
+Squad AJ Auxerre,45,Ado Onaiwu,28,Japan,Centre-Forward,€1.50m
+Squad AJ Auxerre,22,Tidiane Diawara,18,France,Centre-Forward,€50k
+Squad FC Girondins Bordeaux,13,Rafal Straczek,25,Poland,Goalkeeper,€600k
+Squad FC Girondins Bordeaux,1,Karl-Johan Johnsson,34,Sweden,Goalkeeper,€400k
+Squad FC Girondins Bordeaux,97,Davy Rouyard,24,Guadeloupe,Goalkeeper,€100k
+Squad FC Girondins Bordeaux,40,Alane Bedfian,18,France,Goalkeeper,€50k
+Squad FC Girondins Bordeaux,99,Grégoire Swiderski,18,Canada,Goalkeeper,€50k
+Squad FC Girondins Bordeaux,5,Yoann Barbet,30,France,Centre-Back,€1.80m
+Squad FC Girondins Bordeaux,24,Jean Marcelin,24,France,Centre-Back,€1.00m
+Squad FC Girondins Bordeaux,14,Vital Nsimba,30,DR Congo,Left-Back,€1.50m
+Squad FC Girondins Bordeaux,19,Jacques Ekomié,20,Gabon,Left-Back,€800k
+Squad FC Girondins Bordeaux,4,Malcom Bokele,24,Cameroon,Right-Back,€1.80m
+Squad FC Girondins Bordeaux,34,Clément Michelin,26,France,Right-Back,€1.20m
+Squad FC Girondins Bordeaux,18,Emmanuel Biumla,18,France,Defensive Midfield,€400k
+Squad FC Girondins Bordeaux,72,Yohan Cassubie,23,France,Defensive Midfield,€400k
+Squad FC Girondins Bordeaux,26,Emeric Depussay,22,France,Defensive Midfield,€200k
+Squad FC Girondins Bordeaux,20,Pedro Díaz,25,Spain,Central Midfield,€2.00m
+Squad FC Girondins Bordeaux,6,Danylo Ignatenko,27,Ukraine,Central Midfield,€1.50m
+Squad FC Girondins Bordeaux,8,Issouf Sissokho,22,Mali,Central Midfield,€800k
+Squad FC Girondins Bordeaux,22,Mathias De Amorim,19,Portugal,Central Midfield,€200k
+Squad FC Girondins Bordeaux,29,Lenny Pirringuel,20,Benin,Central Midfield,€200k
+Squad FC Girondins Bordeaux,10,Gaétan Weissbeck,27,France,Attacking Midfield,€1.80m
+Squad FC Girondins Bordeaux,7,Jérémy Livolant,26,France,Left Winger,€1.50m
+Squad FC Girondins Bordeaux,11,Alexi Pitu,21,Romania,Left Winger,€1.00m
+Squad FC Girondins Bordeaux,81,Marvin De Lima,19,France,Left Winger,€300k
+Squad FC Girondins Bordeaux,47,Julien Vetro,19,France,Left Winger,€100k
+Squad FC Girondins Bordeaux,30,Zuriko Davitashvili,23,Georgia,Right Winger,€2.50m
+Squad FC Girondins Bordeaux,17,Alberth Elis,28,Honduras,Right Winger,€1.80m
+Squad FC Girondins Bordeaux,9,Zan Vipotnik,22,Slovenia,Centre-Forward,€2.00m
+Squad FC Girondins Bordeaux,33,Nfansu Njie,19,The Gambia,Centre-Forward,€100k
+Squad FC Girondins Bordeaux,91,David Tebili,19,France,Centre-Forward,€50k
+Squad Angers SCO,30,Yahia Fofana,23,Cote d'Ivoire,Goalkeeper,€3.00m
+Squad Angers SCO,16,Melvin Zinga,22,France,Goalkeeper,€100k
+Squad Angers SCO,22,Cédric Hountondji,30,Benin,Centre-Back,€1.80m
+Squad Angers SCO,21,Jordan Lefort,30,France,Centre-Back,€900k
+Squad Angers SCO,29,Ousmane Camara,21,France,Centre-Back,€800k
+Squad Angers SCO,25,Abdoulaye Bamba,33,Cote d'Ivoire,Centre-Back,€400k
+Squad Angers SCO,26,Florent Hanin,34,France,Left-Back,€400k
+Squad Angers SCO,2,Yan Valery,25,Tunisia,Right-Back,€2.00m
+Squad Angers SCO,27,Lilian Raolisoa,23,France,Right-Back,€600k
+Squad Angers SCO,12,Zinédine Ould Khaled,24,France,Defensive Midfield,€400k
+Squad Angers SCO,8,Joseph Lopy,32,Senegal,Central Midfield,€500k
+Squad Angers SCO,15,Pierrick Capelle,37,France,Central Midfield,€250k
+Squad Angers SCO,10,Himad Abdelli,24,Algeria,Attacking Midfield,€3.50m
+Squad Angers SCO,28,Farid El Melali,26,Algeria,Left Winger,€800k
+Squad Angers SCO,11,Sidiki Cherif,17,France,Left Winger,€100k
+Squad Angers SCO,20,Zinedine Ferhat,31,Algeria,Right Winger,€1.80m
+Squad Angers SCO,17,Justin-Noël Kalumba,19,France,Right Winger,€250k
+Squad Angers SCO,9,Loïs Diony,31,France,Centre-Forward,€2.00m
+Squad Angers SCO,7,Ibrahima Niane,25,Senegal,Centre-Forward,€1.20m
+Squad Angers SCO,23,Adrien Hunou,30,France,Centre-Forward,€800k
+Squad Angers SCO,19,Esteban Lepaul,23,France,Centre-Forward,€700k
+Squad Angers SCO,45,Guédé Nadje,20,France,Centre-Forward,€100k
+Squad SM Caen,1,Anthony Mandréa,27,Algeria,Goalkeeper,€2.00m
+Squad SM Caen,16,Yannis Clémentia,26,Martinique,Goalkeeper,€150k
+Squad SM Caen,35,Parfait Mandanda,34,DR Congo,Goalkeeper,€150k
+Squad SM Caen,61,Brahim Traoré,20,France,Centre-Back,€3.00m
+Squad SM Caen,92,Alexandre Coeff,32,France,Centre-Back,€400k
+Squad SM Caen,29,Romain Thomas,35,France,Centre-Back,€300k
+Squad SM Caen,27,Daylam Meddah,21,France,Centre-Back,€200k
+Squad SM Caen,5,Syam Ben Youssef,35,Tunisia,Centre-Back,€150k
+Squad SM Caen,2,Ali Abdi,30,Tunisia,Left-Back,€1.50m
+Squad SM Caen,3,Diabé Bolumbu,19,France,Left-Back,€300k
+Squad SM Caen,4,Valentin Henry,30,France,Right-Back,€600k
+Squad SM Caen,20,Noé Lebreton,19,France,Defensive Midfield,€1.00m
+Squad SM Caen,97,Dieudonné Gaucho Debohi,23,Cote d'Ivoire,Defensive Midfield,€300k
+Squad SM Caen,18,Hianga'a Mbock,24,France,Central Midfield,€800k
+Squad SM Caen,6,Quentin Daubin,28,France,Central Midfield,€700k
+Squad SM Caen,21,Bilal Brahimi,24,France,Attacking Midfield,€1.00m
+Squad SM Caen,23,Mathias Autret,33,France,Attacking Midfield,€500k
+Squad SM Caen,22,Mohamed Hafid,19,Morocco,Attacking Midfield,€150k
+Squad SM Caen,7,Tidiam Gomis,17,France,Left Winger,€250k
+Squad SM Caen,17,Godson Kyeremeh,23,France,Right Winger,€1.20m
+Squad SM Caen,19,Alexandre Mendy,30,Guinea-Bissau,Centre-Forward,€3.50m
+Squad SM Caen,15,Amine Salama,23,France,Centre-Forward,€2.50m
+Squad SM Caen,11,Mickaël Le Bihan,33,France,Centre-Forward,€300k
+Squad Amiens SC,1,Régis Gurtner,37,France,Goalkeeper,€250k
+Squad Amiens SC,16,Alexis Sauvage,32,France,Goalkeeper,€250k
+Squad Amiens SC,30,Matthieu Rongier,22,France,Goalkeeper,€50k
+Squad Amiens SC,2,Mamadou Fofana,26,Mali,Centre-Back,€1.80m
+Squad Amiens SC,4,Nicholas Opoku,26,Ghana,Centre-Back,€900k
+Squad Amiens SC,5,Osaze Urhoghide,23,England,Centre-Back,€700k
+Squad Amiens SC,13,Mohamed Jaouab,21,Morocco,Centre-Back,€300k
+Squad Amiens SC,23,Abdourahmane Barry,24,Guinea,Centre-Back,€200k
+Squad Amiens SC,26,Ayoub Amraoui,19,Morocco,Left-Back,€1.50m
+Squad Amiens SC,3,Sebastian Ring,28,Sweden,Left-Back,€300k
+Squad Amiens SC,14,Sébastien Corchia,33,France,Right-Back,€800k
+Squad Amiens SC,15,Youssouf Assogba,22,Benin,Right-Back,€250k
+Squad Amiens SC,24,Jérémy Gélin,26,France,Defensive Midfield,€1.50m
+Squad Amiens SC,20,Kylian Kaïboue,25,France,Defensive Midfield,€1.00m
+Squad Amiens SC,29,Frank Boya,27,Cameroon,Defensive Midfield,€900k
+Squad Amiens SC,43,Ibrahim Fofana,20,Cote d'Ivoire,Defensive Midfield,€150k
+Squad Amiens SC,55,Ayman Ouhatti,23,Morocco,Defensive Midfield,€150k
+Squad Amiens SC,25,Owen Gene,21,France,Central Midfield,€900k
+Squad Amiens SC,6,Mamadou Fofana,23,France,Central Midfield,€800k
+Squad Amiens SC,10,Gaël Kakuta,32,DR Congo,Attacking Midfield,€1.50m
+Squad Amiens SC,27,Rayan Lutin,21,Comoros,Attacking Midfield,€50k
+Squad Amiens SC,17,Mounir Chouiar,25,France,Left Winger,€2.00m
+Squad Amiens SC,11,Maxime Do Couto,27,France,Left Winger,€450k
+Squad Amiens SC,-,Charbel Gomez,23,Benin,Left Winger,€200k
+Squad Amiens SC,7,Antoine Leautey,28,France,Right Winger,€1.50m
+Squad Amiens SC,9,Louis Mafouta,29,Central African Republic,Centre-Forward,€1.00m
+Squad Amiens SC,8,Abdoul Tapsoba,22,Burkina Faso,Centre-Forward,€600k
+Squad Amiens SC,99,Andy Carroll,35,England,Centre-Forward,€300k
+Squad Amiens SC,37,Jack Lahne,22,Sweden,Centre-Forward,€275k
+Squad Paris FC,16,Obed Nkambadio,21,France,Goalkeeper,€1.00m
+Squad Paris FC,40,Ivan Filipovic,29,Croatia,Goalkeeper,€400k
+Squad Paris FC,1,Rémy Riou,36,France,Goalkeeper,€300k
+Squad Paris FC,30,Téva Gardies,23,Madagascar,Goalkeeper,€50k
+Squad Paris FC,31,Samir Chergui,25,France,Centre-Back,€1.20m
+Squad Paris FC,25,Yoan Koré,19,France,Centre-Back,€1.00m
+Squad Paris FC,5,Moustapha Mbow,24,Senegal,Centre-Back,€800k
+Squad Paris FC,13,Kouadio-Yves Dabila,27,Cote d'Ivoire,Centre-Back,€600k
+Squad Paris FC,15,Timothée Kolodziejczak,32,France,Centre-Back,€300k
+Squad Paris FC,27,Jules Gaudin,23,France,Left-Back,€900k
+Squad Paris FC,2,Tuomas Ollila,23,Finland,Left-Back,€450k
+Squad Paris FC,22,Sofiane Alakouch,25,Morocco,Right-Back,€600k
+Squad Paris FC,18,Lohann Doucet,21,France,Defensive Midfield,€700k
+Squad Paris FC,17,Adama Camara,27,France,Defensive Midfield,€500k
+Squad Paris FC,14,Cyril Mandouki,32,Martinique,Defensive Midfield,€400k
+Squad Paris FC,6,Paul Lasne,35,France,Defensive Midfield,€200k
+Squad Paris FC,4,Vincent Marchetti,26,France,Central Midfield,€1.80m
+Squad Paris FC,10,Ilan Kebbal,25,Algeria,Attacking Midfield,€2.50m
+Squad Paris FC,7,Alimami Gory,27,France,Left Winger,€1.00m
+Squad Paris FC,23,Josias Lukembila,24,Switzerland,Left Winger,€600k
+Squad Paris FC,20,Julien López,32,Algeria,Left Winger,€400k
+Squad Paris FC,26,Lamine Gueye,26,Senegal,Right Winger,€800k
+Squad Paris FC,11,Andy Pembélé,23,France,Right Winger,€250k
+Squad Paris FC,29,Pierre-Yves Hamel,30,France,Centre-Forward,€700k
+Squad Paris FC,12,Nouha Dicko,31,Mali,Centre-Forward,€600k
+Squad Paris FC,9,Lamine Diaby-Fadiga,23,France,Centre-Forward,€400k
+Squad Paris FC,19,Mohamed Touré,20,Australia,Centre-Forward,€400k
+Squad Paris FC,38,Ayoub Jabbari,24,Morocco,Centre-Forward,€150k
+Squad EA Guingamp,16,Enzo Basilio,29,France,Goalkeeper,€800k
+Squad EA Guingamp,30,Babacar Niasse,27,Mauritania,Goalkeeper,€400k
+Squad EA Guingamp,1,Teddy Bartouche,26,Guadeloupe,Goalkeeper,€100k
+Squad EA Guingamp,40,Noah Marec,19,France,Goalkeeper,€50k
+Squad EA Guingamp,2,Baptiste Roux,24,France,Centre-Back,€700k
+Squad EA Guingamp,7,Donatien Gomis,29,Senegal,Centre-Back,€600k
+Squad EA Guingamp,26,Matthis Riou,23,France,Centre-Back,€600k
+Squad EA Guingamp,24,Pierre Lemonnier,30,France,Centre-Back,€500k
+Squad EA Guingamp,5,Hady Camara,22,France,Centre-Back,€200k
+Squad EA Guingamp,34,Sohaib Nair,21,France,Centre-Back,€50k
+Squad EA Guingamp,12,Abdallah Ndour,30,Senegal,Left-Back,€700k
+Squad EA Guingamp,6,Lenny Vallier,24,France,Left-Back,€500k
+Squad EA Guingamp,25,Ayman Ben Mohamed,29,Tunisia,Left-Back,€400k
+Squad EA Guingamp,27,Maxime Sivis,26,France,Right-Back,€900k
+Squad EA Guingamp,15,Vincent Manceau,34,France,Right-Back,€250k
+Squad EA Guingamp,31,Lucas Maronnier,24,France,Right-Back,€100k
+Squad EA Guingamp,4,Dylan Louiserre,29,France,Defensive Midfield,€1.20m
+Squad EA Guingamp,8,Kalidou Sidibé,25,France,Defensive Midfield,€1.00m
+Squad EA Guingamp,19,Jonathan Iglesias,35,Uruguay,Central Midfield,€200k
+Squad EA Guingamp,18,Lebogang Phiri,29,South Africa,Central Midfield,€150k
+Squad EA Guingamp,20,Hugo Picard,20,France,Left Midfield,€1.00m
+Squad EA Guingamp,28,Maxime Barthelmé,35,France,Left Midfield,€150k
+Squad EA Guingamp,10,Mehdi Merghem,26,France,Attacking Midfield,€700k
+Squad EA Guingamp,22,Victor Lobry,28,France,Attacking Midfield,€700k
+Squad EA Guingamp,13,Théo Le Normand,23,France,Attacking Midfield,€100k
+Squad EA Guingamp,11,Amadou Sagna,24,Senegal,Left Winger,€700k
+Squad EA Guingamp,32,Sabri Guendouz,24,France,Left Winger,€50k
+Squad EA Guingamp,23,Taylor Luvambo,24,France,Right Winger,€200k
+Squad EA Guingamp,9,Amine El Ouazzani,22,Morocco,Centre-Forward,€2.00m
+Squad EA Guingamp,21,Baptiste Guillaume,28,Belgium,Centre-Forward,€1.20m
+Squad EA Guingamp,29,Ugo Bonnet,30,France,Centre-Forward,€400k
+Squad EA Guingamp,17,Jacques Siwe,22,France,Centre-Forward,€200k
+Squad Grenoble Foot 38,1,Brice Maubleu,34,France,Goalkeeper,€400k
+Squad Grenoble Foot 38,16,Bobby Allain,32,France,Goalkeeper,€250k
+Squad Grenoble Foot 38,13,Mamadou Diop,24,Mauritania,Goalkeeper,€100k
+Squad Grenoble Foot 38,4,Mamadou Diarra,26,Senegal,Centre-Back,€1.00m
+Squad Grenoble Foot 38,3,Efe Sarıkaya,18,Türkiye,Centre-Back,€500k
+Squad Grenoble Foot 38,21,Allan Tchaptchet,22,France,Centre-Back,€500k
+Squad Grenoble Foot 38,5,Adrien Monfray,33,France,Centre-Back,€400k
+Squad Grenoble Foot 38,14,Loïc Nestor,34,Guadeloupe,Centre-Back,€250k
+Squad Grenoble Foot 38,27,Matthéo Xantippe,22,France,Left-Back,€400k
+Squad Grenoble Foot 38,77,Arial Mendy,29,Senegal,Left-Back,€400k
+Squad Grenoble Foot 38,39,Mathys Tourraine,23,Morocco,Right-Back,€1.00m
+Squad Grenoble Foot 38,29,Gaëtan Paquiez,30,France,Right-Back,€500k
+Squad Grenoble Foot 38,6,Dante Rigo,25,Belgium,Defensive Midfield,€1.00m
+Squad Grenoble Foot 38,31,Nolan Mbemba,29,Congo,Defensive Midfield,€400k
+Squad Grenoble Foot 38,15,Abiezer Jeno,23,Neukaledonien,Defensive Midfield,€200k
+Squad Grenoble Foot 38,23,Manuel Perez,32,France,Defensive Midfield,€200k
+Squad Grenoble Foot 38,18,Bachirou Yaméogo,19,Burkina Faso,Defensive Midfield,€50k
+Squad Grenoble Foot 38,8,Jessy Benet,28,France,Central Midfield,€1.00m
+Squad Grenoble Foot 38,25,Théo Valls,28,France,Central Midfield,€900k
+Squad Grenoble Foot 38,10,Eddy Sylvestre,24,France,Central Midfield,€500k
+Squad Grenoble Foot 38,70,Saikou Touray,23,The Gambia,Central Midfield,€400k
+Squad Grenoble Foot 38,11,Amine Sbaï,23,Morocco,Left Winger,€800k
+Squad Grenoble Foot 38,22,Natanaël Ntolla,24,France,Left Winger,€400k
+Squad Grenoble Foot 38,19,Lenny Joseph,23,France,Right Winger,€800k
+Squad Grenoble Foot 38,2,Abdoulie Sanyang,24,The Gambia,Right Winger,€700k
+Squad Grenoble Foot 38,7,Pape Meïssa Ba,26,Senegal,Centre-Forward,€1.00m
+Squad Grenoble Foot 38,17,Virgiliu Postolachi,24,Moldova,Centre-Forward,€600k
+Squad Rodez AF,16,Lionel Mpasi-Nzau,29,DR Congo,Goalkeeper,€700k
+Squad Rodez AF,1,Sébastien Cibois,26,France,Goalkeeper,€300k
+Squad Rodez AF,30,Enzo Crombez,21,France,Goalkeeper,€50k
+Squad Rodez AF,15,Serge-Philippe Raux Yao,24,France,Centre-Back,€1.00m
+Squad Rodez AF,14,Bradley Danger,26,France,Centre-Back,€900k
+Squad Rodez AF,5,Kévin Boma,21,Togo,Centre-Back,€400k
+Squad Rodez AF,2,Éric Vandenabeele,32,France,Centre-Back,€300k
+Squad Rodez AF,21,Joris Chougrani,33,France,Centre-Back,€300k
+Squad Rodez AF,4,Stone Mambo,25,France,Centre-Back,€250k
+Squad Rodez AF,28,Akim Abdallah,26,Comoros,Left-Back,€700k
+Squad Rodez AF,3,Raphaël Lipinski,21,France,Left-Back,€400k
+Squad Rodez AF,6,Ahmad Ngouyamsa,23,Cameroon,Right-Back,€600k
+Squad Rodez AF,11,Dembo Sylla,21,Guinea,Right-Back,€600k
+Squad Rodez AF,29,Grégory Coelho,24,France,Right-Back,€200k
+Squad Rodez AF,24,Giovanni Haag,23,France,Defensive Midfield,€800k
+Squad Rodez AF,7,Wilitty Younoussa,22,Cameroon,Defensive Midfield,€600k
+Squad Rodez AF,8,Lorenzo Rajot,26,France,Central Midfield,€600k
+Squad Rodez AF,18,Antoine Valério,24,France,Central Midfield,€300k
+Squad Rodez AF,19,Lucas Buades,26,France,Right Midfield,€600k
+Squad Rodez AF,10,Waniss Taïbi,22,France,Attacking Midfield,€700k
+Squad Rodez AF,9,Jung-bin Park,30,"Korea, South",Left Winger,€250k
+Squad Rodez AF,26,Yannis Verdier,20,France,Left Winger,€50k
+Squad Rodez AF,12,Killian Corredor,23,France,Centre-Forward,€1.50m
+Squad Rodez AF,17,Andreas Hountondji,21,Benin,Centre-Forward,€1.50m
+Squad Rodez AF,22,Taïryk Arconte,20,Guadeloupe,Centre-Forward,€700k
+Squad Rodez AF,25,Clément Depres,29,France,Centre-Forward,€300k
+Squad Valenciennes FC,16,Jean Louchet,27,France,Goalkeeper,€500k
+Squad Valenciennes FC,30,Lassana Diabaté,20,France,Goalkeeper,€300k
+Squad Valenciennes FC,40,Ilario de Clemente,24,France,Goalkeeper,€50k
+Squad Valenciennes FC,44,Joachim Kayi Sanda,17,France,Centre-Back,€800k
+Squad Valenciennes FC,5,Jordan Poha,20,France,Centre-Back,€600k
+Squad Valenciennes FC,4,Taylor Moore,26,England,Centre-Back,€400k
+Squad Valenciennes FC,55,Ibrahima Ba,18,Senegal,Centre-Back,€50k
+Squad Valenciennes FC,15,Lucas Woudenberg,29,Netherlands,Left-Back,€400k
+Squad Valenciennes FC,3,Souleymane Basse,20,Senegal,Left-Back,€300k
+Squad Valenciennes FC,24,Allan Linguet,24,France,Right-Back,€700k
+Squad Valenciennes FC,2,Halid Sabanovic,24,Bosnia-Herzegovina,Right-Back,€300k
+Squad Valenciennes FC,14,Joffrey Cuffaut,36,France,Right-Back,€250k
+Squad Valenciennes FC,6,Julien Masson,25,France,Defensive Midfield,€800k
+Squad Valenciennes FC,8,Sacha Bansé,23,Burkina Faso,Defensive Midfield,€300k
+Squad Valenciennes FC,45,Tidyane Diagouraga,21,France,Defensive Midfield,€150k
+Squad Valenciennes FC,13,Jean-Éric Moursou,19,Cameroon,Defensive Midfield,€50k
+Squad Valenciennes FC,23,David Kruse,21,Denmark,Central Midfield,€800k
+Squad Valenciennes FC,32,Ismail Bouneb,17,France,Attacking Midfield,€50k
+Squad Valenciennes FC,20,Ilyes Hamache,21,France,Left Winger,€900k
+Squad Valenciennes FC,17,Aymen Boutoutaou,23,Algeria,Right Winger,€1.00m
+Squad Valenciennes FC,34,Makabi Lilepo,26,DR Congo,Right Winger,€500k
+Squad Valenciennes FC,93,Anthony Knockaert,32,France,Right Winger,€450k
+Squad Valenciennes FC,22,Yacine El Amri,19,Morocco,Right Winger,€200k
+Squad Valenciennes FC,29,Jawed Kalai,23,France,Right Winger,€100k
+Squad Valenciennes FC,96,Flamarion,27,Brazil,Second Striker,€1.00m
+Squad Valenciennes FC,9,Siriné Doucouré,22,Mali,Centre-Forward,€1.20m
+Squad Valenciennes FC,90,Mathias Oyewusi,25,Nigeria,Centre-Forward,€850k
+Squad Valenciennes FC,10,Nick Venema,25,Netherlands,Centre-Forward,€400k
+Squad Valenciennes FC,18,Andrew Jung,26,France,Centre-Forward,€400k
+Squad Valenciennes FC,99,Yassine Haouari,21,Algeria,Centre-Forward,€100k
+Squad Valenciennes FC,26,Cheikh Diouf,20,Senegal,Centre-Forward,€50k
+Squad USL Dunkerque,1,Lucas Lavallée,21,France,Goalkeeper,€250k
+Squad USL Dunkerque,30,Mohamed Koné,22,Cote d'Ivoire,Goalkeeper,€150k
+Squad USL Dunkerque,16,Arnaud Balijon,40,France,Goalkeeper,€100k
+Squad USL Dunkerque,3,Loïc Bessilé,25,Togo,Centre-Back,€500k
+Squad USL Dunkerque,23,Bram Lagae,20,Belgium,Centre-Back,€500k
+Squad USL Dunkerque,4,Nehemiah Fernandez,19,France,Centre-Back,€400k
+Squad USL Dunkerque,26,Opa Sangante,33,Guinea-Bissau,Centre-Back,€300k
+Squad USL Dunkerque,2,Alioune Ba,34,France,Centre-Back,€75k
+Squad USL Dunkerque,15,Achraf Laâziri,20,Morocco,Left-Back,€300k
+Squad USL Dunkerque,22,Driss Trichard,29,France,Left-Back,€300k
+Squad USL Dunkerque,12,Assane N'Doye,19,Senegal,Left-Back,€50k
+Squad USL Dunkerque,7,Yohan Bilingi,25,France,Right-Back,€600k
+Squad USL Dunkerque,19,Benjaloud Youssouf,30,Comoros,Right-Back,€400k
+Squad USL Dunkerque,28,Demba Thiam,34,France,Right-Back,€200k
+Squad USL Dunkerque,13,Junior Senneville,33,Guadeloupe,Right-Back,€150k
+Squad USL Dunkerque,25,Jean-Philippe Gbamin,28,Cote d'Ivoire,Defensive Midfield,€2.50m
+Squad USL Dunkerque,5,Rémy Boissier,30,France,Defensive Midfield,€500k
+Squad USL Dunkerque,10,Julien Anziani,24,France,Central Midfield,€700k
+Squad USL Dunkerque,8,Tidiane Keita,27,France,Central Midfield,€400k
+Squad USL Dunkerque,77,Ibrahima Sy,21,Senegal,Central Midfield,€100k
+Squad USL Dunkerque,20,Enzo Bardeli,23,France,Attacking Midfield,€900k
+Squad USL Dunkerque,27,Rayan Ghrieb,24,France,Attacking Midfield,€600k
+Squad USL Dunkerque,92,Aïman Maurer,19,Morocco,Attacking Midfield,€600k
+Squad USL Dunkerque,29,Ángel Orelien,23,Panama,Attacking Midfield,€300k
+Squad USL Dunkerque,11,François Mughe,19,Cameroon,Right Winger,€1.00m
+Squad USL Dunkerque,80,Gessime Yassine,18,France,Right Winger,€800k
+Squad USL Dunkerque,14,Moussa Guel,24,Cote d'Ivoire,Right Winger,€150k
+Squad USL Dunkerque,9,Samy Baghdadi,26,France,Centre-Forward,€300k
+Squad USL Dunkerque,18,Gaëtan Courtet,35,France,Centre-Forward,€300k
+Squad USL Dunkerque,21,Armand Gnanduillet,32,Cote d'Ivoire,Centre-Forward,€300k
+Squad USL Dunkerque,24,Elhadj Bah,22,Guinea,Centre-Forward,€200k
+Squad Pau FC,1,Bingourou Kamara,27,Senegal,Goalkeeper,€900k
+Squad Pau FC,40,Mehdi Jeannin,32,Algeria,Goalkeeper,€150k
+Squad Pau FC,31,Quentin Galvez-Diarra,22,France,Goalkeeper,€50k
+Squad Pau FC,25,Jean Ruiz,26,France,Centre-Back,€1.00m
+Squad Pau FC,22,Ange Ahoussou,20,Cote d'Ivoire,Centre-Back,€500k
+Squad Pau FC,5,Noé Sow,25,France,Centre-Back,€400k
+Squad Pau FC,4,Xavier Kouassi,34,Cote d'Ivoire,Centre-Back,€300k
+Squad Pau FC,19,Ousmane Kanté,34,Guinea,Centre-Back,€250k
+Squad Pau FC,24,Kenji-Van Boto,28,Madagascar,Left-Back,€600k
+Squad Pau FC,26,Jean Lambert Evan's,25,France,Left-Back,€500k
+Squad Pau FC,23,Johann Obiang,30,Gabon,Left-Back,€400k
+Squad Pau FC,12,Jordy Gaspar,26,Angola,Right-Back,€900k
+Squad Pau FC,13,Louis Mouton,21,France,Defensive Midfield,€600k
+Squad Pau FC,6,Sessi D'Almeida,28,Benin,Defensive Midfield,€500k
+Squad Pau FC,27,Iyad Mohamed,23,Comoros,Defensive Midfield,€200k
+Squad Pau FC,21,Steeve Beusnard,31,France,Central Midfield,€500k
+Squad Pau FC,18,Oumar Ngom,20,Mauritania,Central Midfield,€150k
+Squad Pau FC,85,Tino Costa,39,Argentina,Central Midfield,€100k
+Squad Pau FC,70,Charles Boli,25,France,Left Midfield,€300k
+Squad Pau FC,8,Henri Saivet,33,Senegal,Attacking Midfield,€500k
+Squad Pau FC,99,Mehdi Chahiri,27,France,Left Winger,€500k
+Squad Pau FC,7,Moussa Sylla,24,Mali,Right Winger,€2.00m
+Squad Pau FC,9,Yanis Begraoui,22,Morocco,Centre-Forward,€1.00m
+Squad Pau FC,11,Mons Bassouamina,25,Congo,Centre-Forward,€800k
+Squad Pau FC,10,Khalid Boutaïb,36,Morocco,Centre-Forward,€200k
+Squad Pau FC,30,Yonis Njoh,20,France,Centre-Forward,€200k
+Squad Pau FC,33,Sonny Degert,23,France,Centre-Forward,€100k
+Squad Pau FC,20,Loïck Lespinasse,23,France,Centre-Forward,€50k
+Squad SC Bastia,30,Johny Placide,36,Haiti,Goalkeeper,€250k
+Squad SC Bastia,23,Julien Fabri,30,France,Goalkeeper,€200k
+Squad SC Bastia,95,Check Keita,21,France,Centre-Back,€1.50m
+Squad SC Bastia,99,Yllan Okou,21,France,Centre-Back,€800k
+Squad SC Bastia,6,Dumè Guidi,28,France,Centre-Back,€600k
+Squad SC Bastia,5,Issiar Dramé,25,Mali,Centre-Back,€400k
+Squad SC Bastia,25,Baye Ablaye Mbaye,20,Senegal,Centre-Back,€100k
+Squad SC Bastia,42,Dylan Tavares,27,Cape Verde,Left-Back,€600k
+Squad SC Bastia,22,Charles Traoré,32,Mali,Left-Back,€400k
+Squad SC Bastia,21,Mohamed Souboul,22,Morocco,Left-Back,€350k
+Squad SC Bastia,15,Florian Bohnert,26,Luxembourg,Right-Back,€600k
+Squad SC Bastia,24,Tom Meynadier,24,France,Right-Back,€300k
+Squad SC Bastia,13,Tom Ducrocq,24,France,Defensive Midfield,€1.20m
+Squad SC Bastia,66,Jocelyn Janneh,21,Sierra Leone,Defensive Midfield,€800k
+Squad SC Bastia,26,Mahamé Siby,27,Mali,Defensive Midfield,€750k
+Squad SC Bastia,4,Anthony Roncaglia,23,France,Defensive Midfield,€500k
+Squad SC Bastia,7,Christophe Vincent,31,France,Defensive Midfield,€500k
+Squad SC Bastia,8,Julien Maggiotti,28,France,Central Midfield,€800k
+Squad SC Bastia,19,Matéo Loubatières,20,France,Central Midfield,€150k
+Squad SC Bastia,18,Félix Tomi,23,France,Attacking Midfield,€100k
+Squad SC Bastia,17,Florian Bianchini,22,France,Right Winger,€300k
+Squad SC Bastia,10,Migouel Alfarela,26,France,Centre-Forward,€800k
+Squad SC Bastia,31,Facinet Conte,19,Guinea,Centre-Forward,€800k
+Squad SC Bastia,9,Benjamin Santelli,32,France,Centre-Forward,€400k
+Squad SC Bastia,14,Gaëtan Charbonnier,35,France,Centre-Forward,€300k
+Squad Quevilly - Rouen Métropole,1,Benjamin Leroy,35,France,Goalkeeper,€300k
+Squad Quevilly - Rouen Métropole,16,Kayne Bonnevie,22,France,Goalkeeper,€200k
+Squad Quevilly - Rouen Métropole,30,Arsène Courel,19,France,Goalkeeper,€50k
+Squad Quevilly - Rouen Métropole,5,Till Cissokho,24,France,Centre-Back,€1.00m
+Squad Quevilly - Rouen Métropole,6,Antoine Batisse,29,France,Centre-Back,€400k
+Squad Quevilly - Rouen Métropole,20,Nadjib Cissé,23,Mali,Centre-Back,€400k
+Squad Quevilly - Rouen Métropole,21,Yohan Roche,26,Benin,Centre-Back,€400k
+Squad Quevilly - Rouen Métropole,15,Steven Fortes,32,Cape Verde,Centre-Back,€300k
+Squad Quevilly - Rouen Métropole,7,Jason Pendant,27,France,Left-Back,€600k
+Squad Quevilly - Rouen Métropole,22,Samuel Loric,23,France,Left-Back,€500k
+Squad Quevilly - Rouen Métropole,58,Alpha Sissoko,27,France,Right-Back,€700k
+Squad Quevilly - Rouen Métropole,4,Balthazar Pierret,23,France,Defensive Midfield,€1.00m
+Squad Quevilly - Rouen Métropole,17,Gustavo Sangaré,27,Burkina Faso,Defensive Midfield,€800k
+Squad Quevilly - Rouen Métropole,8,Noah Cadiou,25,France,Central Midfield,€800k
+Squad Quevilly - Rouen Métropole,31,Denis Will Poha,26,France,Central Midfield,€600k
+Squad Quevilly - Rouen Métropole,10,Alexandre Bonnet,37,France,Left Midfield,€150k
+Squad Quevilly - Rouen Métropole,12,Garland Gbellé,31,France,Attacking Midfield,€500k
+Squad Quevilly - Rouen Métropole,90,Papa Ndiaga Yade,24,Mauritania,Left Winger,€800k
+Squad Quevilly - Rouen Métropole,77,Pape Ousmane Sakho,27,Senegal,Left Winger,€200k
+Squad Quevilly - Rouen Métropole,23,Logan Delaurier-Chaubet,21,France,Right Winger,€600k
+Squad Quevilly - Rouen Métropole,93,Mamadou Camara,23,France,Right Winger,€600k
+Squad Quevilly - Rouen Métropole,9,Sambou Soumano,23,Senegal,Centre-Forward,€1.50m
+Squad Quevilly - Rouen Métropole,19,Kalifa Coulibaly,32,Mali,Centre-Forward,€500k
+Squad Quevilly - Rouen Métropole,14,Alan Do Marcolino,22,Gabon,Centre-Forward,€200k
+Squad Quevilly - Rouen Métropole,35,Robin Legendre,22,France,Centre-Forward,€150k
+Squad FC Annecy,1,Florian Escales,28,France,Goalkeeper,€600k
+Squad FC Annecy,16,Thomas Callens,25,France,Goalkeeper,€250k
+Squad FC Annecy,30,Tidiane Malbec,22,France,Goalkeeper,€100k
+Squad FC Annecy,13,Gaby Jean,24,France,Centre-Back,€900k
+Squad FC Annecy,14,Kévin Mouanga,23,France,Centre-Back,€900k
+Squad FC Annecy,2,Hamjatou Soukouna,25,France,Centre-Back,€400k
+Squad FC Annecy,4,Junior Diaz,20,Cote d'Ivoire,Centre-Back,€400k
+Squad FC Annecy,41,Thibault Delphis,21,France,Centre-Back,€300k
+Squad FC Annecy,8,Jonathan Gonçalves,35,France,Centre-Back,€150k
+Squad FC Annecy,3,Moïse Mahop,24,Cameroon,Left-Back,€600k
+Squad FC Annecy,6,François Lajugie,28,France,Right-Back,€700k
+Squad FC Annecy,20,Yacouba Barry,21,France,Defensive Midfield,€600k
+Squad FC Annecy,17,Vincent Pajot,33,France,Defensive Midfield,€350k
+Squad FC Annecy,5,Ahmed Kashi,35,Algeria,Defensive Midfield,€250k
+Squad FC Annecy,21,Martin Adeline,20,France,Central Midfield,€900k
+Squad FC Annecy,25,Yohan Demoncy,28,France,Central Midfield,€400k
+Squad FC Annecy,18,Nordine Kandil,22,Morocco,Attacking Midfield,€800k
+Squad FC Annecy,22,Clément Billemaz,25,France,Left Winger,€400k
+Squad FC Annecy,12,Kévin Testud,32,France,Left Winger,€300k
+Squad FC Annecy,11,Goteh Ntignee,21,Nigeria,Left Winger,€100k
+Squad FC Annecy,28,Antoine Larose,31,France,Right Winger,€400k
+Squad FC Annecy,7,Kapit Djoco,28,France,Centre-Forward,€600k
+Squad FC Annecy,19,Samuel Ntamack,22,France,Centre-Forward,€600k
+Squad FC Annecy,10,Warren Caddy,27,Madagascar,Centre-Forward,€400k
+Squad FC Annecy,15,Brian Beyer,27,France,Centre-Forward,€400k
+Squad FC Annecy,27,Ousmane Camara,22,Guinea,Centre-Forward,€400k
+Squad FC Annecy,23,Alexy Bosetti,30,France,Centre-Forward,€300k
+Squad FC Annecy,24,Jonathan Kodjia,34,Cote d'Ivoire,Centre-Forward,€300k
+Squad FC Annecy,9,Romain Spano,29,France,Centre-Forward,€200k
+Squad AC Ajaccio,1,Mathieu Michel,32,France,Goalkeeper,€400k
+Squad AC Ajaccio,16,François-Joseph Sollacaro,30,France,Goalkeeper,€300k
+Squad AC Ajaccio,5,Clément Vidal,23,France,Centre-Back,€1.00m
+Squad AC Ajaccio,21,Cédric Avinel,37,Guadeloupe,Centre-Back,€250k
+Squad AC Ajaccio,44,Josué Escartin,21,France,Centre-Back,€150k
+Squad AC Ajaccio,3,Stephen Quemper,30,France,Left-Back,€500k
+Squad AC Ajaccio,20,Mohamed Youssouf,36,Comoros,Right-Back,€200k
+Squad AC Ajaccio,39,Salomon Abergel,19,France,Right-Back,€200k
+Squad AC Ajaccio,27,Thibault Campanini,25,France,Right-Back,€100k
+Squad AC Ajaccio,31,Tony Strata,19,Romania,Right-Back,€100k
+Squad AC Ajaccio,37,Mehdi Puch-Herrantz,20,Algeria,Defensive Midfield,€250k
+Squad AC Ajaccio,26,Tim Jabol-Folcarelli,24,France,Central Midfield,€2.00m
+Squad AC Ajaccio,6,Thomas Mangani,36,France,Central Midfield,€300k
+Squad AC Ajaccio,25,Julien Benhaim,27,France,Left Midfield,€300k
+Squad AC Ajaccio,29,Hamza Sakhi,27,Morocco,Attacking Midfield,€1.50m
+Squad AC Ajaccio,10,Valentin Jacob,29,France,Attacking Midfield,€500k
+Squad AC Ajaccio,4,Michaël Barreto,33,France,Attacking Midfield,€300k
+Squad AC Ajaccio,17,Everson Junior,20,France,Attacking Midfield,€100k
+Squad AC Ajaccio,14,Cyrille Bayala,27,Burkina Faso,Right Winger,€800k
+Squad AC Ajaccio,7,Riad Nouri,38,France,Right Winger,€200k
+Squad AC Ajaccio,18,Christopher Ibayi,28,Congo,Centre-Forward,€600k
+Squad AC Ajaccio,11,Ben Hamed Touré,20,Cote d'Ivoire,Centre-Forward,€500k
+Squad AC Ajaccio,22,Moussa Soumano,18,France,Centre-Forward,€500k
+Squad AC Ajaccio,19,Al Hassan Touré,23,Australia,Centre-Forward,€350k
+Squad AC Ajaccio,9,Yoann Touzghar,37,Tunisia,Centre-Forward,€250k
+Squad Stade Lavallois,30,Mamadou Samassa,34,Mali,Goalkeeper,€250k
+Squad Stade Lavallois,1,Maxime Hautbois,33,France,Goalkeeper,€150k
+Squad Stade Lavallois,40,Théo Chatelain,24,France,Goalkeeper,€50k
+Squad Stade Lavallois,15,Elhadji Pape Diaw,29,Senegal,Centre-Back,€500k
+Squad Stade Lavallois,35,Peter Ouaneh,26,France,Centre-Back,€400k
+Squad Stade Lavallois,12,Yasser Baldé,31,Guinea,Centre-Back,€300k
+Squad Stade Lavallois,3,Marvin Baudry,34,Congo,Centre-Back,€250k
+Squad Stade Lavallois,23,Yohan Tavares,36,Portugal,Centre-Back,€200k
+Squad Stade Lavallois,20,Amin Cherni,22,Tunisia,Left-Back,€1.20m
+Squad Stade Lavallois,25,Edson Seidou,32,France,Left-Back,€200k
+Squad Stade Lavallois,7,Thibaut Vargas,23,France,Right-Back,€1.00m
+Squad Stade Lavallois,31,Irvyn Lomami,20,France,Right-Back,€150k
+Squad Stade Lavallois,2,Kévin Perrot,34,France,Right-Back,€100k
+Squad Stade Lavallois,6,Sam Sanna,25,France,Defensive Midfield,€1.00m
+Squad Stade Lavallois,27,Jordan Adéoti,35,Benin,Defensive Midfield,€200k
+Squad Stade Lavallois,39,Anthony Gonçalves,38,France,Defensive Midfield,€200k
+Squad Stade Lavallois,28,Antonin Bobichon,28,France,Central Midfield,€600k
+Squad Stade Lavallois,8,Titouan Thomas,22,France,Central Midfield,€400k
+Squad Stade Lavallois,4,Jimmy Roye,35,France,Central Midfield,€300k
+Squad Stade Lavallois,10,Ryan Ferhaoui,26,France,Central Midfield,€250k
+Squad Stade Lavallois,9,Junior Kadile,21,France,Right Winger,€700k
+Squad Stade Lavallois,17,Francois-Xavier Fumu Tamuzo,29,France,Right Winger,€150k
+Squad Stade Lavallois,11,Rémy Labeau Lascary,21,Guadeloupe,Centre-Forward,€1.00m
+Squad Stade Lavallois,29,Pablo Pagis,21,France,Centre-Forward,€1.00m
+Squad Stade Lavallois,14,Jordan Tell,26,Guadeloupe,Centre-Forward,€400k
+Squad Stade Lavallois,18,Malik Tchokounté,35,France,Centre-Forward,€300k
+Squad Stade Lavallois,19,Noa Mupemba,21,France,Centre-Forward,€50k
+Squad US Concarneau,30,Esteban Salles,30,France,Goalkeeper,€400k
+Squad US Concarneau,1,Maxime Pattier,28,France,Goalkeeper,€200k
+Squad US Concarneau,40,Rudy Boulais,21,France,Goalkeeper,€50k
+Squad US Concarneau,12,Julien Célestine,26,France,Centre-Back,€700k
+Squad US Concarneau,5,Mamadou Sylla,28,France,Centre-Back,€500k
+Squad US Concarneau,28,Issouf Paro,29,Burkina Faso,Centre-Back,€250k
+Squad US Concarneau,4,Guillaume Jannez,35,France,Centre-Back,€200k
+Squad US Concarneau,3,Abdelwahed Wahib,24,Morocco,Left-Back,€400k
+Squad US Concarneau,23,Romain Sans,25,France,Left-Back,€300k
+Squad US Concarneau,2,Alec Georgen,25,France,Right-Back,€400k
+Squad US Concarneau,33,Julien Faussurier,37,France,Right-Back,€200k
+Squad US Concarneau,6,Alexandre Phliponeau,24,France,Defensive Midfield,€500k
+Squad US Concarneau,17,Maxime Etuin,28,France,Defensive Midfield,€500k
+Squad US Concarneau,15,Gabriel Barès,23,Switzerland,Defensive Midfield,€400k
+Squad US Concarneau,26,Thibault Sinquin,31,France,Defensive Midfield,€200k
+Squad US Concarneau,20,Baptiste Mouazan,22,France,Central Midfield,€600k
+Squad US Concarneau,8,Tom Lebeau,25,France,Central Midfield,€200k
+Squad US Concarneau,25,Bryan Pelé,32,France,Left Midfield,€200k
+Squad US Concarneau,11,Axel Urie,25,Central African Republic,Left Winger,€400k
+Squad US Concarneau,19,Kandet Diawara,24,Guinea,Left Winger,€400k
+Squad US Concarneau,7,Isaac Matondo,25,France,Left Winger,€300k
+Squad US Concarneau,21,Nassim Chadli,22,Morocco,Right Winger,€700k
+Squad US Concarneau,10,Fahd El Khoumisti,30,France,Centre-Forward,€500k
+Squad US Concarneau,14,Pape Ibnou Ba,31,Mauritania,Centre-Forward,€500k
+Squad US Concarneau,9,Noha Ndombasi,22,France,Centre-Forward,€400k
+Squad US Concarneau,18,Yanis Merdji,30,France,Centre-Forward,€300k
+Squad US Concarneau,13,Bevic Moussiti-Oko,29,Congo,Centre-Forward,€225k
+Squad US Concarneau,24,Ambroise Gboho,29,Cote d'Ivoire,Centre-Forward,€200k
+Squad US Concarneau,22,Clément Rodrigues,23,France,Centre-Forward,€150k
+Squad FC Sochaux-Montbéliard,16,Baptiste Valette,31,France,Goalkeeper,€250k
+Squad FC Sochaux-Montbéliard,1,Mathieu Patouillet,20,France,Goalkeeper,€200k
+Squad FC Sochaux-Montbéliard,4,Arthur Vitelli,23,France,Centre-Back,€300k
+Squad FC Sochaux-Montbéliard,5,Boris Moltenis,24,Martinique,Centre-Back,€250k
+Squad FC Sochaux-Montbéliard,15,Thomas Fontaine,32,Madagascar,Centre-Back,€250k
+Squad FC Sochaux-Montbéliard,35,Dalangunypole Gomis,19,France,Centre-Back,€150k
+Squad FC Sochaux-Montbéliard,28,Maxime Bastian,22,France,Left-Back,€1.00m
+Squad FC Sochaux-Montbéliard,3,Amílcar Silva,24,Portugal,Left-Back,€500k
+Squad FC Sochaux-Montbéliard,19,Julien Dacosta,27,France,Right-Back,€300k
+Squad FC Sochaux-Montbéliard,2,Nolan Galves,20,France,Right-Back,€250k
+Squad FC Sochaux-Montbéliard,14,Sidy Diagne,22,Switzerland,Right-Back,€100k
+Squad FC Sochaux-Montbéliard,6,Mouhamadou Drammeh,24,France,Defensive Midfield,€250k
+Squad FC Sochaux-Montbéliard,35,Elie Kayembe,19,France,Defensive Midfield,€25k
+Squad FC Sochaux-Montbéliard,34,Allan Ackra,20,France,Central Midfield,€450k
+Squad FC Sochaux-Montbéliard,24,Malcolm Viltard,21,France,Central Midfield,€400k
+Squad FC Sochaux-Montbéliard,21,Dimitri Liénard,36,France,Left Midfield,€400k
+Squad FC Sochaux-Montbéliard,8,Kevin Hoggas,32,France,Attacking Midfield,€350k
+Squad FC Sochaux-Montbéliard,10,Roli Pereira de Sa,27,France,Attacking Midfield,€350k
+Squad FC Sochaux-Montbéliard,27,Diego Michel,26,France,Attacking Midfield,€250k
+Squad FC Sochaux-Montbéliard,25,Alex Daho,20,France,Left Winger,€400k
+Squad FC Sochaux-Montbéliard,17,Noah Fatar,22,France,Right Winger,€500k
+Squad FC Sochaux-Montbéliard,20,Jodel Dossou,32,Benin,Right Winger,€500k
+Squad FC Sochaux-Montbéliard,11,Issouf Macalou,25,Cote d'Ivoire,Right Winger,€250k
+Squad FC Sochaux-Montbéliard,33,Martin Lecolier,20,France,Right Winger,€50k
+Squad FC Sochaux-Montbéliard,9,N'Dri Koffi,22,Cote d'Ivoire,Centre-Forward,€600k
+Squad FC Sochaux-Montbéliard,22,Kévin Zohi,27,Mali,Centre-Forward,€500k
+Squad Dijon FCO,40,Robin Risser,19,France,Goalkeeper,€400k
+Squad Dijon FCO,16,Saturnin Allagbé,30,Benin,Goalkeeper,€200k
+Squad Dijon FCO,1,Lenny Montfort,22,France,Goalkeeper,€50k
+Squad Dijon FCO,5,Arnold Temanfo,30,France,Centre-Back,€300k
+Squad Dijon FCO,13,Souleymane Cissé,21,France,Centre-Back,€300k
+Squad Dijon FCO,3,Daniel Congré,39,France,Centre-Back,€100k
+Squad Dijon FCO,18,Axel Drouhin,24,France,Centre-Back,€25k
+Squad Dijon FCO,2,Adama Fofana,24,Burkina Faso,Left-Back,€400k
+Squad Dijon FCO,23,Cédric Makutungu,26,France,Left-Back,€300k
+Squad Dijon FCO,34,Zakaria Ariss,19,France,Left-Back,€25k
+Squad Dijon FCO,27,Cheick Traoré,29,Mali,Right-Back,€400k
+Squad Dijon FCO,25,Zoran Moco,20,Guadeloupe,Right-Back,€350k
+Squad Dijon FCO,6,Rayan Souici,26,France,Defensive Midfield,€300k
+Squad Dijon FCO,17,Yanis Chahid,19,France,Central Midfield,€400k
+Squad Dijon FCO,14,Jordan Marié,32,France,Central Midfield,€300k
+Squad Dijon FCO,29,Loïc Etoga,21,Cameroon,Central Midfield,€100k
+Squad Dijon FCO,28,Bryan Soumaré,25,France,Attacking Midfield,€500k
+Squad Dijon FCO,20,Zakaria Fdaouch,27,France,Left Winger,€500k
+Squad Dijon FCO,8,Kévin Schur,33,France,Left Winger,€200k
+Squad Dijon FCO,11,Walid Nassi,23,France,Right Winger,€200k
+Squad Dijon FCO,33,Cyriaque Irié,18,Burkina Faso,Right Winger,€100k
+Squad Dijon FCO,21,Mohamed Ben Fredj,23,Tunisia,Centre-Forward,€400k
+Squad Dijon FCO,7,Roger Assalé,30,Cote d'Ivoire,Centre-Forward,€300k
+Squad Dijon FCO,22,Kader N'Chobi,28,France,Centre-Forward,€300k
+Squad Dijon FCO,19,Joseph Mendes,33,Guinea-Bissau,Centre-Forward,€200k
+Squad Red Star FC,1,Quentin Beunardeau,30,France,Goalkeeper,€400k
+Squad Red Star FC,16,William Avognan,28,France,Goalkeeper,€100k
+Squad Red Star FC,30,Pépé Bonet,21,DR Congo,Goalkeeper,€50k
+Squad Red Star FC,2,Blondon Meyapya,23,Cameroon,Centre-Back,€500k
+Squad Red Star FC,28,Loïc Kouagba,29,France,Centre-Back,€350k
+Squad Red Star FC,4,Bissenty Mendy,32,France,Centre-Back,€300k
+Squad Red Star FC,5,Paolo Gozzi,22,Italy,Centre-Back,€300k
+Squad Red Star FC,21,Aniss El Hriti,34,France,Left-Back,€150k
+Squad Red Star FC,13,Fodé Doucouré,23,Mali,Right-Back,€400k
+Squad Red Star FC,22,Evens Seridor,24,France,Right-Back,€25k
+Squad Red Star FC,3,Ryad Hachem,25,France,Defensive Midfield,€400k
+Squad Red Star FC,8,Joachim Eickmayer,31,France,Defensive Midfield,€300k
+Squad Red Star FC,26,Fred Dembi,29,Congo,Defensive Midfield,€300k
+Squad Red Star FC,25,Cheikh N'Doye,38,Senegal,Central Midfield,€150k
+Squad Red Star FC,14,Rayan Slimani,20,France,Central Midfield,€50k
+Squad Red Star FC,10,Merwan Ifnaoui,25,France,Attacking Midfield,€600k
+Squad Red Star FC,7,Damien Durand,28,France,Left Winger,€350k
+Squad Red Star FC,11,Kemo Cissé,27,France,Right Winger,€350k
+Squad Red Star FC,23,Jovany Ikanga,22,France,Centre-Forward,€400k
+Squad Red Star FC,29,Hacène Benali,24,Algeria,Centre-Forward,€350k
+Squad Red Star FC,17,Ivann Botella,24,France,Centre-Forward,€300k
+Squad Red Star FC,27,Achille Anani,29,Cote d'Ivoire,Centre-Forward,€300k
+Squad Red Star FC,9,Alioune Fall,29,Senegal,Centre-Forward,€100k
+Squad FC Versailles 78,40,Sébastien Rénot,34,France,Goalkeeper,€200k
+Squad FC Versailles 78,1,Jules Raux,20,France,Goalkeeper,€100k
+Squad FC Versailles 78,13,Gustave Akueson,28,Togo,Centre-Back,€300k
+Squad FC Versailles 78,6,Lassana Diakhaby,28,Mauritania,Centre-Back,€250k
+Squad FC Versailles 78,22,Thibault Jaques,36,France,Centre-Back,€150k
+Squad FC Versailles 78,4,Ibrahim Karamoko,22,France,Centre-Back,€100k
+Squad FC Versailles 78,27,Pierre Gibaud,35,France,Centre-Back,€100k
+Squad FC Versailles 78,12,Melih Altikulac,22,Türkiye,Left-Back,€350k
+Squad FC Versailles 78,3,Pierre-Yves Polomat,30,Martinique,Left-Back,€250k
+Squad FC Versailles 78,23,Florian Lapis,30,Martinique,Left-Back,€150k
+Squad FC Versailles 78,17,Chris-Kévin Nadje,22,Cote d'Ivoire,Defensive Midfield,€400k
+Squad FC Versailles 78,14,Romain Basque,28,France,Defensive Midfield,€350k
+Squad FC Versailles 78,28,Gaoussou Traoré,24,France,Defensive Midfield,€300k
+Squad FC Versailles 78,29,Jordan Mendes Correia,20,France,Defensive Midfield,€200k
+Squad FC Versailles 78,5,Alexis Mané,26,France,Defensive Midfield,€150k
+Squad FC Versailles 78,18,Grégoire Lefebvre,29,France,Central Midfield,€350k
+Squad FC Versailles 78,8,Jordan Leborgne,28,Guadeloupe,Central Midfield,€300k
+Squad FC Versailles 78,20,Loïc Damour,33,France,Central Midfield,€150k
+Squad FC Versailles 78,26,Sofiane Boudraa,20,Algeria,Right Midfield,€200k
+Squad FC Versailles 78,9,Djibril Bangoura,22,Guinea,Attacking Midfield,€250k
+Squad FC Versailles 78,7,Bilal Hend,24,France,Left Winger,€250k
+Squad FC Versailles 78,15,Vénuste Baboula,25,Central African Republic,Left Winger,€100k
+Squad FC Versailles 78,19,Modeste Duku,22,France,Right Winger,€250k
+Squad FC Versailles 78,10,Jeremain Lens,36,Netherlands,Right Winger,€100k
+Squad FC Versailles 78,2,Mondy Prunier,24,Haiti,Centre-Forward,€350k
+Squad FC Versailles 78,21,Mehdi Baaloudj,23,Algeria,Centre-Forward,€300k
+Squad FC Versailles 78,11,Yohan Brun,29,France,Centre-Forward,€100k
+Squad FC Versailles 78,25,Kévin Mbala,23,France,Centre-Forward,€50k
+Squad Nîmes Olympique,1,Fabrice Ondoa,28,Cameroon,Goalkeeper,€300k
+Squad Nîmes Olympique,40,Tao Paradowski,19,France,Goalkeeper,€300k
+Squad Nîmes Olympique,16,Lucas Dias,24,France,Goalkeeper,€200k
+Squad Nîmes Olympique,50,Vincenzo Cozzella,22,Italy,Goalkeeper,€100k
+Squad Nîmes Olympique,5,Waly Diouf,26,Senegal,Centre-Back,€250k
+Squad Nîmes Olympique,22,Formose Mendy,30,France,Centre-Back,€250k
+Squad Nîmes Olympique,29,Dagui Paviot,21,France,Centre-Back,€25k
+Squad Nîmes Olympique,21,Namakoro Diallo,28,France,Left-Back,€250k
+Squad Nîmes Olympique,26,Sanasi Sy,25,France,Left-Back,€250k
+Squad Nîmes Olympique,17,Ronny Labonne,26,Martinique,Right-Back,€400k
+Squad Nîmes Olympique,25,Patrick Burner,28,Martinique,Right-Back,€400k
+Squad Nîmes Olympique,19,Hamza Sbaï,24,France,Right-Back,€100k
+Squad Nîmes Olympique,6,Brahima Doukansy,24,France,Defensive Midfield,€300k
+Squad Nîmes Olympique,18,Mathis Picouleau,23,France,Central Midfield,€400k
+Squad Nîmes Olympique,14,Jonathan Mexique,29,Martinique,Central Midfield,€300k
+Squad Nîmes Olympique,20,Léon Delpech,21,France,Central Midfield,€200k
+Squad Nîmes Olympique,7,Paul Wade,24,France,Central Midfield,€100k
+Squad Nîmes Olympique,12,Ibrahim Sacko,30,France,Central Midfield,€100k
+Squad Nîmes Olympique,8,Gauthier Laurens,23,France,Right Midfield,€50k
+Squad Nîmes Olympique,11,Axel Thoumin,22,France,Left Winger,€100k
+Squad Nîmes Olympique,27,Wesley Ngakoutou,22,Central African Republic,Right Winger,€100k
+Squad Nîmes Olympique,28,Freddy Mbemba,21,France,Centre-Forward,€400k
+Squad Nîmes Olympique,24,Abdoulaye Sané,31,Senegal,Centre-Forward,€375k
+Squad Nîmes Olympique,9,Orphé Mbina,23,Gabon,Centre-Forward,€300k
+Squad Nîmes Olympique,15,Ismaël Camara,23,Guinea,Centre-Forward,€200k
+Squad Nîmes Olympique,10,Mahamadou Doucouré,23,Mali,Centre-Forward,€150k
+Squad AS Nancy-Lorraine,16,Martin Sourzac,32,France,Goalkeeper,€200k
+Squad AS Nancy-Lorraine,30,Marco Giagnorio,22,France,Goalkeeper,€100k
+Squad AS Nancy-Lorraine,21,Lucas Pellegrini,24,France,Centre-Back,€300k
+Squad AS Nancy-Lorraine,15,Prince Mendy,29,Senegal,Centre-Back,€250k
+Squad AS Nancy-Lorraine,17,Maxence Carlier,27,France,Centre-Back,€250k
+Squad AS Nancy-Lorraine,3,Gwilhem Tayot,20,France,Left-Back,€350k
+Squad AS Nancy-Lorraine,24,Gaëtan Bussmann,33,France,Left-Back,€200k
+Squad AS Nancy-Lorraine,22,Shaquil Delos,24,France,Right-Back,€400k
+Squad AS Nancy-Lorraine,6,Teddy Bouriaud,27,France,Defensive Midfield,€300k
+Squad AS Nancy-Lorraine,4,Alassane Diaby,29,Mali,Defensive Midfield,€200k
+Squad AS Nancy-Lorraine,5,Maxime Nonnenmacher,21,France,Defensive Midfield,€50k
+Squad AS Nancy-Lorraine,19,Derek Mazou-Sacko,19,France,Central Midfield,€400k
+Squad AS Nancy-Lorraine,11,Mamadou Camara,21,Senegal,Central Midfield,€250k
+Squad AS Nancy-Lorraine,23,Louis Carnot,23,France,Central Midfield,€150k
+Squad AS Nancy-Lorraine,7,Benjamin Gomel,25,France,Left Winger,€400k
+Squad AS Nancy-Lorraine,10,Lenny Nangis,30,Guadeloupe,Left Winger,€300k
+Squad AS Nancy-Lorraine,29,Lamine Cissé,21,France,Right Winger,€500k
+Squad AS Nancy-Lorraine,20,Alexis Lefebvre,20,France,Right Winger,€300k
+Squad AS Nancy-Lorraine,13,Okardi Inikurogha,19,Nigeria,Right Winger,€50k
+Squad AS Nancy-Lorraine,28,Kévin Farade,28,Martinique,Centre-Forward,€300k
+Squad AS Nancy-Lorraine,9,Cheikh Touré,27,France,Centre-Forward,€200k
+Squad AS Nancy-Lorraine,18,Jonathan Rivas,32,France,Centre-Forward,€150k
+Squad AS Nancy-Lorraine,27,Josselin Gromat,26,France,Centre-Forward,€150k
+Squad AS Nancy-Lorraine,8,Walid Bouabdeli,23,France,Centre-Forward,€50k
+Squad FC Villefranche-Beaujolais,1,Sullivan Péan,24,France,Goalkeeper,€350k
+Squad FC Villefranche-Beaujolais,16,Eddy Ehlinger,22,France,Goalkeeper,€25k
+Squad FC Villefranche-Beaujolais,4,Djamal Moussadek,22,Morocco,Centre-Back,€300k
+Squad FC Villefranche-Beaujolais,6,Clidis da Silva,25,Senegal,Centre-Back,€300k
+Squad FC Villefranche-Beaujolais,2,Kobi Henry,19,United States,Centre-Back,€200k
+Squad FC Villefranche-Beaujolais,14,Nathan Dekoke,28,France,Left-Back,€300k
+Squad FC Villefranche-Beaujolais,7,Rosario Latouchent,28,Martinique,Left-Back,€250k
+Squad FC Villefranche-Beaujolais,15,Théo Emmanuelli,24,France,Left-Back,€50k
+Squad FC Villefranche-Beaujolais,27,Julien Kouadio,24,France,Right-Back,€350k
+Squad FC Villefranche-Beaujolais,18,Davis Abanda Mfomo,23,France,Right-Back,€250k
+Squad FC Villefranche-Beaujolais,22,Laurent Dos Santos,31,France,Right-Back,€200k
+Squad FC Villefranche-Beaujolais,5,Rémi Bonenfant,35,France,Right-Back,€100k
+Squad FC Villefranche-Beaujolais,28,Abou Ba,25,France,Defensive Midfield,€300k
+Squad FC Villefranche-Beaujolais,13,Bakari Camara,30,Mauritania,Defensive Midfield,€150k
+Squad FC Villefranche-Beaujolais,20,Rémi Sergio,36,France,Defensive Midfield,€150k
+Squad FC Villefranche-Beaujolais,8,Mourad Louzif,23,Morocco,Central Midfield,€400k
+Squad FC Villefranche-Beaujolais,10,Maxime Blanc,32,France,Central Midfield,€250k
+Squad FC Villefranche-Beaujolais,24,Sofiane Bendaoud,31,France,Central Midfield,€200k
+Squad FC Villefranche-Beaujolais,11,Oumar Sidibé,23,France,Attacking Midfield,€200k
+Squad FC Villefranche-Beaujolais,23,Dassiemou Mai,27,England,Right Winger,€100k
+Squad FC Villefranche-Beaujolais,9,Amine Messoussa,19,France,Centre-Forward,€400k
+Squad FC Villefranche-Beaujolais,12,Claudy M'Buyi,24,France,Centre-Forward,€400k
+Squad FC Villefranche-Beaujolais,19,Idrissa Ba,33,France,Centre-Forward,€200k
+Squad US Avranches,1,Anthony Beuve,35,France,Goalkeeper,€150k
+Squad US Avranches,40,Ghjuvanni Quilichini,21,France,Goalkeeper,€100k
+Squad US Avranches,16,Cédric Mensah,35,Togo,Goalkeeper,€50k
+Squad US Avranches,4,Mathis Lemeray,22,France,Centre-Back,€300k
+Squad US Avranches,5,Mattéo Rabuel,23,France,Centre-Back,€300k
+Squad US Avranches,6,Justin Smith,21,Canada,Centre-Back,€300k
+Squad US Avranches,3,Sékou Fofana,21,Cote d'Ivoire,Left-Back,€400k
+Squad US Avranches,12,Damon Bansais,30,France,Right-Back,€250k
+Squad US Avranches,2,Bastien Launay,25,France,Right-Back,€200k
+Squad US Avranches,26,Emeric Dudouit,32,France,Right-Back,€200k
+Squad US Avranches,23,Victor Daguin,24,France,Defensive Midfield,€400k
+Squad US Avranches,25,Jessy Pi,30,France,Defensive Midfield,€400k
+Squad US Avranches,14,Leverton Pierre,26,Haiti,Defensive Midfield,€350k
+Squad US Avranches,8,Charles Boateng,34,Ghana,Defensive Midfield,€100k
+Squad US Avranches,10,Pierre Magnon,27,France,Central Midfield,€250k
+Squad US Avranches,32,Mathéo Remars,24,France,Right Midfield,€300k
+Squad US Avranches,24,Aurélien Tertereau,32,France,Attacking Midfield,€150k
+Squad US Avranches,28,Ryan Fage,20,France,Attacking Midfield,€100k
+Squad US Avranches,11,Dany Jean,21,Haiti,Left Winger,€400k
+Squad US Avranches,20,Alan Kerouedan,24,France,Right Winger,€500k
+Squad US Avranches,18,Isaac Tshipamba,23,France,Right Winger,€50k
+Squad US Avranches,7,Steven Nsimba,27,France,Centre-Forward,€150k
+Squad Le Mans FC,16,Nicolas Kocik,25,France,Goalkeeper,€350k
+Squad Le Mans FC,1,Ewan Hatfout,24,France,Goalkeeper,€100k
+Squad Le Mans FC,30,Augustin Delbecque,22,France,Goalkeeper,€25k
+Squad Le Mans FC,5,Harold Voyer,27,Martinique,Centre-Back,€350k
+Squad Le Mans FC,17,Samuel Yohou,32,France,Centre-Back,€200k
+Squad Le Mans FC,21,Théo Eyoum,22,France,Centre-Back,€150k
+Squad Le Mans FC,24,Paul Lehoux,22,France,Centre-Back,€50k
+Squad Le Mans FC,20,Hugo Vargas-Ríos,29,France,Left-Back,€300k
+Squad Le Mans FC,22,Lilian Njoh,22,France,Left-Back,€100k
+Squad Le Mans FC,12,Anthony Ribelin,28,France,Right-Back,€300k
+Squad Le Mans FC,8,Alexandre Lauray,27,France,Right-Back,€200k
+Squad Le Mans FC,29,Edwin Quarshie,28,France,Defensive Midfield,€300k
+Squad Le Mans FC,13,Ugo Raghouber,20,France,Defensive Midfield,€200k
+Squad Le Mans FC,6,Mathieu Coutadeur,38,France,Central Midfield,€100k
+Squad Le Mans FC,10,Yoann Le Méhauté,29,France,Attacking Midfield,€400k
+Squad Le Mans FC,19,Alexandre Vincent,29,France,Attacking Midfield,€200k
+Squad Le Mans FC,11,Makan Aïko,23,France,Left Winger,€350k
+Squad Le Mans FC,14,Mathis Touho,19,France,Left Winger,€200k
+Squad Le Mans FC,26,Erwan Colas,26,France,Left Winger,€200k
+Squad Le Mans FC,18,Mehdi Boussaïd,28,Algeria,Right Winger,€350k
+Squad Le Mans FC,31,Adam Hammoudi,21,France,Second Striker,€25k
+Squad Le Mans FC,9,Antoine Rabillard,28,France,Centre-Forward,€400k
+Squad Le Mans FC,15,Arnold Vula,25,DR Congo,Centre-Forward,€200k
+Squad Le Mans FC,25,Dame Gueye,28,Senegal,Centre-Forward,€200k
+Squad FC Martigues,30,Jérémy Aymes,35,France,Goalkeeper,€150k
+Squad FC Martigues,40,Romain Cagnon,26,France,Goalkeeper,€100k
+Squad FC Martigues,24,Léandro Morante,26,France,Centre-Back,€500k
+Squad FC Martigues,5,Raphaël Calvet,30,France,Centre-Back,€250k
+Squad FC Martigues,3,Rudolf Turkaj,29,Albania,Centre-Back,€200k
+Squad FC Martigues,4,Ahmed Soilihi,27,Comoros,Centre-Back,€200k
+Squad FC Martigues,8,Yanis Zouaoui,25,France,Left-Back,€500k
+Squad FC Martigues,-,Nassim Ahmed,23,France,Left-Back,-
+Squad FC Martigues,22,Akim Djaha,25,Comoros,Right-Back,€300k
+Squad FC Martigues,20,Yazid Aït Moujane,23,France,Right-Back,€150k
+Squad FC Martigues,21,Yanis Hadjem,22,Algeria,Right-Back,€100k
+Squad FC Martigues,6,Francis Kembolo,33,France,Defensive Midfield,€200k
+Squad FC Martigues,13,Amine Hemia,26,France,Central Midfield,€500k
+Squad FC Martigues,12,Milan Robin,24,France,Central Midfield,€250k
+Squad FC Martigues,26,Samir Belloumou,29,France,Central Midfield,€150k
+Squad FC Martigues,7,Oualid Orinel,33,France,Central Midfield,€100k
+Squad FC Martigues,28,Foued Kadir,40,Algeria,Attacking Midfield,€100k
+Squad FC Martigues,27,Alain Ipiélé,26,Congo,Right Winger,€350k
+Squad FC Martigues,19,Noa Cervantes,21,Algeria,Right Winger,€300k
+Squad FC Martigues,10,Karim Tlili,34,France,Right Winger,€200k
+Squad FC Martigues,29,Oucasse Mendy,22,France,Right Winger,€50k
+Squad FC Martigues,9,Romain Montiel,28,France,Centre-Forward,€350k
+Squad FC Martigues,18,Gaëtan Missi Mezu,27,Gabon,Centre-Forward,€200k
+Squad FC Martigues,11,Abdoul Diawara,33,France,Centre-Forward,€50k
+Squad Chamois Niortais FC,1,Paul Delecroix,35,France,Goalkeeper,€150k
+Squad Chamois Niortais FC,40,Jacques Mbiandjeu,21,Cameroon,Goalkeeper,€25k
+Squad Chamois Niortais FC,18,Bradley M'Bondo,22,France,Centre-Back,€400k
+Squad Chamois Niortais FC,5,Bruno Ecuele Manga,35,Gabon,Centre-Back,€200k
+Squad Chamois Niortais FC,4,Jean-Philippe Célestin,21,France,Centre-Back,€25k
+Squad Chamois Niortais FC,2,Quentin Bernard,34,France,Left-Back,€250k
+Squad Chamois Niortais FC,25,Raphaël Anaba,24,Cameroon,Left-Back,€150k
+Squad Chamois Niortais FC,14,Dylan Durivaux,22,France,Right-Back,€400k
+Squad Chamois Niortais FC,26,Samy Benchamma,23,France,Defensive Midfield,€500k
+Squad Chamois Niortais FC,21,Natanaël Bouekou,21,France,Defensive Midfield,€200k
+Squad Chamois Niortais FC,28,Nacim El Hassani,24,France,Defensive Midfield,€100k
+Squad Chamois Niortais FC,17,Samuel Renel,22,Martinique,Central Midfield,€400k
+Squad Chamois Niortais FC,7,Moataz Zemzemi,24,Tunisia,Left Midfield,€500k
+Squad Chamois Niortais FC,29,Kylian Gasnier,21,France,Attacking Midfield,€300k
+Squad Chamois Niortais FC,20,Billal El Kaddouri,22,France,Left Winger,€300k
+Squad Chamois Niortais FC,10,Belkacem Dali Amar,25,France,Left Winger,€50k
+Squad Chamois Niortais FC,23,Mory Keita,27,Cote d'Ivoire,Left Winger,€50k
+Squad Chamois Niortais FC,11,Sidi Cissé,21,France,Right Winger,€150k
+Squad Chamois Niortais FC,24,Tyrone Tormin,22,France,Second Striker,€100k
+Squad Chamois Niortais FC,9,Marks Inchaud,21,France,Centre-Forward,€350k
+Squad Chamois Niortais FC,19,Nesta Elphege,23,France,Centre-Forward,€300k
+Squad Chamois Niortais FC,8,Godwin Bentil,23,Ghana,Centre-Forward,€150k
+Squad Chamois Niortais FC,22,Ryan Bakayoko,22,France,Centre-Forward,€150k
+Squad SO Cholet,40,Ousmane Ba,21,Senegal,Goalkeeper,€350k
+Squad SO Cholet,16,Thomas Secchi,26,France,Goalkeeper,€150k
+Squad SO Cholet,1,Dan Delaunay,29,France,Goalkeeper,€50k
+Squad SO Cholet,15,Nathan Monzango,22,France,Centre-Back,€300k
+Squad SO Cholet,4,Djessine Seba,29,France,Centre-Back,€250k
+Squad SO Cholet,27,Ismaël Dramé,22,France,Centre-Back,€100k
+Squad SO Cholet,13,Samuel Guibert,35,France,Centre-Back,€50k
+Squad SO Cholet,34,Hichem Khoutri,21,France,Centre-Back,€50k
+Squad SO Cholet,23,Martin Expérience,25,Haiti,Left-Back,€300k
+Squad SO Cholet,20,Abdoulkader Thiam,25,Mauritania,Left-Back,€200k
+Squad SO Cholet,22,Yamadou Fofana,32,France,Left-Back,€50k
+Squad SO Cholet,14,Jérémi Santini,25,France,Right-Back,€250k
+Squad SO Cholet,2,Amidou Diop,20,Senegal,Right-Back,€100k
+Squad SO Cholet,6,Tom Renaud,23,France,Defensive Midfield,€300k
+Squad SO Cholet,8,Frédéric Injaï,28,France,Defensive Midfield,€150k
+Squad SO Cholet,37,Kamal Bafounta,22,France,Defensive Midfield,€100k
+Squad SO Cholet,5,Bogdan Zekovic,26,France,Midfielder,€50k
+Squad SO Cholet,24,Adama Diop,21,Mauritania,Defensive Midfield,€50k
+Squad SO Cholet,21,Hamza Hafidi,31,Morocco,Central Midfield,€100k
+Squad SO Cholet,19,Sacha Botton,22,France,Central Midfield,€50k
+Squad SO Cholet,39,Aliou Dembélé,36,France,Central Midfield,€50k
+Squad SO Cholet,17,Alexandre Gameiro,25,France,Right Midfield,€250k
+Squad SO Cholet,31,Ilyes Najim,21,France,Attacking Midfield,€400k
+Squad SO Cholet,25,Jordan Robinand,20,France,Attacking Midfield,€150k
+Squad SO Cholet,11,Moudja Sié Ouattara,21,Cote d'Ivoire,Left Winger,€200k
+Squad SO Cholet,32,Ivane Chegra,20,Algeria,Right Winger,€200k
+Squad SO Cholet,18,Babou Seye,20,Senegal,Right Winger,€50k
+Squad SO Cholet,12,Yankuba Jarju,27,The Gambia,Centre-Forward,€350k
+Squad SO Cholet,10,Oussama Abdeldjelil,30,Algeria,Centre-Forward,€200k
+Squad SO Cholet,35,Jeffrey Quarshie,32,France,Centre-Forward,€200k
+Squad SO Cholet,9,Andgelo Mosset,21,France,Centre-Forward,€50k
+Squad LB Châteauroux,40,Hillel Konaté,29,Burkina Faso,Goalkeeper,€250k
+Squad LB Châteauroux,16,Brice Cognard,33,Guadeloupe,Goalkeeper,€50k
+Squad LB Châteauroux,20,Glen Matondo,26,France,Centre-Back,€300k
+Squad LB Châteauroux,27,Baptiste Guyot,27,France,Centre-Back,€300k
+Squad LB Châteauroux,6,Vincent Pirès,28,France,Centre-Back,€250k
+Squad LB Châteauroux,34,Jason Gnakpa,20,France,Centre-Back,€100k
+Squad LB Châteauroux,26,Hervé Mombela,28,France,Centre-Back,-
+Squad LB Châteauroux,11,Rémy Duterte,29,France,Left-Back,€250k
+Squad LB Châteauroux,13,Adama Mbengue,30,Senegal,Left-Back,€250k
+Squad LB Châteauroux,17,Aloys Fouda,23,Cameroon,Right-Back,€250k
+Squad LB Châteauroux,23,Tony Njiké,26,France,Defensive Midfield,€500k
+Squad LB Châteauroux,18,Omaré Gassama,28,Mauritania,Defensive Midfield,€150k
+Squad LB Châteauroux,8,Othmane Chraibi,21,Morocco,Defensive Midfield,€50k
+Squad LB Châteauroux,25,Stéphane Mbia,37,Cameroon,Defensive Midfield,-
+Squad LB Châteauroux,10,Antoine Mille,26,France,Central Midfield,€350k
+Squad LB Châteauroux,24,Hugo Colella,24,France,Right Midfield,€150k
+Squad LB Châteauroux,22,Fredler Christophe,22,Haiti,Right Midfield,€50k
+Squad LB Châteauroux,21,Kapo Sylva,31,France,Attacking Midfield,€200k
+Squad LB Châteauroux,19,Landry Nomel,26,France,Left Winger,€300k
+Squad LB Châteauroux,4,Thiemoko Diarra,20,Mali,Left Winger,€50k
+Squad LB Châteauroux,9,Geoffray Durbant,31,Guadeloupe,Centre-Forward,€400k
+Squad LB Châteauroux,29,Zakaria Bengueddoudj,24,France,Centre-Forward,€300k
+Squad LB Châteauroux,7,François Mendy,24,France,Centre-Forward,€100k
+Squad US Orléans,1,Vincent Viot,29,France,Goalkeeper,€300k
+Squad US Orléans,16,Owen-Césaire Matimbou,21,Congo,Goalkeeper,€25k
+Squad US Orléans,3,Steve Solvet,28,Guadeloupe,Centre-Back,€300k
+Squad US Orléans,14,Nicolas Saint-Ruf,31,Guadeloupe,Centre-Back,€300k
+Squad US Orléans,5,Modibo Camara,20,France,Centre-Back,€50k
+Squad US Orléans,21,Virgil Thérésin,25,France,Centre-Back,€50k
+Squad US Orléans,4,Morgan Jean-Pierre,31,Guadeloupe,Left-Back,€200k
+Squad US Orléans,12,Adrien Pagerie,31,France,Left-Back,€150k
+Squad US Orléans,22,Jimmy Halby Touré,27,France,Right-Back,€300k
+Squad US Orléans,28,Brandon Agounon,29,Benin,Right-Back,€250k
+Squad US Orléans,15,Loïc Goujon,28,France,Defensive Midfield,€300k
+Squad US Orléans,25,Lucas Bretelle,22,France,Defensive Midfield,€300k
+Squad US Orléans,6,Adama Niakaté,23,France,Defensive Midfield,€100k
+Squad US Orléans,-,Youssouf Mulumbu,37,DR Congo,Defensive Midfield,€25k
+Squad US Orléans,19,Grégory Berthier,28,France,Right Midfield,€300k
+Squad US Orléans,20,Ryan Ponti,25,France,Left Midfield,€300k
+Squad US Orléans,8,Vincent Marcel,27,France,Left Winger,€350k
+Squad US Orléans,7,Yahya Soumaré,23,France,Right Winger,€200k
+Squad US Orléans,10,Adrian Dabasse,30,France,Centre-Forward,€250k
+Squad US Orléans,9,Johanne Akassou,28,France,Centre-Forward,€100k
+Squad US Orléans,17,Philippe Etoughe,28,Gabon,Centre-Forward,€100k
+Squad FC Rouen 1899,1,Axel Maraval,30,France,Goalkeeper,€300k
+Squad FC Rouen 1899,30,Léonard Aggoune,26,France,Goalkeeper,€25k
+Squad FC Rouen 1899,23,Sofyane Bouzamoucha,23,France,Centre-Back,€400k
+Squad FC Rouen 1899,24,Adon Gomis,31,Guinea-Bissau,Centre-Back,€200k
+Squad FC Rouen 1899,26,Valentin Sanson,31,France,Centre-Back,€200k
+Squad FC Rouen 1899,18,Clément Bassin,29,France,Centre-Back,€150k
+Squad FC Rouen 1899,29,Mathieu Mion,23,France,Left-Back,€300k
+Squad FC Rouen 1899,19,Ruffice Amédé Kabongo,23,France,Left-Back,€100k
+Squad FC Rouen 1899,2,Lamine Sy,21,France,Right-Back,€400k
+Squad FC Rouen 1899,6,Mustapha Benzia,33,France,Defensive Midfield,€200k
+Squad FC Rouen 1899,12,Mohamed Ouadah,29,France,Central Midfield,€300k
+Squad FC Rouen 1899,17,Ahmad Allée,27,Iraq,Central Midfield,€250k
+Squad FC Rouen 1899,5,Malik Abdelmoula,31,France,Central Midfield,€200k
+Squad FC Rouen 1899,8,Omar Bezzekhami,28,France,Central Midfield,€150k
+Squad FC Rouen 1899,14,Naël Bensoula,20,France,Central Midfield,€100k
+Squad FC Rouen 1899,22,Antoine Bernasque,22,France,Central Midfield,€50k
+Squad FC Rouen 1899,10,Abdeljalil Sahloune,29,France,Left Winger,€200k
+Squad FC Rouen 1899,25,Zana Allée,30,France,Left Winger,€150k
+Squad FC Rouen 1899,7,Damien Loppy,26,France,Centre-Forward,€200k
+Squad FC Rouen 1899,27,Hicham Benkaid,33,France,Centre-Forward,€200k
+Squad Grand Ouest Association Lyonnaise FC,1,Antoine Philippon,34,France,Goalkeeper,€100k
+Squad Grand Ouest Association Lyonnaise FC,16,Erwan Drais,26,France,Goalkeeper,€50k
+Squad Grand Ouest Association Lyonnaise FC,17,Lucas Camelo,25,France,Centre-Back,€200k
+Squad Grand Ouest Association Lyonnaise FC,4,Malick Lopy,26,France,Centre-Back,€150k
+Squad Grand Ouest Association Lyonnaise FC,22,Oumar Camara,23,France,Centre-Back,€150k
+Squad Grand Ouest Association Lyonnaise FC,5,Kassim M'Dahoma,27,Comoros,Centre-Back,€100k
+Squad Grand Ouest Association Lyonnaise FC,-,Maramadou Kaba,20,France,Centre-Back,-
+Squad Grand Ouest Association Lyonnaise FC,23,Nathan Tanard,26,France,Left-Back,€200k
+Squad Grand Ouest Association Lyonnaise FC,-,Lucas Calodat,22,France,Left-Back,€100k
+Squad Grand Ouest Association Lyonnaise FC,18,Mathis Louiserre,23,France,Left-Back,€50k
+Squad Grand Ouest Association Lyonnaise FC,3,Adrien Julloux,27,France,Right-Back,€250k
+Squad Grand Ouest Association Lyonnaise FC,6,Loïc Dufau,35,France,Defensive Midfield,€100k
+Squad Grand Ouest Association Lyonnaise FC,8,Romain Caumet,25,France,Defensive Midfield,€100k
+Squad Grand Ouest Association Lyonnaise FC,-,Moïse Mbemba Yamfu,24,France,Defensive Midfield,-
+Squad Grand Ouest Association Lyonnaise FC,27,Cazim Suljic,27,Bosnia-Herzegovina,Central Midfield,€200k
+Squad Grand Ouest Association Lyonnaise FC,10,Thibaut Lemaître,28,France,Central Midfield,€100k
+Squad Grand Ouest Association Lyonnaise FC,7,Enzo Réale,32,France,Central Midfield,€50k
+Squad Grand Ouest Association Lyonnaise FC,24,Léo Fichten,29,France,Central Midfield,€50k
+Squad Grand Ouest Association Lyonnaise FC,21,Côme Fromager,20,France,Attacking Midfield,€50k
+Squad Grand Ouest Association Lyonnaise FC,20,Chafik Abbas,25,France,Left Winger,€100k
+Squad Grand Ouest Association Lyonnaise FC,-,Boubakar Camara,23,France,Right Winger,€200k
+Squad Grand Ouest Association Lyonnaise FC,11,Jonathan Mambu,28,France,Right Winger,€100k
+Squad Grand Ouest Association Lyonnaise FC,-,Hamilton Beltran,29,France,Right Winger,-
+Squad Grand Ouest Association Lyonnaise FC,14,Alexis Gonçalves Pereira,27,Cape Verde,Centre-Forward,€200k
+Squad Grand Ouest Association Lyonnaise FC,9,Thibault Rambaud,26,France,Centre-Forward,€100k
+Squad Grand Ouest Association Lyonnaise FC,12,Malick Assef,29,France,Centre-Forward,€100k
+Squad Grand Ouest Association Lyonnaise FC,26,Loïc Socka Bongué,25,France,Centre-Forward,€100k
+Squad Grand Ouest Association Lyonnaise FC,29,Florian Raspentino,34,France,Centre-Forward,€50k
+Squad SAS Epinal,1,Salim Ben Boina,32,Comoros,Goalkeeper,€150k
+Squad SAS Epinal,16,Dorian Salhi,24,France,Goalkeeper,€100k
+Squad SAS Epinal,28,Muamer Aljic,23,France,Centre-Back,€200k
+Squad SAS Epinal,2,Paul Léonard,30,France,Centre-Back,€150k
+Squad SAS Epinal,13,Baptiste Aloé,29,France,Centre-Back,€150k
+Squad SAS Epinal,5,Marc Laurent,26,France,Centre-Back,€100k
+Squad SAS Epinal,15,Isaak Umbdenstock,25,France,Left-Back,€250k
+Squad SAS Epinal,23,Nicolas Borodine,30,France,Left-Back,€50k
+Squad SAS Epinal,18,Yann Godart,22,France,Right-Back,€300k
+Squad SAS Epinal,22,David Luvualu,27,France,Right-Back,€150k
+Squad SAS Epinal,8,Jérémy Colin,33,France,Right-Back,€100k
+Squad SAS Epinal,3,Rafael Mazzei,34,Brazil,Right-Back,€50k
+Squad SAS Epinal,-,Sidy Sarr,27,Senegal,Defensive Midfield,€300k
+Squad SAS Epinal,10,Nianankoro Doumbia,27,Mali,Defensive Midfield,€100k
+Squad SAS Epinal,20,Abdoulaye Niang,26,France,Defensive Midfield,€100k
+Squad SAS Epinal,6,Sébastien Chéré,37,France,Central Midfield,€100k
+Squad SAS Epinal,19,Arthur Vallon,25,France,Central Midfield,€100k
+Squad SAS Epinal,7,Bryan Labissiere,27,Haiti,Attacking Midfield,€100k
+Squad SAS Epinal,17,Ali M'Madi,33,Comoros,Left Winger,€100k
+Squad SAS Epinal,11,Morgan Bokele,20,Cameroon,Left Winger,-
+Squad SAS Epinal,10,Kamel Bennekrouf,32,France,Right Winger,-
+Squad SAS Epinal,27,Karim Coulibaly,30,France,Centre-Forward,€100k
+Squad SAS Epinal,9,Hugo Chambon,27,France,Centre-Forward,€50k
+Squad Marignane-Gignac-Côte-Bleue FC,1,Anthony Herbin,24,France,Goalkeeper,€100k
+Squad Marignane-Gignac-Côte-Bleue FC,30,Cyril Boukhit,32,Algeria,Goalkeeper,€100k
+Squad Marignane-Gignac-Côte-Bleue FC,16,Léo Colin,20,France,Goalkeeper,€25k
+Squad Marignane-Gignac-Côte-Bleue FC,6,Loni Quenabio,23,France,Centre-Back,€300k
+Squad Marignane-Gignac-Côte-Bleue FC,4,Ali Bamba,32,Cote d'Ivoire,Centre-Back,€100k
+Squad Marignane-Gignac-Côte-Bleue FC,20,Houssen Abderrahmane,29,Mauritania,Left-Back,€150k
+Squad Marignane-Gignac-Côte-Bleue FC,17,Abdelkrim Khechmar,25,Algeria,Left-Back,€50k
+Squad Marignane-Gignac-Côte-Bleue FC,11,Diaby Doucouré,27,France,Right-Back,€100k
+Squad Marignane-Gignac-Côte-Bleue FC,18,Dany Goprou,25,France,Right-Back,€25k
+Squad Marignane-Gignac-Côte-Bleue FC,22,Randi Goteni,28,Congo,Defensive Midfield,€200k
+Squad Marignane-Gignac-Côte-Bleue FC,8,Charif Benhamza,31,France,Defensive Midfield,€100k
+Squad Marignane-Gignac-Côte-Bleue FC,25,Osée Diampo Sengele,31,DR Congo,Defensive Midfield,€100k
+Squad Marignane-Gignac-Côte-Bleue FC,26,Salim Mramboini,39,Comoros,Defensive Midfield,€50k
+Squad Marignane-Gignac-Côte-Bleue FC,19,Youness Diatta,27,France,Central Midfield,€50k
+Squad Marignane-Gignac-Côte-Bleue FC,10,Diawoye Diarra,29,Mali,Left Midfield,€150k
+Squad Marignane-Gignac-Côte-Bleue FC,15,Maxence Renoud,24,France,Attacking Midfield,€100k
+Squad Marignane-Gignac-Côte-Bleue FC,29,Mansour Sy,26,France,Attacking Midfield,€100k
+Squad Marignane-Gignac-Côte-Bleue FC,13,Bissourou Touré,29,France,Left Winger,€150k
+Squad Marignane-Gignac-Côte-Bleue FC,7,Guillaume Bosca,34,France,Right Winger,€100k
+Squad Marignane-Gignac-Côte-Bleue FC,9,Karim Bouhmidi,25,Algeria,Centre-Forward,€200k
+Squad Marignane-Gignac-Côte-Bleue FC,12,Mehdi Nagui,28,France,Centre-Forward,€50k
+Squad Toulouse FC B,-,Justin Lacombe,21,France,Goalkeeper,€100k
+Squad Toulouse FC B,-,Naime Said Mchindra,18,France,Goalkeeper,-
+Squad Toulouse FC B,-,Frédéric Efuele Ngoyala,19,DR Congo,Defender,-
+Squad Toulouse FC B,-,Gaëtan Bakhouche Piernas,19,France,Defender,-
+Squad Toulouse FC B,-,Nicolas Wasbauer,19,France,Centre-Back,€50k
+Squad Toulouse FC B,-,Yannick Agora,20,France,Right-Back,-
+Squad Toulouse FC B,-,Yanis Zodehougan,20,France,Midfielder,-
+Squad Toulouse FC B,-,Noah Lahmadi,19,France,Central Midfield,€100k
+Squad Toulouse FC B,-,Kylian Watel,20,France,Central Midfield,-
+Squad Toulouse FC B,-,Rafik Messali,20,Algeria,Right Midfield,-
+Squad Toulouse FC B,-,Edhy Zuliani,19,Algeria,Attacking Midfield,€50k
+Squad Toulouse FC B,-,Noah Edjouma,18,France,Right Winger,€100k
+Squad Toulouse FC B,-,Bonota Traoré,20,France,Centre-Forward,€50k
+Squad Toulouse FC B,-,Alexis Ntamack,19,France,Striker,-
+Squad Toulouse FC B,-,Warren Ngako,19,France,Striker,-
+Squad Toulouse FC B,-,Mamadou Kébé,20,France,Striker,-
+Squad Toulouse FC B,-,Giacomo Perez,20,France,Striker,-
+Squad FC Chamalières,16,Dorian Chiotti,25,Mauritius,Goalkeeper,-
+Squad FC Chamalières,30,Quentin Odin,23,France,Goalkeeper,-
+Squad FC Chamalières,5,Luca Géry,26,France,Centre-Back,-
+Squad FC Chamalières,20,Aly Naïte,24,Guinea,Centre-Back,-
+Squad FC Chamalières,24,Paul Schacherer,22,France,Centre-Back,-
+Squad FC Chamalières,3,Mathieu Mrdenovic,27,France,Left-Back,-
+Squad FC Chamalières,27,Germain Kapela,21,France,Left-Back,-
+Squad FC Chamalières,2,Jocelyn Guehennec,28,France,Right-Back,-
+Squad FC Chamalières,14,Kévin Bouvier,30,France,Right-Back,-
+Squad FC Chamalières,21,Julien Barras,26,France,Right-Back,-
+Squad FC Chamalières,-,Lakhdar Belal,23,France,Midfielder,-
+Squad FC Chamalières,8,Anthony Rance,27,France,Defensive Midfield,-
+Squad FC Chamalières,15,Antoine Couderc,29,France,Defensive Midfield,-
+Squad FC Chamalières,22,Yoan Dignan,23,France,Defensive Midfield,-
+Squad FC Chamalières,25,Mathis Dodin,24,France,Defensive Midfield,-
+Squad FC Chamalières,12,Fred Gnalega,22,Cote d'Ivoire,Central Midfield,€100k
+Squad FC Chamalières,-,Sofien Benbachir,29,France,Central Midfield,-
+Squad FC Chamalières,7,Matthieu Tressy,28,France,Central Midfield,-
+Squad FC Chamalières,10,Zakaria Grich,27,France,Left Midfield,-
+Squad FC Chamalières,13,Joseph Séry,23,France,Centre-Forward,-
+Squad FC Chamalières,11,Bakeba-Lamine Dibane,28,France,Centre-Forward,-
+Squad FC Chamalières,28,Michael Nsilu Kuyenga,22,France,Centre-Forward,-
+Squad Hyères 83 FC,1,Florian Andreani,27,France,Goalkeeper,-
+Squad Hyères 83 FC,40,Djemoui Malek,20,Algeria,Goalkeeper,-
+Squad Hyères 83 FC,4,Bilel Agueni,29,France,Centre-Back,-
+Squad Hyères 83 FC,17,Aboubacar Magnora,27,Guinea,Centre-Back,-
+Squad Hyères 83 FC,19,Mohamed Sahnoune,33,France,Centre-Back,-
+Squad Hyères 83 FC,27,Grégoire Pineau,24,France,Centre-Back,-
+Squad Hyères 83 FC,3,Thierry N'Joh-Eboa,30,France,Left-Back,-
+Squad Hyères 83 FC,20,Jérémy Cordoval,34,Guadeloupe,Right-Back,-
+Squad Hyères 83 FC,23,Youssef Gazzaoui,27,France,Right-Back,-
+Squad Hyères 83 FC,6,Mattéo Brossel,22,France,Midfielder,-
+Squad Hyères 83 FC,25,Almike Moussa N'Diaye,27,Mauritania,Central Midfield,€100k
+Squad Hyères 83 FC,26,Eric Mathieu,29,France,Central Midfield,-
+Squad Hyères 83 FC,18,Adama Gueye,26,Senegal,Attacking Midfield,-
+Squad Hyères 83 FC,-,Mohamed Mara,27,Guinea,Left Winger,-
+Squad Hyères 83 FC,8,Yassine Zerfaoui,28,France,Left Winger,-
+Squad Hyères 83 FC,22,Sander Benbachir,26,France,Left Winger,-
+Squad Hyères 83 FC,10,Amine El Farissi,25,France,Right Winger,-
+Squad Hyères 83 FC,5,Tiago,30,Brazil,Centre-Forward,-
+Squad Hyères 83 FC,7,Abdelkrim Khaled,24,France,Striker,-
+Squad Hyères 83 FC,11,Alexis Ebrard,27,France,Centre-Forward,-
+Squad Aubagne FC,16,Aubin Long,27,France,Goalkeeper,-
+Squad Aubagne FC,1,Matthias Nouichi,20,France,Goalkeeper,-
+Squad Aubagne FC,30,Jordan Gil,27,France,Goalkeeper,-
+Squad Aubagne FC,-,Yassine Dahmani,19,Algeria,Centre-Back,-
+Squad Aubagne FC,20,Mohamed Nehari,31,France,Centre-Back,-
+Squad Aubagne FC,27,Nomena Andriantiana,24,Madagascar,Centre-Back,-
+Squad Aubagne FC,3,Fady Khatir,27,France,Left-Back,-
+Squad Aubagne FC,2,Thomas Carbonero,22,France,Right-Back,-
+Squad Aubagne FC,23,Esteban Mouton,20,France,Right-Back,-
+Squad Aubagne FC,12,Abdoul Kaboré,30,Burkina Faso,Defensive Midfield,-
+Squad Aubagne FC,8,Taoufik El Faqyh,29,France,Defensive Midfield,-
+Squad Aubagne FC,17,Kyan Sadani,20,France,Midfielder,-
+Squad Aubagne FC,22,Ryan Sylva,21,France,Midfielder,-
+Squad Aubagne FC,26,Baptiste Rivière,24,France,Midfielder,-
+Squad Aubagne FC,4,Cyril Khetir,23,Algeria,Central Midfield,-
+Squad Aubagne FC,19,Yamin Amiri,34,France,Right Midfield,-
+Squad Aubagne FC,-,Slimane Alaoui,19,France,Attacking Midfield,-
+Squad Aubagne FC,21,Christophe Gomis,31,France,Left Winger,-
+Squad Aubagne FC,13,Thibault Vialla,28,France,Right Winger,-
+Squad Aubagne FC,15,Lamine Djaballah,41,France,Right Winger,-
+Squad Aubagne FC,9,Cédric Odzoumo,28,France,Centre-Forward,-
+Squad Aubagne FC,6,Adem Tafni,19,France,Striker,-
+Squad Aubagne FC,11,Bilel Tafni,19,France,Striker,-
+Squad Aubagne FC,24,Raphaël Pioton,28,France,Centre-Forward,-
+Squad AS Cannes,-,Alexandre Marfaing,28,France,Goalkeeper,-
+Squad AS Cannes,1,Lucas Mocio,29,France,Goalkeeper,-
+Squad AS Cannes,21,Karl de Souza,26,France,Defender,-
+Squad AS Cannes,5,Jonas Smith,24,France,Centre-Back,-
+Squad AS Cannes,25,Quentin Moutiapoullé,31,France,Centre-Back,-
+Squad AS Cannes,27,Maxime Aguad,27,France,Centre-Back,-
+Squad AS Cannes,28,Wilcem Alouache,29,France,Centre-Back,-
+Squad AS Cannes,12,Mathias Fischer,25,France,Left-Back,-
+Squad AS Cannes,3,Nicolas Coulanghon,26,France,Left-Back,-
+Squad AS Cannes,20,Lorenzo Vinci,28,France,Right-Back,-
+Squad AS Cannes,8,Théo Trinker,22,France,Defensive Midfield,-
+Squad AS Cannes,18,Cantyn Chastang,26,France,Defensive Midfield,-
+Squad AS Cannes,14,Florian Baranik,22,France,Central Midfield,-
+Squad AS Cannes,29,Naël Jaby,22,France,Central Midfield,-
+Squad AS Cannes,15,Sofiane Bourouis Belle,23,France,Left Winger,-
+Squad AS Cannes,6,Cédric Gonçalves,30,France,Right Winger,-
+Squad AS Cannes,22,Julien Domingues,28,France,Right Winger,-
+Squad AS Cannes,9,Lenny Leonil,26,France,Centre-Forward,-
+Squad AS Cannes,11,Souleiman Djabour,35,France,Centre-Forward,-
+Squad AS Cannes,10,Stanislas Kielt,22,France,Striker,-
+Squad Fréjus-Saint-Raphaël FC,1,Théo Vermot,27,France,Goalkeeper,-
+Squad Fréjus-Saint-Raphaël FC,-,Noah Djebali,18,France,Goalkeeper,-
+Squad Fréjus-Saint-Raphaël FC,16,Vicenzo Bezzina,25,France,Goalkeeper,-
+Squad Fréjus-Saint-Raphaël FC,22,Ilyasse Maamar Ben Hadjar,27,France,Defender,-
+Squad Fréjus-Saint-Raphaël FC,17,Diadié Diarra,31,Mauritania,Centre-Back,-
+Squad Fréjus-Saint-Raphaël FC,20,Julien Mouillon,27,France,Centre-Back,-
+Squad Fréjus-Saint-Raphaël FC,3,Malivaï Daninthe,27,Guadeloupe,Left-Back,-
+Squad Fréjus-Saint-Raphaël FC,25,Pie-Luxton Bekili,23,Belgium,Left-Back,-
+Squad Fréjus-Saint-Raphaël FC,14,Ali Kalla,25,France,Right-Back,-
+Squad Fréjus-Saint-Raphaël FC,26,Raphaël Delvigne,32,France,Right-Back,-
+Squad Fréjus-Saint-Raphaël FC,8,Mohamed Fadhloun,30,France,Defensive Midfield,-
+Squad Fréjus-Saint-Raphaël FC,-,Georges Garnero,26,France,Midfielder,-
+Squad Fréjus-Saint-Raphaël FC,13,Juvrel Loumingou,29,France,Defensive Midfield,-
+Squad Fréjus-Saint-Raphaël FC,27,Ryan Boudersa,23,Algeria,Midfielder,-
+Squad Fréjus-Saint-Raphaël FC,11,Guillaume Khous,31,France,Central Midfield,-
+Squad Fréjus-Saint-Raphaël FC,6,Mahamadou Konté,30,France,Central Midfield,-
+Squad Fréjus-Saint-Raphaël FC,7,Mohamed Ouchmid,31,France,Attacking Midfield,-
+Squad Fréjus-Saint-Raphaël FC,9,Noah Bongo,25,Gabon,Centre-Forward,-
+Squad Fréjus-Saint-Raphaël FC,10,Akim Orinel,37,France,Centre-Forward,-
+Squad Fréjus-Saint-Raphaël FC,18,Ottman Dadoune,29,France,Centre-Forward,-
+Squad Fréjus-Saint-Raphaël FC,29,Davel Mayela,28,Congo,Centre-Forward,-
+Squad Fréjus-Saint-Raphaël FC,19,Jules Varvat,23,France,Centre-Forward,-
+Squad FC Bourgoin-Jallieu,1,Ronan Jay,22,France,Goalkeeper,-
+Squad FC Bourgoin-Jallieu,30,Henrique Tavares,21,Portugal,Goalkeeper,-
+Squad FC Bourgoin-Jallieu,-,Lionel Zouma,30,Central African Republic,Centre-Back,-
+Squad FC Bourgoin-Jallieu,4,Alexandre Roselli,27,France,Centre-Back,-
+Squad FC Bourgoin-Jallieu,5,Nicolas Seguin,34,France,Centre-Back,-
+Squad FC Bourgoin-Jallieu,2,Ibrahim Sori Diallo,33,France,Centre-Back,-
+Squad FC Bourgoin-Jallieu,19,Mohamed Diaw,23,France,Centre-Back,-
+Squad FC Bourgoin-Jallieu,21,Joris Mendy,26,France,Right-Back,-
+Squad FC Bourgoin-Jallieu,15,Jimmy Nirlo,35,France,Defensive Midfield,-
+Squad FC Bourgoin-Jallieu,20,Fallou Niang,28,Senegal,Defensive Midfield,-
+Squad FC Bourgoin-Jallieu,3,Alexis Matias,29,France,Midfielder,-
+Squad FC Bourgoin-Jallieu,6,Antony Sejallon,34,France,Midfielder,-
+Squad FC Bourgoin-Jallieu,8,Yanis Mecheri,31,France,Midfielder,-
+Squad FC Bourgoin-Jallieu,28,Billel Moumen,27,France,Defensive Midfield,-
+Squad FC Bourgoin-Jallieu,7,Sofiane Atik,37,France,Right Midfield,-
+Squad FC Bourgoin-Jallieu,-,Tony Robert,20,Madagascar,Left Midfield,-
+Squad FC Bourgoin-Jallieu,10,Florian Michel,32,France,Attacking Midfield,-
+Squad FC Bourgoin-Jallieu,18,Zakarie Labidi,29,France,Attacking Midfield,-
+Squad FC Bourgoin-Jallieu,22,Mohamed Sakkouh,25,France,Left Winger,-
+Squad FC Bourgoin-Jallieu,13,Giovani Versini,20,France,Right Winger,-
+Squad FC Bourgoin-Jallieu,-,Sami Ben Amar,26,Morocco,Centre-Forward,-
+Squad FC Bourgoin-Jallieu,9,Celal Bozkurt,26,France,Centre-Forward,-
+Squad FC Bourgoin-Jallieu,17,Jean-Charles Marna,28,France,Striker,-
+Squad FC Bourgoin-Jallieu,25,Mehdi Moujetzky,20,France,Striker,-
+Squad Jura Sud Foot,30,Jérôme Idir,31,France,Goalkeeper,-
+Squad Jura Sud Foot,1,Kélian Gauthier,20,France,Goalkeeper,-
+Squad Jura Sud Foot,16,Axel Jorjet,21,France,Goalkeeper,-
+Squad Jura Sud Foot,4,Djegui Koita,24,Mali,Centre-Back,-
+Squad Jura Sud Foot,3,Mara Wagué,27,France,Centre-Back,-
+Squad Jura Sud Foot,5,Adam Dihad,21,France,Centre-Back,-
+Squad Jura Sud Foot,22,El Oihab Abdou,25,Comoros,Centre-Back,-
+Squad Jura Sud Foot,29,Banfa Fofana,23,France,Left-Back,-
+Squad Jura Sud Foot,6,Abdoulaye Baradji,25,Mali,Defensive Midfield,-
+Squad Jura Sud Foot,8,Emmanuel Kasong Yav,23,France,Midfielder,-
+Squad Jura Sud Foot,14,Alexandre Cappellari,27,France,Defensive Midfield,-
+Squad Jura Sud Foot,19,Damien Andrey,26,France,Midfielder,-
+Squad Jura Sud Foot,25,Raouf Mroivili,25,France,Central Midfield,-
+Squad Jura Sud Foot,28,Fulgency Kimbembé,25,Congo,Central Midfield,-
+Squad Jura Sud Foot,7,Jordan Debal,32,France,Central Midfield,-
+Squad Jura Sud Foot,24,Sanounou Sidibé,27,France,Left Midfield,-
+Squad Jura Sud Foot,10,Amir Arli,21,Türkiye,Attacking Midfield,-
+Squad Jura Sud Foot,11,Housseine Zakouani,25,Comoros,Right Winger,-
+Squad Jura Sud Foot,9,Mohamed Guilavogui,27,Mali,Centre-Forward,-
+Squad Jura Sud Foot,18,Marvin Adélaïde,27,France,Striker,-
+Squad Jura Sud Foot,20,Bafodé Daramy,25,France,Striker,-
+Squad Jura Sud Foot,21,Yassine Assakour,26,France,Striker,-
+Squad Le Puy Foot 43 Auvergne,16,Yanis Maronne,21,France,Goalkeeper,-
+Squad Le Puy Foot 43 Auvergne,30,Matis Carvalho,24,Portugal,Goalkeeper,-
+Squad Le Puy Foot 43 Auvergne,5,Anthony Civet,27,France,Centre-Back,-
+Squad Le Puy Foot 43 Auvergne,23,Jésah Ayessa,24,France,Centre-Back,-
+Squad Le Puy Foot 43 Auvergne,13,Bourama Diarra,24,Mali,Left-Back,-
+Squad Le Puy Foot 43 Auvergne,15,Mehdi Beneddine,28,Algeria,Left-Back,-
+Squad Le Puy Foot 43 Auvergne,6,Karim Mohamed,23,Comoros,Right-Back,-
+Squad Le Puy Foot 43 Auvergne,24,Sadia Diakhabi,22,France,Right-Back,-
+Squad Le Puy Foot 43 Auvergne,22,Renald Xhemo,27,Albania,Defensive Midfield,-
+Squad Le Puy Foot 43 Auvergne,8,Salim Akkal,24,France,Central Midfield,-
+Squad Le Puy Foot 43 Auvergne,2,Mathis Royet,25,France,Central Midfield,-
+Squad Le Puy Foot 43 Auvergne,11,Tommy Iva,23,France,Right Midfield,-
+Squad Le Puy Foot 43 Auvergne,10,Jules Meyer,23,France,Attacking Midfield,-
+Squad Le Puy Foot 43 Auvergne,25,Virgile Piechocki,27,France,Attacking Midfield,-
+Squad Le Puy Foot 43 Auvergne,19,Nicolas Pays,20,France,Attacking Midfield,-
+Squad Le Puy Foot 43 Auvergne,7,Issiaka Karamoko,22,France,Left Winger,-
+Squad Le Puy Foot 43 Auvergne,18,Bryan Adinany,24,Comoros,Centre-Forward,-
+Squad Le Puy Foot 43 Auvergne,20,Maxence Fournel,23,France,Centre-Forward,-
+Squad Le Puy Foot 43 Auvergne,14,Jordan Alexandre,24,France,Centre-Forward,-
+Squad Le Puy Foot 43 Auvergne,17,Keeliane Leite,25,France,Striker,-
+Squad Olympique Alès,1,Éric Moreau,24,France,Goalkeeper,-
+Squad Olympique Alès,16,Louis Laurent,21,France,Goalkeeper,-
+Squad Olympique Alès,-,Rayanne Khemais,26,Tunisia,Centre-Back,-
+Squad Olympique Alès,24,Pierrick Cros,32,France,Centre-Back,-
+Squad Olympique Alès,23,Sofiane Jdaini,25,France,Left-Back,-
+Squad Olympique Alès,12,Tom Duponchelle,28,France,Right-Back,-
+Squad Olympique Alès,14,Jeffrey Assoumin,31,France,Right-Back,-
+Squad Olympique Alès,26,Antar Yalaoui,24,France,Right-Back,-
+Squad Olympique Alès,28,Ryad Nadifi,27,France,Right-Back,-
+Squad Olympique Alès,5,Diaguely Dabo,31,France,Defensive Midfield,-
+Squad Olympique Alès,25,Daysam Ben Nasr,26,Tunisia,Defensive Midfield,-
+Squad Olympique Alès,3,Yann Djabou,32,France,Defensive Midfield,-
+Squad Olympique Alès,6,Théo Peyrard,27,France,Midfielder,-
+Squad Olympique Alès,15,Jérémy Iafrate,24,France,Midfielder,-
+Squad Olympique Alès,22,Tom Husson,24,France,Defensive Midfield,-
+Squad Olympique Alès,-,Nordine Benaries,34,France,Central Midfield,-
+Squad Olympique Alès,10,Jérémy Balmy,29,France,Attacking Midfield,-
+Squad Olympique Alès,11,Yassine Kich,22,France,Attacking Midfield,-
+Squad Olympique Alès,21,Wilfried Baana Jaba,31,Cameroon,Left Winger,-
+Squad Olympique Alès,17,N'Famara Diaby,23,Guinea,Left Winger,-
+Squad Olympique Alès,-,Joris Correa,30,France,Centre-Forward,-
+Squad Olympique Alès,7,Franck Betra,27,France,Centre-Forward,-
+Squad Olympique Alès,8,Lucas Franco,32,France,Striker,-
+Squad Olympique Alès,9,Arnold Abelinti,32,French Guiana,Centre-Forward,-
+Squad Olympique Alès,19,Brahim Mahamat,28,Chad,Centre-Forward,-
+Squad RC Pays de Grasse,-,Florian Verplanck,32,France,Goalkeeper,-
+Squad RC Pays de Grasse,1,Amaury Roperti,28,France,Goalkeeper,-
+Squad RC Pays de Grasse,16,Jérémy Barseni,24,France,Goalkeeper,-
+Squad RC Pays de Grasse,22,Kévin Renaut,32,France,Centre-Back,-
+Squad RC Pays de Grasse,2,Maxime Corain,27,France,Centre-Back,-
+Squad RC Pays de Grasse,5,Nohim Chibani,20,France,Centre-Back,-
+Squad RC Pays de Grasse,24,Victor Abt,30,France,Centre-Back,-
+Squad RC Pays de Grasse,33,Ehsan Kari,21,France,Centre-Back,-
+Squad RC Pays de Grasse,3,Kévin Châtelain,30,France,Left-Back,-
+Squad RC Pays de Grasse,12,Ahmed Hassine,20,France,Left-Back,-
+Squad RC Pays de Grasse,21,Kémil Abdallah,22,France,Left-Back,-
+Squad RC Pays de Grasse,15,Paul Grandemange,26,France,Right-Back,-
+Squad RC Pays de Grasse,26,Emric Goumot,20,France,Right-Back,-
+Squad RC Pays de Grasse,17,Nicolas Medjian,35,France,Defensive Midfield,-
+Squad RC Pays de Grasse,-,Soudeysse Kari,22,France,Central Midfield,-
+Squad RC Pays de Grasse,6,Herman Ako,30,France,Central Midfield,-
+Squad RC Pays de Grasse,18,Brandon Ndezi,24,France,Central Midfield,-
+Squad RC Pays de Grasse,27,Medhi Kadi,29,France,Attacking Midfield,-
+Squad RC Pays de Grasse,10,Yacine Atarsia,22,France,Attacking Midfield,-
+Squad RC Pays de Grasse,23,Daniel Semedo,20,Portugal,Attacking Midfield,-
+Squad RC Pays de Grasse,14,Bryan Bofunda,27,France,Left Winger,-
+Squad RC Pays de Grasse,7,Paulin Puel,26,France,Centre-Forward,-
+Squad RC Pays de Grasse,9,Isaac Karamoko,21,France,Centre-Forward,-
+Squad RC Pays de Grasse,-,Stevo Chillemi,19,France,Centre-Forward,-
+Squad RC Pays de Grasse,-,Sandro Pagès,19,France,Centre-Forward,-
+Squad RC Pays de Grasse,11,Loutfi Daoudou,26,Comoros,Centre-Forward,-
+Squad RC Pays de Grasse,20,Tony Badalassi,21,France,Centre-Forward,-
+Squad RC Pays de Grasse,28,Sonel Gibon,18,France,Centre-Forward,-
+Squad RC Pays de Grasse,29,Evan Biondo,21,France,Centre-Forward,-
+Squad Sporting Club de Toulon,30,Yoan Cardinale,30,France,Goalkeeper,-
+Squad Sporting Club de Toulon,1,Simon Ternynck,25,France,Goalkeeper,-
+Squad Sporting Club de Toulon,4,Anthony Ouasfane,34,Algeria,Centre-Back,-
+Squad Sporting Club de Toulon,20,Moussa Kouyaté,29,France,Centre-Back,-
+Squad Sporting Club de Toulon,3,Vinicius Gomes,25,Brazil,Centre-Back,-
+Squad Sporting Club de Toulon,19,Merhez Belkhechine,23,France,Centre-Back,-
+Squad Sporting Club de Toulon,12,Imran Romdhani,24,France,Left-Back,-
+Squad Sporting Club de Toulon,13,Maxime Allione,24,France,Left-Back,-
+Squad Sporting Club de Toulon,5,Oumar Diop,29,France,Right-Back,-
+Squad Sporting Club de Toulon,22,Ayoub Khadraoui,23,France,Midfielder,-
+Squad Sporting Club de Toulon,6,Richie Dilemfu,30,France,Central Midfield,-
+Squad Sporting Club de Toulon,8,Julio Pape Bayo,36,Senegal,Central Midfield,-
+Squad Sporting Club de Toulon,7,Kenny Moulet,32,France,Right Midfield,-
+Squad Sporting Club de Toulon,23,Najib Gandi,29,France,Attacking Midfield,-
+Squad Sporting Club de Toulon,27,Hakim El Mokeddem,25,France,Attacking Midfield,-
+Squad Sporting Club de Toulon,11,Erwan Moutault,24,France,Left Winger,-
+Squad Sporting Club de Toulon,9,Sadio Amadou Diallo,22,Guinea,Centre-Forward,-
+Squad Sporting Club de Toulon,10,Farah Gomis,31,Senegal,Centre-Forward,-
+Squad Sporting Club de Toulon,14,Bertrand Fourrier,26,France,Centre-Forward,-
+Squad Sporting Club de Toulon,15,Raphaël Mourdi,25,France,Centre-Forward,-
+Squad Sporting Club de Toulon,21,Keba Sylla,25,France,Centre-Forward,-
+Squad Sporting Club de Toulon,28,Abdoulaye Diallo,32,Senegal,Centre-Forward,-
+Squad Andrézieux-Bouthéon FC,30,Anthony Maisonnial,26,France,Goalkeeper,-
+Squad Andrézieux-Bouthéon FC,16,Japhet Mutombo,21,France,Goalkeeper,-
+Squad Andrézieux-Bouthéon FC,40,Nicolas Garcia,24,France,Goalkeeper,-
+Squad Andrézieux-Bouthéon FC,-,Adel Kadi,20,France,Defender,-
+Squad Andrézieux-Bouthéon FC,5,Maxence Chapuis,29,France,Centre-Back,-
+Squad Andrézieux-Bouthéon FC,6,Bryan Ngwabije,25,Rwanda,Centre-Back,-
+Squad Andrézieux-Bouthéon FC,17,Yannis Kari,23,Comoros,Centre-Back,-
+Squad Andrézieux-Bouthéon FC,19,Maël Yazid,23,France,Centre-Back,-
+Squad Andrézieux-Bouthéon FC,25,Clément Cabaton,27,France,Centre-Back,-
+Squad Andrézieux-Bouthéon FC,26,Pierre Nouvel,26,France,Left-Back,-
+Squad Andrézieux-Bouthéon FC,2,Dylan Brunetton,23,France,Right-Back,-
+Squad Andrézieux-Bouthéon FC,17,Anthony Vacheron,26,France,Right-Back,-
+Squad Andrézieux-Bouthéon FC,-,Bilal Benosmane,23,France,Midfielder,-
+Squad Andrézieux-Bouthéon FC,-,Baptiste Gabard,24,France,Central Midfield,-
+Squad Andrézieux-Bouthéon FC,21,Joris Cottin,28,France,Central Midfield,-
+Squad Andrézieux-Bouthéon FC,-,Jalil Moustaid,22,France,Attacking Midfield,-
+Squad Andrézieux-Bouthéon FC,10,Yannis Gharbi,31,Tunisia,Attacking Midfield,-
+Squad Andrézieux-Bouthéon FC,-,Idriss Saadi,32,Algeria,Centre-Forward,-
+Squad Andrézieux-Bouthéon FC,-,Victor Glaentzlin,25,France,Centre-Forward,-
+Squad Andrézieux-Bouthéon FC,-,Martins Toutou,28,France,Centre-Forward,-
+Squad Andrézieux-Bouthéon FC,-,Moussa Diaby,21,France,Centre-Forward,-
+Squad Andrézieux-Bouthéon FC,-,Habib Koné,24,France,Centre-Forward,-
+Squad Andrézieux-Bouthéon FC,33,Rayan Ech-Chergui,25,France,Centre-Forward,-
+Squad Thonon Évian Grand Genève FC,-,Quentin Manteau,21,France,Goalkeeper,-
+Squad Thonon Évian Grand Genève FC,30,Melvin Adrien,30,Madagascar,Goalkeeper,-
+Squad Thonon Évian Grand Genève FC,40,Ahmadou Dia,24,France,Goalkeeper,-
+Squad Thonon Évian Grand Genève FC,16,Mody Ba,25,Senegal,Goalkeeper,-
+Squad Thonon Évian Grand Genève FC,6,Anthony Scaramozzino,38,France,Centre-Back,-
+Squad Thonon Évian Grand Genève FC,12,Kévin Afougou,34,France,Centre-Back,-
+Squad Thonon Évian Grand Genève FC,20,Nathanaël Dieng,27,France,Centre-Back,-
+Squad Thonon Évian Grand Genève FC,24,Cyriaque Louvion,36,France,Centre-Back,-
+Squad Thonon Évian Grand Genève FC,7,Tiécoro Keita,30,Mali,Left-Back,-
+Squad Thonon Évian Grand Genève FC,3,Olivier Lesueur,26,France,Left-Back,-
+Squad Thonon Évian Grand Genève FC,2,Wassim Amadi,24,France,Right-Back,-
+Squad Thonon Évian Grand Genève FC,5,Valentin Liénard,26,France,Right-Back,-
+Squad Thonon Évian Grand Genève FC,27,Wail Essafiani,24,France,Midfielder,-
+Squad Thonon Évian Grand Genève FC,28,Badara Diomandé,26,France,Central Midfield,-
+Squad Thonon Évian Grand Genève FC,8,Jordan Radojevic,22,France,Central Midfield,-
+Squad Thonon Évian Grand Genève FC,26,Cyril Martin-Pichon,26,France,Central Midfield,-
+Squad Thonon Évian Grand Genève FC,29,Yoann Martelat,27,France,Central Midfield,-
+Squad Thonon Évian Grand Genève FC,10,Johan Branger,30,Gabon,Right Midfield,-
+Squad Thonon Évian Grand Genève FC,19,Abdoulaye Diaby,29,France,Attacking Midfield,-
+Squad Thonon Évian Grand Genève FC,25,Baptiste Macon,19,France,Attacking Midfield,-
+Squad Thonon Évian Grand Genève FC,23,Corentin Tirard,28,France,Left Winger,-
+Squad Thonon Évian Grand Genève FC,9,Ilyes Chaïbi,27,France,Centre-Forward,-
+Squad Thonon Évian Grand Genève FC,18,Hugo Roussey,27,France,Centre-Forward,-
+Squad Thonon Évian Grand Genève FC,21,Mathis Clairicia,21,France,Centre-Forward,-
+Squad Thonon Évian Grand Genève FC,-,Mandiaye Sene,22,Senegal,Striker,-
+Squad Thonon Évian Grand Genève FC,11,Pascal Leno,27,Guinea,Striker,-
+Squad Thonon Évian Grand Genève FC,15,Issiaka Bamba,30,France,Centre-Forward,-
+Squad Angers SCO B,-,Eliot Pasture,20,France,Goalkeeper,€50k
+Squad Angers SCO B,-,Marius Courcoul,17,France,Centre-Back,€150k
+Squad Angers SCO B,-,Yacine Gaya,19,Algeria,Centre-Back,€50k
+Squad Angers SCO B,-,Demba N'Diaye,18,France,Centre-Back,€50k
+Squad Angers SCO B,-,Bilal Koffi,22,France,Centre-Back,-
+Squad Angers SCO B,-,Loïc Breton,19,France,Centre-Back,-
+Squad Angers SCO B,-,Luis Brémaud,20,France,Centre-Back,-
+Squad Angers SCO B,-,Enzo Caumont,20,France,Defensive Midfield,-
+Squad Angers SCO B,-,Eddine Charid,20,France,Defensive Midfield,-
+Squad Angers SCO B,-,Yassin Belkhdim,22,Morocco,Central Midfield,€100k
+Squad Angers SCO B,-,Walim Lgharbi,21,France,Central Midfield,-
+Squad Angers SCO B,-,Pierre Metangmo,20,France,Right Midfield,-
+Squad Angers SCO B,-,Noah Ndeke,20,DR Congo,Left Midfield,€50k
+Squad Angers SCO B,-,Ilan Ernoux,20,France,Left Winger,-
+Squad Angers SCO B,20,Ulrick Eneme-Ella,22,Gabon,Centre-Forward,€150k
+Squad Angers SCO B,-,Guédé Nadje,20,France,Centre-Forward,€100k
+Squad Angers SCO B,-,Mathys Houdayer,18,France,Centre-Forward,-
+Squad Angers SCO B,-,Karim Boutera,18,France,Centre-Forward,-
+Squad La Roche Vendée Football,1,Imbad Ahamada,29,France,Goalkeeper,-
+Squad La Roche Vendée Football,14,Jean-Charles Behlow,30,France,Centre-Back,-
+Squad La Roche Vendée Football,5,Thomas Allemand,25,France,Centre-Back,-
+Squad La Roche Vendée Football,31,Ngoy Alexis Banza,24,DR Congo,Centre-Back,-
+Squad La Roche Vendée Football,6,Quentin Bonnet,33,France,Left-Back,-
+Squad La Roche Vendée Football,21,Romuald Marie,35,France,Right-Back,-
+Squad La Roche Vendée Football,20,Jason Buaillon,32,France,Defensive Midfield,-
+Squad La Roche Vendée Football,8,Sacha Ziani,20,France,Defensive Midfield,-
+Squad La Roche Vendée Football,19,Hermann Esmel,24,France,Defensive Midfield,-
+Squad La Roche Vendée Football,24,Sony Butrot,25,France,Defensive Midfield,-
+Squad La Roche Vendée Football,4,Alain Mendy,34,Senegal,Central Midfield,-
+Squad La Roche Vendée Football,22,Jaime Palhares,33,France,Central Midfield,-
+Squad La Roche Vendée Football,29,Guillaume Odru,26,France,Central Midfield,-
+Squad La Roche Vendée Football,7,Ibrahima Keita,22,Guinea,Right Winger,-
+Squad La Roche Vendée Football,9,Francis Eusebio Mbaki,24,DR Congo,Right Winger,-
+Squad La Roche Vendée Football,23,Hatim Far,22,France,Centre-Forward,€250k
+Squad La Roche Vendée Football,27,Adama Sarr,33,France,Centre-Forward,-
+Squad La Roche Vendée Football,31,Olivier Boissy,25,Senegal,Centre-Forward,-
+Squad La Roche Vendée Football,10,Momar Ndiaye,30,France,Striker,-
+Squad La Roche Vendée Football,11,Axel Dabin,28,France,Centre-Forward,-
+Squad La Roche Vendée Football,17,Matys Vrignon,20,France,Striker,-
+Squad Paris 13 Atletico,1,Germain Sanou,31,Burkina Faso,Goalkeeper,-
+Squad Paris 13 Atletico,3,Mamadou Diarra,25,France,Centre-Back,-
+Squad Paris 13 Atletico,6,Moussa Diarra,30,France,Centre-Back,-
+Squad Paris 13 Atletico,25,Amadou Seydi,26,France,Centre-Back,-
+Squad Paris 13 Atletico,26,Salif Dramé,27,Senegal,Centre-Back,-
+Squad Paris 13 Atletico,27,Florian Dexet,29,France,Left-Back,-
+Squad Paris 13 Atletico,2,Ismail Diallo,20,France,Right-Back,-
+Squad Paris 13 Atletico,20,Romain Bouvier,24,France,Right-Back,-
+Squad Paris 13 Atletico,4,Dylan Nzeza,25,France,Defensive Midfield,-
+Squad Paris 13 Atletico,21,Benjamin Vérité,24,France,Defensive Midfield,-
+Squad Paris 13 Atletico,13,Dramane Saganoko,27,France,Midfielder,-
+Squad Paris 13 Atletico,15,Guiry Egny,21,France,Central Midfield,€150k
+Squad Paris 13 Atletico,14,Madou Touré,21,France,Central Midfield,-
+Squad Paris 13 Atletico,8,Lucas Valeri,22,France,Central Midfield,-
+Squad Paris 13 Atletico,17,Brandon Bokangu,24,France,Central Midfield,-
+Squad Paris 13 Atletico,7,Daou Diomandé,20,France,Attacking Midfield,-
+Squad Paris 13 Atletico,18,Marc Evy Ousseni,27,France,Left Winger,-
+Squad Paris 13 Atletico,10,Abdelmalek Amara,24,Algeria,Right Winger,-
+Squad Paris 13 Atletico,23,Hamidou Keita,26,Guinea,Right Winger,-
+Squad Paris 13 Atletico,12,Eli Wissa,21,France,Centre-Forward,-
+Squad Paris 13 Atletico,9,Sanoussi Diaby,25,France,Centre-Forward,-
+Squad Trélissac FC,1,Thomas Navaux,30,France,Goalkeeper,-
+Squad Trélissac FC,5,Mohamed Hamdi,30,Morocco,Centre-Back,-
+Squad Trélissac FC,17,Cachito Wanduka,32,France,Centre-Back,-
+Squad Trélissac FC,4,Dembo Gassama,26,France,Centre-Back,-
+Squad Trélissac FC,8,Ange Gnaleko,36,Cote d'Ivoire,Centre-Back,-
+Squad Trélissac FC,12,Kilian Ngoumou,21,France,Centre-Back,-
+Squad Trélissac FC,19,Yanis Leriche,22,France,Centre-Back,-
+Squad Trélissac FC,3,Thibault Hamel,27,France,Left-Back,-
+Squad Trélissac FC,24,Valentin Michau,21,France,Left-Back,-
+Squad Trélissac FC,6,Jean-Noël Gabriel,26,Martinique,Defensive Midfield,-
+Squad Trélissac FC,15,Landry Nkulu,26,France,Defensive Midfield,-
+Squad Trélissac FC,22,Dorian Samba,25,France,Defensive Midfield,-
+Squad Trélissac FC,27,Momar Gadji,27,France,Defensive Midfield,-
+Squad Trélissac FC,33,Cheick Alan Diarra,30,France,Attacking Midfield,-
+Squad Trélissac FC,10,Thomas Daguerre,25,France,Attacking Midfield,-
+Squad Trélissac FC,29,Adama Diakité,24,France,Left Winger,€150k
+Squad Trélissac FC,20,Benoît Bisson,31,France,Left Winger,-
+Squad Trélissac FC,7,Jorris Romil,29,Guadeloupe,Right Winger,-
+Squad Trélissac FC,9,Jérémy Grain,29,France,Right Winger,-
+Squad Trélissac FC,28,Lyes Aka,21,France,Right Winger,-
+Squad Trélissac FC,11,Nantchuang Nana Gassa Gonga,26,France,Centre-Forward,-
+Squad Trélissac FC,14,Jordan Pothier,23,France,Centre-Forward,-
+Squad Angoulême Charente FC,1,Vincent Fournier,22,France,Goalkeeper,-
+Squad Angoulême Charente FC,16,Patrick Sintcheu,26,France,Goalkeeper,-
+Squad Angoulême Charente FC,7,Anthony Soubervie,39,French Guiana,Centre-Back,-
+Squad Angoulême Charente FC,15,Antoine Letiévant,29,France,Centre-Back,-
+Squad Angoulême Charente FC,4,Andrea Marques,26,France,Centre-Back,-
+Squad Angoulême Charente FC,19,Paul Bentayou,25,France,Centre-Back,-
+Squad Angoulême Charente FC,26,Lucas Llort,24,France,Left-Back,-
+Squad Angoulême Charente FC,27,Étienne Desroches,26,France,Right-Back,-
+Squad Angoulême Charente FC,28,Jason Willock,31,France,Right-Back,-
+Squad Angoulême Charente FC,17,Elie Ehua,32,France,Defensive Midfield,-
+Squad Angoulême Charente FC,10,Issam Ben Khemis,28,Tunisia,Central Midfield,-
+Squad Angoulême Charente FC,6,Mahamadou Diarra,30,France,Central Midfield,-
+Squad Angoulême Charente FC,8,Benjamin Barcq,26,France,Central Midfield,-
+Squad Angoulême Charente FC,21,Arnaud Buisson,29,France,Central Midfield,-
+Squad Angoulême Charente FC,18,Alexandre Mourabit,30,France,Attacking Midfield,-
+Squad Angoulême Charente FC,11,Joffrey Lobo,31,France,Left Winger,-
+Squad Angoulême Charente FC,22,Karl Fabien,23,Martinique,Centre-Forward,-
+Squad Angoulême Charente FC,23,Santiago Ciganda,30,Uruguay,Centre-Forward,-
+Squad Angoulême Charente FC,25,Amadou Coulibaly,26,Mali,Centre-Forward,-
+Squad Angoulême Charente FC,29,Noah Marchesseau,21,France,Centre-Forward,-
+Squad Avoine Olympique Chinon Cinais,-,Nassim Ali,-,France,Goalkeeper,-
+Squad Avoine Olympique Chinon Cinais,1,Nicolas Pistol,27,Guadeloupe,Goalkeeper,-
+Squad Avoine Olympique Chinon Cinais,30,Enzo Garrido,20,France,Goalkeeper,-
+Squad Avoine Olympique Chinon Cinais,2,Georges Tchouzoue,27,France,Defender,-
+Squad Avoine Olympique Chinon Cinais,4,Maxime Borges,28,France,Centre-Back,-
+Squad Avoine Olympique Chinon Cinais,3,Yanis Si Mohammed,28,France,Left-Back,-
+Squad Avoine Olympique Chinon Cinais,18,Franck Essis,28,France,Left-Back,-
+Squad Avoine Olympique Chinon Cinais,21,Benjamin Guérin,31,France,Right-Back,-
+Squad Avoine Olympique Chinon Cinais,23,Vincent Louves,29,France,Right-Back,-
+Squad Avoine Olympique Chinon Cinais,6,Florent Gache,36,France,Defensive Midfield,-
+Squad Avoine Olympique Chinon Cinais,8,Houari Djemel,29,France,Defensive Midfield,-
+Squad Avoine Olympique Chinon Cinais,14,Joël Bayilu Bonyonya,25,DR Congo,Defensive Midfield,-
+Squad Avoine Olympique Chinon Cinais,19,Youssouf Traoré,26,France,Defensive Midfield,-
+Squad Avoine Olympique Chinon Cinais,20,Simon Fivet,28,France,Defensive Midfield,-
+Squad Avoine Olympique Chinon Cinais,22,Abdelnour Soualhia,22,France,Defensive Midfield,-
+Squad Avoine Olympique Chinon Cinais,10,Vilmy Lemboma,28,Gabon,Attacking Midfield,-
+Squad Avoine Olympique Chinon Cinais,12,Christopher Bitsamou,28,France,Left Winger,-
+Squad Avoine Olympique Chinon Cinais,7,Maxime Thonnel,33,France,Right Winger,-
+Squad Avoine Olympique Chinon Cinais,5,Fatrie Sakhi,34,France,Centre-Forward,-
+Squad Avoine Olympique Chinon Cinais,11,Sullivan Lakhamy,26,France,Centre-Forward,-
+Squad Avoine Olympique Chinon Cinais,-,Pape Cheikh Traoré,24,Senegal,Centre-Forward,-
+Squad Avoine Olympique Chinon Cinais,24,Junior Buckman,25,France,Centre-Forward,-
+Squad Avoine Olympique Chinon Cinais,33,Johan Bertrand,21,France,Striker,-
+Squad Bergerac Périgord FC,1,Pierre Laborde-Turon,29,France,Goalkeeper,-
+Squad Bergerac Périgord FC,16,Geoffrey Niccoletti,23,France,Goalkeeper,-
+Squad Bergerac Périgord FC,27,Mamadou Kamissoko,31,France,Centre-Back,-
+Squad Bergerac Périgord FC,17,Jonathan Abonckelet,22,France,Centre-Back,-
+Squad Bergerac Périgord FC,20,Loan Husson,24,France,Centre-Back,-
+Squad Bergerac Périgord FC,3,Wesley Moustache,25,France,Left-Back,-
+Squad Bergerac Périgord FC,5,Sam Ducros,29,France,Left-Back,-
+Squad Bergerac Périgord FC,23,Steven Luyambula,21,France,Right-Back,-
+Squad Bergerac Périgord FC,8,Patrick Tchoutang,32,France,Defensive Midfield,-
+Squad Bergerac Périgord FC,12,Christian Gyeboaho,27,France,Defensive Midfield,-
+Squad Bergerac Périgord FC,28,Malek Benkheira,24,France,Midfielder,-
+Squad Bergerac Périgord FC,6,Victor Elissalt,32,France,Central Midfield,-
+Squad Bergerac Périgord FC,4,Lucas Dumai,26,France,Central Midfield,-
+Squad Bergerac Périgord FC,10,Hicham M'Laab,34,France,Attacking Midfield,-
+Squad Bergerac Périgord FC,14,César Neto,25,France,Attacking Midfield,-
+Squad Bergerac Périgord FC,21,Nathan Benmoussa,24,France,Attacking Midfield,-
+Squad Bergerac Périgord FC,11,Axel Tressens,24,France,Left Winger,-
+Squad Bergerac Périgord FC,7,Moussa Faty,23,France,Left Winger,-
+Squad Bergerac Périgord FC,24,Romain Escarpit,25,France,Centre-Forward,-
+Squad Bergerac Périgord FC,9,Valdir Fonseca,21,France,Centre-Forward,-
+Squad Bergerac Périgord FC,22,Daniel Glao,22,France,Centre-Forward,-
+Squad Bergerac Périgord FC,34,Rémy Vilela Vieira,20,France,Striker,-
+Squad Blois Football 41,1,Léopold Maitre,25,France,Goalkeeper,-
+Squad Blois Football 41,16,Adrien Jobelot,24,France,Goalkeeper,-
+Squad Blois Football 41,-,Nathan Bourdin,20,France,Centre-Back,-
+Squad Blois Football 41,5,David Lopez,29,France,Centre-Back,-
+Squad Blois Football 41,25,Geoffrey Marie-Louise,32,Martinique,Centre-Back,-
+Squad Blois Football 41,19,Tony Villeray,24,France,Left-Back,-
+Squad Blois Football 41,20,Thibault Relange,22,France,Left-Back,-
+Squad Blois Football 41,31,Arnaud Archimbaud,33,France,Left-Back,-
+Squad Blois Football 41,26,Théo Chauvier,24,France,Right-Back,-
+Squad Blois Football 41,2,Pierrick Mouniama,23,France,Defensive Midfield,-
+Squad Blois Football 41,8,Paul Venot,22,France,Defensive Midfield,-
+Squad Blois Football 41,10,Julien Charpentier,27,France,Defensive Midfield,-
+Squad Blois Football 41,22,Allan Ramos,26,France,Defensive Midfield,-
+Squad Blois Football 41,33,Espérance Mabekondiasson,21,France,Central Midfield,-
+Squad Blois Football 41,7,Lilian Fournier,25,France,Right Midfield,-
+Squad Blois Football 41,6,Lucas Capoue,26,France,Left Winger,-
+Squad Blois Football 41,11,Hugo Reulier,29,France,Centre-Forward,-
+Squad Blois Football 41,24,Exaucé Ngassaki,27,Congo,Centre-Forward,-
+Squad Blois Football 41,9,Younes Zennouhi,26,France,Centre-Forward,-
+Squad Blois Football 41,17,M'Bemba Diakité,21,Guinea,Striker,-
+Squad Blois Football 41,33,Arthur Fiquet,20,France,Centre-Forward,-
+Squad Bourges Foot 18,1,Enzo Pauchet,27,France,Goalkeeper,-
+Squad Bourges Foot 18,-,Ismaël Benallal,23,France,Goalkeeper,-
+Squad Bourges Foot 18,30,Pape Ndiaye,34,Senegal,Goalkeeper,-
+Squad Bourges Foot 18,5,Kabba Sambou,27,The Gambia,Centre-Back,-
+Squad Bourges Foot 18,21,Lamine Buhanga,22,France,Centre-Back,-
+Squad Bourges Foot 18,23,Walid Touil,27,France,Centre-Back,-
+Squad Bourges Foot 18,12,Sharly Mabussi,26,France,Left-Back,-
+Squad Bourges Foot 18,-,Mohamed Aggoun,22,France,Right-Back,-
+Squad Bourges Foot 18,17,Baptiste Etcheverria,27,France,Right-Back,-
+Squad Bourges Foot 18,26,Stacy Misiatu,26,France,Right-Back,-
+Squad Bourges Foot 18,15,Mayoro N'Doye,32,Senegal,Defensive Midfield,-
+Squad Bourges Foot 18,6,Ibou Faye,32,Senegal,Defensive Midfield,-
+Squad Bourges Foot 18,14,Mouhamed Dosso,22,France,Defensive Midfield,-
+Squad Bourges Foot 18,10,Killian Sanson,26,France,Central Midfield,-
+Squad Bourges Foot 18,13,Trésor Matondo,20,France,Central Midfield,-
+Squad Bourges Foot 18,7,Mohamed Ali Gueddar,25,France,Attacking Midfield,-
+Squad Bourges Foot 18,20,Mattéo Makhabe,20,France,Attacking Midfield,-
+Squad Bourges Foot 18,18,Octave Joly,21,France,Attacking Midfield,-
+Squad Bourges Foot 18,11,Kamil Manseri,22,France,Right Winger,-
+Squad Bourges Foot 18,24,Souleymane Sawadogo,31,Burkina Faso,Right Winger,-
+Squad Bourges Foot 18,9,Romain Armand,37,France,Centre-Forward,-
+Squad Bourges Foot 18,22,Ruben Evora Moniz,23,Portugal,Centre-Forward,-
+Squad Bourges Foot 18,29,Moussa Konaté,31,Senegal,Centre-Forward,-
+Squad Bourges Foot 18,28,Donald Onana,22,Cameroon,Centre-Forward,-
+Squad FC Libourne,40,Over Mandanda,25,France,Goalkeeper,-
+Squad FC Libourne,16,Pierre Portets,29,France,Goalkeeper,-
+Squad FC Libourne,17,Omar Sané,24,France,Defender,-
+Squad FC Libourne,4,Elydjah Mendy,24,France,Centre-Back,-
+Squad FC Libourne,25,Salif Sané,33,Senegal,Centre-Back,-
+Squad FC Libourne,2,Matthieu Dario,26,France,Centre-Back,-
+Squad FC Libourne,5,Noureddine Baskar,28,Morocco,Centre-Back,-
+Squad FC Libourne,14,Modou Fall,30,France,Centre-Back,-
+Squad FC Libourne,3,Madigoundo Diakité,30,Mali,Left-Back,-
+Squad FC Libourne,22,Anthony Dekono,23,France,Left-Back,-
+Squad FC Libourne,6,Quentin Dousseaux,24,France,Midfielder,-
+Squad FC Libourne,21,Cheick Keita,23,Cote d'Ivoire,Defensive Midfield,-
+Squad FC Libourne,24,Rémy Couterry,25,France,Midfielder,-
+Squad FC Libourne,10,Soufiane Bahassa,29,France,Left Midfield,-
+Squad FC Libourne,8,Théo Montavit,27,France,Attacking Midfield,-
+Squad FC Libourne,20,Paul Meliande,22,France,Left Winger,-
+Squad FC Libourne,29,Achraf Berriss,32,France,Right Winger,-
+Squad FC Libourne,19,Malick Seck,34,Senegal,Centre-Forward,-
+Squad FC Libourne,7,Ahmadou Souane,30,France,Centre-Forward,-
+Squad FC Libourne,9,Anthony Castera,28,France,Centre-Forward,-
+Squad FC Libourne,11,Abdulakeem Agoro,22,Nigeria,Centre-Forward,-
+Squad FC Libourne,27,Tanguy Guérineau,27,France,Striker,-
+Squad FC Libourne,28,Hammond Agamah,27,France,Centre-Forward,-
+Squad Olympique Saumur,16,Balamine Dramé,24,Guinea,Goalkeeper,-
+Squad Olympique Saumur,30,Arthur Duval,25,France,Goalkeeper,-
+Squad Olympique Saumur,4,Benjamin Pillier,26,France,Centre-Back,-
+Squad Olympique Saumur,5,Christian Kipré,29,France,Centre-Back,-
+Squad Olympique Saumur,17,Brahima Magassa,27,France,Centre-Back,-
+Squad Olympique Saumur,19,Bovid Itoua Ngoua,36,Congo,Centre-Back,-
+Squad Olympique Saumur,2,Maël Landelle,21,France,Left-Back,-
+Squad Olympique Saumur,33,Valentin Mourette,27,France,Left-Back,-
+Squad Olympique Saumur,22,Redha Fresneau,25,France,Right-Back,-
+Squad Olympique Saumur,14,Ronan Touzet,26,France,Right-Back,-
+Squad Olympique Saumur,6,Artur Viaud,24,France,Defensive Midfield,-
+Squad Olympique Saumur,27,Martin Vidgrin,22,France,Defensive Midfield,-
+Squad Olympique Saumur,8,Mathias Blanchard,24,France,Central Midfield,-
+Squad Olympique Saumur,11,Yannis Matingou,24,France,Central Midfield,-
+Squad Olympique Saumur,15,Quentin Biettmann,26,France,Central Midfield,-
+Squad Olympique Saumur,21,Zourab Sopromadze,22,France,Central Midfield,-
+Squad Olympique Saumur,24,Emmanuel Bourgaud,36,France,Right Midfield,-
+Squad Olympique Saumur,29,Léo Tremblay,20,France,Attacking Midfield,-
+Squad Olympique Saumur,9,Adrien Lefebvre,25,France,Left Winger,-
+Squad Olympique Saumur,10,Wail Bouhoutt,32,Morocco,Centre-Forward,-
+Squad Olympique Saumur,12,Franck Chehata,32,France,Centre-Forward,-
+Squad Olympique Saumur,18,Yannis Dogo,31,France,Centre-Forward,-
+Squad Olympique Saumur,25,Kouamé N'Guessan,29,Cote d'Ivoire,Centre-Forward,-
+Squad Olympique Saumur,26,Abdel Nour Bouhenni,25,France,Centre-Forward,-
+Squad Olympique Saumur,31,Nadjib Souazara Anzizi,28,Belgium,Centre-Forward,-
+Squad SO Romorantin,1,Yoann Djidonou,37,Benin,Goalkeeper,-
+Squad SO Romorantin,16,Arthur Arias,22,France,Goalkeeper,-
+Squad SO Romorantin,2,Alex Marchadier,25,France,Centre-Back,-
+Squad SO Romorantin,4,Alexandre Castro,29,France,Centre-Back,-
+Squad SO Romorantin,24,Ryan Ebene Talla,24,France,Centre-Back,-
+Squad SO Romorantin,5,Adiouma Gaye,31,Senegal,Centre-Back,-
+Squad SO Romorantin,22,Yoann Etienne,26,Haiti,Left-Back,-
+Squad SO Romorantin,26,Djibril Paye,34,Guinea,Left-Back,-
+Squad SO Romorantin,18,Maxence Lomonnier,22,France,Left-Back,-
+Squad SO Romorantin,3,Noa Courtin,19,France,Right-Back,-
+Squad SO Romorantin,34,Baptiste Canelhas,23,France,Defensive Midfield,-
+Squad SO Romorantin,19,Nazir Correia,22,France,Defensive Midfield,-
+Squad SO Romorantin,8,Benjamin Duvoux,28,France,Central Midfield,-
+Squad SO Romorantin,20,Jean-Baptiste Gérard,29,France,Central Midfield,-
+Squad SO Romorantin,29,Geoffrey Adjet,36,France,Left Midfield,-
+Squad SO Romorantin,10,Naël Arzalai,22,France,Left Midfield,-
+Squad SO Romorantin,11,Guillaume Yenoussi,26,Togo,Left Winger,-
+Squad SO Romorantin,7,Loïc Gagnon,33,France,Right Winger,-
+Squad SO Romorantin,-,Guillaume Fauqueur,19,France,Right Winger,-
+Squad SO Romorantin,33,Yoann Beaka,21,France,Centre-Forward,-
+Squad SO Romorantin,9,Jordan Popineau,29,France,Centre-Forward,-
+Squad SO Romorantin,25,Kemal Sarigöl,19,France,Striker,-
+Squad Saint-Pryvé Saint-Hilaire FC,16,Jordy Claveau,29,France,Goalkeeper,-
+Squad Saint-Pryvé Saint-Hilaire FC,30,Melvyn Ravalet,23,France,Goalkeeper,-
+Squad Saint-Pryvé Saint-Hilaire FC,5,Antoine Cottereau,24,France,Centre-Back,-
+Squad Saint-Pryvé Saint-Hilaire FC,4,Ryad Hrich,21,France,Centre-Back,-
+Squad Saint-Pryvé Saint-Hilaire FC,14,Grégory Lescot,34,French Guiana,Centre-Back,-
+Squad Saint-Pryvé Saint-Hilaire FC,3,Anderson Goncalves,27,France,Left-Back,-
+Squad Saint-Pryvé Saint-Hilaire FC,26,Lorick Cots,21,France,Left-Back,-
+Squad Saint-Pryvé Saint-Hilaire FC,12,Yoann Wachter,32,Gabon,Right-Back,-
+Squad Saint-Pryvé Saint-Hilaire FC,2,Stéphane Blot,27,France,Right-Back,-
+Squad Saint-Pryvé Saint-Hilaire FC,18,Julien Masson,23,France,Defensive Midfield,-
+Squad Saint-Pryvé Saint-Hilaire FC,-,Maxime Bressy,23,France,Midfielder,-
+Squad Saint-Pryvé Saint-Hilaire FC,13,Joan Siber,25,France,Defensive Midfield,-
+Squad Saint-Pryvé Saint-Hilaire FC,17,Thibault Lemesle,24,France,Defensive Midfield,-
+Squad Saint-Pryvé Saint-Hilaire FC,24,Wisâm Jedd,22,France,Midfielder,-
+Squad Saint-Pryvé Saint-Hilaire FC,7,Raphaël Galas,26,French Guiana,Central Midfield,-
+Squad Saint-Pryvé Saint-Hilaire FC,8,Ibrahima Touré,27,Guinea,Central Midfield,-
+Squad Saint-Pryvé Saint-Hilaire FC,10,Aboubacar Ouattara,37,Burkina Faso,Central Midfield,-
+Squad Saint-Pryvé Saint-Hilaire FC,19,Salim Jabi,24,France,Central Midfield,-
+Squad Saint-Pryvé Saint-Hilaire FC,28,Donovan Delgado,24,France,Central Midfield,-
+Squad Saint-Pryvé Saint-Hilaire FC,15,Georges Gope-Fenepej,35,Neukaledonien,Left Winger,-
+Squad Saint-Pryvé Saint-Hilaire FC,20,Idrissa Sylla,33,Guinea,Centre-Forward,-
+Squad Saint-Pryvé Saint-Hilaire FC,11,Mathis Cherchour,24,France,Centre-Forward,-
+Squad Saint-Pryvé Saint-Hilaire FC,25,Théo Mothmora,22,France,Centre-Forward,-
+Squad Les Herbiers VF,16,Rémi Pillot,33,France,Goalkeeper,-
+Squad Les Herbiers VF,1,Téo Hamelin,26,France,Goalkeeper,-
+Squad Les Herbiers VF,5,Kalifa Traoré,33,Mali,Centre-Back,-
+Squad Les Herbiers VF,17,Noah Zilliox,21,France,Centre-Back,-
+Squad Les Herbiers VF,19,Yacouba Seydi,30,France,Centre-Back,-
+Squad Les Herbiers VF,23,Anzo Lesage,23,France,Centre-Back,-
+Squad Les Herbiers VF,24,Alexandre Lavenant,29,France,Centre-Back,-
+Squad Les Herbiers VF,15,Alexandre Tégar,23,Guadeloupe,Left-Back,-
+Squad Les Herbiers VF,25,Benjamin Brélivet,31,France,Defensive Midfield,-
+Squad Les Herbiers VF,14,David Djigla,28,Benin,Left Midfield,-
+Squad Les Herbiers VF,7,Pierre Lavenant,28,France,Attacking Midfield,-
+Squad Les Herbiers VF,10,Lucas Daury,28,France,Attacking Midfield,-
+Squad Les Herbiers VF,6,Valentin Rémy,24,France,Attacking Midfield,-
+Squad Les Herbiers VF,12,Maxime Carneiro,22,France,Left Winger,-
+Squad Les Herbiers VF,20,Youssouf Soukouna,24,France,Left Winger,-
+Squad Les Herbiers VF,22,Yann Athéba,24,Cote d'Ivoire,Left Winger,-
+Squad Les Herbiers VF,9,Jérémy Billy,30,France,Centre-Forward,-
+Squad Les Herbiers VF,11,Michaël Nilor,26,France,Centre-Forward,-
+Squad Les Herbiers VF,26,Ervin Taha,25,France,Centre-Forward,-

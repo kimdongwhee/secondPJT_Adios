@@ -1,0 +1,2772 @@
+team name,num,name,age,nationality,position,market value
+Squad Inter Milan,77,Emil Audero,27,Italy,Goalkeeper,€6.00m
+Squad Inter Milan,1,Yann Sommer,35,Switzerland,Goalkeeper,€5.00m
+Squad Inter Milan,12,Raffaele Di Gennaro,30,Italy,Goalkeeper,€350k
+Squad Inter Milan,95,Alessandro Bastoni,25,Italy,Centre-Back,€70.00m
+Squad Inter Milan,28,Benjamin Pavard,28,France,Centre-Back,€50.00m
+Squad Inter Milan,31,Yann Bisseck,23,Germany,Centre-Back,€15.00m
+Squad Inter Milan,6,Stefan de Vrij,32,Netherlands,Centre-Back,€8.00m
+Squad Inter Milan,15,Francesco Acerbi,36,Italy,Centre-Back,€4.00m
+Squad Inter Milan,32,Federico Dimarco,26,Italy,Left-Back,€50.00m
+Squad Inter Milan,36,Matteo Darmian,34,Italy,Right-Back,€4.00m
+Squad Inter Milan,20,Hakan Çalhanoğlu,30,Türkiye,Defensive Midfield,€40.00m
+Squad Inter Milan,21,Kristjan Asllani,22,Albania,Defensive Midfield,€16.00m
+Squad Inter Milan,23,Nicolò Barella,27,Italy,Central Midfield,€75.00m
+Squad Inter Milan,16,Davide Frattesi,24,Italy,Central Midfield,€30.00m
+Squad Inter Milan,22,Henrikh Mkhitaryan,35,Armenia,Central Midfield,€6.00m
+Squad Inter Milan,14,Davy Klaassen,31,Netherlands,Central Midfield,€5.00m
+Squad Inter Milan,5,Stefano Sensi,28,Italy,Central Midfield,€4.00m
+Squad Inter Milan,2,Denzel Dumfries,27,Netherlands,Right Midfield,€27.00m
+Squad Inter Milan,17,Tajon Buchanan,25,Canada,Right Midfield,€8.00m
+Squad Inter Milan,7,Juan Cuadrado,35,Colombia,Right Midfield,€1.50m
+Squad Inter Milan,30,Carlos Augusto,25,Brazil,Left Midfield,€20.00m
+Squad Inter Milan,10,Lautaro Martínez,26,Argentina,Centre-Forward,€110.00m
+Squad Inter Milan,9,Marcus Thuram,26,France,Centre-Forward,€60.00m
+Squad Inter Milan,8,Marko Arnautovic,34,Austria,Centre-Forward,€5.00m
+Squad Inter Milan,70,Alexis Sánchez,35,Chile,Centre-Forward,€2.50m
+Squad AC Milan,16,Mike Maignan,28,France,Goalkeeper,€40.00m
+Squad AC Milan,57,Marco Sportiello,31,Italy,Goalkeeper,€1.50m
+Squad AC Milan,69,Lapo Nava,20,Italy,Goalkeeper,€150k
+Squad AC Milan,83,Antonio Mirante,40,Italy,Goalkeeper,€100k
+Squad AC Milan,23,Fikayo Tomori,26,England,Centre-Back,€40.00m
+Squad AC Milan,28,Malick Thiaw,22,Germany,Centre-Back,€30.00m
+Squad AC Milan,20,Pierre Kalulu,23,France,Centre-Back,€25.00m
+Squad AC Milan,46,Matteo Gabbia,24,Italy,Centre-Back,€6.00m
+Squad AC Milan,24,Simon Kjaer,35,Denmark,Centre-Back,€2.00m
+Squad AC Milan,30,Mattia Caldara,29,Italy,Centre-Back,€1.20m
+Squad AC Milan,19,Theo Hernández,26,France,Left-Back,€60.00m
+Squad AC Milan,2,Davide Calabria,27,Italy,Right-Back,€15.00m
+Squad AC Milan,38,Filippo Terracciano,21,Italy,Right-Back,€4.50m
+Squad AC Milan,42,Alessandro Florenzi,33,Italy,Right-Back,€2.00m
+Squad AC Milan,4,Ismaël Bennacer,26,Algeria,Defensive Midfield,€35.00m
+Squad AC Milan,7,Yacine Adli,23,France,Defensive Midfield,€15.00m
+Squad AC Milan,8,Ruben Loftus-Cheek,28,England,Central Midfield,€25.00m
+Squad AC Milan,14,Tijjani Reijnders,25,Netherlands,Central Midfield,€23.00m
+Squad AC Milan,80,Yunus Musah,21,United States,Central Midfield,€23.00m
+Squad AC Milan,32,Tommaso Pobega,24,Italy,Central Midfield,€12.00m
+Squad AC Milan,10,Rafael Leão,24,Portugal,Left Winger,€90.00m
+Squad AC Milan,11,Christian Pulisic,25,United States,Right Winger,€32.00m
+Squad AC Milan,21,Samuel Chukwueze,24,Nigeria,Right Winger,€20.00m
+Squad AC Milan,17,Noah Okafor,23,Switzerland,Centre-Forward,€20.00m
+Squad AC Milan,15,Luka Jović,26,Serbia,Centre-Forward,€7.00m
+Squad AC Milan,9,Olivier Giroud,37,France,Centre-Forward,€4.00m
+Squad SSC Napoli,1,Alex Meret,27,Italy,Goalkeeper,€15.00m
+Squad SSC Napoli,95,Pierluigi Gollini,29,Italy,Goalkeeper,€4.50m
+Squad SSC Napoli,14,Nikita Contini,27,Italy,Goalkeeper,€500k
+Squad SSC Napoli,16,Hubert Idasiak,22,Poland,Goalkeeper,€150k
+Squad SSC Napoli,13,Amir Rrahmani,30,Kosovo,Centre-Back,€20.00m
+Squad SSC Napoli,3,Natan,23,Brazil,Centre-Back,€13.00m
+Squad SSC Napoli,55,Leo Østigård,24,Norway,Centre-Back,€8.00m
+Squad SSC Napoli,5,Juan Jesus,32,Brazil,Centre-Back,€3.00m
+Squad SSC Napoli,17,Mathías Olivera,26,Uruguay,Left-Back,€17.00m
+Squad SSC Napoli,6,Mário Rui,32,Portugal,Left-Back,€4.00m
+Squad SSC Napoli,22,Giovanni Di Lorenzo,30,Italy,Right-Back,€18.00m
+Squad SSC Napoli,30,Pasquale Mazzocchi,28,Italy,Right-Back,€4.00m
+Squad SSC Napoli,68,Stanislav Lobotka,29,Slovakia,Defensive Midfield,€30.00m
+Squad SSC Napoli,32,Leander Dendoncker,29,Belgium,Defensive Midfield,€9.00m
+Squad SSC Napoli,4,Diego Demme,32,Germany,Defensive Midfield,€1.00m
+Squad SSC Napoli,99,Frank Anguissa,28,Cameroon,Central Midfield,€30.00m
+Squad SSC Napoli,20,Piotr Zieliński,29,Poland,Central Midfield,€25.00m
+Squad SSC Napoli,24,Jens Cajuste,24,Sweden,Central Midfield,€10.00m
+Squad SSC Napoli,29,Jesper Lindstrøm,24,Denmark,Attacking Midfield,€25.00m
+Squad SSC Napoli,8,Hamed Junior Traorè,24,Cote d'Ivoire,Attacking Midfield,€18.00m
+Squad SSC Napoli,77,Khvicha Kvaratskhelia,23,Georgia,Left Winger,€80.00m
+Squad SSC Napoli,21,Matteo Politano,30,Italy,Right Winger,€15.00m
+Squad SSC Napoli,26,Cyril Ngonge,23,Belgium,Right Winger,€12.00m
+Squad SSC Napoli,81,Giacomo Raspadori,24,Italy,Second Striker,€28.00m
+Squad SSC Napoli,9,Victor Osimhen,25,Nigeria,Centre-Forward,€110.00m
+Squad SSC Napoli,18,Giovanni Simeone,28,Argentina,Centre-Forward,€13.00m
+Squad Juventus FC,1,Wojciech Szczęsny,33,Poland,Goalkeeper,€8.00m
+Squad Juventus FC,36,Mattia Perin,31,Italy,Goalkeeper,€3.00m
+Squad Juventus FC,23,Carlo Pinsoglio,34,Italy,Goalkeeper,€200k
+Squad Juventus FC,3,Bremer,27,Brazil,Centre-Back,€60.00m
+Squad Juventus FC,4,Federico Gatti,25,Italy,Centre-Back,€18.00m
+Squad Juventus FC,33,Tiago Djaló,24,Portugal,Centre-Back,€15.00m
+Squad Juventus FC,6,Danilo,32,Brazil,Centre-Back,€12.00m
+Squad Juventus FC,24,Daniele Rugani,29,Italy,Centre-Back,€4.00m
+Squad Juventus FC,27,Andrea Cambiaso,24,Italy,Left-Back,€25.00m
+Squad Juventus FC,12,Alex Sandro,33,Brazil,Left-Back,€2.00m
+Squad Juventus FC,2,Mattia De Sciglio,31,Italy,Right-Back,€2.00m
+Squad Juventus FC,5,Manuel Locatelli,26,Italy,Defensive Midfield,€33.00m
+Squad Juventus FC,25,Adrien Rabiot,29,France,Central Midfield,€40.00m
+Squad Juventus FC,16,Weston McKennie,25,United States,Central Midfield,€25.00m
+Squad Juventus FC,20,Fabio Miretti,20,Italy,Central Midfield,€15.00m
+Squad Juventus FC,21,Nicolò Fagioli,23,Italy,Central Midfield,€15.00m
+Squad Juventus FC,26,Carlos Alcaraz,21,Argentina,Central Midfield,€15.00m
+Squad Juventus FC,41,Hans Nicolussi Caviglia,23,Italy,Central Midfield,€3.00m
+Squad Juventus FC,10,Paul Pogba,31,France,Central Midfield,-
+Squad Juventus FC,22,Timothy Weah,24,United States,Right Midfield,€14.00m
+Squad Juventus FC,11,Filip Kostić,31,Serbia,Left Midfield,€9.00m
+Squad Juventus FC,7,Federico Chiesa,26,Italy,Left Winger,€40.00m
+Squad Juventus FC,17,Samuel Iling-Junior,20,England,Left Winger,€12.00m
+Squad Juventus FC,15,Kenan Yıldız,18,Türkiye,Second Striker,€30.00m
+Squad Juventus FC,9,Dušan Vlahović,24,Serbia,Centre-Forward,€65.00m
+Squad Juventus FC,18,Moise Kean,24,Italy,Centre-Forward,€18.00m
+Squad Juventus FC,14,Arkadiusz Milik,30,Poland,Centre-Forward,€7.00m
+Squad Atalanta BC,29,Marco Carnesecchi,23,Italy,Goalkeeper,€15.00m
+Squad Atalanta BC,1,Juan Musso,29,Argentina,Goalkeeper,€6.50m
+Squad Atalanta BC,31,Francesco Rossi,32,Italy,Goalkeeper,€100k
+Squad Atalanta BC,42,Giorgio Scalvini,20,Italy,Centre-Back,€45.00m
+Squad Atalanta BC,19,Berat Djimsiti,31,Albania,Centre-Back,€10.00m
+Squad Atalanta BC,4,Isak Hien,25,Sweden,Centre-Back,€9.00m
+Squad Atalanta BC,23,Sead Kolasinac,30,Bosnia-Herzegovina,Centre-Back,€8.00m
+Squad Atalanta BC,2,Rafael Tolói,33,Italy,Centre-Back,€4.00m
+Squad Atalanta BC,6,José Luis Palomino,34,Argentina,Centre-Back,€1.00m
+Squad Atalanta BC,43,Giovanni Bonfanti,21,Italy,Centre-Back,€1.00m
+Squad Atalanta BC,15,Marten de Roon,33,Netherlands,Defensive Midfield,€8.00m
+Squad Atalanta BC,13,Éderson,24,Brazil,Central Midfield,€30.00m
+Squad Atalanta BC,8,Mario Pasalic,29,Croatia,Central Midfield,€13.00m
+Squad Atalanta BC,25,Michel Adopo,23,France,Central Midfield,€1.00m
+Squad Atalanta BC,3,Emil Holm,23,Sweden,Right Midfield,€12.00m
+Squad Atalanta BC,77,Davide Zappacosta,31,Italy,Right Midfield,€6.00m
+Squad Atalanta BC,33,Hans Hateboer,30,Netherlands,Right Midfield,€4.00m
+Squad Atalanta BC,22,Matteo Ruggeri,21,Italy,Left Midfield,€15.00m
+Squad Atalanta BC,20,Mitchel Bakker,23,Netherlands,Left Midfield,€7.00m
+Squad Atalanta BC,7,Teun Koopmeiners,26,Netherlands,Attacking Midfield,€40.00m
+Squad Atalanta BC,17,Charles De Ketelaere,23,Belgium,Attacking Midfield,€30.00m
+Squad Atalanta BC,59,Aleksey Miranchuk,28,Russia,Attacking Midfield,€9.00m
+Squad Atalanta BC,11,Ademola Lookman,26,Nigeria,Second Striker,€30.00m
+Squad Atalanta BC,90,Gianluca Scamacca,25,Italy,Centre-Forward,€25.00m
+Squad Atalanta BC,10,El Bilal Touré,22,Mali,Centre-Forward,€20.00m
+Squad AS Roma,99,Mile Svilar,24,Serbia,Goalkeeper,€4.00m
+Squad AS Roma,1,Rui Patrício,36,Portugal,Goalkeeper,€2.00m
+Squad AS Roma,63,Pietro Boer,21,Italy,Goalkeeper,€150k
+Squad AS Roma,5,Evan Ndicka,24,Cote d'Ivoire,Centre-Back,€24.00m
+Squad AS Roma,23,Gianluca Mancini,28,Italy,Centre-Back,€20.00m
+Squad AS Roma,3,Dean Huijsen,19,Spain,Centre-Back,€10.00m
+Squad AS Roma,14,Diego Llorente,30,Spain,Centre-Back,€8.00m
+Squad AS Roma,6,Chris Smalling,34,England,Centre-Back,€3.50m
+Squad AS Roma,69,Angeliño,27,Spain,Left-Back,€8.00m
+Squad AS Roma,37,Leonardo Spinazzola,31,Italy,Left-Back,€4.00m
+Squad AS Roma,43,Rasmus Kristensen,26,Denmark,Right-Back,€10.00m
+Squad AS Roma,2,Rick Karsdorp,29,Netherlands,Right-Back,€7.00m
+Squad AS Roma,19,Zeki Çelik,27,Türkiye,Right-Back,€6.00m
+Squad AS Roma,4,Bryan Cristante,29,Italy,Defensive Midfield,€20.00m
+Squad AS Roma,16,Leandro Paredes,29,Argentina,Defensive Midfield,€8.00m
+Squad AS Roma,52,Edoardo Bove,21,Italy,Central Midfield,€15.00m
+Squad AS Roma,22,Houssem Aouar,25,Algeria,Central Midfield,€13.00m
+Squad AS Roma,20,Renato Sanches,26,Portugal,Central Midfield,€8.00m
+Squad AS Roma,59,Nicola Zalewski,22,Poland,Left Midfield,€12.00m
+Squad AS Roma,7,Lorenzo Pellegrini,27,Italy,Attacking Midfield,€25.00m
+Squad AS Roma,35,Tommaso Baldanzi,21,Italy,Attacking Midfield,€15.00m
+Squad AS Roma,92,Stephan El Shaarawy,31,Italy,Left Winger,€5.00m
+Squad AS Roma,21,Paulo Dybala,30,Argentina,Second Striker,€25.00m
+Squad AS Roma,9,Tammy Abraham,26,England,Centre-Forward,€35.00m
+Squad AS Roma,90,Romelu Lukaku,30,Belgium,Centre-Forward,€30.00m
+Squad AS Roma,17,Sardar Azmoun,29,Iran,Centre-Forward,€10.00m
+Squad Bologna FC 1909,28,Lukasz Skorupski,32,Poland,Goalkeeper,€3.50m
+Squad Bologna FC 1909,34,Federico Ravaglia,24,Italy,Goalkeeper,€450k
+Squad Bologna FC 1909,23,Nicola Bagnolini,20,Italy,Goalkeeper,€200k
+Squad Bologna FC 1909,33,Riccardo Calafiori,21,Italy,Centre-Back,€25.00m
+Squad Bologna FC 1909,31,Sam Beukema,25,Netherlands,Centre-Back,€15.00m
+Squad Bologna FC 1909,26,Jhon Lucumí,25,Colombia,Centre-Back,€11.00m
+Squad Bologna FC 1909,4,Mihajlo Ilić,20,Serbia,Centre-Back,€4.00m
+Squad Bologna FC 1909,5,Adama Soumaoro,31,France,Centre-Back,€3.00m
+Squad Bologna FC 1909,15,Victor Kristiansen,21,Denmark,Left-Back,€15.00m
+Squad Bologna FC 1909,16,Tommaso Corazza,19,Italy,Left-Back,€1.00m
+Squad Bologna FC 1909,22,Charalampos Lykogiannis,30,Greece,Left-Back,€1.00m
+Squad Bologna FC 1909,3,Stefan Posch,26,Austria,Right-Back,€14.00m
+Squad Bologna FC 1909,29,Lorenzo De Silvestri,35,Italy,Right-Back,€400k
+Squad Bologna FC 1909,6,Nikola Moro,26,Croatia,Defensive Midfield,€6.50m
+Squad Bologna FC 1909,17,Oussama El Azzouzi,22,Morocco,Defensive Midfield,€2.00m
+Squad Bologna FC 1909,80,Giovanni Fabbian,21,Italy,Central Midfield,€12.00m
+Squad Bologna FC 1909,8,Remo Freuler,32,Switzerland,Central Midfield,€6.50m
+Squad Bologna FC 1909,20,Michel Aebischer,27,Switzerland,Central Midfield,€6.00m
+Squad Bologna FC 1909,82,Kacper Urbanski,19,Poland,Central Midfield,€4.00m
+Squad Bologna FC 1909,19,Lewis Ferguson,24,Scotland,Attacking Midfield,€24.00m
+Squad Bologna FC 1909,10,Jesper Karlsson,25,Sweden,Left Winger,€10.00m
+Squad Bologna FC 1909,7,Riccardo Orsolini,27,Italy,Right Winger,€14.00m
+Squad Bologna FC 1909,11,Dan Ndoye,23,Switzerland,Right Winger,€10.00m
+Squad Bologna FC 1909,56,Alexis Saelemaekers,24,Belgium,Right Winger,€10.00m
+Squad Bologna FC 1909,21,Jens Odgaard,25,Denmark,Right Winger,€4.00m
+Squad Bologna FC 1909,9,Joshua Zirkzee,22,Netherlands,Centre-Forward,€40.00m
+Squad Bologna FC 1909,18,Santiago Castro,19,Argentina,Centre-Forward,€12.00m
+Squad ACF Fiorentina,53,Oliver Christensen,25,Denmark,Goalkeeper,€3.80m
+Squad ACF Fiorentina,1,Pietro Terracciano,34,Italy,Goalkeeper,€2.50m
+Squad ACF Fiorentina,30,Tommaso Martinelli,18,Italy,Goalkeeper,€1.00m
+Squad ACF Fiorentina,40,Tommaso Vannucchi,17,Italy,Goalkeeper,€400k
+Squad ACF Fiorentina,4,Nikola Milenković,26,Serbia,Centre-Back,€16.00m
+Squad ACF Fiorentina,28,Lucas Martínez Quarta,27,Argentina,Centre-Back,€14.00m
+Squad ACF Fiorentina,16,Luca Ranieri,24,Italy,Centre-Back,€5.00m
+Squad ACF Fiorentina,37,Pietro Comuzzo,19,Italy,Centre-Back,€700k
+Squad ACF Fiorentina,65,Fabiano Parisi,23,Italy,Left-Back,€9.50m
+Squad ACF Fiorentina,3,Cristiano Biraghi,31,Italy,Left-Back,€4.00m
+Squad ACF Fiorentina,2,Dodô,25,Brazil,Right-Back,€20.00m
+Squad ACF Fiorentina,33,Michael Kayode,19,Italy,Right-Back,€15.00m
+Squad ACF Fiorentina,22,Davide Faraoni,32,Italy,Right-Back,€2.00m
+Squad ACF Fiorentina,6,Arthur Melo,27,Brazil,Defensive Midfield,€15.00m
+Squad ACF Fiorentina,8,Maxime López,26,France,Defensive Midfield,€9.00m
+Squad ACF Fiorentina,38,Rolando Mandragora,26,Italy,Defensive Midfield,€8.50m
+Squad ACF Fiorentina,17,Gaetano Castrovilli,27,Italy,Central Midfield,€8.00m
+Squad ACF Fiorentina,32,Alfred Duncan,31,Ghana,Central Midfield,€4.50m
+Squad ACF Fiorentina,5,Giacomo Bonaventura,34,Italy,Central Midfield,€3.00m
+Squad ACF Fiorentina,19,Gino Infantino,20,Argentina,Central Midfield,€3.00m
+Squad ACF Fiorentina,72,Antonín Barák,29,Czech Republic,Attacking Midfield,€5.00m
+Squad ACF Fiorentina,99,Christian Kouamé,26,Cote d'Ivoire,Left Winger,€9.00m
+Squad ACF Fiorentina,7,Riccardo Sottil,24,Italy,Left Winger,€6.50m
+Squad ACF Fiorentina,10,Nicolás González,26,Argentina,Right Winger,€40.00m
+Squad ACF Fiorentina,11,Jonathan Ikoné,25,France,Right Winger,€13.00m
+Squad ACF Fiorentina,9,Lucas Beltrán,23,Argentina,Centre-Forward,€16.00m
+Squad ACF Fiorentina,18,M'Bala Nzola,27,Angola,Centre-Forward,€8.00m
+Squad ACF Fiorentina,20,Andrea Belotti,30,Italy,Centre-Forward,€6.00m
+Squad SS Lazio,94,Ivan Provedel,30,Italy,Goalkeeper,€14.00m
+Squad SS Lazio,35,Christos Mandas,22,Greece,Goalkeeper,€1.00m
+Squad SS Lazio,33,Luigi Sepe,32,Italy,Goalkeeper,€900k
+Squad SS Lazio,13,Alessio Romagnoli,29,Italy,Centre-Back,€15.00m
+Squad SS Lazio,15,Nicolò Casale,26,Italy,Centre-Back,€14.00m
+Squad SS Lazio,34,Mario Gila,23,Spain,Centre-Back,€8.00m
+Squad SS Lazio,4,Patric,31,Spain,Centre-Back,€4.00m
+Squad SS Lazio,3,Luca Pellegrini,25,Italy,Left-Back,€4.00m
+Squad SS Lazio,77,Adam Marusic,31,Montenegro,Right-Back,€5.00m
+Squad SS Lazio,23,Elseid Hysaj,30,Albania,Right-Back,€3.00m
+Squad SS Lazio,65,Nicolò Rovella,22,Italy,Defensive Midfield,€18.00m
+Squad SS Lazio,32,Danilo Cataldi,29,Italy,Defensive Midfield,€8.00m
+Squad SS Lazio,8,Mattéo Guendouzi,25,France,Central Midfield,€25.00m
+Squad SS Lazio,10,Luis Alberto,31,Spain,Central Midfield,€14.00m
+Squad SS Lazio,5,Matías Vecino,32,Uruguay,Central Midfield,€3.00m
+Squad SS Lazio,29,Manuel Lazzari,30,Italy,Right Midfield,€5.00m
+Squad SS Lazio,6,Daichi Kamada,27,Japan,Attacking Midfield,€15.00m
+Squad SS Lazio,28,André Anderson,24,Italy,Attacking Midfield,€800k
+Squad SS Lazio,20,Mattia Zaccagni,28,Italy,Left Winger,€22.00m
+Squad SS Lazio,22,Diego González,21,Paraguay,Left Winger,€1.50m
+Squad SS Lazio,70,Saná Fernandes,18,Portugal,Left Winger,€800k
+Squad SS Lazio,18,Gustav Isaksen,22,Denmark,Right Winger,€12.00m
+Squad SS Lazio,7,Felipe Anderson,31,Brazil,Right Winger,€10.00m
+Squad SS Lazio,9,Pedro,36,Spain,Right Winger,€1.50m
+Squad SS Lazio,87,Cristiano Lombardi,28,Italy,Right Winger,€125k
+Squad SS Lazio,19,Taty Castellanos,25,Argentina,Centre-Forward,€15.00m
+Squad SS Lazio,17,Ciro Immobile,34,Italy,Centre-Forward,€7.00m
+Squad Torino FC,32,Vanja Milinković-Savić,27,Serbia,Goalkeeper,€5.00m
+Squad Torino FC,71,Mihai Popa,23,Romania,Goalkeeper,€800k
+Squad Torino FC,1,Luca Gemello,23,Italy,Goalkeeper,€300k
+Squad Torino FC,65,Pietro Passador,21,Italy,Goalkeeper,€100k
+Squad Torino FC,4,Alessandro Buongiorno,24,Italy,Centre-Back,€30.00m
+Squad Torino FC,3,Perr Schuurs,24,Netherlands,Centre-Back,€25.00m
+Squad Torino FC,6,Matteo Lovato,24,Italy,Centre-Back,€4.50m
+Squad Torino FC,13,Ricardo Rodríguez,31,Switzerland,Centre-Back,€3.50m
+Squad Torino FC,15,Saba Sazonov,22,Georgia,Centre-Back,€3.00m
+Squad Torino FC,26,Koffi Djidji,31,Cote d'Ivoire,Centre-Back,€2.50m
+Squad Torino FC,5,Adam Masina,30,Morocco,Left-Back,€1.50m
+Squad Torino FC,28,Samuele Ricci,22,Italy,Defensive Midfield,€20.00m
+Squad Torino FC,61,Adrien Tamèze,30,Cameroon,Defensive Midfield,€6.00m
+Squad Torino FC,8,Ivan Ilić,23,Serbia,Central Midfield,€18.00m
+Squad Torino FC,77,Karol Linetty,29,Poland,Central Midfield,€3.50m
+Squad Torino FC,66,Gvidas Gineitis,20,Lithuania,Central Midfield,€2.00m
+Squad Torino FC,19,Raoul Bellanova,23,Italy,Right Midfield,€10.00m
+Squad Torino FC,20,Valentino Lazaro,28,Austria,Left Midfield,€4.50m
+Squad Torino FC,27,Mërgim Vojvoda,29,Kosovo,Left Midfield,€3.50m
+Squad Torino FC,16,Nikola Vlašić,26,Croatia,Attacking Midfield,€13.00m
+Squad Torino FC,17,Uros Kabic,20,Serbia,Right Winger,€1.00m
+Squad Torino FC,9,Antonio Sanabria,28,Paraguay,Centre-Forward,€9.50m
+Squad Torino FC,91,Duván Zapata,33,Colombia,Centre-Forward,€8.00m
+Squad Torino FC,11,Pietro Pellegri,23,Italy,Centre-Forward,€3.50m
+Squad Torino FC,21,David Okereke,26,Nigeria,Centre-Forward,€2.70m
+Squad US Sassuolo,28,Alessio Cragno,29,Italy,Goalkeeper,€2.50m
+Squad US Sassuolo,47,Andrea Consigli,37,Italy,Goalkeeper,€1.00m
+Squad US Sassuolo,25,Gianluca Pegolo,43,Italy,Goalkeeper,€100k
+Squad US Sassuolo,19,Marash Kumbulla,24,Albania,Centre-Back,€7.50m
+Squad US Sassuolo,21,Mattia Viti,22,Italy,Centre-Back,€6.00m
+Squad US Sassuolo,5,Martin Erlić,26,Croatia,Centre-Back,€4.00m
+Squad US Sassuolo,44,Ruan Tressoldi,24,Brazil,Centre-Back,€3.00m
+Squad US Sassuolo,13,Gian Marco Ferrari,31,Italy,Centre-Back,€1.60m
+Squad US Sassuolo,43,Josh Doig,21,Scotland,Left-Back,€7.00m
+Squad US Sassuolo,3,Marcus Pedersen,23,Norway,Right-Back,€6.50m
+Squad US Sassuolo,22,Jeremy Toljan,29,Germany,Right-Back,€4.50m
+Squad US Sassuolo,2,Filippo Missori,20,Italy,Right-Back,€1.50m
+Squad US Sassuolo,24,Daniel Boloca,25,Italy,Defensive Midfield,€10.00m
+Squad US Sassuolo,35,Luca Lipani,18,Italy,Defensive Midfield,€4.00m
+Squad US Sassuolo,6,Uroš Račić,26,Serbia,Defensive Midfield,€3.00m
+Squad US Sassuolo,7,Matheus Henrique,26,Brazil,Central Midfield,€12.00m
+Squad US Sassuolo,14,Pedro Obiang,32,Equatorial Guinea,Central Midfield,€500k
+Squad US Sassuolo,42,Kristian Thorstvedt,25,Norway,Attacking Midfield,€7.50m
+Squad US Sassuolo,11,Nedim Bajrami,25,Albania,Attacking Midfield,€6.00m
+Squad US Sassuolo,23,Cristian Volpato,20,Italy,Attacking Midfield,€5.00m
+Squad US Sassuolo,45,Armand Laurienté,25,France,Left Winger,€12.00m
+Squad US Sassuolo,15,Emil Konradsen Ceide,22,Norway,Left Winger,€2.20m
+Squad US Sassuolo,10,Domenico Berardi,29,Italy,Right Winger,€12.00m
+Squad US Sassuolo,20,Samu Castillejo,29,Spain,Right Winger,€1.00m
+Squad US Sassuolo,9,Andrea Pinamonti,24,Italy,Centre-Forward,€15.00m
+Squad US Sassuolo,8,Samuele Mulattieri,23,Italy,Centre-Forward,€4.50m
+Squad US Sassuolo,92,Grégoire Defrel,32,France,Centre-Forward,€1.00m
+Squad Genoa CFC,1,Josep Martínez,25,Spain,Goalkeeper,€6.00m
+Squad Genoa CFC,16,Nicola Leali,31,Italy,Goalkeeper,€900k
+Squad Genoa CFC,99,Franz Stolz,23,Austria,Goalkeeper,€200k
+Squad Genoa CFC,39,Daniele Sommariva,26,Italy,Goalkeeper,€100k
+Squad Genoa CFC,38,Simone Calvani,18,Italy,Goalkeeper,€50k
+Squad Genoa CFC,4,Koni De Winter,21,Belgium,Centre-Back,€10.00m
+Squad Genoa CFC,22,Johan Vásquez,25,Mexico,Centre-Back,€6.00m
+Squad Genoa CFC,33,Alan Matturro,19,Uruguay,Centre-Back,€4.00m
+Squad Genoa CFC,23,Giorgio Cittadini,21,Italy,Centre-Back,€3.00m
+Squad Genoa CFC,13,Mattia Bani,30,Italy,Centre-Back,€2.00m
+Squad Genoa CFC,14,Alessandro Vogliacco,25,Italy,Centre-Back,€2.00m
+Squad Genoa CFC,3,Aarón Martín,26,Spain,Left-Back,€5.00m
+Squad Genoa CFC,55,Ridgeciano Haps,30,Suriname,Left-Back,€1.00m
+Squad Genoa CFC,90,Djed Spence,23,England,Right-Back,€8.00m
+Squad Genoa CFC,20,Stefano Sabelli,31,Italy,Right-Back,€1.50m
+Squad Genoa CFC,5,Emil Bohinen,25,Norway,Defensive Midfield,€2.00m
+Squad Genoa CFC,47,Milan Badelj,35,Croatia,Defensive Midfield,€800k
+Squad Genoa CFC,32,Morten Frendrup,23,Denmark,Central Midfield,€10.00m
+Squad Genoa CFC,2,Morten Thorsby,27,Norway,Central Midfield,€3.20m
+Squad Genoa CFC,8,Kevin Strootman,34,Netherlands,Central Midfield,€1.00m
+Squad Genoa CFC,17,Ruslan Malinovskyi,30,Ukraine,Attacking Midfield,€10.00m
+Squad Genoa CFC,10,Junior Messias,32,Brazil,Right Winger,€3.00m
+Squad Genoa CFC,11,Albert Gudmundsson,26,Iceland,Second Striker,€22.00m
+Squad Genoa CFC,19,Mateo Retegui,24,Italy,Centre-Forward,€16.00m
+Squad Genoa CFC,9,Vitinha,24,Portugal,Centre-Forward,€15.00m
+Squad Genoa CFC,30,David Ankeye,21,Nigeria,Centre-Forward,€2.00m
+Squad Genoa CFC,18,Caleb Ekuban,30,Ghana,Centre-Forward,€1.00m
+Squad Udinese Calcio,40,Maduka Okoye,24,Nigeria,Goalkeeper,€3.00m
+Squad Udinese Calcio,1,Marco Silvestri,33,Italy,Goalkeeper,€2.00m
+Squad Udinese Calcio,93,Daniele Padelli,38,Italy,Goalkeeper,€200k
+Squad Udinese Calcio,18,Nehuén Pérez,23,Argentina,Centre-Back,€12.00m
+Squad Udinese Calcio,29,Jaka Bijol,25,Slovenia,Centre-Back,€10.00m
+Squad Udinese Calcio,31,Thomas Kristensen,22,Denmark,Centre-Back,€4.50m
+Squad Udinese Calcio,30,Lautaro Giannetti,30,Argentina,Centre-Back,€2.80m
+Squad Udinese Calcio,23,Enzo Ebosse,25,Cameroon,Centre-Back,€2.50m
+Squad Udinese Calcio,13,João Ferreira,23,Portugal,Centre-Back,€2.00m
+Squad Udinese Calcio,27,Christian Kabasele,33,Belgium,Centre-Back,€1.50m
+Squad Udinese Calcio,16,Antonio Tikvić,19,Croatia,Centre-Back,€700k
+Squad Udinese Calcio,14,James Abankwah,20,Ireland,Centre-Back,€300k
+Squad Udinese Calcio,33,Jordan Zemura,24,Zimbabwe,Left-Back,€6.00m
+Squad Udinese Calcio,12,Hassane Kamara,30,Cote d'Ivoire,Left-Back,€5.00m
+Squad Udinese Calcio,19,Kingsley Ehizibue,28,Netherlands,Right-Back,€2.50m
+Squad Udinese Calcio,11,Walace,29,Brazil,Defensive Midfield,€7.00m
+Squad Udinese Calcio,24,Lazar Samardžić,22,Serbia,Central Midfield,€20.00m
+Squad Udinese Calcio,4,Sandi Lovric,26,Slovenia,Central Midfield,€9.00m
+Squad Udinese Calcio,32,Martín Payero,25,Argentina,Central Midfield,€4.50m
+Squad Udinese Calcio,37,Roberto Pereyra,33,Argentina,Central Midfield,€3.00m
+Squad Udinese Calcio,6,Oier Zarraga,25,Spain,Central Midfield,€2.70m
+Squad Udinese Calcio,2,Festy Ebosele,21,Ireland,Right Midfield,€6.00m
+Squad Udinese Calcio,79,David Pejičić,16,Slovenia,Attacking Midfield,€500k
+Squad Udinese Calcio,26,Florian Thauvin,31,France,Right Winger,€3.00m
+Squad Udinese Calcio,17,Lorenzo Lucca,23,Italy,Centre-Forward,€8.00m
+Squad Udinese Calcio,22,Brenner,24,Brazil,Centre-Forward,€8.00m
+Squad Udinese Calcio,7,Isaac Success,28,Nigeria,Centre-Forward,€3.50m
+Squad Udinese Calcio,9,Keinan Davis,26,England,Centre-Forward,€3.00m
+Squad Udinese Calcio,10,Gerard Deulofeu,30,Spain,Centre-Forward,€2.50m
+Squad AC Monza,16,Michele Di Gregorio,26,Italy,Goalkeeper,€15.00m
+Squad AC Monza,23,Alessandro Sorrentino,22,Italy,Goalkeeper,€800k
+Squad AC Monza,66,Stefano Gori,28,Italy,Goalkeeper,€700k
+Squad AC Monza,22,Pablo Marí,30,Spain,Centre-Back,€5.00m
+Squad AC Monza,44,Andrea Carboni,23,Italy,Centre-Back,€4.00m
+Squad AC Monza,4,Armando Izzo,32,Italy,Centre-Back,€2.50m
+Squad AC Monza,5,Luca Caldirola,33,Italy,Centre-Back,€1.50m
+Squad AC Monza,18,Davide Bettella,24,Italy,Centre-Back,€1.20m
+Squad AC Monza,33,Danilo D'Ambrosio,35,Italy,Centre-Back,€1.00m
+Squad AC Monza,19,Samuele Birindelli,24,Italy,Right-Back,€3.50m
+Squad AC Monza,13,Pedro Pereira,26,Portugal,Right-Back,€1.80m
+Squad AC Monza,2,Giulio Donati,34,Italy,Right-Back,€400k
+Squad AC Monza,32,Matteo Pessina,26,Italy,Central Midfield,€15.00m
+Squad AC Monza,6,Roberto Gagliardini,30,Italy,Central Midfield,€4.00m
+Squad AC Monza,38,Warren Bondo,20,France,Central Midfield,€2.50m
+Squad AC Monza,7,José Machín,27,Equatorial Guinea,Central Midfield,€1.40m
+Squad AC Monza,8,Jean-Daniel Akpa Akpro,31,Cote d'Ivoire,Central Midfield,€1.00m
+Squad AC Monza,84,Patrick Ciurria,29,Italy,Right Midfield,€5.00m
+Squad AC Monza,77,Georgios Kyriakopoulos,28,Greece,Left Midfield,€4.00m
+Squad AC Monza,21,Valentín Carboni,19,Argentina,Attacking Midfield,€15.00m
+Squad AC Monza,28,Andrea Colpani,24,Italy,Attacking Midfield,€15.00m
+Squad AC Monza,80,Samuele Vignato,20,Italy,Attacking Midfield,€4.00m
+Squad AC Monza,27,Daniel Maldini,22,Italy,Attacking Midfield,€3.00m
+Squad AC Monza,79,Matija Popovic,18,Serbia,Attacking Midfield,€2.00m
+Squad AC Monza,20,Alessio Zerbin,25,Italy,Left Winger,€3.50m
+Squad AC Monza,17,Papu Gómez,36,Argentina,Left Winger,-
+Squad AC Monza,10,Gianluca Caprari,30,Italy,Second Striker,€5.00m
+Squad AC Monza,9,Lorenzo Colombo,22,Italy,Centre-Forward,€7.00m
+Squad AC Monza,47,Dany Mota,25,Portugal,Centre-Forward,€5.00m
+Squad AC Monza,11,Milan Djuric,33,Bosnia-Herzegovina,Centre-Forward,€1.50m
+Squad Frosinone Calcio,80,Stefano Turati,22,Italy,Goalkeeper,€7.00m
+Squad Frosinone Calcio,31,Michele Cerofolini,25,Italy,Goalkeeper,€500k
+Squad Frosinone Calcio,1,Pierluigi Frattali,38,Italy,Goalkeeper,€100k
+Squad Frosinone Calcio,5,Caleb Okoli,22,Italy,Centre-Back,€8.00m
+Squad Frosinone Calcio,30,Ilario Monterisi,22,Italy,Centre-Back,€3.00m
+Squad Frosinone Calcio,33,Kevin Bonifazi,27,Italy,Centre-Back,€2.50m
+Squad Frosinone Calcio,6,Simone Romagnoli,34,Italy,Centre-Back,€800k
+Squad Frosinone Calcio,47,Mateus Lusuardi,20,Brazil,Centre-Back,€300k
+Squad Frosinone Calcio,23,Sergio Kalaj,24,Albania,Centre-Back,€200k
+Squad Frosinone Calcio,3,Riccardo Marchizza,26,Italy,Left-Back,€2.50m
+Squad Frosinone Calcio,32,Emanuele Valeri,25,Italy,Left-Back,€2.30m
+Squad Frosinone Calcio,22,Anthony Oyono,23,Gabon,Right-Back,€2.50m
+Squad Frosinone Calcio,20,Pol Lirola,26,Spain,Right-Back,€2.00m
+Squad Frosinone Calcio,45,Enzo Barrenechea,22,Argentina,Defensive Midfield,€6.00m
+Squad Frosinone Calcio,36,Luca Mazzitelli,28,Italy,Central Midfield,€4.00m
+Squad Frosinone Calcio,4,Marco Brescianini,24,Italy,Central Midfield,€3.00m
+Squad Frosinone Calcio,21,Abdou Harroui,26,Morocco,Central Midfield,€2.70m
+Squad Frosinone Calcio,19,Nadir Zortea,24,Italy,Right Midfield,€2.00m
+Squad Frosinone Calcio,12,Reinier,22,Brazil,Attacking Midfield,€4.00m
+Squad Frosinone Calcio,16,Luca Garritano,30,Italy,Attacking Midfield,€1.40m
+Squad Frosinone Calcio,14,Francesco Gelli,27,Italy,Attacking Midfield,€1.00m
+Squad Frosinone Calcio,15,İsak Vural,17,Türkiye,Attacking Midfield,€200k
+Squad Frosinone Calcio,27,Arijon Ibrahimovic,18,Germany,Left Winger,€4.00m
+Squad Frosinone Calcio,10,Giuseppe Caso,25,Italy,Left Winger,€2.00m
+Squad Frosinone Calcio,7,Jaime Báez,28,Uruguay,Left Winger,€1.20m
+Squad Frosinone Calcio,17,Giorgi Kvernadze,21,Georgia,Left Winger,€800k
+Squad Frosinone Calcio,26,Soufiane Bidaoui,33,Morocco,Left Winger,€200k
+Squad Frosinone Calcio,18,Matías Soulé,21,Argentina,Right Winger,€25.00m
+Squad Frosinone Calcio,8,Demba Seck,23,Senegal,Right Winger,€2.70m
+Squad Frosinone Calcio,29,Farès Ghedjemis,21,France,Right Winger,€600k
+Squad Frosinone Calcio,70,Walid Cheddira,26,Morocco,Centre-Forward,€6.00m
+Squad Frosinone Calcio,9,Kaio Jorge,22,Brazil,Centre-Forward,€4.00m
+Squad Frosinone Calcio,11,Marvin Cuni,22,Albania,Centre-Forward,€1.00m
+Squad US Lecce,30,Wladimiro Falcone,29,Italy,Goalkeeper,€5.00m
+Squad US Lecce,21,Federico Brancolini,22,Italy,Goalkeeper,€200k
+Squad US Lecce,98,Alexandru Borbei,20,Romania,Goalkeeper,€150k
+Squad US Lecce,40,Jasper Samooja,20,Finland,Goalkeeper,€75k
+Squad US Lecce,6,Federico Baschirotto,27,Italy,Centre-Back,€7.00m
+Squad US Lecce,5,Marin Pongracic,26,Croatia,Centre-Back,€6.00m
+Squad US Lecce,59,Ahmed Touba,26,Algeria,Centre-Back,€2.00m
+Squad US Lecce,55,Kastriot Dermaku,32,Albania,Centre-Back,€300k
+Squad US Lecce,13,Patrick Dorgu,19,Denmark,Left-Back,€7.00m
+Squad US Lecce,25,Antonino Gallo,24,Italy,Left-Back,€3.00m
+Squad US Lecce,17,Valentin Gendrey,23,France,Right-Back,€4.50m
+Squad US Lecce,12,Lorenzo Venuti,29,Italy,Right-Back,€1.50m
+Squad US Lecce,20,Ylber Ramadani,28,Albania,Defensive Midfield,€3.80m
+Squad US Lecce,29,Alexis Blin,27,France,Defensive Midfield,€2.50m
+Squad US Lecce,16,Joan González,22,Spain,Central Midfield,€5.00m
+Squad US Lecce,77,Mohamed Kaba,22,France,Central Midfield,€3.50m
+Squad US Lecce,8,Hamza Rafia,25,Tunisia,Central Midfield,€1.50m
+Squad US Lecce,83,Daniel Samek,20,Czech Republic,Central Midfield,€1.50m
+Squad US Lecce,18,Medon Berisha,20,Albania,Central Midfield,€500k
+Squad US Lecce,10,Rémi Oudin,27,France,Attacking Midfield,€3.50m
+Squad US Lecce,22,Lameck Banda,23,Zambia,Left Winger,€6.00m
+Squad US Lecce,11,Nicola Sansone,32,Italy,Left Winger,€1.20m
+Squad US Lecce,7,Pontus Almqvist,24,Sweden,Right Winger,€3.00m
+Squad US Lecce,50,Santiago Pierotti,23,Argentina,Right Winger,€2.50m
+Squad US Lecce,24,Jeppe Corfitzen,19,Denmark,Right Winger,€400k
+Squad US Lecce,9,Nikola Krstovic,24,Montenegro,Centre-Forward,€5.00m
+Squad US Lecce,91,Roberto Piccoli,23,Italy,Centre-Forward,€3.50m
+Squad US Lecce,45,Rareș Burnete,20,Romania,Centre-Forward,€700k
+Squad US Salernitana 1919,13,Guillermo Ochoa,38,Mexico,Goalkeeper,€1.50m
+Squad US Salernitana 1919,56,Benoît Costil,36,France,Goalkeeper,€800k
+Squad US Salernitana 1919,1,Vincenzo Fiorillo,34,Italy,Goalkeeper,€200k
+Squad US Salernitana 1919,62,Pasquale Allocca,18,Italy,Goalkeeper,€100k
+Squad US Salernitana 1919,98,Lorenzo Pirola,22,Italy,Centre-Back,€7.00m
+Squad US Salernitana 1919,24,Marco Pellegrino,21,Argentina,Centre-Back,€3.50m
+Squad US Salernitana 1919,23,Norbert Gyömbér,31,Slovakia,Centre-Back,€1.50m
+Squad US Salernitana 1919,44,Konstantinos Manolas,32,Greece,Centre-Back,€1.50m
+Squad US Salernitana 1919,4,Triantafyllos Pasalidis,27,Greece,Centre-Back,€500k
+Squad US Salernitana 1919,5,Jérôme Boateng,35,Germany,Centre-Back,€500k
+Squad US Salernitana 1919,17,Federico Fazio,37,Argentina,Centre-Back,€400k
+Squad US Salernitana 1919,3,Domagoj Bradarić,24,Croatia,Left-Back,€6.50m
+Squad US Salernitana 1919,59,Alessandro Zanoli,23,Italy,Right-Back,€6.00m
+Squad US Salernitana 1919,6,Junior Sambia,27,France,Right-Back,€2.50m
+Squad US Salernitana 1919,27,Niccolò Pierozzi,22,Italy,Right-Back,€1.60m
+Squad US Salernitana 1919,99,Mateusz Legowski,21,Poland,Defensive Midfield,€3.00m
+Squad US Salernitana 1919,18,Lassana Coulibaly,28,Mali,Central Midfield,€4.50m
+Squad US Salernitana 1919,25,Giulio Maggiore,26,Italy,Central Midfield,€3.50m
+Squad US Salernitana 1919,26,Toma Bašić,27,Croatia,Central Midfield,€3.50m
+Squad US Salernitana 1919,87,Antonio Candreva,37,Italy,Right Midfield,€1.50m
+Squad US Salernitana 1919,7,Agustín Martegani,23,Argentina,Attacking Midfield,€2.00m
+Squad US Salernitana 1919,20,Grigoris Kastanos,26,Cyprus,Attacking Midfield,€1.80m
+Squad US Salernitana 1919,11,Iron Gomis,24,France,Attacking Midfield,€1.00m
+Squad US Salernitana 1919,36,Andres Sfait,19,Romania,Left Winger,€500k
+Squad US Salernitana 1919,33,Loum Tchaouna,20,France,Right Winger,€5.00m
+Squad US Salernitana 1919,55,Emanuel Vignato,23,Italy,Right Winger,€1.10m
+Squad US Salernitana 1919,10,Boulaye Dia,27,Senegal,Centre-Forward,€13.00m
+Squad US Salernitana 1919,14,Shon Weissman,28,Israel,Centre-Forward,€2.00m
+Squad US Salernitana 1919,22,Chukwubuikem Ikwuemesi,22,Nigeria,Centre-Forward,€1.80m
+Squad US Salernitana 1919,9,Simy,31,Nigeria,Centre-Forward,€600k
+Squad US Salernitana 1919,-,Mikael,24,Brazil,Centre-Forward,€500k
+Squad Cagliari Calcio,22,Simone Scuffet,27,Italy,Goalkeeper,€2.00m
+Squad Cagliari Calcio,1,Boris Radunović,27,Serbia,Goalkeeper,€1.30m
+Squad Cagliari Calcio,18,Simone Aresti,38,Italy,Goalkeeper,€75k
+Squad Cagliari Calcio,4,Alberto Dossena,25,Italy,Centre-Back,€4.00m
+Squad Cagliari Calcio,17,Pantelis Hatzidiakos,27,Greece,Centre-Back,€3.80m
+Squad Cagliari Calcio,23,Mateusz Wieteska,27,Poland,Centre-Back,€3.50m
+Squad Cagliari Calcio,26,Yerry Mina,29,Colombia,Centre-Back,€3.00m
+Squad Cagliari Calcio,33,Adam Obert,21,Slovakia,Centre-Back,€1.80m
+Squad Cagliari Calcio,27,Tommaso Augello,29,Italy,Left-Back,€2.00m
+Squad Cagliari Calcio,37,Paulo Azzi,29,Brazil,Left-Back,€1.50m
+Squad Cagliari Calcio,28,Gabriele Zappa,24,Italy,Right-Back,€2.00m
+Squad Cagliari Calcio,99,Alessandro Di Pardo,24,Italy,Right-Back,€900k
+Squad Cagliari Calcio,16,Matteo Prati,20,Italy,Defensive Midfield,€8.00m
+Squad Cagliari Calcio,29,Antoine Makoumbou,25,Congo,Defensive Midfield,€4.50m
+Squad Cagliari Calcio,25,Ibrahim Sulemana,20,Ghana,Defensive Midfield,€3.50m
+Squad Cagliari Calcio,8,Nahitan Nández,28,Uruguay,Central Midfield,€5.00m
+Squad Cagliari Calcio,14,Alessandro Deiola,28,Italy,Central Midfield,€1.60m
+Squad Cagliari Calcio,10,Nicolas Viola,34,Italy,Central Midfield,€800k
+Squad Cagliari Calcio,21,Jakub Jankto,28,Czech Republic,Left Midfield,€1.20m
+Squad Cagliari Calcio,70,Gianluca Gaetano,23,Italy,Attacking Midfield,€5.00m
+Squad Cagliari Calcio,19,Gaetano Oristanio,21,Italy,Attacking Midfield,€3.50m
+Squad Cagliari Calcio,5,Marco Mancosu,35,Italy,Attacking Midfield,€500k
+Squad Cagliari Calcio,77,Zito Luvumbo,22,Angola,Centre-Forward,€6.00m
+Squad Cagliari Calcio,32,Andrea Petagna,28,Italy,Centre-Forward,€5.00m
+Squad Cagliari Calcio,61,Eldor Shomurodov,28,Uzbekistan,Centre-Forward,€5.00m
+Squad Cagliari Calcio,9,Gianluca Lapadula,34,Peru,Centre-Forward,€2.00m
+Squad Cagliari Calcio,30,Leonardo Pavoletti,35,Italy,Centre-Forward,€1.00m
+Squad FC Empoli,25,Elia Caprile,22,Italy,Goalkeeper,€5.50m
+Squad FC Empoli,1,Samuele Perisan,26,Italy,Goalkeeper,€600k
+Squad FC Empoli,99,Etrit Berisha,35,Albania,Goalkeeper,€500k
+Squad FC Empoli,33,Sebastiano Luperto,27,Italy,Centre-Back,€3.00m
+Squad FC Empoli,34,Ardian Ismajli,27,Albania,Centre-Back,€3.00m
+Squad FC Empoli,4,Sebastian Walukiewicz,24,Poland,Centre-Back,€2.50m
+Squad FC Empoli,2,Saba Goglichidze,19,Georgia,Centre-Back,€300k
+Squad FC Empoli,-,Lorenzo Tonelli,34,Italy,Centre-Back,€200k
+Squad FC Empoli,3,Giuseppe Pezzella,26,Italy,Left-Back,€2.20m
+Squad FC Empoli,13,Liberato Cacace,23,New Zealand,Left-Back,€2.00m
+Squad FC Empoli,24,Tyronne Ebuehi,28,Nigeria,Right-Back,€2.50m
+Squad FC Empoli,19,Bartosz Bereszyński,31,Poland,Right-Back,€1.50m
+Squad FC Empoli,5,Alberto Grassi,29,Italy,Defensive Midfield,€1.80m
+Squad FC Empoli,21,Jacopo Fazzini,21,Italy,Central Midfield,€6.00m
+Squad FC Empoli,29,Youssef Maleh,25,Morocco,Central Midfield,€4.50m
+Squad FC Empoli,18,Răzvan Marin,27,Romania,Central Midfield,€2.50m
+Squad FC Empoli,27,Szymon Żurkowski,26,Poland,Central Midfield,€2.50m
+Squad FC Empoli,16,Luca Belardinelli,23,Italy,Central Midfield,€1.50m
+Squad FC Empoli,30,Simone Bastoni,27,Italy,Central Midfield,€1.50m
+Squad FC Empoli,8,Viktor Kovalenko,28,Ukraine,Attacking Midfield,€1.70m
+Squad FC Empoli,28,Nicolò Cambiaghi,23,Italy,Left Winger,€7.50m
+Squad FC Empoli,11,Emmanuel Gyasi,30,Ghana,Left Winger,€2.00m
+Squad FC Empoli,20,Matteo Cancellieri,22,Italy,Right Winger,€4.80m
+Squad FC Empoli,10,M'Baye Niang,29,Senegal,Centre-Forward,€2.70m
+Squad FC Empoli,7,Stiven Shpendi,20,Albania,Centre-Forward,€2.00m
+Squad FC Empoli,17,Alberto Cerri,28,Italy,Centre-Forward,€1.70m
+Squad FC Empoli,9,Francesco Caputo,36,Italy,Centre-Forward,€1.30m
+Squad FC Empoli,23,Mattia Destro,33,Italy,Centre-Forward,€800k
+Squad Hellas Verona,1,Lorenzo Montipò,28,Italy,Goalkeeper,€4.00m
+Squad Hellas Verona,34,Simone Perilli,29,Italy,Goalkeeper,€200k
+Squad Hellas Verona,16,Mattia Chiesa,23,Italy,Goalkeeper,€100k
+Squad Hellas Verona,22,Alessandro Berardi,33,Italy,Goalkeeper,€50k
+Squad Hellas Verona,42,Diego Coppola,20,Italy,Centre-Back,€4.00m
+Squad Hellas Verona,23,Giangiacomo Magnani,28,Italy,Centre-Back,€2.80m
+Squad Hellas Verona,27,Paweł Dawidowicz,28,Poland,Centre-Back,€2.80m
+Squad Hellas Verona,19,Rúben Vinagre,25,Portugal,Left-Back,€2.80m
+Squad Hellas Verona,32,Juan Cabal,23,Colombia,Left-Back,€2.50m
+Squad Hellas Verona,18,Fabien Centonze,28,France,Right-Back,€3.00m
+Squad Hellas Verona,38,Jackson Tchatchoua,22,Cameroon,Right-Back,€3.00m
+Squad Hellas Verona,6,Reda Belahyane,19,France,Defensive Midfield,€500k
+Squad Hellas Verona,37,Charlys,20,Brazil,Defensive Midfield,€100k
+Squad Hellas Verona,14,Joselito,20,Spain,Defensive Midfield,€75k
+Squad Hellas Verona,90,Michael Folorunsho,26,Italy,Central Midfield,€6.00m
+Squad Hellas Verona,25,Suat Serdar,27,Germany,Central Midfield,€4.00m
+Squad Hellas Verona,33,Ondrej Duda,29,Slovakia,Central Midfield,€4.00m
+Squad Hellas Verona,21,Dani Silva,24,Portugal,Central Midfield,€2.00m
+Squad Hellas Verona,8,Darko Lazović,33,Serbia,Left Midfield,€2.00m
+Squad Hellas Verona,31,Tomas Suslov,21,Slovakia,Attacking Midfield,€6.00m
+Squad Hellas Verona,10,Stefan Mitrović,21,Serbia,Left Winger,€2.00m
+Squad Hellas Verona,17,Tijjani Noslin,24,Netherlands,Right Winger,€2.50m
+Squad Hellas Verona,7,Elayis Tavsan,22,Netherlands,Right Winger,€1.00m
+Squad Hellas Verona,11,Karol Świderski,27,Poland,Centre-Forward,€6.00m
+Squad Hellas Verona,9,Thomas Henry,29,France,Centre-Forward,€3.50m
+Squad Hellas Verona,99,Federico Bonazzoli,26,Italy,Centre-Forward,€3.00m
+Squad Hellas Verona,13,Juan Manuel Cruz,24,Argentina,Centre-Forward,€450k
+Squad Parma Calcio 1913,1,Leandro Chichizola,34,Argentina,Goalkeeper,€400k
+Squad Parma Calcio 1913,22,Martin Turk,20,Slovenia,Goalkeeper,€350k
+Squad Parma Calcio 1913,40,Edoardo Corvi,23,Italy,Goalkeeper,€350k
+Squad Parma Calcio 1913,39,Alessandro Circati,20,Australia,Centre-Back,€5.00m
+Squad Parma Calcio 1913,30,Lautaro Valenti,25,Argentina,Centre-Back,€3.00m
+Squad Parma Calcio 1913,3,Yordan Osorio,29,Venezuela,Centre-Back,€1.80m
+Squad Parma Calcio 1913,4,Botond Balogh,21,Hungary,Centre-Back,€1.80m
+Squad Parma Calcio 1913,60,Peter Amoran,19,Sweden,Centre-Back,€150k
+Squad Parma Calcio 1913,77,Gianluca Di Chiara,30,Italy,Left-Back,€750k
+Squad Parma Calcio 1913,47,Vasilios Zagaritis,22,Greece,Left-Back,€400k
+Squad Parma Calcio 1913,14,Cristian Ansaldi,37,Argentina,Left-Back,€300k
+Squad Parma Calcio 1913,15,Enrico Del Prato,24,Italy,Right-Back,€3.70m
+Squad Parma Calcio 1913,26,Woyo Coulibaly,24,France,Right-Back,€2.00m
+Squad Parma Calcio 1913,8,Nahuel Estévez,28,Argentina,Defensive Midfield,€2.00m
+Squad Parma Calcio 1913,10,Adrián Bernabé,22,Spain,Central Midfield,€9.00m
+Squad Parma Calcio 1913,19,Simon Sohm,23,Switzerland,Central Midfield,€3.00m
+Squad Parma Calcio 1913,27,Hernani,30,Brazil,Central Midfield,€1.70m
+Squad Parma Calcio 1913,23,Drissa Camara,22,Cote d'Ivoire,Central Midfield,€1.20m
+Squad Parma Calcio 1913,64,Wylan Cyprien,29,France,Central Midfield,€1.00m
+Squad Parma Calcio 1913,20,Antoine Hainaut,22,France,Central Midfield,€400k
+Squad Parma Calcio 1913,7,Adrian Benedyczak,23,Poland,Left Winger,€6.00m
+Squad Parma Calcio 1913,28,Valentin Mihăilă,24,Romania,Left Winger,€2.00m
+Squad Parma Calcio 1913,11,Tjas Begic,20,Slovenia,Left Winger,€900k
+Squad Parma Calcio 1913,98,Dennis Man,25,Romania,Right Winger,€6.50m
+Squad Parma Calcio 1913,21,Anthony Partipilo,29,Italy,Right Winger,€1.30m
+Squad Parma Calcio 1913,61,Anas Haj Mohamed,19,Tunisia,Right Winger,€200k
+Squad Parma Calcio 1913,13,Ange-Yoan Bonny,20,France,Centre-Forward,€6.00m
+Squad Parma Calcio 1913,17,Antonio Colak,30,Croatia,Centre-Forward,€2.90m
+Squad Parma Calcio 1913,9,Gabriel Charpentier,24,Congo,Centre-Forward,€1.60m
+Squad UC Sampdoria,1,Filip Stankovic,22,Serbia,Goalkeeper,€2.00m
+Squad UC Sampdoria,12,Elia Tantalocchi,19,Italy,Goalkeeper,€100k
+Squad UC Sampdoria,22,Nicola Ravaglia,35,Italy,Goalkeeper,€100k
+Squad UC Sampdoria,33,Facundo González,20,Uruguay,Centre-Back,€2.00m
+Squad UC Sampdoria,87,Daniele Ghilardi,21,Italy,Centre-Back,€1.00m
+Squad UC Sampdoria,2,Cristiano Piccini,31,Italy,Centre-Back,€750k
+Squad UC Sampdoria,25,Alex Ferrari,29,Italy,Centre-Back,€650k
+Squad UC Sampdoria,46,Giovanni Leoni,17,Italy,Centre-Back,€300k
+Squad UC Sampdoria,21,Simone Giordano,22,Italy,Left-Back,€800k
+Squad UC Sampdoria,29,Nicola Murru,29,Italy,Left-Back,€800k
+Squad UC Sampdoria,3,Antonio Barreca,29,Italy,Left-Back,€600k
+Squad UC Sampdoria,23,Fabio Depaoli,26,Italy,Right-Back,€2.70m
+Squad UC Sampdoria,40,Petar Stojanović,28,Slovenia,Right-Back,€1.40m
+Squad UC Sampdoria,13,Andrea Conti,30,Italy,Right-Back,€200k
+Squad UC Sampdoria,28,Gerard Yepes,21,Spain,Defensive Midfield,€1.30m
+Squad UC Sampdoria,8,Matteo Ricci,29,Italy,Defensive Midfield,€1.20m
+Squad UC Sampdoria,55,Ebrima Darboe,22,The Gambia,Defensive Midfield,€1.00m
+Squad UC Sampdoria,80,Leonardo Benedetti,23,Italy,Central Midfield,€1.60m
+Squad UC Sampdoria,4,Ronaldo Vieira,25,England,Central Midfield,€1.50m
+Squad UC Sampdoria,5,Kristoffer Askildsen,23,Norway,Central Midfield,€900k
+Squad UC Sampdoria,14,Pajtim Kasami,31,Switzerland,Central Midfield,€700k
+Squad UC Sampdoria,32,Stefano Girelli,23,Italy,Central Midfield,€300k
+Squad UC Sampdoria,10,Valerio Verre,30,Italy,Attacking Midfield,€1.40m
+Squad UC Sampdoria,11,Estanis Pedrola,20,Spain,Left Winger,€2.00m
+Squad UC Sampdoria,16,Fabio Borini,33,Italy,Left Winger,€2.00m
+Squad UC Sampdoria,43,Samuel Ntanda,18,Belgium,Left Winger,€500k
+Squad UC Sampdoria,19,Agustín Álvarez,22,Uruguay,Centre-Forward,€7.00m
+Squad UC Sampdoria,7,Sebastiano Esposito,21,Italy,Centre-Forward,€4.40m
+Squad UC Sampdoria,9,Manuel De Luca,25,Italy,Centre-Forward,€1.00m
+Squad Como 1907,1,Adrian Semper,26,Croatia,Goalkeeper,€1.40m
+Squad Como 1907,22,Mauro Vigorito,33,Italy,Goalkeeper,€150k
+Squad Como 1907,12,Pierre Bolchini,25,Italy,Goalkeeper,€50k
+Squad Como 1907,26,Cas Odenthal,23,Netherlands,Centre-Back,€2.50m
+Squad Como 1907,5,Marco Curto,25,Italy,Centre-Back,€1.50m
+Squad Como 1907,2,Edoardo Goldaniga,30,Italy,Centre-Back,€900k
+Squad Como 1907,93,Federico Barba,30,Italy,Centre-Back,€900k
+Squad Como 1907,4,Matteo Solini,31,Italy,Centre-Back,€200k
+Squad Como 1907,15,Fellipe Jack,18,Brazil,Centre-Back,€200k
+Squad Como 1907,44,Nikolas Ioannou,28,Cyprus,Left-Back,€1.20m
+Squad Como 1907,3,Marco Sala,24,Italy,Left-Back,€1.10m
+Squad Como 1907,84,Tommaso Cassandro,24,Italy,Right-Back,€600k
+Squad Como 1907,28,Oliver Abildgaard,27,Denmark,Defensive Midfield,€2.80m
+Squad Como 1907,27,Matthias Braunöder,22,Austria,Central Midfield,€1.30m
+Squad Como 1907,14,Alessandro Bellemo,28,Italy,Central Midfield,€1.00m
+Squad Como 1907,94,Ben Lhassine Kone,24,Cote d'Ivoire,Central Midfield,€900k
+Squad Como 1907,8,Daniele Baselli,32,Italy,Central Midfield,€400k
+Squad Como 1907,70,Samuel Ballet,23,Switzerland,Right Midfield,€1.40m
+Squad Como 1907,6,Alessio Iovine,33,Italy,Right Midfield,€250k
+Squad Como 1907,90,Simone Verdi,31,Italy,Attacking Midfield,€2.50m
+Squad Como 1907,11,Naj Razi,17,Ireland,Attacking Midfield,€300k
+Squad Como 1907,33,Lucas Da Cunha,22,France,Left Winger,€2.80m
+Squad Como 1907,7,Moutir Chajia,25,Belgium,Left Winger,€450k
+Squad Como 1907,21,Gabriel Strefezza,26,Brazil,Right Winger,€6.00m
+Squad Como 1907,10,Patrick Cutrone,26,Italy,Centre-Forward,€3.00m
+Squad Como 1907,77,Jean-Pierre Nsame,30,Cameroon,Centre-Forward,€3.00m
+Squad Como 1907,23,Nicholas Gioacchini,23,United States,Centre-Forward,€2.50m
+Squad Como 1907,9,Alessandro Gabrielloni,29,Italy,Centre-Forward,€600k
+Squad Como 1907,99,Tommaso Fumagalli,24,Italy,Centre-Forward,€250k
+Squad Como 1907,17,Federico Chinetti,19,Italy,Centre-Forward,€50k
+Squad Palermo FC,1,Sebastiano Desplanches,21,Italy,Goalkeeper,€1.30m
+Squad Palermo FC,22,Mirko Pigliacelli,30,Italy,Goalkeeper,€1.10m
+Squad Palermo FC,13,Adnan Kanuric,23,Bosnia-Herzegovina,Goalkeeper,€150k
+Squad Palermo FC,12,Manfredi Nespola,19,Italy,Goalkeeper,€50k
+Squad Palermo FC,32,Pietro Ceccaroni,28,Italy,Centre-Back,€1.60m
+Squad Palermo FC,18,Ionuţ Nedelcearu,27,Romania,Centre-Back,€1.10m
+Squad Palermo FC,5,Fabio Lucioni,36,Italy,Centre-Back,€400k
+Squad Palermo FC,15,Ivan Marconi,34,Italy,Centre-Back,€300k
+Squad Palermo FC,3,Kristoffer Lund,21,United States,Left-Back,€2.50m
+Squad Palermo FC,31,Giuseppe Aurelio,24,Italy,Left-Back,€700k
+Squad Palermo FC,23,Salim Diakité,23,France,Right-Back,€1.80m
+Squad Palermo FC,2,Simon Graves,24,Denmark,Right-Back,€800k
+Squad Palermo FC,25,Alessio Buttaro,21,Italy,Right-Back,€750k
+Squad Palermo FC,4,Claudio Gomes,23,France,Defensive Midfield,€3.00m
+Squad Palermo FC,6,Leo Stulac,29,Slovenia,Defensive Midfield,€1.20m
+Squad Palermo FC,14,Filippo Ranocchia,22,Italy,Central Midfield,€4.00m
+Squad Palermo FC,8,Jacopo Segre,27,Italy,Central Midfield,€2.50m
+Squad Palermo FC,53,Liam Henderson,27,Scotland,Central Midfield,€1.80m
+Squad Palermo FC,80,Mamadou Coulibaly,25,Senegal,Central Midfield,€1.30m
+Squad Palermo FC,20,Aljosa Vasic,21,Serbia,Attacking Midfield,€1.50m
+Squad Palermo FC,70,Chaka Traorè,19,Cote d'Ivoire,Left Winger,€1.50m
+Squad Palermo FC,17,Federico Di Francesco,29,Italy,Left Winger,€1.40m
+Squad Palermo FC,10,Francesco Di Mariano,27,Italy,Left Winger,€1.20m
+Squad Palermo FC,11,Roberto Insigne,29,Italy,Right Winger,€1.30m
+Squad Palermo FC,9,Matteo Luigi Brunori,29,Italy,Centre-Forward,€4.50m
+Squad Palermo FC,7,Leonardo Mancuso,31,Italy,Centre-Forward,€1.30m
+Squad Palermo FC,27,Edoardo Soleri,26,Italy,Centre-Forward,€350k
+Squad US Cremonese,22,Andreas Jungdal,22,Denmark,Goalkeeper,€1.50m
+Squad US Cremonese,1,Mouhamadou Sarr,27,Senegal,Goalkeeper,€400k
+Squad US Cremonese,97,Alessandro Livieri,27,Italy,Goalkeeper,€325k
+Squad US Cremonese,21,Gianluca Saro,23,Italy,Goalkeeper,€150k
+Squad US Cremonese,5,Luca Ravanelli,27,Italy,Centre-Back,€1.80m
+Squad US Cremonese,44,Luka Lochoshvili,25,Georgia,Centre-Back,€1.20m
+Squad US Cremonese,26,Valentin Antov,23,Bulgaria,Centre-Back,€900k
+Squad US Cremonese,15,Matteo Bianchetti,31,Italy,Centre-Back,€700k
+Squad US Cremonese,13,Alessandro Tuia,33,Italy,Centre-Back,€350k
+Squad US Cremonese,4,Luca Marrone,34,Italy,Centre-Back,€100k
+Squad US Cremonese,33,Giacomo Quagliata,24,Italy,Left-Back,€1.40m
+Squad US Cremonese,31,Yuri Rocchetti,20,Italy,Left-Back,€100k
+Squad US Cremonese,17,Leonardo Sernicola,26,Italy,Right-Back,€2.00m
+Squad US Cremonese,18,Paolo Ghiglione,27,Italy,Right-Back,€1.10m
+Squad US Cremonese,6,Charles Pickel,26,DR Congo,Defensive Midfield,€2.70m
+Squad US Cremonese,19,Michele Castagnetti,34,Italy,Defensive Midfield,€600k
+Squad US Cremonese,8,Michele Collocolo,24,Italy,Central Midfield,€2.50m
+Squad US Cremonese,32,Gonzalo Abrego,24,Argentina,Central Midfield,€2.50m
+Squad US Cremonese,37,Zan Majer,31,Slovenia,Central Midfield,€1.00m
+Squad US Cremonese,20,Franco Vázquez,35,Argentina,Attacking Midfield,€1.00m
+Squad US Cremonese,7,César Falletti,31,Uruguay,Attacking Midfield,€900k
+Squad US Cremonese,71,Dennis Johnsen,26,Norway,Left Winger,€2.70m
+Squad US Cremonese,10,Cristian Buonaiuto,31,Italy,Left Winger,€700k
+Squad US Cremonese,98,Luca Zanimacchia,25,Italy,Right Winger,€1.50m
+Squad US Cremonese,11,Felix Afena-Gyan,21,Ghana,Centre-Forward,€3.50m
+Squad US Cremonese,90,Massimo Coda,35,Italy,Centre-Forward,€1.30m
+Squad US Cremonese,74,Frank Tsadjout,24,Italy,Centre-Forward,€900k
+Squad US Cremonese,9,Daniel Ciofani,38,Italy,Centre-Forward,€200k
+Squad Spezia Calcio,1,Jeroen Zoet,33,Netherlands,Goalkeeper,€400k
+Squad Spezia Calcio,28,Gian Marco Crespi,22,Italy,Goalkeeper,€100k
+Squad Spezia Calcio,40,Petar Zovko,22,Bosnia-Herzegovina,Goalkeeper,€100k
+Squad Spezia Calcio,43,Dimitrios Nikolaou,25,Greece,Centre-Back,€2.40m
+Squad Spezia Calcio,2,Przemysław Wiśniewski,25,Poland,Centre-Back,€2.20m
+Squad Spezia Calcio,23,Lukas Mühl,27,Germany,Centre-Back,€1.10m
+Squad Spezia Calcio,55,Petko Hristov,25,Bulgaria,Centre-Back,€750k
+Squad Spezia Calcio,33,Iva Gelashvili,23,Georgia,Centre-Back,€450k
+Squad Spezia Calcio,77,Nicolò Bertola,21,Italy,Centre-Back,€300k
+Squad Spezia Calcio,5,Gregorio Tanco,24,Argentina,Centre-Back,€125k
+Squad Spezia Calcio,13,Arkadiusz Reca,28,Poland,Left-Back,€1.70m
+Squad Spezia Calcio,4,João Moutinho,26,Portugal,Left-Back,€800k
+Squad Spezia Calcio,3,Roko Jureskin,23,Croatia,Left-Back,€300k
+Squad Spezia Calcio,26,Christian Cugnata,19,Albania,Left-Back,€25k
+Squad Spezia Calcio,37,Ales Mateju,27,Czech Republic,Right-Back,€1.10m
+Squad Spezia Calcio,14,Luca Vignali,28,Italy,Right-Back,€800k
+Squad Spezia Calcio,10,Salvatore Esposito,23,Italy,Defensive Midfield,€2.80m
+Squad Spezia Calcio,8,Ádám Nagy,28,Hungary,Defensive Midfield,€1.00m
+Squad Spezia Calcio,21,Giovanni Corradini,21,Italy,Defensive Midfield,€200k
+Squad Spezia Calcio,25,Filippo Bandinelli,29,Italy,Central Midfield,€2.00m
+Squad Spezia Calcio,97,Filip Jagiello,26,Poland,Central Midfield,€1.30m
+Squad Spezia Calcio,80,Rachid Kouda,21,Italy,Central Midfield,€800k
+Squad Spezia Calcio,11,Tio Cipot,20,Slovenia,Central Midfield,€650k
+Squad Spezia Calcio,29,Francesco Cassata,26,Italy,Central Midfield,€650k
+Squad Spezia Calcio,15,Niccolò Pietra,20,Italy,Central Midfield,€150k
+Squad Spezia Calcio,36,Pietro Candelari,19,Italy,Central Midfield,€150k
+Squad Spezia Calcio,99,Daniele Verde,27,Italy,Right Winger,€1.80m
+Squad Spezia Calcio,7,Salvatore Elia,24,Italy,Right Winger,€750k
+Squad Spezia Calcio,9,Francesco Pio Esposito,18,Italy,Centre-Forward,€3.00m
+Squad Spezia Calcio,24,Luca Moro,23,Italy,Centre-Forward,€2.20m
+Squad Spezia Calcio,20,Giuseppe Di Serio,22,Italy,Centre-Forward,€1.20m
+Squad Spezia Calcio,16,Diego Falcinelli,32,Italy,Centre-Forward,€700k
+Squad Venezia FC,1,Jesse Joronen,31,Finland,Goalkeeper,€800k
+Squad Venezia FC,12,Bruno Bertinato,25,Brazil,Goalkeeper,€250k
+Squad Venezia FC,23,Matteo Grandi,31,Italy,Goalkeeper,€150k
+Squad Venezia FC,15,Giorgio Altare,25,Italy,Centre-Back,€1.80m
+Squad Venezia FC,4,Jay Idzes,23,Indonesia,Centre-Back,€1.40m
+Squad Venezia FC,30,Michael Svoboda,25,Austria,Centre-Back,€900k
+Squad Venezia FC,33,Marin Šverko,26,Croatia,Centre-Back,€750k
+Squad Venezia FC,13,Marco Modolo,35,Italy,Centre-Back,€300k
+Squad Venezia FC,60,Lorenzo Busato,20,Italy,Centre-Back,€75k
+Squad Venezia FC,7,Francesco Zampano,30,Italy,Left-Back,€700k
+Squad Venezia FC,31,Maximilian Ullmann,27,Austria,Left-Back,€400k
+Squad Venezia FC,27,Antonio Candela,23,Italy,Right-Back,€1.70m
+Squad Venezia FC,25,Ali Dembélé,20,France,Right-Back,€250k
+Squad Venezia FC,8,Tanner Tessmann,22,United States,Defensive Midfield,€4.50m
+Squad Venezia FC,18,Mato Jajalo,35,Bosnia-Herzegovina,Defensive Midfield,€200k
+Squad Venezia FC,6,Gianluca Busio,21,United States,Central Midfield,€4.30m
+Squad Venezia FC,77,Mikael Egill Ellertsson,22,Iceland,Central Midfield,€2.00m
+Squad Venezia FC,38,Magnus Kofod Andersen,24,Denmark,Central Midfield,€1.20m
+Squad Venezia FC,24,Nunzio Lella,23,Italy,Central Midfield,€500k
+Squad Venezia FC,21,Denis Cheryshev,33,Russia,Left Winger,€700k
+Squad Venezia FC,19,Bjarki Bjarkason,23,Iceland,Left Winger,€400k
+Squad Venezia FC,10,Nicholas Pierini,25,Italy,Right Winger,€1.30m
+Squad Venezia FC,20,Joel Pohjanpalo,29,Finland,Centre-Forward,€4.50m
+Squad Venezia FC,9,Christian Gytkjaer,33,Denmark,Centre-Forward,€700k
+Squad Venezia FC,99,Marco Olivieri,24,Italy,Centre-Forward,€600k
+Squad Pisa Sporting Club,1,Nícolas,36,Brazil,Goalkeeper,€300k
+Squad Pisa Sporting Club,22,Leonardo Loria,25,Italy,Goalkeeper,€250k
+Squad Pisa Sporting Club,34,Matteo Campani,23,Italy,Goalkeeper,€25k
+Squad Pisa Sporting Club,5,Simone Canestrelli,23,Italy,Centre-Back,€1.50m
+Squad Pisa Sporting Club,3,Maxime Leverbe,27,France,Centre-Back,€900k
+Squad Pisa Sporting Club,6,Hjörtur Hermannsson,29,Iceland,Centre-Back,€750k
+Squad Pisa Sporting Club,4,Antonio Caracciolo,33,Italy,Centre-Back,€250k
+Squad Pisa Sporting Club,20,Pietro Beruatto,25,Italy,Left-Back,€2.70m
+Squad Pisa Sporting Club,-,Andrea Beghetto,29,Italy,Left-Back,€250k
+Squad Pisa Sporting Club,19,Tomás Esteves,22,Portugal,Right-Back,€2.00m
+Squad Pisa Sporting Club,42,Tommaso Barbieri,21,Italy,Right-Back,€1.50m
+Squad Pisa Sporting Club,33,Arturo Calabresi,28,Italy,Right-Back,€900k
+Squad Pisa Sporting Club,44,Miguel Veloso,37,Portugal,Defensive Midfield,€400k
+Squad Pisa Sporting Club,51,Andrea Barberis,30,Italy,Defensive Midfield,€400k
+Squad Pisa Sporting Club,30,Alessandro De Vitis,32,Italy,Defensive Midfield,€150k
+Squad Pisa Sporting Club,15,Idrissa Touré,25,Germany,Central Midfield,€2.20m
+Squad Pisa Sporting Club,8,Marius Marin,25,Romania,Central Midfield,€1.60m
+Squad Pisa Sporting Club,27,Mattia Valoti,30,Italy,Central Midfield,€1.50m
+Squad Pisa Sporting Club,36,Gabriele Piccinini,23,Italy,Central Midfield,€500k
+Squad Pisa Sporting Club,14,Miha Trdan,19,Slovenia,Central Midfield,€75k
+Squad Pisa Sporting Club,11,Matteo Tramoni,24,Italy,Left Winger,€1.30m
+Squad Pisa Sporting Club,7,Lisandru Tramoni,20,France,Right Winger,€800k
+Squad Pisa Sporting Club,28,Alessandro Arena,23,Italy,Right Winger,€800k
+Squad Pisa Sporting Club,77,Marco D'Alessandro,33,Italy,Right Winger,€650k
+Squad Pisa Sporting Club,17,Jan Mlakar,25,Slovenia,Centre-Forward,€2.70m
+Squad Pisa Sporting Club,32,Stefano Moreo,30,Italy,Centre-Forward,€1.00m
+Squad Pisa Sporting Club,10,Ernesto Torregrossa,31,Venezuela,Centre-Forward,€800k
+Squad Pisa Sporting Club,9,Nicholas Bonfanti,22,Italy,Centre-Forward,€750k
+Squad Pisa Sporting Club,26,Gaetano Masucci,39,Italy,Centre-Forward,€100k
+Squad SSC Bari,22,Brenno,25,Brazil,Goalkeeper,€2.50m
+Squad SSC Bari,38,Marco Pissardo,26,Italy,Goalkeeper,€250k
+Squad SSC Bari,23,Francesco Vicari,29,Italy,Centre-Back,€2.20m
+Squad SSC Bari,21,Zan Zuzek,27,Slovenia,Centre-Back,€250k
+Squad SSC Bari,6,Valerio Di Cesare,40,Italy,Centre-Back,€200k
+Squad SSC Bari,5,Emmanuele Matino,25,Italy,Centre-Back,€150k
+Squad SSC Bari,31,Giacomo Ricci,27,Italy,Left-Back,€500k
+Squad SSC Bari,19,Abdoul Guiebre,26,Burkina Faso,Left-Back,€350k
+Squad SSC Bari,93,Mehdi Dorval,23,Algeria,Right-Back,€1.60m
+Squad SSC Bari,25,Raffaele Pucino,32,Italy,Right-Back,€300k
+Squad SSC Bari,17,Raffaele Maiello,32,Italy,Defensive Midfield,€750k
+Squad SSC Bari,26,Ilias Koutsoupias,22,Greece,Central Midfield,€1.50m
+Squad SSC Bari,4,Mattia Maita,29,Italy,Central Midfield,€1.10m
+Squad SSC Bari,24,Malcom Edjouma,27,Morocco,Central Midfield,€750k
+Squad SSC Bari,8,Ahmad Benali,32,Libya,Central Midfield,€600k
+Squad SSC Bari,14,Karlo Lulic,27,Croatia,Central Midfield,€600k
+Squad SSC Bari,44,Gennaro Acampora,30,Italy,Central Midfield,€600k
+Squad SSC Bari,49,Mattia Aramu,28,Italy,Attacking Midfield,€1.80m
+Squad SSC Bari,10,Nicola Bellomo,33,Italy,Attacking Midfield,€300k
+Squad SSC Bari,77,Gregorio Morachioli,24,Italy,Left Winger,€450k
+Squad SSC Bari,91,Yayah Kallon,22,Sierra Leone,Right Winger,€1.30m
+Squad SSC Bari,11,Ismail Achik,23,Morocco,Right Winger,€350k
+Squad SSC Bari,9,Marco Nasti,20,Italy,Centre-Forward,€2.00m
+Squad SSC Bari,47,George Pușcaș,28,Romania,Centre-Forward,€2.00m
+Squad SSC Bari,18,Davide Diaw,32,Italy,Centre-Forward,€1.20m
+Squad SSC Bari,20,Giuseppe Sibilli,27,Italy,Centre-Forward,€900k
+Squad SSC Bari,28,Hemsley Akpa-Chukwu,18,Belgium,Centre-Forward,€100k
+Squad Modena FC,26,Riccardo Gagno,26,Italy,Goalkeeper,€1.20m
+Squad Modena FC,12,Andrea Seculin,33,Italy,Goalkeeper,€200k
+Squad Modena FC,22,Filippo Vandelli,23,Italy,Goalkeeper,€25k
+Squad Modena FC,19,Giovanni Zaro,29,Italy,Centre-Back,€1.60m
+Squad Modena FC,14,Gabriele Guarino,20,Italy,Centre-Back,€1.00m
+Squad Modena FC,27,Alessandro Pio Riccio,22,Italy,Centre-Back,€700k
+Squad Modena FC,4,Antonio Pergreffi,35,Italy,Centre-Back,€300k
+Squad Modena FC,33,Cristian Cauz,27,Italy,Centre-Back,€300k
+Squad Modena FC,91,Niccolò Corrado,24,Italy,Left-Back,€1.10m
+Squad Modena FC,3,Fabio Ponsi,23,Italy,Left-Back,€800k
+Squad Modena FC,29,Matteo Cotali,26,Italy,Left-Back,€800k
+Squad Modena FC,99,Shady Oukhadda,25,Morocco,Right-Back,€1.00m
+Squad Modena FC,16,Fabio Gerli,27,Italy,Defensive Midfield,€1.20m
+Squad Modena FC,8,Simone Santoro,24,Italy,Defensive Midfield,€1.00m
+Squad Modena FC,42,Lukas Mondele,20,Belgium,Defensive Midfield,€50k
+Squad Modena FC,5,Antonio Palumbo,27,Italy,Central Midfield,€1.60m
+Squad Modena FC,6,Luca Magnino,26,Italy,Central Midfield,€1.20m
+Squad Modena FC,20,Mario Gargiulo,28,Italy,Central Midfield,€700k
+Squad Modena FC,23,Thomas Battistella,22,Italy,Central Midfield,€500k
+Squad Modena FC,7,Edoardo Duca,26,Italy,Central Midfield,€400k
+Squad Modena FC,10,Luca Tremolada,32,Italy,Attacking Midfield,€700k
+Squad Modena FC,30,Kleis Bozhanaj,23,Albania,Attacking Midfield,€450k
+Squad Modena FC,17,Jacopo Manconi,29,Italy,Second Striker,€500k
+Squad Modena FC,9,Ettore Gliozzi,28,Italy,Centre-Forward,€1.30m
+Squad Modena FC,32,Luca Strizzolo,31,Italy,Centre-Forward,€500k
+Squad Modena FC,90,Fabio Abiuso,21,Italy,Centre-Forward,€500k
+Squad Modena FC,73,Lorenzo Di Stefano,21,Italy,Centre-Forward,€350k
+Squad AC Reggiana 1919,22,Francesco Bardi,32,Italy,Goalkeeper,€400k
+Squad AC Reggiana 1919,12,Giacomo Satalino,24,Italy,Goalkeeper,€200k
+Squad AC Reggiana 1919,1,Alex Sposito,22,Italy,Goalkeeper,€150k
+Squad AC Reggiana 1919,27,Alessandro Marcandalli,22,Italy,Centre-Back,€2.00m
+Squad AC Reggiana 1919,25,Przemyslaw Szyminski,29,Poland,Centre-Back,€800k
+Squad AC Reggiana 1919,4,Paolo Rozzio,31,Italy,Centre-Back,€400k
+Squad AC Reggiana 1919,19,Filippo Romagna,26,Italy,Centre-Back,€400k
+Squad AC Reggiana 1919,3,Edoardo Pieragnolo,21,Italy,Left-Back,€2.00m
+Squad AC Reggiana 1919,29,Marko Pajac,30,Croatia,Left-Back,€500k
+Squad AC Reggiana 1919,31,Mario Sampirisi,31,Italy,Right-Back,€700k
+Squad AC Reggiana 1919,15,Riccardo Fiamozzi,30,Italy,Right-Back,€250k
+Squad AC Reggiana 1919,17,Lorenzo Libutti,26,Italy,Right-Back,€200k
+Squad AC Reggiana 1919,16,Tobías Reinhart,23,Argentina,Defensive Midfield,€325k
+Squad AC Reggiana 1919,8,Luca Cigarini,37,Italy,Defensive Midfield,€250k
+Squad AC Reggiana 1919,42,Alessandro Bianco,21,Italy,Central Midfield,€2.20m
+Squad AC Reggiana 1919,72,Filippo Melegoni,25,Italy,Central Midfield,€1.30m
+Squad AC Reggiana 1919,33,Domen Crnigoj,28,Slovenia,Central Midfield,€1.20m
+Squad AC Reggiana 1919,77,Elvis Kabashi,30,Albania,Central Midfield,€500k
+Squad AC Reggiana 1919,90,Manolo Portanova,23,Italy,Central Midfield,€400k
+Squad AC Reggiana 1919,14,Nuhu Shaibu,20,Nigeria,Central Midfield,€50k
+Squad AC Reggiana 1919,78,Bryan Blanco,19,Italy,Central Midfield,€50k
+Squad AC Reggiana 1919,80,Natan Girma,22,Switzerland,Attacking Midfield,€600k
+Squad AC Reggiana 1919,30,Antonio Vergara,21,Italy,Attacking Midfield,€300k
+Squad AC Reggiana 1919,20,Álex Blanco,25,Spain,Left Winger,€400k
+Squad AC Reggiana 1919,7,Muhamed Varela Djamanca,26,Portugal,Right Winger,€250k
+Squad AC Reggiana 1919,18,Orji Okwonkwo,26,Nigeria,Right Winger,€100k
+Squad AC Reggiana 1919,28,Janis Antiste,21,France,Centre-Forward,€2.00m
+Squad AC Reggiana 1919,11,Cedric Gondo,27,Cote d'Ivoire,Centre-Forward,€700k
+Squad AC Reggiana 1919,9,Luca Vido,27,Italy,Centre-Forward,€600k
+Squad AC Reggiana 1919,23,Stefano Pettinari,32,Italy,Centre-Forward,€300k
+Squad Cosenza Calcio,1,Alessandro Micai,30,Italy,Goalkeeper,€500k
+Squad Cosenza Calcio,77,Leonardo Marson,26,Italy,Goalkeeper,€300k
+Squad Cosenza Calcio,12,Alessandro Lai,23,Italy,Goalkeeper,€50k
+Squad Cosenza Calcio,6,Alessandro Fontanarosa,21,Italy,Centre-Back,€750k
+Squad Cosenza Calcio,13,Andrea Meroni,27,Italy,Centre-Back,€600k
+Squad Cosenza Calcio,23,Michael Venturi,25,Italy,Centre-Back,€600k
+Squad Cosenza Calcio,5,Michele Camporese,31,Italy,Centre-Back,€500k
+Squad Cosenza Calcio,99,Gianluca Frabotta,24,Italy,Left-Back,€1.00m
+Squad Cosenza Calcio,11,Tommaso D'Orazio,33,Italy,Left-Back,€250k
+Squad Cosenza Calcio,27,Pietro Martino,26,Italy,Right-Back,€400k
+Squad Cosenza Calcio,18,Bright Gyamfi,28,Ghana,Right-Back,€300k
+Squad Cosenza Calcio,17,Baldovino Cimino,20,Italy,Right-Back,€200k
+Squad Cosenza Calcio,14,Giacomo Calò,27,Italy,Defensive Midfield,€800k
+Squad Cosenza Calcio,42,Idriz Voca,26,Kosovo,Defensive Midfield,€800k
+Squad Cosenza Calcio,24,Mattia Viviani,23,Italy,Defensive Midfield,€750k
+Squad Cosenza Calcio,98,Federico Zuccon,21,Italy,Central Midfield,€1.50m
+Squad Cosenza Calcio,34,Aldo Florenzi,22,Italy,Central Midfield,€1.40m
+Squad Cosenza Calcio,16,Mirko Antonucci,25,Italy,Attacking Midfield,€1.70m
+Squad Cosenza Calcio,26,Mateusz Praszelik,23,Poland,Attacking Midfield,€900k
+Squad Cosenza Calcio,31,Luigi Canotto,29,Italy,Right Winger,€750k
+Squad Cosenza Calcio,7,Manuel Marras,30,Italy,Right Winger,€400k
+Squad Cosenza Calcio,9,Gennaro Tutino,27,Italy,Centre-Forward,€2.50m
+Squad Cosenza Calcio,10,Francesco Forte,30,Italy,Centre-Forward,€1.10m
+Squad Cosenza Calcio,30,Simone Mazzocchi,25,Italy,Centre-Forward,€600k
+Squad Cosenza Calcio,19,Valerio Crespi,19,Italy,Centre-Forward,€150k
+Squad Cosenza Calcio,36,Jahce Novello,19,Australia,Centre-Forward,€50k
+Squad Brescia Calcio,1,Luca Lezzerini,29,Italy,Goalkeeper,€400k
+Squad Brescia Calcio,30,Michele Avella,23,Italy,Goalkeeper,€250k
+Squad Brescia Calcio,22,Lorenzo Andrenacci,29,Italy,Goalkeeper,€200k
+Squad Brescia Calcio,12,Simone Cortese,18,Italy,Goalkeeper,€50k
+Squad Brescia Calcio,32,Andrea Papetti,21,Italy,Centre-Back,€2.50m
+Squad Brescia Calcio,15,Andrea Cistana,27,Italy,Centre-Back,€2.00m
+Squad Brescia Calcio,14,Massimiliano Mangraviti,26,Italy,Centre-Back,€1.30m
+Squad Brescia Calcio,28,Davide Adorni,31,Italy,Centre-Back,€500k
+Squad Brescia Calcio,16,Raffaele Cartano,21,Italy,Centre-Back,€25k
+Squad Brescia Calcio,6,Mohamed Salim Fares,28,Algeria,Left-Back,€750k
+Squad Brescia Calcio,3,Matthieu Huard,25,France,Left-Back,€400k
+Squad Brescia Calcio,24,Lorenzo Dickmann,27,Italy,Right-Back,€1.00m
+Squad Brescia Calcio,18,Alexander Jallow,26,Sweden,Right-Back,€650k
+Squad Brescia Calcio,33,Zylyf Muça,19,Albania,Right-Back,€50k
+Squad Brescia Calcio,5,Tom van de Looi,24,Netherlands,Defensive Midfield,€800k
+Squad Brescia Calcio,4,Fabrizio Paghera,32,Italy,Defensive Midfield,€200k
+Squad Brescia Calcio,25,Dimitri Bisoli,30,Italy,Central Midfield,€1.50m
+Squad Brescia Calcio,26,Massimo Bertagnoli,25,Italy,Central Midfield,€750k
+Squad Brescia Calcio,21,Riccardo Fogliata,19,Italy,Central Midfield,€400k
+Squad Brescia Calcio,7,Birkir Bjarnason,35,Iceland,Central Midfield,€350k
+Squad Brescia Calcio,39,Michele Besaggio,21,Italy,Central Midfield,€300k
+Squad Brescia Calcio,23,Nicolas Galazzi,23,Italy,Attacking Midfield,€600k
+Squad Brescia Calcio,27,Giacomo Olzer,23,Italy,Attacking Midfield,€500k
+Squad Brescia Calcio,20,Patrick Nuamah,18,Italy,Left Winger,€500k
+Squad Brescia Calcio,31,Matteo Ferro,20,Italy,Right Winger,€50k
+Squad Brescia Calcio,29,Gennaro Borrelli,24,Italy,Centre-Forward,€1.00m
+Squad Brescia Calcio,11,Gabriele Moncini,27,Italy,Centre-Forward,€900k
+Squad Brescia Calcio,9,Flavio Bianchi,24,Italy,Centre-Forward,€500k
+Squad Ternana Calcio,1,Antony Iannarilli,33,Italy,Goalkeeper,€300k
+Squad Ternana Calcio,22,Denis Franchi,21,Italy,Goalkeeper,€250k
+Squad Ternana Calcio,18,Tommaso Vitali,24,Italy,Goalkeeper,€50k
+Squad Ternana Calcio,6,Christian Dalle Mura,22,Italy,Centre-Back,€1.00m
+Squad Ternana Calcio,32,Filippo Sgarbi,26,Italy,Centre-Back,€450k
+Squad Ternana Calcio,4,Frederik Sörensen,32,Denmark,Centre-Back,€400k
+Squad Ternana Calcio,44,Lorenzo Lucchesi,20,Italy,Centre-Back,€350k
+Squad Ternana Calcio,19,Marco Capuano,32,Italy,Centre-Back,€300k
+Squad Ternana Calcio,94,Ange Caumenan N'Guessan,20,France,Centre-Back,€200k
+Squad Ternana Calcio,5,Gabriele Boloca,23,Romania,Centre-Back,€75k
+Squad Ternana Calcio,79,Franco Carboni,21,Argentina,Left-Back,€900k
+Squad Ternana Calcio,3,Riccardo Zoia,22,Italy,Left-Back,€200k
+Squad Ternana Calcio,15,Tiago Casasola,28,Argentina,Right-Back,€1.00m
+Squad Ternana Calcio,72,Lorenzo Amatucci,20,Italy,Defensive Midfield,€1.00m
+Squad Ternana Calcio,16,Giacomo Faticanti,19,Italy,Defensive Midfield,€800k
+Squad Ternana Calcio,24,Federico Viviani,32,Italy,Defensive Midfield,€200k
+Squad Ternana Calcio,66,Niklas Pyyhtiä,20,Finland,Central Midfield,€1.20m
+Squad Ternana Calcio,8,Kees de Boer,23,Netherlands,Central Midfield,€450k
+Squad Ternana Calcio,71,Gregorio Luperini,30,Italy,Central Midfield,€350k
+Squad Ternana Calcio,25,Jakub Labojko,26,Poland,Central Midfield,€300k
+Squad Ternana Calcio,73,Andrei Mărginean,22,Romania,Central Midfield,€200k
+Squad Ternana Calcio,27,Costantino Favasuli,19,Italy,Left Midfield,€450k
+Squad Ternana Calcio,10,Gastón Pereiro,28,Uruguay,Attacking Midfield,€1.20m
+Squad Ternana Calcio,28,Filippo Distefano,20,Italy,Second Striker,€900k
+Squad Ternana Calcio,9,Antonio Raimondo,20,Italy,Centre-Forward,€4.50m
+Squad Ternana Calcio,17,Andrea Favilli,26,Italy,Centre-Forward,€800k
+Squad Ternana Calcio,65,Federico Dionisi,36,Italy,Centre-Forward,€200k
+Squad Ternana Calcio,11,Jan Żuberek,20,Poland,Centre-Forward,€100k
+Squad US Catanzaro,1,Andrea Fulignati,29,Italy,Goalkeeper,€700k
+Squad US Catanzaro,16,Andrea Sala,30,Italy,Goalkeeper,€100k
+Squad US Catanzaro,22,Edoardo Borrelli,19,Italy,Goalkeeper,€50k
+Squad US Catanzaro,14,Stefano Scognamillo,29,Italy,Centre-Back,€800k
+Squad US Catanzaro,32,Luka Krajnc,29,Slovenia,Centre-Back,€500k
+Squad US Catanzaro,23,Nicolò Brighenti,34,Italy,Centre-Back,€350k
+Squad US Catanzaro,4,Matias Antonini,26,Brazil,Centre-Back,€325k
+Squad US Catanzaro,44,Kevin Miranda,21,Italy,Centre-Back,€200k
+Squad US Catanzaro,72,Davide Veroli,21,Italy,Left-Back,€1.20m
+Squad US Catanzaro,18,Andrea Ghion,24,Italy,Defensive Midfield,€700k
+Squad US Catanzaro,21,Marco Pompetti,23,Italy,Defensive Midfield,€650k
+Squad US Catanzaro,10,Jacopo Petriccione,29,Italy,Defensive Midfield,€600k
+Squad US Catanzaro,20,Simone Pontisso,27,Italy,Defensive Midfield,€250k
+Squad US Catanzaro,8,Luca Verna,30,Italy,Central Midfield,€400k
+Squad US Catanzaro,24,Dimitrios Sounas,29,Greece,Central Midfield,€400k
+Squad US Catanzaro,33,Andrea Oliveri,21,Italy,Right Midfield,€400k
+Squad US Catanzaro,92,Mario Situm,32,Croatia,Right Midfield,€400k
+Squad US Catanzaro,27,Jari Vandeputte,28,Belgium,Left Winger,€2.00m
+Squad US Catanzaro,19,Matteo Stoppa,23,Italy,Left Winger,€400k
+Squad US Catanzaro,7,Luca D'Andrea,19,Italy,Right Winger,€2.00m
+Squad US Catanzaro,17,Enrico Brignola,24,Italy,Right Winger,€400k
+Squad US Catanzaro,28,Tommaso Biasci,29,Italy,Second Striker,€700k
+Squad US Catanzaro,70,Giuseppe Ambrosino,20,Italy,Centre-Forward,€2.00m
+Squad US Catanzaro,9,Pietro Iemmello,32,Italy,Centre-Forward,€900k
+Squad US Catanzaro,99,Alfredo Donnarumma,33,Italy,Centre-Forward,€500k
+Squad Ascoli Calcio,2,Emiliano Viviano,38,Italy,Goalkeeper,€300k
+Squad Ascoli Calcio,32,Devis Vásquez,25,Colombia,Goalkeeper,€300k
+Squad Ascoli Calcio,12,Luca Bolletta,19,Italy,Goalkeeper,€200k
+Squad Ascoli Calcio,3,Valerio Mantovani,27,Italy,Centre-Back,€600k
+Squad Ascoli Calcio,26,Luka Bogdan,28,Croatia,Centre-Back,€500k
+Squad Ascoli Calcio,14,Danilo Quaranta,27,Italy,Centre-Back,€400k
+Squad Ascoli Calcio,16,Sauli Väisänen,29,Finland,Centre-Back,€400k
+Squad Ascoli Calcio,33,Eric Botteghin,36,Brazil,Centre-Back,€350k
+Squad Ascoli Calcio,5,Riccardo Gagliolo,33,Sweden,Centre-Back,€300k
+Squad Ascoli Calcio,55,Giuseppe Bellusci,34,Italy,Centre-Back,€250k
+Squad Ascoli Calcio,44,Aljaz Tavcar,23,Slovenia,Centre-Back,€75k
+Squad Ascoli Calcio,54,Nicola Falasco,30,Italy,Left-Back,€500k
+Squad Ascoli Calcio,13,Raffaele Celia,25,Italy,Left-Back,€400k
+Squad Ascoli Calcio,98,Francesco Cozzoli,19,Italy,Left-Back,€50k
+Squad Ascoli Calcio,17,Claud Adjapong,25,Italy,Right-Back,€700k
+Squad Ascoli Calcio,40,Brian Bayeye,23,DR Congo,Right-Back,€500k
+Squad Ascoli Calcio,21,Lorenzo Cosimi,19,Italy,Right-Back,€50k
+Squad Ascoli Calcio,18,Francesco Di Tacchio,33,Italy,Defensive Midfield,€300k
+Squad Ascoli Calcio,10,Fabrizio Caligara,24,Italy,Central Midfield,€1.50m
+Squad Ascoli Calcio,8,Samuel Giovane,21,Italy,Central Midfield,€1.40m
+Squad Ascoli Calcio,20,Tommaso Milanese,21,Italy,Central Midfield,€1.00m
+Squad Ascoli Calcio,41,Luca Valzania,28,Italy,Central Midfield,€400k
+Squad Ascoli Calcio,73,Patrizio Masini,23,Italy,Central Midfield,€300k
+Squad Ascoli Calcio,6,Erdis Kraja,23,Albania,Central Midfield,€250k
+Squad Ascoli Calcio,-,Yehiya Maiga Silvestri,18,Italy,Central Midfield,€100k
+Squad Ascoli Calcio,23,Marcello Falzerano,33,Italy,Right Midfield,€400k
+Squad Ascoli Calcio,7,Karim Zedadka,23,Algeria,Left Midfield,€150k
+Squad Ascoli Calcio,15,Simone D'Uffizi,19,Italy,Attacking Midfield,€150k
+Squad Ascoli Calcio,29,David Duris,25,Slovakia,Left Winger,€750k
+Squad Ascoli Calcio,99,Pablo Rodríguez,22,Spain,Second Striker,€1.60m
+Squad Ascoli Calcio,90,Pedro Mendes,24,Portugal,Centre-Forward,€2.00m
+Squad Ascoli Calcio,30,Ilija Nestorovski,34,North Macedonia,Centre-Forward,€350k
+Squad Ascoli Calcio,11,Jeremiah Streng,22,Finland,Centre-Forward,€200k
+Squad FC Südtirol,1,Giacomo Poluzzi,36,Italy,Goalkeeper,€300k
+Squad FC Südtirol,12,Giacomo Drago,23,Italy,Goalkeeper,€250k
+Squad FC Südtirol,22,Stefan Alex Dregan,19,Italy,Goalkeeper,€50k
+Squad FC Südtirol,30,Andrea Giorgini,21,Italy,Centre-Back,€600k
+Squad FC Südtirol,2,Filippo Scaglia,32,Italy,Centre-Back,€300k
+Squad FC Südtirol,55,Andrea Masiello,38,Italy,Centre-Back,€300k
+Squad FC Südtirol,5,Kévin Vinetot,35,France,Centre-Back,€200k
+Squad FC Südtirol,24,Simone Davi,24,Italy,Left-Back,€600k
+Squad FC Südtirol,3,Andrea Cagnano,25,Italy,Left-Back,€300k
+Squad FC Südtirol,94,Hamza El Kaouakibi,25,Morocco,Right-Back,€300k
+Squad FC Südtirol,42,Daouda Peeters,25,Belgium,Defensive Midfield,€450k
+Squad FC Südtirol,21,Fabian Tait,31,Italy,Central Midfield,€1.10m
+Squad FC Südtirol,27,Jasmin Kurtic,35,Slovenia,Central Midfield,€650k
+Squad FC Südtirol,15,Jérémie Broh,27,Italy,Central Midfield,€450k
+Squad FC Südtirol,8,Alessandro Mallamo,25,Italy,Central Midfield,€400k
+Squad FC Südtirol,4,Tommaso Arrigoni,30,Italy,Central Midfield,€350k
+Squad FC Südtirol,28,Raphael Kofler,18,Italy,Central Midfield,€300k
+Squad FC Südtirol,77,Lorenzo Lonardi,25,Italy,Central Midfield,€250k
+Squad FC Südtirol,79,Salvatore Molina,32,Italy,Right Midfield,€400k
+Squad FC Südtirol,17,Daniele Casiraghi,31,Italy,Attacking Midfield,€1.50m
+Squad FC Südtirol,11,Riccardo Ciervo,22,Italy,Left Winger,€1.30m
+Squad FC Südtirol,26,Andrea Cisco,25,Italy,Left Winger,€200k
+Squad FC Südtirol,18,Matteo Rover,25,Italy,Second Striker,€1.50m
+Squad FC Südtirol,90,Raphael Odogwu,33,Italy,Centre-Forward,€1.00m
+Squad FC Südtirol,33,Silvio Merkaj,26,Albania,Centre-Forward,€600k
+Squad FC Südtirol,9,Emanuele Pecorino,22,Italy,Centre-Forward,€350k
+Squad FC Südtirol,23,Nicola Rauti,24,Italy,Centre-Forward,€200k
+Squad AS Cittadella,36,Elhan Kastrati,27,Albania,Goalkeeper,€1.50m
+Squad AS Cittadella,77,Luca Maniero,28,Italy,Goalkeeper,€400k
+Squad AS Cittadella,1,Filippo Veneran,19,Italy,Goalkeeper,€50k
+Squad AS Cittadella,26,Nicola Pavan,30,Italy,Centre-Back,€700k
+Squad AS Cittadella,15,Domenico Frare,27,Italy,Centre-Back,€600k
+Squad AS Cittadella,4,Matteo Angeli,21,Italy,Centre-Back,€450k
+Squad AS Cittadella,30,Stefano Negro,28,Italy,Centre-Back,€250k
+Squad AS Cittadella,6,Edoardo Sottini,21,Italy,Centre-Back,€200k
+Squad AS Cittadella,64,Andrea Cecchetto,21,Italy,Centre-Back,€50k
+Squad AS Cittadella,98,Federico Giraudo,25,Italy,Left-Back,€450k
+Squad AS Cittadella,28,Alessio Rizza,21,Italy,Left-Back,€150k
+Squad AS Cittadella,24,Lorenzo Carissoni,27,Italy,Right-Back,€600k
+Squad AS Cittadella,2,Alessandro Salvi,35,Italy,Right-Back,€250k
+Squad AS Cittadella,27,Andrea Danzi,25,Italy,Defensive Midfield,€400k
+Squad AS Cittadella,16,Alessio Vita,31,Italy,Central Midfield,€900k
+Squad AS Cittadella,23,Simone Branca,32,Italy,Central Midfield,€650k
+Squad AS Cittadella,20,Giuseppe Carriero,26,Italy,Central Midfield,€600k
+Squad AS Cittadella,8,Francesco Amatucci,22,Italy,Central Midfield,€500k
+Squad AS Cittadella,5,Valerio Mastrantonio,24,Italy,Central Midfield,€400k
+Squad AS Cittadella,18,Andrea Tessiore,24,Italy,Central Midfield,€250k
+Squad AS Cittadella,21,Nicholas Saggionetto,21,Italy,Central Midfield,€50k
+Squad AS Cittadella,10,Claudio Cassano,20,Italy,Attacking Midfield,€1.50m
+Squad AS Cittadella,74,Ahmed Sanogo,19,Italy,Second Striker,€25k
+Squad AS Cittadella,92,Enrico Baldini,27,Italy,Centre-Forward,€750k
+Squad AS Cittadella,7,Luca Pandolfi,26,Italy,Centre-Forward,€550k
+Squad AS Cittadella,11,Filippo Pittarello,27,Italy,Centre-Forward,€450k
+Squad AS Cittadella,9,Andrea Magrassi,31,Italy,Centre-Forward,€350k
+Squad AS Cittadella,32,Tommy Maistrello,30,Italy,Centre-Forward,€300k
+Squad AS Cittadella,-,Armir Jakupi,19,Italy,Striker,-
+Squad Calcio Lecco 1912,1,Riccardo Melgrati,29,Italy,Goalkeeper,€300k
+Squad Calcio Lecco 1912,22,Umberto Saracco,30,Italy,Goalkeeper,€200k
+Squad Calcio Lecco 1912,23,Eugenio Lamanna,34,Italy,Goalkeeper,€100k
+Squad Calcio Lecco 1912,12,Luca Bonadeo,20,Italy,Goalkeeper,€50k
+Squad Calcio Lecco 1912,13,Elio Capradossi,28,Italy,Centre-Back,€500k
+Squad Calcio Lecco 1912,6,Alessandro Bianconi,25,Italy,Centre-Back,€350k
+Squad Calcio Lecco 1912,17,Alessandro Caporale,28,Italy,Centre-Back,€250k
+Squad Calcio Lecco 1912,68,Mario Ierardi,26,Italy,Centre-Back,€250k
+Squad Calcio Lecco 1912,3,Zinedin Smajlovic,20,Sweden,Centre-Back,€100k
+Squad Calcio Lecco 1912,2,Vedran Celjak,32,Croatia,Right-Back,€350k
+Squad Calcio Lecco 1912,28,Corentin Louakima,21,France,Right-Back,€200k
+Squad Calcio Lecco 1912,32,Franco Lepore,38,Italy,Right-Back,€200k
+Squad Calcio Lecco 1912,83,Mats Lemmens,22,Belgium,Right-Back,€150k
+Squad Calcio Lecco 1912,5,Duccio Degli Innocenti,20,Italy,Defensive Midfield,€600k
+Squad Calcio Lecco 1912,96,Giorgio Galli,28,Italy,Defensive Midfield,€250k
+Squad Calcio Lecco 1912,21,Giovanni Crociata,26,Italy,Central Midfield,€700k
+Squad Calcio Lecco 1912,8,Alessandro Sersanti,22,Italy,Central Midfield,€600k
+Squad Calcio Lecco 1912,27,Artur Ioniță,33,Moldova,Central Midfield,€500k
+Squad Calcio Lecco 1912,26,Marco Frigerio,22,Italy,Central Midfield,€250k
+Squad Calcio Lecco 1912,44,Davide Guglielmotti,30,Italy,Right Midfield,€250k
+Squad Calcio Lecco 1912,7,Gabriel Lunetta,27,Italy,Left Midfield,€300k
+Squad Calcio Lecco 1912,29,Marcin Listkowski,26,Poland,Left Winger,€300k
+Squad Calcio Lecco 1912,14,Vittorio Parigini,28,Italy,Right Winger,€450k
+Squad Calcio Lecco 1912,11,Henri Salomaa,21,Finland,Right Winger,€125k
+Squad Calcio Lecco 1912,99,Nicolò Buso,24,Italy,Second Striker,€500k
+Squad Calcio Lecco 1912,10,Eddie Salcedo,22,Italy,Centre-Forward,€1.50m
+Squad Calcio Lecco 1912,90,Andrija Novakovich,27,United States,Centre-Forward,€500k
+Squad Calcio Lecco 1912,45,Roberto Inglese,32,Italy,Centre-Forward,€400k
+Squad Calcio Lecco 1912,81,Giacomo Beretta,32,Italy,Centre-Forward,€225k
+Squad Feralpisalò,1,Semuel Pizzignacco,22,Italy,Goalkeeper,€400k
+Squad Feralpisalò,61,Giacomo Volpe,28,Italy,Goalkeeper,€150k
+Squad Feralpisalò,18,Luca Liverani,34,Italy,Goalkeeper,€125k
+Squad Feralpisalò,23,Luca Ceppitelli,34,Italy,Centre-Back,€500k
+Squad Feralpisalò,19,Alessandro Pilati,24,Italy,Centre-Back,€300k
+Squad Feralpisalò,17,Dimo Krastev,21,Bulgaria,Centre-Back,€150k
+Squad Feralpisalò,4,Marcus Păcurar,18,Romania,Centre-Back,€25k
+Squad Feralpisalò,87,Bruno Martella,31,Italy,Left-Back,€400k
+Squad Feralpisalò,3,Mattia Tonetto,23,Italy,Left-Back,€150k
+Squad Feralpisalò,94,Gaetano Letizia,33,Italy,Right-Back,€500k
+Squad Feralpisalò,66,Federico Bergonzi,23,Italy,Right-Back,€450k
+Squad Feralpisalò,2,Gabriele Ferrarini,24,Italy,Right-Back,€400k
+Squad Feralpisalò,29,Mauro Verzeletti,20,Italy,Right-Back,€25k
+Squad Feralpisalò,16,Luca Fiordilino,27,Italy,Defensive Midfield,€900k
+Squad Feralpisalò,21,Federico Carraro,31,Italy,Defensive Midfield,€250k
+Squad Feralpisalò,39,Christos Kourfalidis,21,Greece,Central Midfield,€800k
+Squad Feralpisalò,8,Davide Balestrero,28,Italy,Central Midfield,€400k
+Squad Feralpisalò,20,Mattia Zennaro,23,Italy,Central Midfield,€350k
+Squad Feralpisalò,27,Denis Hergheligiu,24,Romania,Central Midfield,€250k
+Squad Feralpisalò,70,Christopher Attys,23,Haiti,Central Midfield,€125k
+Squad Feralpisalò,7,Davide Voltan,29,Italy,Attacking Midfield,€150k
+Squad Feralpisalò,97,Mattia Felici,23,Italy,Left Winger,€500k
+Squad Feralpisalò,6,Luca Giudici,32,Italy,Left Winger,€250k
+Squad Feralpisalò,10,Davide Di Molfetta,27,Italy,Left Winger,€250k
+Squad Feralpisalò,14,Mattia Compagnon,22,Italy,Right Winger,€400k
+Squad Feralpisalò,28,Giacomo Manzari,23,Italy,Right Winger,€300k
+Squad Feralpisalò,99,Alessandro Pietrelli,21,Italy,Second Striker,€100k
+Squad Feralpisalò,91,Andrea La Mantia,32,Italy,Centre-Forward,€500k
+Squad Feralpisalò,9,Karlo Butic,25,Croatia,Centre-Forward,€300k
+Squad Feralpisalò,11,Edgaras Dubickas,25,Lithuania,Centre-Forward,€200k
+Squad Feralpisalò,25,Marco Sau,36,Italy,Centre-Forward,€100k
+Squad Atalanta U23,95,Paolo Vismara,21,Italy,Goalkeeper,€300k
+Squad Atalanta U23,30,Tommaso Bertini,20,Italy,Goalkeeper,€100k
+Squad Atalanta U23,22,Matevz Dajcar,22,Slovenia,Goalkeeper,€25k
+Squad Atalanta U23,77,Lorenzo Avogadri,22,Italy,Goalkeeper,€25k
+Squad Atalanta U23,6,Giovanni Bonfanti,21,Italy,Centre-Back,€1.00m
+Squad Atalanta U23,3,Tommaso Del Lungo,20,Italy,Centre-Back,€300k
+Squad Atalanta U23,13,Marco Varnier,25,Italy,Centre-Back,€300k
+Squad Atalanta U23,4,Gabriele Berto,21,Italy,Centre-Back,€200k
+Squad Atalanta U23,15,Daniele Solcia,23,Italy,Centre-Back,€200k
+Squad Atalanta U23,26,Alberto Masi,31,Italy,Centre-Back,€150k
+Squad Atalanta U23,23,Andrea Ceresoli,21,Italy,Left-Back,€350k
+Squad Atalanta U23,28,Iacopo Regonesi,20,Italy,Left-Back,€175k
+Squad Atalanta U23,33,Lorenzo Bernasconi,20,Italy,Left-Back,€100k
+Squad Atalanta U23,5,Leonardo Mendicino,17,Italy,Defensive Midfield,€400k
+Squad Atalanta U23,48,Simone Panada,21,Italy,Defensive Midfield,€300k
+Squad Atalanta U23,80,Mannah Chiwisa,20,Zambia,Defensive Midfield,€125k
+Squad Atalanta U23,25,Jacopo Da Riva,23,Italy,Central Midfield,€1.00m
+Squad Atalanta U23,8,Emmanuel Gyabuaa,22,Italy,Central Midfield,€500k
+Squad Atalanta U23,86,Theophilus Awua,25,Nigeria,Central Midfield,€400k
+Squad Atalanta U23,20,Kaleb Jiménez,21,Spain,Central Midfield,€150k
+Squad Atalanta U23,7,Endri Muhameti,19,Albania,Central Midfield,€75k
+Squad Atalanta U23,2,Marco Palestra,19,Italy,Right Midfield,€500k
+Squad Atalanta U23,14,Davide Ghislandi,22,Italy,Right Midfield,€175k
+Squad Atalanta U23,72,Alessandro Cortinovis,23,Italy,Attacking Midfield,€600k
+Squad Atalanta U23,10,Christian Capone,24,Italy,Attacking Midfield,€175k
+Squad Atalanta U23,73,Tommaso De Nipoti,20,Italy,Second Striker,€200k
+Squad Atalanta U23,44,Alessandro Falleni,20,Italy,Second Striker,€50k
+Squad Atalanta U23,29,Siren Diao,19,Spain,Centre-Forward,€1.50m
+Squad Atalanta U23,11,Moustapha Cissé,20,Guinea,Centre-Forward,€800k
+Squad Atalanta U23,90,Alessio Rosa,20,Italy,Centre-Forward,€50k
+Squad LR Vicenza,98,Alessandro Confente,25,Italy,Goalkeeper,€250k
+Squad LR Vicenza,12,Samuele Massolo,27,Italy,Goalkeeper,€150k
+Squad LR Vicenza,22,Lapo Siviero,17,Italy,Goalkeeper,€50k
+Squad LR Vicenza,14,Giuseppe Cuomo,26,Italy,Centre-Back,€500k
+Squad LR Vicenza,55,Vladimir Golemic,32,Serbia,Centre-Back,€400k
+Squad LR Vicenza,23,Giuliano Laezza,30,Italy,Centre-Back,€175k
+Squad LR Vicenza,76,Nicholas Fantoni,21,Italy,Centre-Back,€75k
+Squad LR Vicenza,32,Filippo Costa,28,Italy,Left-Back,€350k
+Squad LR Vicenza,73,Thomas Sandon,20,Italy,Left-Back,€200k
+Squad LR Vicenza,26,Filippo De Col,30,Italy,Right-Back,€400k
+Squad LR Vicenza,33,Alberto Lattanzio,20,Italy,Right-Back,€100k
+Squad LR Vicenza,10,Ronaldo,34,Brazil,Defensive Midfield,€350k
+Squad LR Vicenza,7,Federico Proia,28,Italy,Central Midfield,€700k
+Squad LR Vicenza,8,Michele Cavion,29,Italy,Central Midfield,€300k
+Squad LR Vicenza,5,Fausto Rossi,33,Italy,Central Midfield,€275k
+Squad LR Vicenza,18,Simone Tronchin,21,Italy,Central Midfield,€175k
+Squad LR Vicenza,44,Raul Talarico,21,Italy,Right Midfield,€225k
+Squad LR Vicenza,15,Jean Freddi Greco,23,Italy,Left Midfield,€500k
+Squad LR Vicenza,17,Marco Delle Monache,19,Italy,Second Striker,€1.20m
+Squad LR Vicenza,99,Matteo Della Morte,24,Italy,Second Striker,€200k
+Squad LR Vicenza,9,Franco Ferrari,28,Italy,Centre-Forward,€600k
+Squad LR Vicenza,19,Jacopo Pellegrini,23,Italy,Centre-Forward,€300k
+Squad LR Vicenza,11,Alex Rolfini,27,Italy,Centre-Forward,€275k
+Squad US Triestina,1,Kristjan Matosevic,26,Croatia,Goalkeeper,€225k
+Squad US Triestina,22,Giuseppe Agostino,21,Italy,Goalkeeper,€100k
+Squad US Triestina,16,Madou Diakité,19,Mali,Goalkeeper,€25k
+Squad US Triestina,42,Lorenzo Moretti,22,Italy,Centre-Back,€250k
+Squad US Triestina,3,Alessandro Malomo,33,Italy,Centre-Back,€200k
+Squad US Triestina,7,Aljaz Struna,33,Slovenia,Centre-Back,€150k
+Squad US Triestina,31,Nicholas Rizzo,24,Italy,Centre-Back,€150k
+Squad US Triestina,38,Luca Petrasso,23,Canada,Left-Back,€800k
+Squad US Triestina,6,Matteo Anzolin,23,Italy,Left-Back,€250k
+Squad US Triestina,14,Umberto Germano,31,Italy,Right-Back,€225k
+Squad US Triestina,13,Matteo Ciofani,36,Italy,Right-Back,€125k
+Squad US Triestina,72,Daniel Pavlev,23,Slovenia,Right-Back,€125k
+Squad US Triestina,15,Omar Correia,24,France,Defensive Midfield,€400k
+Squad US Triestina,28,Enrico Celeghin,25,Italy,Defensive Midfield,€175k
+Squad US Triestina,30,Christian D'Urso,26,Italy,Central Midfield,€800k
+Squad US Triestina,4,Andrea Vallocchia,26,Italy,Central Midfield,€200k
+Squad US Triestina,5,Teoman Gündüz,19,Türkiye,Central Midfield,€200k
+Squad US Triestina,21,Lamine Fofana,25,Cote d'Ivoire,Central Midfield,€150k
+Squad US Triestina,33,Marco Ballarini,23,Italy,Central Midfield,€125k
+Squad US Triestina,17,Kristófer Jónsson,21,Iceland,Central Midfield,€25k
+Squad US Triestina,8,Rayan El Azrak,24,Netherlands,Attacking Midfield,€250k
+Squad US Triestina,18,Mattia Minesso,34,Italy,Attacking Midfield,€125k
+Squad US Triestina,9,Daishawn Redan,23,Suriname,Centre-Forward,€1.00m
+Squad US Triestina,10,Facundo Lescano,27,Argentina,Centre-Forward,€600k
+Squad US Triestina,99,Eetu Vertainen,24,Finland,Centre-Forward,€200k
+Squad Calcio Padova,1,Antonio Donnarumma,33,Italy,Goalkeeper,€325k
+Squad Calcio Padova,99,Alessandro Zanellati,24,Italy,Goalkeeper,€125k
+Squad Calcio Padova,2,Filippo Delli Carri,24,Italy,Centre-Back,€350k
+Squad Calcio Padova,13,Luca Crescenzi,32,Italy,Centre-Back,€225k
+Squad Calcio Padova,72,Carlo Faedo,24,Italy,Centre-Back,€225k
+Squad Calcio Padova,3,Marco Perrotta,30,Italy,Centre-Back,€175k
+Squad Calcio Padova,14,Luca Villa,24,Italy,Left-Back,€300k
+Squad Calcio Padova,30,Giulio Favale,26,Italy,Left-Back,€250k
+Squad Calcio Padova,4,Francesco Belli,30,Italy,Right-Back,€275k
+Squad Calcio Padova,26,Niko Kirwan,28,New Zealand,Right-Back,€200k
+Squad Calcio Padova,6,Lorenzo Crisetig,31,Italy,Defensive Midfield,€500k
+Squad Calcio Padova,7,Kevin Varas,30,Ecuador,Central Midfield,€325k
+Squad Calcio Padova,11,Jacopo Dezi,32,Italy,Central Midfield,€300k
+Squad Calcio Padova,8,Pietro Fusi,26,Italy,Central Midfield,€200k
+Squad Calcio Padova,15,Nicolò Bianchi,32,Italy,Central Midfield,€175k
+Squad Calcio Padova,58,Carmine Cretella,21,Italy,Central Midfield,€150k
+Squad Calcio Padova,10,Igor Radrezza,30,Italy,Attacking Midfield,€350k
+Squad Calcio Padova,9,Nicola Valente,32,Italy,Left Winger,€400k
+Squad Calcio Padova,77,Simone Russini,28,Italy,Left Winger,€225k
+Squad Calcio Padova,21,Michael Liguori,25,Italy,Right Winger,€325k
+Squad Calcio Padova,17,Alessandro Capelli,26,Italy,Right Winger,€275k
+Squad Calcio Padova,20,Mattia Bortolussi,27,Italy,Centre-Forward,€350k
+Squad Calcio Padova,94,Luca Zamparo,29,Italy,Centre-Forward,€350k
+Squad Calcio Padova,19,Simone Palombi,27,Italy,Centre-Forward,€250k
+Squad Calcio Padova,90,Mattia Tordini,21,Italy,Centre-Forward,€150k
+Squad Mantova 1911,1,Marco Festa,31,Italy,Goalkeeper,€350k
+Squad Mantova 1911,12,Luca Sonzogni,19,Italy,Goalkeeper,€50k
+Squad Mantova 1911,22,Alessio Napoli,19,Italy,Goalkeeper,€50k
+Squad Mantova 1911,5,Alex Redolfi,30,Italy,Centre-Back,€325k
+Squad Mantova 1911,13,Fabrizio Brignani,26,Italy,Centre-Back,€325k
+Squad Mantova 1911,4,Christian Celesia,22,Italy,Centre-Back,€225k
+Squad Mantova 1911,16,Tommaso Cavalli,24,Italy,Centre-Back,€175k
+Squad Mantova 1911,87,Sebastien De Maio,37,France,Centre-Back,€125k
+Squad Mantova 1911,23,Erik Panizzi,30,Italy,Left-Back,€275k
+Squad Mantova 1911,27,Tommaso Maggioni,22,Italy,Right-Back,€300k
+Squad Mantova 1911,8,Salvatore Burrai,36,Italy,Defensive Midfield,€400k
+Squad Mantova 1911,10,David Wieser,22,Italy,Defensive Midfield,€250k
+Squad Mantova 1911,21,Simone Trimboli,21,Italy,Central Midfield,€400k
+Squad Mantova 1911,28,Mattia Muroni,28,Italy,Central Midfield,€275k
+Squad Mantova 1911,17,Nicolò Radaelli,21,Italy,Central Midfield,€200k
+Squad Mantova 1911,6,Cristiano Bani,25,Italy,Central Midfield,€150k
+Squad Mantova 1911,20,Giacomo Fedel,21,Italy,Central Midfield,€125k
+Squad Mantova 1911,24,Gabriele Argint,18,Italy,Central Midfield,€25k
+Squad Mantova 1911,19,Francesco Bombagi,34,Italy,Attacking Midfield,€150k
+Squad Mantova 1911,7,Davis Mensah,32,Italy,Left Winger,€200k
+Squad Mantova 1911,90,Stefano Giacomelli,33,Italy,Left Winger,€150k
+Squad Mantova 1911,30,Davide Bragantini,20,Italy,Right Winger,€250k
+Squad Mantova 1911,11,Antonio Fiori,21,Italy,Right Winger,€225k
+Squad Mantova 1911,14,Francesco Galuppini,30,Italy,Centre-Forward,€350k
+Squad Mantova 1911,45,Gaetano Monachello,30,Italy,Centre-Forward,€175k
+Squad Mantova 1911,9,Alessandro Debenedetti,20,Italy,Centre-Forward,€125k
+Squad FC Pro Vercelli 1892,22,Jacopo Sassi,20,Italy,Goalkeeper,€400k
+Squad FC Pro Vercelli 1892,99,Davide Mastrantonio,20,Italy,Goalkeeper,€200k
+Squad FC Pro Vercelli 1892,44,Nicolò Vaccarezza,21,Italy,Goalkeeper,€25k
+Squad FC Pro Vercelli 1892,32,Giulio Parodi,26,Italy,Centre-Back,€250k
+Squad FC Pro Vercelli 1892,6,Agostino Camigliano,29,Italy,Centre-Back,€200k
+Squad FC Pro Vercelli 1892,33,Alessandro Citi,21,Italy,Centre-Back,€50k
+Squad FC Pro Vercelli 1892,13,Joshua Da Pra,20,Italy,Centre-Back,€25k
+Squad FC Pro Vercelli 1892,3,Francesco Rodio,23,Italy,Left-Back,€200k
+Squad FC Pro Vercelli 1892,74,Daniele Sarzi Puttini,27,Italy,Left-Back,€100k
+Squad FC Pro Vercelli 1892,23,Gabriele Casazza,18,Italy,Left-Back,-
+Squad FC Pro Vercelli 1892,29,Roberto Iezzi,24,Italy,Right-Back,€300k
+Squad FC Pro Vercelli 1892,2,Daniel Frey,22,Italy,Right-Back,€50k
+Squad FC Pro Vercelli 1892,14,Salvatore Santoro,25,Italy,Defensive Midfield,€300k
+Squad FC Pro Vercelli 1892,30,Massimo Forte,19,Australia,Defensive Midfield,€25k
+Squad FC Pro Vercelli 1892,4,Simone Emmanuello,29,Italy,Central Midfield,€125k
+Squad FC Pro Vercelli 1892,41,Riccardo Pinzi,20,Italy,Central Midfield,€100k
+Squad FC Pro Vercelli 1892,20,Alessandro Louati,21,Italy,Central Midfield,€75k
+Squad FC Pro Vercelli 1892,21,Mattia Rutigliano,18,Italy,Central Midfield,€75k
+Squad FC Pro Vercelli 1892,17,Francesco Contaldo,22,Italy,Central Midfield,€50k
+Squad FC Pro Vercelli 1892,8,Ilario Iotti,28,Italy,Right Midfield,€200k
+Squad FC Pro Vercelli 1892,80,Luis Rojas,22,Chile,Attacking Midfield,€300k
+Squad FC Pro Vercelli 1892,16,Hamza Haoudi,23,Italy,Attacking Midfield,€175k
+Squad FC Pro Vercelli 1892,87,Olaf Kozlowski,18,Poland,Attacking Midfield,€100k
+Squad FC Pro Vercelli 1892,27,Matteo Maggio,22,Italy,Left Winger,€350k
+Squad FC Pro Vercelli 1892,18,Filippo Gheza,21,Italy,Left Winger,€50k
+Squad FC Pro Vercelli 1892,77,Orazio Pannitteri,24,Italy,Right Winger,€200k
+Squad FC Pro Vercelli 1892,7,Mattia Mustacchio,34,Italy,Right Winger,€150k
+Squad FC Pro Vercelli 1892,93,Mirco Petrella,30,Italy,Right Winger,€125k
+Squad FC Pro Vercelli 1892,9,Alessio Nepi,24,Italy,Centre-Forward,€175k
+Squad FC Pro Vercelli 1892,24,Raffaele Sibilio,18,Italy,Centre-Forward,€25k
+Squad AC Trento,1,Alessandro Russo,23,Italy,Goalkeeper,€300k
+Squad AC Trento,12,Giacomo Pozzer,23,Italy,Goalkeeper,€50k
+Squad AC Trento,22,Daniele Di Giorgio,19,Italy,Goalkeeper,€25k
+Squad AC Trento,6,Luca Ferri,33,Italy,Centre-Back,€225k
+Squad AC Trento,83,Alberto Barison,29,Italy,Centre-Back,€225k
+Squad AC Trento,14,Pol García,29,Spain,Centre-Back,€200k
+Squad AC Trento,4,Andrea Trainotti,30,Italy,Centre-Back,€150k
+Squad AC Trento,8,Daniel Cappelletti,32,Italy,Centre-Back,€100k
+Squad AC Trento,5,Nosa Edward Obaretin,21,Italy,Centre-Back,€50k
+Squad AC Trento,19,Giovanni Vaglica,21,Italy,Left-Back,€125k
+Squad AC Trento,66,Davide Vitturini,27,Italy,Right-Back,€200k
+Squad AC Trento,38,Mattia Sangalli,22,Italy,Defensive Midfield,€225k
+Squad AC Trento,24,Pasquale Giannotti,24,Italy,Central Midfield,€225k
+Squad AC Trento,77,Armand Rada,25,Albania,Central Midfield,€200k
+Squad AC Trento,20,Leonardo Di Cosmo,25,Italy,Central Midfield,€175k
+Squad AC Trento,34,Sergiu Suciu,33,Romania,Central Midfield,€125k
+Squad AC Trento,62,Ruggero Frosinini,23,Italy,Central Midfield,€100k
+Squad AC Trento,37,Tommaso Brevi,22,Italy,Central Midfield,€75k
+Squad AC Trento,7,Emanuele Anastasia,28,Italy,Left Winger,€175k
+Squad AC Trento,11,Giovanni Terrani,29,Italy,Left Winger,€150k
+Squad AC Trento,23,Filippo Puletto,19,Italy,Left Winger,€75k
+Squad AC Trento,10,Cristian Pasquato,34,Italy,Second Striker,€150k
+Squad AC Trento,21,Antonio Satriano,20,Italy,Centre-Forward,€300k
+Squad AC Trento,9,Samuele Spalluto,23,Italy,Centre-Forward,€225k
+Squad AC Trento,32,Luigi Caccavo,20,Italy,Centre-Forward,€100k
+Squad AC Trento,90,Jonathan Italeng,22,Cameroon,Centre-Forward,€100k
+Squad AC Trento,25,Leon Sipos,24,Croatia,Centre-Forward,€75k
+Squad Novara FC,1,Stefano Minelli,30,Italy,Goalkeeper,€200k
+Squad Novara FC,31,Axel Desjardins,24,Canada,Goalkeeper,€125k
+Squad Novara FC,12,Giacomo Boscolo Palo,22,Italy,Goalkeeper,€50k
+Squad Novara FC,22,Tommaso Menegaldo,18,Italy,Goalkeeper,€25k
+Squad Novara FC,35,Filippo Lorenzini,29,Italy,Centre-Back,€200k
+Squad Novara FC,6,Davide Bertoncini,32,Italy,Centre-Back,€175k
+Squad Novara FC,26,Salvatore Boccia,22,Italy,Centre-Back,€150k
+Squad Novara FC,28,Adrian Cannavaro,19,Italy,Centre-Back,€100k
+Squad Novara FC,79,Edoardo Lancini,30,Italy,Centre-Back,€100k
+Squad Novara FC,15,Omar Khailoti,22,Morocco,Centre-Back,€75k
+Squad Novara FC,5,Samuele Bonaccorsi,25,Italy,Centre-Back,€50k
+Squad Novara FC,30,Francesco Migliardi,21,Italy,Left-Back,€150k
+Squad Novara FC,32,Lorenzo Caradonna,21,Italy,Right-Back,€75k
+Squad Novara FC,23,Giorgio Savini,21,Italy,Defensive Midfield,€150k
+Squad Novara FC,8,Alessandro Di Munno,23,Italy,Defensive Midfield,€125k
+Squad Novara FC,16,Riccardo Calcagni,29,Italy,Central Midfield,€200k
+Squad Novara FC,21,Roberto Ranieri,26,Italy,Central Midfield,€200k
+Squad Novara FC,42,Alvaro Ngamba,25,Cameroon,Central Midfield,€200k
+Squad Novara FC,3,Oliver Urso,24,Denmark,Central Midfield,€175k
+Squad Novara FC,14,Thomas Schirò,23,Italy,Central Midfield,€125k
+Squad Novara FC,29,Toni Caravaca,20,Spain,Central Midfield,€25k
+Squad Novara FC,18,Accursio Bentivegna,27,Italy,Left Winger,€200k
+Squad Novara FC,10,Christian Donadio,22,Italy,Left Winger,€100k
+Squad Novara FC,17,Liam Kerrigan,23,Ireland,Right Winger,€200k
+Squad Novara FC,7,Filippo Gerardini,23,Italy,Right Winger,€50k
+Squad Novara FC,77,Árni Vilhjálmsson,29,Iceland,Centre-Forward,€350k
+Squad Novara FC,13,Easton Ongaro,25,Canada,Centre-Forward,€250k
+Squad Novara FC,9,Stefano Scappini,36,Italy,Centre-Forward,€175k
+Squad Novara FC,11,Niccolò Corti,22,Italy,Centre-Forward,€50k
+Squad AC Renate,22,Mattia Fallani,23,Italy,Goalkeeper,€150k
+Squad AC Renate,1,Francesco Ombra,21,Italy,Goalkeeper,€75k
+Squad AC Renate,34,Simone Auriletto,25,Italy,Centre-Back,€225k
+Squad AC Renate,6,Luca Munaretti,21,Italy,Centre-Back,€100k
+Squad AC Renate,13,Raffaele Alcibiade,33,Italy,Centre-Back,€100k
+Squad AC Renate,79,Gabriele Bracaglia,20,Italy,Centre-Back,€100k
+Squad AC Renate,44,Marco Bosisio,21,Italy,Centre-Back,€75k
+Squad AC Renate,77,Alessandro Vimercati,21,Italy,Centre-Back,€25k
+Squad AC Renate,4,Marcello Possenti,31,Italy,Left-Back,€250k
+Squad AC Renate,20,Christian Mora,26,Italy,Right-Back,€75k
+Squad AC Renate,8,Gianluca Esposito,29,Italy,Defensive Midfield,€250k
+Squad AC Renate,14,Luca Baldassin,29,Italy,Central Midfield,€275k
+Squad AC Renate,54,Francesco Vassallo,30,Italy,Central Midfield,€250k
+Squad AC Renate,5,Matteo Gasperi,26,Italy,Central Midfield,€150k
+Squad AC Renate,16,Vincenzo Alfieri,21,Italy,Central Midfield,€150k
+Squad AC Renate,33,Francesco D'Orsi,26,Italy,Central Midfield,€100k
+Squad AC Renate,30,Marco Tremolada,20,Italy,Central Midfield,€50k
+Squad AC Renate,7,Marco Anghileri,33,Italy,Right Midfield,€275k
+Squad AC Renate,37,Davide Acampa,21,Italy,Left Midfield,€25k
+Squad AC Renate,23,Michele Currarino,31,Italy,Attacking Midfield,€175k
+Squad AC Renate,10,Andrea Procaccio,28,Italy,Left Winger,€125k
+Squad AC Renate,15,Andrea Ghezzi,23,Italy,Right Winger,€150k
+Squad AC Renate,18,Lorenzo Pinzauti,29,Italy,Centre-Forward,€250k
+Squad AC Renate,95,Daniele Sorrentino,26,Italy,Centre-Forward,€225k
+Squad AC Renate,89,Riccardo Bocalon,35,Italy,Centre-Forward,€150k
+Squad AC Renate,45,Luca Paudice,22,Italy,Centre-Forward,€75k
+Squad Arzignano Valchiampo,30,Marco Raina,21,Italy,Goalkeeper,€175k
+Squad Arzignano Valchiampo,22,Federico Botti,21,Italy,Goalkeeper,€125k
+Squad Arzignano Valchiampo,12,Elia Boseggia,20,Italy,Goalkeeper,€75k
+Squad Arzignano Valchiampo,1,Riccardo Pigozzo,24,Italy,Goalkeeper,€50k
+Squad Arzignano Valchiampo,18,Luca Piana,30,Italy,Centre-Back,€275k
+Squad Arzignano Valchiampo,33,Andrea Boffelli,27,Italy,Centre-Back,€175k
+Squad Arzignano Valchiampo,57,Alessio Milillo,27,Italy,Centre-Back,€150k
+Squad Arzignano Valchiampo,32,Elia Campesan,19,Italy,Centre-Back,€25k
+Squad Arzignano Valchiampo,23,Federico Davi,22,Italy,Left-Back,€100k
+Squad Arzignano Valchiampo,3,Edoardo Bernardi,20,Italy,Left-Back,€75k
+Squad Arzignano Valchiampo,11,Andrea Gemignani,28,Italy,Right-Back,€225k
+Squad Arzignano Valchiampo,13,Fabio Cariolato,21,Italy,Right-Back,€125k
+Squad Arzignano Valchiampo,8,Lorenzo Bordo,28,Italy,Defensive Midfield,€225k
+Squad Arzignano Valchiampo,16,Manuel Zanon,21,Italy,Defensive Midfield,€75k
+Squad Arzignano Valchiampo,6,Erald Lakti,24,Albania,Central Midfield,€275k
+Squad Arzignano Valchiampo,17,Gianluca Barba,29,Italy,Central Midfield,€275k
+Squad Arzignano Valchiampo,20,Manuel Antoniazzi,23,Italy,Central Midfield,€200k
+Squad Arzignano Valchiampo,4,Riccardo Casini,32,Italy,Central Midfield,€150k
+Squad Arzignano Valchiampo,10,Alberto Lunghi,20,Italy,Attacking Midfield,€50k
+Squad Arzignano Valchiampo,21,Alberto Centis,20,Italy,Attacking Midfield,€50k
+Squad Arzignano Valchiampo,7,Youns El Hilali,20,Italy,Second Striker,€300k
+Squad Arzignano Valchiampo,97,Giacomo Parigi,27,Italy,Centre-Forward,€250k
+Squad Arzignano Valchiampo,28,Alessandro Faggioli,24,Italy,Centre-Forward,€200k
+Squad Arzignano Valchiampo,9,Simone Menabò,26,Italy,Centre-Forward,€150k
+Squad Arzignano Valchiampo,72,Andrea Mattioli,22,Italy,Centre-Forward,€50k
+Squad Pro Sesto 1913,1,Federico Del Frate,28,Italy,Goalkeeper,€225k
+Squad Pro Sesto 1913,22,Fabrizio Bagheria,23,Italy,Goalkeeper,€50k
+Squad Pro Sesto 1913,12,Simone Formosa,20,Italy,Goalkeeper,€25k
+Squad Pro Sesto 1913,5,Luca Marianucci,19,Italy,Centre-Back,€175k
+Squad Pro Sesto 1913,65,Simone Giorgeschi,19,Italy,Centre-Back,€175k
+Squad Pro Sesto 1913,50,Luca Iotti,28,Italy,Centre-Back,€150k
+Squad Pro Sesto 1913,19,Denis Caverzasi,29,Italy,Centre-Back,€75k
+Squad Pro Sesto 1913,23,Francesco Mapelli,28,Italy,Centre-Back,€75k
+Squad Pro Sesto 1913,3,Emanuele Maurizii,23,Italy,Left-Back,€200k
+Squad Pro Sesto 1913,30,Dario Toninelli,32,Italy,Right-Back,€225k
+Squad Pro Sesto 1913,6,Andrea Poggesi,22,Italy,Right-Back,€50k
+Squad Pro Sesto 1913,17,Leonardo D'Alessio,20,Italy,Right-Back,€25k
+Squad Pro Sesto 1913,8,Pietro Santarpia,21,Italy,Defensive Midfield,€75k
+Squad Pro Sesto 1913,26,Lorenzo Ferro,20,Italy,Defensive Midfield,€50k
+Squad Pro Sesto 1913,4,Tommaso Gattoni,30,Italy,Central Midfield,€250k
+Squad Pro Sesto 1913,7,Alessandro Sala,22,Italy,Central Midfield,€200k
+Squad Pro Sesto 1913,16,Andrea Poli,34,Italy,Central Midfield,€200k
+Squad Pro Sesto 1913,77,Giuseppe Fornito,29,Italy,Central Midfield,€200k
+Squad Pro Sesto 1913,18,Andrea Palazzi,28,Italy,Central Midfield,€150k
+Squad Pro Sesto 1913,21,Andrea Bussaglia,26,Italy,Central Midfield,€100k
+Squad Pro Sesto 1913,9,Damiano Basili,20,Italy,Central Midfield,€50k
+Squad Pro Sesto 1913,25,Riccardo Boscolo Chio,21,Italy,Central Midfield,€25k
+Squad Pro Sesto 1913,10,Mohamed Bahlouli,24,France,Attacking Midfield,€200k
+Squad Pro Sesto 1913,98,Nicolò Bruschi,25,Italy,Left Winger,€250k
+Squad Pro Sesto 1913,32,Marcello Sereni,27,Italy,Left Winger,€125k
+Squad Pro Sesto 1913,20,Francesco Barranca,25,Italy,Second Striker,€100k
+Squad Pro Sesto 1913,80,Mattia Florio,20,Italy,Second Striker,€100k
+Squad Pro Sesto 1913,11,Julian Kristoffersen,26,Norway,Centre-Forward,€100k
+Squad Pro Sesto 1913,29,Eljon Toci,21,Albania,Centre-Forward,€100k
+Squad Aurora Pro Patria,1,William Rovida,21,Italy,Goalkeeper,€125k
+Squad Aurora Pro Patria,12,Giulio Mangano,24,Italy,Goalkeeper,€75k
+Squad Aurora Pro Patria,22,Luca Bongini,18,Italy,Goalkeeper,€25k
+Squad Aurora Pro Patria,4,Lorenzo Saporetti,28,Italy,Centre-Back,€250k
+Squad Aurora Pro Patria,6,Andrea Moretti,22,Italy,Centre-Back,€200k
+Squad Aurora Pro Patria,19,Manuel Lombardoni,25,Italy,Centre-Back,€175k
+Squad Aurora Pro Patria,21,Alessandro Minelli,24,Italy,Centre-Back,€150k
+Squad Aurora Pro Patria,2,Stefano Vaghi,22,Italy,Centre-Back,€125k
+Squad Aurora Pro Patria,5,Ervin Bashi,18,Albania,Centre-Back,€50k
+Squad Aurora Pro Patria,14,Luca Bertoni,31,Italy,Defensive Midfield,€225k
+Squad Aurora Pro Patria,31,Andrea Mallamo,21,Italy,Defensive Midfield,€100k
+Squad Aurora Pro Patria,16,Giovanni Fietta,39,Italy,Defensive Midfield,€50k
+Squad Aurora Pro Patria,25,Davide Ferri,21,Italy,Central Midfield,€225k
+Squad Aurora Pro Patria,10,Gianluca Nicco,35,Italy,Central Midfield,€200k
+Squad Aurora Pro Patria,8,Francesco Marano,33,Italy,Central Midfield,€100k
+Squad Aurora Pro Patria,17,Giorgio Citterio,21,Italy,Central Midfield,€75k
+Squad Aurora Pro Patria,18,Leonardo Piran,20,Italy,Central Midfield,€50k
+Squad Aurora Pro Patria,23,Filippo Ghioldi,25,Italy,Central Midfield,€25k
+Squad Aurora Pro Patria,20,Guillaume Renault,22,Italy,Right Midfield,€175k
+Squad Aurora Pro Patria,28,Marco Somma,22,Italy,Right Midfield,€75k
+Squad Aurora Pro Patria,3,Angelo Ndrecka,22,Albania,Left Midfield,€275k
+Squad Aurora Pro Patria,27,Christophe Renault,22,Italy,Left Midfield,€50k
+Squad Aurora Pro Patria,7,Leonardo Stanzani,24,Italy,Second Striker,€275k
+Squad Aurora Pro Patria,11,Jonathan Pitou,19,France,Second Striker,€250k
+Squad Aurora Pro Patria,30,Davide Castelli,24,Italy,Centre-Forward,€150k
+Squad Aurora Pro Patria,9,Sean Parker,26,Italy,Centre-Forward,€100k
+Squad Aurora Pro Patria,69,Dennis Curatolo,20,Italy,Centre-Forward,€100k
+Squad UC AlbinoLeffe,1,Leandro Pratelli,21,Italy,Goalkeeper,€125k
+Squad UC AlbinoLeffe,22,Christian Marietta,22,Italy,Goalkeeper,€125k
+Squad UC AlbinoLeffe,72,Leonardo Moleri,22,Italy,Goalkeeper,€25k
+Squad UC AlbinoLeffe,5,Stefano Marchetti,25,Italy,Centre-Back,€200k
+Squad UC AlbinoLeffe,33,Diego Borghini,27,Italy,Centre-Back,€200k
+Squad UC AlbinoLeffe,13,Luca Milesi,30,Italy,Centre-Back,€175k
+Squad UC AlbinoLeffe,23,Mirko Saltarelli,26,Italy,Centre-Back,€150k
+Squad UC AlbinoLeffe,44,Riccardo Gatti,27,Italy,Centre-Back,€150k
+Squad UC AlbinoLeffe,30,Riccardo Baroni,25,Italy,Centre-Back,€50k
+Squad UC AlbinoLeffe,67,Filippo Ercolani,21,Italy,Left-Back,€25k
+Squad UC AlbinoLeffe,16,Mihai Gușu,27,Romania,Right-Back,€225k
+Squad UC AlbinoLeffe,7,Gaël Genevier,41,France,Defensive Midfield,€50k
+Squad UC AlbinoLeffe,95,Mattia Agostinelli,19,Italy,Defensive Midfield,€50k
+Squad UC AlbinoLeffe,8,Michael Brentan,22,Italy,Central Midfield,€225k
+Squad UC AlbinoLeffe,10,Marco Piccoli,22,Italy,Central Midfield,€200k
+Squad UC AlbinoLeffe,6,Issa Doumbia,20,Italy,Central Midfield,€175k
+Squad UC AlbinoLeffe,4,Francesco Giorno,30,Italy,Central Midfield,€100k
+Squad UC AlbinoLeffe,17,Duccio Toccafondi,20,Italy,Central Midfield,€75k
+Squad UC AlbinoLeffe,42,Andrea Allieri,19,Italy,Central Midfield,€50k
+Squad UC AlbinoLeffe,3,Matteo Zanini,29,Italy,Right Midfield,€150k
+Squad UC AlbinoLeffe,27,Davide Munari,24,Italy,Left Midfield,€175k
+Squad UC AlbinoLeffe,11,Mohamed Alì Zoma,20,Cote d'Ivoire,Second Striker,€250k
+Squad UC AlbinoLeffe,20,Carmelo Muzio,21,Italy,Second Striker,€75k
+Squad UC AlbinoLeffe,60,Andrea Arrighini,33,Italy,Centre-Forward,€250k
+Squad UC AlbinoLeffe,9,Cristian Carletti,27,Italy,Centre-Forward,€125k
+Squad UC AlbinoLeffe,91,Salvatore Longo,23,Italy,Centre-Forward,€100k
+Squad UC AlbinoLeffe,19,Mattia Angeloni,19,Italy,Centre-Forward,€25k
+Squad UC AlbinoLeffe,90,Rrok Toma,20,Albania,Centre-Forward,€25k
+Squad US Pergolettese 1932,22,Matteo Soncin,23,Italy,Goalkeeper,€275k
+Squad US Pergolettese 1932,1,Marco Cattaneo,19,Italy,Goalkeeper,€50k
+Squad US Pergolettese 1932,12,Filippo Doldi,19,Italy,Goalkeeper,€25k
+Squad US Pergolettese 1932,35,Stefano Piccinini,21,Italy,Centre-Back,€250k
+Squad US Pergolettese 1932,3,Alessandro Lambrughi,36,Italy,Centre-Back,€125k
+Squad US Pergolettese 1932,30,Riccardo Bignami,23,Italy,Centre-Back,€50k
+Squad US Pergolettese 1932,13,Gian Filippo Felicioli,26,Italy,Left-Back,€250k
+Squad US Pergolettese 1932,33,Mattia Capoferri,22,Italy,Left-Back,€175k
+Squad US Pergolettese 1932,2,Daniel Tonoli,21,Italy,Right-Back,€225k
+Squad US Pergolettese 1932,24,Andrea Schiavini,19,Italy,Right-Back,€50k
+Squad US Pergolettese 1932,4,Mariano Arini,37,Italy,Defensive Midfield,€200k
+Squad US Pergolettese 1932,6,Lorenzo Andreoli,23,Italy,Defensive Midfield,€150k
+Squad US Pergolettese 1932,18,Federico Artioli,22,Italy,Central Midfield,€225k
+Squad US Pergolettese 1932,31,Christian Aucelli,21,Italy,Central Midfield,€175k
+Squad US Pergolettese 1932,5,Matteo Figoli,23,Italy,Central Midfield,€150k
+Squad US Pergolettese 1932,80,Zaid Jaouhari,21,Italy,Central Midfield,€75k
+Squad US Pergolettese 1932,10,Andrea Mazzarani,34,Italy,Attacking Midfield,€75k
+Squad US Pergolettese 1932,32,Gabriele Tacchinardi,18,Italy,Left Winger,€25k
+Squad US Pergolettese 1932,77,Riccardo Bozzuto,19,Italy,Left Winger,€25k
+Squad US Pergolettese 1932,7,Davide Bariti,32,Italy,Right Winger,€275k
+Squad US Pergolettese 1932,8,Jacopo Cerasani,20,Italy,Right Winger,€75k
+Squad US Pergolettese 1932,9,Alessandro Piu,27,Italy,Second Striker,€100k
+Squad US Pergolettese 1932,11,Bernat Guiu,23,Spain,Centre-Forward,€200k
+Squad US Pergolettese 1932,91,Giuseppe De Luca,32,Italy,Centre-Forward,€200k
+Squad US Pergolettese 1932,70,Federico Caia,20,Italy,Centre-Forward,€125k
+Squad FC Lumezzane,22,Matteo Rizzo,19,Italy,Goalkeeper,€175k
+Squad FC Lumezzane,1,Stefano Filigheddu,21,Italy,Goalkeeper,€75k
+Squad FC Lumezzane,12,Ernesto Greco,18,Italy,Goalkeeper,€25k
+Squad FC Lumezzane,21,Alessandro Dalmazzi,29,Italy,Centre-Back,€250k
+Squad FC Lumezzane,6,Cesare Pogliano,26,Italy,Centre-Back,€150k
+Squad FC Lumezzane,38,Kevin Tortelli,19,Italy,Centre-Back,-
+Squad FC Lumezzane,33,Samuele Righetti,22,Italy,Left-Back,€175k
+Squad FC Lumezzane,19,Gianluca Parodi,20,Italy,Left-Back,€50k
+Squad FC Lumezzane,28,Samuele Regazzetti,19,Italy,Right-Back,€100k
+Squad FC Lumezzane,3,Eros Pisano,37,Italy,Right-Back,€50k
+Squad FC Lumezzane,2,Jacopo Deratti,20,Italy,Right-Back,€25k
+Squad FC Lumezzane,5,Michele Troiani,27,Italy,Right-Back,€25k
+Squad FC Lumezzane,27,Gianluca Scremin,20,Italy,Right-Back,€25k
+Squad FC Lumezzane,4,Anthony Taugourdeau,34,France,Defensive Midfield,€75k
+Squad FC Lumezzane,18,Simone Pesce,41,Italy,Defensive Midfield,€25k
+Squad FC Lumezzane,17,Carlo Ilari,32,Italy,Central Midfield,€250k
+Squad FC Lumezzane,7,Marco Moscati,31,Italy,Central Midfield,€225k
+Squad FC Lumezzane,8,Michele Calì,29,Italy,Central Midfield,€150k
+Squad FC Lumezzane,23,Manuel Poledri,23,Italy,Central Midfield,€125k
+Squad FC Lumezzane,32,Mattia Iori,26,Italy,Attacking Midfield,€200k
+Squad FC Lumezzane,20,Cristian Spini,22,Italy,Attacking Midfield,€125k
+Squad FC Lumezzane,11,Andrea Capelli,25,Italy,Left Winger,€200k
+Squad FC Lumezzane,10,Manuele Malotti,26,Italy,Right Winger,€225k
+Squad FC Lumezzane,9,Erik Gerbi,23,Italy,Centre-Forward,€275k
+Squad FC Lumezzane,34,Kevin Cannavò,24,Italy,Centre-Forward,€200k
+Squad FC Lumezzane,16,Andrey Galabinov,35,Bulgaria,Centre-Forward,€150k
+Squad FC Lumezzane,14,Alberto Basso Ricci,19,Italy,Centre-Forward,€100k
+Squad Virtusvecomp Verona,22,Sheikh Sibi,26,The Gambia,Goalkeeper,€200k
+Squad Virtusvecomp Verona,12,Michele Voltan,22,Italy,Goalkeeper,€75k
+Squad Virtusvecomp Verona,1,Alberto Zecchin,21,Italy,Goalkeeper,€50k
+Squad Virtusvecomp Verona,13,Marco Ruggero,23,Italy,Centre-Back,€225k
+Squad Virtusvecomp Verona,35,Eddy Cabianca,21,Italy,Centre-Back,€150k
+Squad Virtusvecomp Verona,3,Francesco Mazzolo,22,Italy,Centre-Back,€125k
+Squad Virtusvecomp Verona,15,Michael Ntube,23,Italy,Centre-Back,€125k
+Squad Virtusvecomp Verona,42,Riccardo Lodovici,19,Italy,Centre-Back,€25k
+Squad Virtusvecomp Verona,34,Diego Ronco,19,Italy,Centre-Back,€10k
+Squad Virtusvecomp Verona,11,Gianni Manfrin,30,Italy,Left-Back,€175k
+Squad Virtusvecomp Verona,6,Manuel Daffara,34,Italy,Right-Back,€250k
+Squad Virtusvecomp Verona,24,Antonio Metlika,22,Italy,Defensive Midfield,€200k
+Squad Virtusvecomp Verona,5,Dino Mehić,21,Italy,Defensive Midfield,€75k
+Squad Virtusvecomp Verona,16,Marco Amadio,24,Italy,Central Midfield,€200k
+Squad Virtusvecomp Verona,14,Leonardo Zarpellon,24,Italy,Central Midfield,€150k
+Squad Virtusvecomp Verona,70,Elian Demirovic,23,Slovenia,Central Midfield,€150k
+Squad Virtusvecomp Verona,23,Francesco Toffanin,21,Italy,Central Midfield,€100k
+Squad Virtusvecomp Verona,77,Filippo Vesentini,21,Italy,Central Midfield,€50k
+Squad Virtusvecomp Verona,8,Gianmarco Begheldo,20,Italy,Attacking Midfield,€75k
+Squad Virtusvecomp Verona,28,Christian Odogwu,20,Nigeria,Attacking Midfield,€25k
+Squad Virtusvecomp Verona,21,Juanito Gómez,38,Argentina,Left Winger,€175k
+Squad Virtusvecomp Verona,7,Andrea Nalini,33,Italy,Right Winger,€125k
+Squad Virtusvecomp Verona,10,Domenico Danti,35,Italy,Second Striker,€200k
+Squad Virtusvecomp Verona,97,Luca Ambrosi,19,Italy,Second Striker,€25k
+Squad Virtusvecomp Verona,18,Damir Céter,26,Colombia,Centre-Forward,€250k
+Squad Virtusvecomp Verona,17,Gianmarco Zigoni,32,Italy,Centre-Forward,€100k
+Squad Virtusvecomp Verona,90,Alessio Menato,22,Italy,Centre-Forward,€100k
+Squad US Alessandria Calcio 1912,1,Alessandro Farroni,26,Italy,Goalkeeper,€200k
+Squad US Alessandria Calcio 1912,33,Andrea Spurio,25,Italy,Goalkeeper,€75k
+Squad US Alessandria Calcio 1912,22,Rosario Rizzitano,25,Italy,Goalkeeper,€25k
+Squad US Alessandria Calcio 1912,13,Lorenzo Giubilato,23,Italy,Centre-Back,€175k
+Squad US Alessandria Calcio 1912,32,Filippo Fiumanò,21,Italy,Centre-Back,€150k
+Squad US Alessandria Calcio 1912,17,Ertijon Gega,22,Albania,Centre-Back,€75k
+Squad US Alessandria Calcio 1912,26,Ndir Mame Ass,23,Senegal,Centre-Back,€50k
+Squad US Alessandria Calcio 1912,5,Francesco Cusumano,23,Italy,Centre-Back,€25k
+Squad US Alessandria Calcio 1912,3,Enrico Rossi,23,Italy,Left-Back,€150k
+Squad US Alessandria Calcio 1912,21,Leonardo Nunzella,31,Italy,Left-Back,€150k
+Squad US Alessandria Calcio 1912,16,Théo Parrinello,23,France,Left-Back,€25k
+Squad US Alessandria Calcio 1912,8,Arensi Rota,28,Greece,Right-Back,€175k
+Squad US Alessandria Calcio 1912,23,Simone Ciancio,36,Italy,Right-Back,€150k
+Squad US Alessandria Calcio 1912,6,Ian Soler,28,Spain,Defensive Midfield,€300k
+Squad US Alessandria Calcio 1912,4,Marco Nichetti,27,Italy,Defensive Midfield,€175k
+Squad US Alessandria Calcio 1912,24,Alessandro Mastalli,28,Italy,Central Midfield,€175k
+Squad US Alessandria Calcio 1912,18,Lorenzo Pellegrini,20,Italy,Central Midfield,€125k
+Squad US Alessandria Calcio 1912,66,Alfonso Sepe,21,Italy,Central Midfield,€125k
+Squad US Alessandria Calcio 1912,28,Giovanni Foresta,28,Italy,Central Midfield,€100k
+Squad US Alessandria Calcio 1912,14,Alessandro Pellitteri,20,Italy,Central Midfield,€75k
+Squad US Alessandria Calcio 1912,20,Nicolás Femia,27,Argentina,Central Midfield,€50k
+Squad US Alessandria Calcio 1912,53,Simone Molinaro,19,Italy,Attacking Midfield,€50k
+Squad US Alessandria Calcio 1912,7,Marwen Gazoul,19,Morocco,Second Striker,€75k
+Squad US Alessandria Calcio 1912,9,Óscar Siafa,26,Equatorial Guinea,Centre-Forward,€150k
+Squad US Alessandria Calcio 1912,29,Karolis Laukzemis,32,Lithuania,Centre-Forward,€150k
+Squad US Alessandria Calcio 1912,79,Doudou Mangni,31,Italy,Centre-Forward,€150k
+Squad US Alessandria Calcio 1912,99,Luigi Samele,22,Italy,Centre-Forward,€125k
+Squad US Alessandria Calcio 1912,11,Gennaro Anatriello,20,Italy,Centre-Forward,€100k
+Squad US Alessandria Calcio 1912,31,Tommaso Busatto,22,Italy,Centre-Forward,€50k
+Squad FC Legnago Salus,1,Mattia Fortin,20,Italy,Goalkeeper,€150k
+Squad FC Legnago Salus,22,Riccardo Tosi,24,Italy,Goalkeeper,€100k
+Squad FC Legnago Salus,12,Marco Businarolo,18,Italy,Goalkeeper,€25k
+Squad FC Legnago Salus,6,Carlo Pelagatti,35,Italy,Centre-Back,€200k
+Squad FC Legnago Salus,32,Gianmaria Zanandrea,24,Italy,Centre-Back,€150k
+Squad FC Legnago Salus,13,Andrei Motoc,21,Moldova,Centre-Back,€100k
+Squad FC Legnago Salus,4,Edoardo Sbampato,26,Italy,Centre-Back,€50k
+Squad FC Legnago Salus,3,Simone Mazzali,21,Italy,Left-Back,€150k
+Squad FC Legnago Salus,24,Brayan Boci,20,Albania,Left-Back,€150k
+Squad FC Legnago Salus,21,Giacomo Ruggeri,21,Italy,Left-Back,€75k
+Squad FC Legnago Salus,26,Mario Noce,24,Italy,Right-Back,€175k
+Squad FC Legnago Salus,14,Martino Travaglini,19,Italy,Right-Back,€50k
+Squad FC Legnago Salus,2,Alae Hadaji,21,Italy,Right-Back,€25k
+Squad FC Legnago Salus,77,Manuel Martic,28,Austria,Defensive Midfield,€200k
+Squad FC Legnago Salus,25,Enrico Casarotti,20,Italy,Defensive Midfield,€100k
+Squad FC Legnago Salus,5,Federico Viero,25,Italy,Defensive Midfield,€50k
+Squad FC Legnago Salus,8,Kenneth Van Ransbeeck,29,Belgium,Central Midfield,€175k
+Squad FC Legnago Salus,7,Moussa Baradji,23,France,Central Midfield,€125k
+Squad FC Legnago Salus,18,Boubacarr Sambou,24,The Gambia,Central Midfield,€125k
+Squad FC Legnago Salus,19,Aboubakar Diaby,23,Cote d'Ivoire,Central Midfield,€100k
+Squad FC Legnago Salus,36,Andrea Franzolini,20,Italy,Central Midfield,€75k
+Squad FC Legnago Salus,23,Vincenzo Muteba,21,Italy,Right Midfield,€75k
+Squad FC Legnago Salus,11,Luca Zanetti,21,Italy,Left Midfield,€25k
+Squad FC Legnago Salus,9,Sebastiano Svidercoschi,24,Italy,Centre-Forward,€175k
+Squad FC Legnago Salus,10,Daniele Rocco,34,Italy,Centre-Forward,€175k
+Squad FC Legnago Salus,20,Elia Giani,23,Italy,Centre-Forward,€125k
+Squad FC Legnago Salus,90,Jerry Mbakogu,31,Nigeria,Centre-Forward,€125k
+Squad FC Legnago Salus,29,Nikola Buric,27,Croatia,Centre-Forward,€75k
+Squad US Fiorenzuola 1922,1,Matteo Sorzi,23,Italy,Goalkeeper,€125k
+Squad US Fiorenzuola 1922,22,Riccardo Bertozzi,28,Italy,Goalkeeper,€25k
+Squad US Fiorenzuola 1922,4,Simone Potop,24,Italy,Centre-Back,€175k
+Squad US Fiorenzuola 1922,23,Riccardo Nava,27,Italy,Centre-Back,€175k
+Squad US Fiorenzuola 1922,6,Andrea Bondioli,27,Italy,Centre-Back,€100k
+Squad US Fiorenzuola 1922,38,Stefano Roberto Reali,21,Italy,Centre-Back,€75k
+Squad US Fiorenzuola 1922,26,Michele Cremonesi,36,Italy,Centre-Back,€50k
+Squad US Fiorenzuola 1922,28,Giorgio Brogni,23,Italy,Left-Back,€100k
+Squad US Fiorenzuola 1922,3,Mattia Maffei,19,Italy,Left-Back,€50k
+Squad US Fiorenzuola 1922,2,Davide Gentile,20,Italy,Right-Back,€150k
+Squad US Fiorenzuola 1922,19,Christian Sussi,23,Italy,Right-Back,€125k
+Squad US Fiorenzuola 1922,5,Jacopo Nelli,23,Italy,Defensive Midfield,€100k
+Squad US Fiorenzuola 1922,29,Mattia Musatti,20,Italy,Defensive Midfield,€75k
+Squad US Fiorenzuola 1922,27,Luca Mora,35,Italy,Central Midfield,€200k
+Squad US Fiorenzuola 1922,10,Davide Di Quinzio,34,Italy,Central Midfield,€100k
+Squad US Fiorenzuola 1922,32,Enrico Di Gesù,22,Italy,Central Midfield,€50k
+Squad US Fiorenzuola 1922,7,Yuriy Gonzi,30,Russia,Right Midfield,€150k
+Squad US Fiorenzuola 1922,30,Felice D'Amico,23,Italy,Attacking Midfield,€150k
+Squad US Fiorenzuola 1922,14,Edoardo Oneto,28,Italy,Attacking Midfield,€125k
+Squad US Fiorenzuola 1922,21,Mattia Morello,24,Italy,Left Winger,€175k
+Squad US Fiorenzuola 1922,90,Nicola Anelli,19,Italy,Left Winger,€50k
+Squad US Fiorenzuola 1922,13,Assane Seck,20,Senegal,Right Winger,€75k
+Squad US Fiorenzuola 1922,11,Miloš Bočić,24,Serbia,Centre-Forward,€200k
+Squad US Fiorenzuola 1922,9,Thomas Alberti,25,Italy,Centre-Forward,€150k
+Squad US Fiorenzuola 1922,18,Fabio Ceravolo,37,Italy,Centre-Forward,€150k
+Squad US Fiorenzuola 1922,20,Gabriel Popovic,20,Australia,Centre-Forward,€100k
+Squad AS Giana Erminio,22,Gioele Zacchi,20,Italy,Goalkeeper,€300k
+Squad AS Giana Erminio,1,Carlo Pirola,22,Italy,Goalkeeper,€100k
+Squad AS Giana Erminio,12,Samuele Magni,18,Italy,Goalkeeper,€25k
+Squad AS Giana Erminio,73,Gabriele Minotti,21,Italy,Centre-Back,€200k
+Squad AS Giana Erminio,4,Lorenzo Ferrante,26,Italy,Centre-Back,€75k
+Squad AS Giana Erminio,77,Andrea Piazza,20,Italy,Centre-Back,€75k
+Squad AS Giana Erminio,16,Matteo Colombara,19,Italy,Centre-Back,€50k
+Squad AS Giana Erminio,19,Michele Francolini,18,Italy,Centre-Back,€25k
+Squad AS Giana Erminio,3,Filippo Groppelli,20,Italy,Left-Back,€100k
+Squad AS Giana Erminio,27,Lorenzo Corno,31,Italy,Left-Back,€50k
+Squad AS Giana Erminio,26,Nicolas Previtali,19,Italy,Right-Back,€100k
+Squad AS Giana Erminio,2,Thomas Boafo,20,Italy,Right-Back,€50k
+Squad AS Giana Erminio,14,Matteo Marotta,34,Italy,Defensive Midfield,€150k
+Squad AS Giana Erminio,21,Claudio Messaggi,22,Italy,Central Midfield,€125k
+Squad AS Giana Erminio,18,Christian Acella,21,Italy,Central Midfield,€100k
+Squad AS Giana Erminio,7,Daniele Pinto,37,Italy,Central Midfield,€75k
+Squad AS Giana Erminio,23,Lorenzo Caferri,24,Italy,Right Midfield,€125k
+Squad AS Giana Erminio,20,Alessandro Lamesta,27,Italy,Left Midfield,€175k
+Squad AS Giana Erminio,24,Andrea Franzoni,27,Italy,Attacking Midfield,€200k
+Squad AS Giana Erminio,8,Marco Ballabio,23,Italy,Attacking Midfield,€125k
+Squad AS Giana Erminio,70,Edoardo Gotti,18,Italy,Attacking Midfield,€25k
+Squad AS Giana Erminio,17,Maguette Fall,29,Senegal,Centre-Forward,€200k
+Squad AS Giana Erminio,90,Francesco Verde,24,Italy,Centre-Forward,€175k
+Squad AS Giana Erminio,10,Fabio Perna,37,Italy,Centre-Forward,€150k
+Squad AS Giana Erminio,30,Matteo Barzotti,32,Italy,Centre-Forward,€150k
+Squad AS Giana Erminio,97,Mbarick Fall,26,Senegal,Centre-Forward,€75k
+Squad Juventus Next Gen,30,Giovanni Daffara,19,Italy,Goalkeeper,€250k
+Squad Juventus Next Gen,1,Giovanni Garofani,21,Italy,Goalkeeper,€200k
+Squad Juventus Next Gen,25,Simone Scaglia,19,Italy,Goalkeeper,€25k
+Squad Juventus Next Gen,5,Tarik Muharemovic,21,Bosnia-Herzegovina,Centre-Back,€500k
+Squad Juventus Next Gen,3,Diego Stramaccioni,23,Italy,Centre-Back,€200k
+Squad Juventus Next Gen,31,Riccardo Stivanello,19,Italy,Centre-Back,€200k
+Squad Juventus Next Gen,13,Fabrizio Poli,34,Italy,Centre-Back,€100k
+Squad Juventus Next Gen,-,Pedro Felipe,19,Brazil,Centre-Back,-
+Squad Juventus Next Gen,32,Riccardo Turicchia,21,Italy,Left-Back,€850k
+Squad Juventus Next Gen,19,Jonas Rouhi,20,Sweden,Left-Back,€100k
+Squad Juventus Next Gen,14,Gabriele Mulazzi,21,Italy,Right-Back,€300k
+Squad Juventus Next Gen,2,Nicolò Savona,21,Italy,Right-Back,€200k
+Squad Juventus Next Gen,26,Samuele Damiani,26,Italy,Defensive Midfield,€250k
+Squad Juventus Next Gen,8,Joseph Nonge,18,Belgium,Central Midfield,€3.00m
+Squad Juventus Next Gen,21,Martin Palumbo,22,Norway,Central Midfield,€500k
+Squad Juventus Next Gen,29,Dikeni Salifou,20,Togo,Central Midfield,€300k
+Squad Juventus Next Gen,41,Andrea Bonetti,20,Italy,Central Midfield,€150k
+Squad Juventus Next Gen,15,Livano Comenencia,20,Netherlands,Right Midfield,€1.00m
+Squad Juventus Next Gen,7,Luis Hasa,20,Italy,Attacking Midfield,€700k
+Squad Juventus Next Gen,11,Samuel Mbangula,20,Belgium,Left Winger,€200k
+Squad Juventus Next Gen,20,Simone Iocolano,34,Italy,Left Winger,€200k
+Squad Juventus Next Gen,33,Clemente Perotti,21,Italy,Left Winger,€75k
+Squad Juventus Next Gen,44,Nikola Sekulov,22,Italy,Right Winger,€500k
+Squad Juventus Next Gen,36,Lorenzo Anghelè,19,Italy,Second Striker,€300k
+Squad Juventus Next Gen,23,Tommaso Mancini,19,Italy,Centre-Forward,€600k
+Squad Juventus Next Gen,9,Leonardo Cerri,21,Italy,Centre-Forward,€500k
+Squad Juventus Next Gen,50,Cosimo da Graça,21,Italy,Centre-Forward,€500k
+Squad Juventus Next Gen,17,Simone Guerra,34,Italy,Centre-Forward,€300k
+Squad Cesena FC,1,Matteo Pisseri,32,Italy,Goalkeeper,€300k
+Squad Cesena FC,33,Jonathan Klinsmann,27,United States,Goalkeeper,€200k
+Squad Cesena FC,61,Alessandro Siano,22,Italy,Goalkeeper,€150k
+Squad Cesena FC,34,Giulio Veliaj,19,Italy,Goalkeeper,€25k
+Squad Cesena FC,46,Alessandro Bagli,17,Italy,Goalkeeper,€25k
+Squad Cesena FC,15,Andrea Ciofi,24,Italy,Centre-Back,€500k
+Squad Cesena FC,19,Giuseppe Prestia,30,Italy,Centre-Back,€500k
+Squad Cesena FC,28,Luigi Silvestri,31,Italy,Centre-Back,€500k
+Squad Cesena FC,26,Matteo Piacentini,24,Italy,Centre-Back,€100k
+Squad Cesena FC,13,Luca Coccolo,26,Italy,Centre-Back,€75k
+Squad Cesena FC,25,Antonio David,20,Italy,Left-Back,€150k
+Squad Cesena FC,3,Enea Pitti,19,Italy,Left-Back,€25k
+Squad Cesena FC,24,Edoardo Pierozzi,22,Italy,Right-Back,€300k
+Squad Cesena FC,73,Simone Pieraccini,20,Italy,Right-Back,€300k
+Squad Cesena FC,20,Francesco De Rose,36,Italy,Defensive Midfield,€300k
+Squad Cesena FC,70,Matteo Francesconi,20,Italy,Central Midfield,€400k
+Squad Cesena FC,8,Saber Hraiech,28,Italy,Central Midfield,€250k
+Squad Cesena FC,5,Ivan Varone,31,Italy,Central Midfield,€200k
+Squad Cesena FC,17,Emanuele Adamo,25,Italy,Right Midfield,€500k
+Squad Cesena FC,7,Daniele Donnarumma,32,Italy,Left Midfield,€500k
+Squad Cesena FC,14,Tommaso Berti,20,Italy,Attacking Midfield,€500k
+Squad Cesena FC,4,Riccardo Chiarello,30,Italy,Attacking Midfield,€150k
+Squad Cesena FC,30,Alessandro Giovannini,19,Italy,Attacking Midfield,€75k
+Squad Cesena FC,10,Augustus Kargbo,24,Sierra Leone,Left Winger,€600k
+Squad Cesena FC,77,Giovanni Nannelli,24,Italy,Right Winger,€25k
+Squad Cesena FC,9,Cristian Shpendi,20,Albania,Centre-Forward,€2.00m
+Squad Cesena FC,18,Simone Corazza,33,Italy,Centre-Forward,€450k
+Squad Cesena FC,11,Roberto Ogunseye,28,Italy,Centre-Forward,€300k
+Squad SPAL,22,Cesare Galeotti,21,Italy,Goalkeeper,€175k
+Squad SPAL,1,Enrico Alfonso,35,Italy,Goalkeeper,€150k
+Squad SPAL,28,Mattia Del Favero,25,Italy,Goalkeeper,€150k
+Squad SPAL,22,Marco Meneghetti,22,Italy,Goalkeeper,€25k
+Squad SPAL,27,Patryk Peda,22,Poland,Centre-Back,€500k
+Squad SPAL,13,Alessandro Bassoli,33,Italy,Centre-Back,€200k
+Squad SPAL,23,Matteo Arena,25,Italy,Centre-Back,€150k
+Squad SPAL,4,Nahuel Valentini,35,Argentina,Centre-Back,€100k
+Squad SPAL,34,Philipp Breit,20,Austria,Centre-Back,€25k
+Squad SPAL,33,Alessandro Tripaldelli,25,Italy,Left-Back,€400k
+Squad SPAL,16,Filippo Saiani,19,Italy,Left-Back,€75k
+Squad SPAL,2,Alessandro Fiordaliso,25,Italy,Right-Back,€250k
+Squad SPAL,3,Matteo Bruscagin,34,Italy,Right-Back,€200k
+Squad SPAL,24,Luca Ghiringhelli,32,Italy,Right-Back,€150k
+Squad SPAL,17,Giuseppe Iglio,23,Italy,Right-Back,€75k
+Squad SPAL,25,Marco Carraro,26,Italy,Defensive Midfield,€500k
+Squad SPAL,77,Marcel Büchel,33,Liechtenstein,Defensive Midfield,€300k
+Squad SPAL,5,Nicolò Contiliano,19,Italy,Defensive Midfield,€250k
+Squad SPAL,6,Marco Bertini,21,Italy,Defensive Midfield,€150k
+Squad SPAL,29,Steven Nador,21,Togo,Defensive Midfield,€100k
+Squad SPAL,37,Fabio Maistro,26,Italy,Central Midfield,€700k
+Squad SPAL,8,Riccardo Collodel,25,Italy,Central Midfield,€200k
+Squad SPAL,75,Emanuele Rao,18,Italy,Left Winger,€150k
+Squad SPAL,19,Nicola Dalmonte,26,Italy,Right Winger,€400k
+Squad SPAL,26,Luca Siligardi,36,Italy,Right Winger,€200k
+Squad SPAL,71,Simone Edera,27,Italy,Right Winger,€150k
+Squad SPAL,9,Alessandro Orfei,21,Italy,Right Winger,€75k
+Squad SPAL,21,Massimo Zilli,21,Italy,Centre-Forward,€400k
+Squad SPAL,7,Mirco Antenucci,39,Italy,Centre-Forward,€200k
+Squad SPAL,11,Simone Rabbi,22,Italy,Centre-Forward,€200k
+Squad SPAL,20,Dario Sits,20,Latvia,Centre-Forward,€200k
+Squad SPAL,10,Tomi Petrovic,25,Croatia,Centre-Forward,€175k
+Squad Delfino Pescara 1936,22,Alessandro Plizzari,24,Italy,Goalkeeper,€500k
+Squad Delfino Pescara 1936,1,Manuel Gasparini,21,Italy,Goalkeeper,€300k
+Squad Delfino Pescara 1936,13,Riccardo Brosco,33,Italy,Centre-Back,€300k
+Squad Delfino Pescara 1936,23,Filippo Pellacani,26,Italy,Centre-Back,€250k
+Squad Delfino Pescara 1936,24,Ivan Mesik,22,Slovakia,Centre-Back,€250k
+Squad Delfino Pescara 1936,5,Davide Di Pasquale,28,Italy,Centre-Back,€150k
+Squad Delfino Pescara 1936,2,Lorenzo Milani,22,Italy,Left-Back,€300k
+Squad Delfino Pescara 1936,27,Brando Moruzzi,19,Italy,Left-Back,€75k
+Squad Delfino Pescara 1936,18,Roberto Pierno,23,Italy,Right-Back,€200k
+Squad Delfino Pescara 1936,15,Romano Floriani Mussolini,21,Italy,Right-Back,€100k
+Squad Delfino Pescara 1936,25,Cornelius Staver,21,Moldova,Right-Back,€25k
+Squad Delfino Pescara 1936,6,Niccolò Squizzato,22,Italy,Defensive Midfield,€200k
+Squad Delfino Pescara 1936,30,Matteo Dagasso,20,Italy,Defensive Midfield,€100k
+Squad Delfino Pescara 1936,17,Georgi Tunjov,23,Estonia,Central Midfield,€400k
+Squad Delfino Pescara 1936,8,Salvatore Aloi,27,Italy,Central Midfield,€200k
+Squad Delfino Pescara 1936,28,Antonino De Marco,19,Italy,Central Midfield,€200k
+Squad Delfino Pescara 1936,33,Simone Franchini,26,Italy,Central Midfield,€150k
+Squad Delfino Pescara 1936,20,Lorenzo Meazzi,22,Italy,Attacking Midfield,€200k
+Squad Delfino Pescara 1936,32,Gianmarco Cangiano,22,Italy,Left Winger,€450k
+Squad Delfino Pescara 1936,11,Federico Accornero,20,Italy,Left Winger,€200k
+Squad Delfino Pescara 1936,21,Andrea Capone,22,Italy,Left Winger,€50k
+Squad Delfino Pescara 1936,10,Davide Merola,24,Italy,Right Winger,€400k
+Squad Delfino Pescara 1936,7,Michele Masala,19,Italy,Right Winger,€50k
+Squad Delfino Pescara 1936,29,Luigi Cuppone,26,Italy,Centre-Forward,€400k
+Squad Delfino Pescara 1936,9,Edoardo Vergani,23,Italy,Centre-Forward,€300k
+Squad Delfino Pescara 1936,19,Luca Sasanelli,19,Italy,Centre-Forward,€50k
+Squad AC Perugia Calcio,12,Marius Adamonis,26,Lithuania,Goalkeeper,€200k
+Squad AC Perugia Calcio,1,Alessio Abibi,27,Albania,Goalkeeper,€25k
+Squad AC Perugia Calcio,6,Stipe Vulikic,23,Croatia,Centre-Back,€300k
+Squad AC Perugia Calcio,15,Cristian Dell'Orco,30,Italy,Centre-Back,€300k
+Squad AC Perugia Calcio,5,Gabriele Angella,34,Italy,Centre-Back,€200k
+Squad AC Perugia Calcio,44,Noah Lewis,23,Netherlands,Centre-Back,€100k
+Squad AC Perugia Calcio,91,Mouhamed Souare,19,France,Centre-Back,€25k
+Squad AC Perugia Calcio,3,Damiano Cancellieri,23,Italy,Left-Back,€200k
+Squad AC Perugia Calcio,71,Andrea Bozzolan,20,Italy,Left-Back,€100k
+Squad AC Perugia Calcio,94,Francesco Mezzoni,23,Italy,Right-Back,€150k
+Squad AC Perugia Calcio,16,Paolo Bartolomei,34,Italy,Defensive Midfield,€250k
+Squad AC Perugia Calcio,28,Christian Kouan,24,Cote d'Ivoire,Central Midfield,€700k
+Squad AC Perugia Calcio,4,Edoardo Iannoni,23,Italy,Central Midfield,€400k
+Squad AC Perugia Calcio,24,Emanuele Torrasi,25,Italy,Central Midfield,€300k
+Squad AC Perugia Calcio,86,Giovanni Giunti,19,Italy,Central Midfield,€75k
+Squad AC Perugia Calcio,7,Yeferson Paz,21,Colombia,Right Midfield,€300k
+Squad AC Perugia Calcio,23,Francesco Lisi,34,Italy,Left Midfield,€150k
+Squad AC Perugia Calcio,20,Federico Ricci,29,Italy,Right Winger,€200k
+Squad AC Perugia Calcio,14,Daniel Bezziccheri,26,Italy,Right Winger,€25k
+Squad AC Perugia Calcio,11,Alessandro Seghetti,20,Italy,Second Striker,€400k
+Squad AC Perugia Calcio,10,Ryder Matos,31,Brazil,Second Striker,€250k
+Squad AC Perugia Calcio,9,Federico Vázquez,31,Argentina,Centre-Forward,€300k
+Squad AC Perugia Calcio,21,Nicolò Cudrig,21,Italy,Centre-Forward,€200k
+Squad AC Perugia Calcio,45,Youssouph Cheikh Sylla,26,Senegal,Centre-Forward,€200k
+Squad Carrarese Calcio 1908,1,Marco Bleve,28,Italy,Goalkeeper,€300k
+Squad Carrarese Calcio 1908,22,Stefano Mazzini,25,Italy,Goalkeeper,€50k
+Squad Carrarese Calcio 1908,12,Tomas Tampucci,18,Italy,Goalkeeper,€25k
+Squad Carrarese Calcio 1908,21,Mauro Coppolaro,27,Italy,Centre-Back,€400k
+Squad Carrarese Calcio 1908,15,Matteo Di Gennaro,29,Italy,Centre-Back,€300k
+Squad Carrarese Calcio 1908,4,Julián Illanes,27,Argentina,Centre-Back,€200k
+Squad Carrarese Calcio 1908,29,Elia Maccherini Tonini,20,Italy,Centre-Back,€100k
+Squad Carrarese Calcio 1908,13,Pierluigi Pinto,25,Italy,Centre-Back,€50k
+Squad Carrarese Calcio 1908,3,Marco Imperiale,24,Italy,Left-Back,€300k
+Squad Carrarese Calcio 1908,7,Davide Grassini,23,Italy,Right-Back,€150k
+Squad Carrarese Calcio 1908,72,Simone Zanon,22,Italy,Right-Back,€150k
+Squad Carrarese Calcio 1908,-,Jordan Boli,21,France,Right-Back,€100k
+Squad Carrarese Calcio 1908,17,Emanuele Zuelli,22,Italy,Defensive Midfield,€300k
+Squad Carrarese Calcio 1908,18,Nicolás Schiavi,29,Argentina,Defensive Midfield,€300k
+Squad Carrarese Calcio 1908,5,Simone Della Latta,31,Italy,Central Midfield,€300k
+Squad Carrarese Calcio 1908,8,Riccardo Palmieri,28,Italy,Central Midfield,€200k
+Squad Carrarese Calcio 1908,82,Leonardo Capezzi,29,Italy,Central Midfield,€200k
+Squad Carrarese Calcio 1908,6,Francesco Cerretelli,24,Italy,Central Midfield,€25k
+Squad Carrarese Calcio 1908,11,Manuel Cicconi,26,Italy,Left Midfield,€300k
+Squad Carrarese Calcio 1908,39,Niccolò Belloni,29,Italy,Right Winger,€250k
+Squad Carrarese Calcio 1908,10,Giuseppe Panico,26,Italy,Second Striker,€300k
+Squad Carrarese Calcio 1908,24,Leonardo Morosini,28,Italy,Second Striker,€150k
+Squad Carrarese Calcio 1908,28,Alessandro Capello,28,Italy,Centre-Forward,€500k
+Squad Carrarese Calcio 1908,32,Mattia Finotto,31,Italy,Centre-Forward,€225k
+Squad Carrarese Calcio 1908,99,Niccolò Giannetti,32,Italy,Centre-Forward,€75k
+Squad Virtus Entella,22,Victor De Lucia,27,Italy,Goalkeeper,€250k
+Squad Virtus Entella,99,Ovidijus Siaulys,24,Lithuania,Goalkeeper,€75k
+Squad Virtus Entella,1,Andrea Paroni,34,Italy,Goalkeeper,€25k
+Squad Virtus Entella,4,Federico Bonini,22,Italy,Centre-Back,€500k
+Squad Virtus Entella,90,Denis Portanova,22,Italy,Centre-Back,€250k
+Squad Virtus Entella,16,Claudio Manzi,23,Italy,Centre-Back,€150k
+Squad Virtus Entella,6,Antonio Granata,24,Italy,Centre-Back,€100k
+Squad Virtus Entella,23,Kosovar Sadiki,25,Canada,Centre-Back,€100k
+Squad Virtus Entella,26,Stefano Di Mario,19,Italy,Left-Back,€100k
+Squad Virtus Entella,77,Luca Parodi,29,Italy,Right-Back,€350k
+Squad Virtus Entella,2,Alessandro Garattoni,26,Italy,Right-Back,€250k
+Squad Virtus Entella,13,Davide Zappella,25,Italy,Right-Back,€150k
+Squad Virtus Entella,25,Davide Petermann,29,Italy,Defensive Midfield,€350k
+Squad Virtus Entella,14,Andrea Corbari,29,Italy,Defensive Midfield,€200k
+Squad Virtus Entella,24,Iacopo Lipani,22,Italy,Defensive Midfield,€150k
+Squad Virtus Entella,5,Mateus Cecchini Muller,21,Brazil,Defensive Midfield,€75k
+Squad Virtus Entella,20,Antonis Siatounis,21,Greece,Defensive Midfield,€50k
+Squad Virtus Entella,80,Filippo Faggi,21,Italy,Central Midfield,€150k
+Squad Virtus Entella,7,Giacomo Tomaselli,24,Italy,Left Midfield,€300k
+Squad Virtus Entella,9,Romeo Giovannini,22,Italy,Attacking Midfield,€250k
+Squad Virtus Entella,92,Claudio Santini,32,Italy,Second Striker,€250k
+Squad Virtus Entella,91,Daniele Montevago,21,Italy,Centre-Forward,€500k
+Squad Virtus Entella,-,Matteo Casarotto,25,Italy,Centre-Forward,€175k
+Squad Virtus Entella,11,Samuele Vianni,22,Italy,Centre-Forward,€50k
+Squad SEF Torres 1903,12,Andrea Zaccagno,26,Italy,Goalkeeper,€250k
+Squad SEF Torres 1903,1,Pierpaolo Garau,40,Italy,Goalkeeper,€50k
+Squad SEF Torres 1903,22,Danilo Petriccione,21,Italy,Goalkeeper,€50k
+Squad SEF Torres 1903,5,Paolo Dametto,30,Italy,Centre-Back,€250k
+Squad SEF Torres 1903,23,Nicolò Antonelli,33,Italy,Centre-Back,€250k
+Squad SEF Torres 1903,14,Riccardo Idda,35,Italy,Centre-Back,€200k
+Squad SEF Torres 1903,19,Giacomo Siniega,23,Italy,Centre-Back,€100k
+Squad SEF Torres 1903,3,Riccardo Pinna,24,Italy,Centre-Back,€75k
+Squad SEF Torres 1903,96,Giuseppe Verduci,22,Italy,Left-Back,€50k
+Squad SEF Torres 1903,2,Aleandro Rosi,36,Italy,Right-Back,€150k
+Squad SEF Torres 1903,30,Cristian Fabriani,22,Italy,Right-Back,€150k
+Squad SEF Torres 1903,24,Daniele Giorico,32,Italy,Defensive Midfield,€250k
+Squad SEF Torres 1903,21,Giuseppe Mastinu,32,Italy,Central Midfield,€350k
+Squad SEF Torres 1903,44,Stefano Cester,22,Italy,Central Midfield,€200k
+Squad SEF Torres 1903,8,Alessandro Masala,27,Italy,Central Midfield,€100k
+Squad SEF Torres 1903,27,Filippo Lora,30,Italy,Central Midfield,€100k
+Squad SEF Torres 1903,6,Kalifa Kujabi,24,The Gambia,Central Midfield,€75k
+Squad SEF Torres 1903,25,Francesco Nunziatini,21,Italy,Central Midfield,€50k
+Squad SEF Torres 1903,77,Giacomo Zecca,26,Italy,Right Midfield,€300k
+Squad SEF Torres 1903,7,Matteo Liviero,31,Italy,Left Midfield,€200k
+Squad SEF Torres 1903,72,Eyob Zambataro,25,Italy,Left Midfield,€200k
+Squad SEF Torres 1903,17,Patricio Goglino,23,Argentina,Right Winger,€50k
+Squad SEF Torres 1903,10,Francesco Ruocco,23,Italy,Second Striker,€400k
+Squad SEF Torres 1903,29,Mohamed Ayman Sanat,21,Italy,Second Striker,€50k
+Squad SEF Torres 1903,20,Manuel Fischnaller,32,Italy,Centre-Forward,€300k
+Squad SEF Torres 1903,9,Luigi Scotto,33,Italy,Centre-Forward,€200k
+Squad SEF Torres 1903,11,Adama Diakite,30,Cote d'Ivoire,Centre-Forward,€200k
+Squad Rimini FC,91,Simone Colombi,32,Italy,Goalkeeper,€300k
+Squad Rimini FC,22,Edoardo Colombo,23,San Marino,Goalkeeper,€100k
+Squad Rimini FC,12,Cristian Jashari,17,Albania,Goalkeeper,€25k
+Squad Rimini FC,4,Nicola Pietrangeli,23,Italy,Centre-Back,€200k
+Squad Rimini FC,15,Nicolò Gigli,28,Italy,Centre-Back,€200k
+Squad Rimini FC,6,Matteo Gorelli,32,Italy,Centre-Back,€100k
+Squad Rimini FC,19,Francesco Semeraro,22,Italy,Left-Back,€150k
+Squad Rimini FC,-,Riccardo Oddi,22,Italy,Left-Back,€100k
+Squad Rimini FC,-,Gabriele Quacquarelli,22,Italy,Left-Back,€75k
+Squad Rimini FC,98,Tomas Lepri,20,Italy,Right-Back,€150k
+Squad Rimini FC,84,Niccolò Tofanari,25,Italy,Right-Back,€75k
+Squad Rimini FC,67,Samuele Rosini,20,Italy,Right-Back,€50k
+Squad Rimini FC,23,Linas Megelaitis,25,Lithuania,Defensive Midfield,€300k
+Squad Rimini FC,70,Mattia Leoncini,19,Italy,Defensive Midfield,€75k
+Squad Rimini FC,8,Andrea Delcarro,31,Italy,Central Midfield,€250k
+Squad Rimini FC,28,Jacopo Sala,32,Italy,Central Midfield,€250k
+Squad Rimini FC,33,Christian Langella,24,Italy,Central Midfield,€200k
+Squad Rimini FC,-,Marco Garetto,22,Italy,Central Midfield,€125k
+Squad Rimini FC,5,Federico Marchesi,25,Italy,Central Midfield,€100k
+Squad Rimini FC,21,Lorenzo Cherubini,19,Italy,Central Midfield,€25k
+Squad Rimini FC,31,Lorenzo Malagrida,20,Italy,Left Midfield,€350k
+Squad Rimini FC,7,Gabriele Capanni,23,Italy,Left Winger,€200k
+Squad Rimini FC,44,Daniele Iacoponi,22,Italy,Left Winger,€200k
+Squad Rimini FC,73,Davide Lamesta,23,Italy,Right Winger,€300k
+Squad Rimini FC,9,Claudio Morra,29,Italy,Centre-Forward,€400k
+Squad Rimini FC,11,Iacopo Cernigoi,29,Italy,Centre-Forward,€150k
+Squad Rimini FC,34,Leonardo Ubaldi,24,Italy,Centre-Forward,€100k
+Squad AS Gubbio 1910,22,Thomas Vettorel,23,Italy,Goalkeeper,€300k
+Squad AS Gubbio 1910,77,Stefano Greco,25,Italy,Goalkeeper,€100k
+Squad AS Gubbio 1910,15,Andrea Signorini,34,Italy,Centre-Back,€300k
+Squad AS Gubbio 1910,31,Roberto Pirrello,27,Italy,Centre-Back,€250k
+Squad AS Gubbio 1910,4,Alessandro Tozzuolo,21,Italy,Centre-Back,€150k
+Squad AS Gubbio 1910,16,Bernardo Calabrese,21,Italy,Centre-Back,€150k
+Squad AS Gubbio 1910,3,Mario Mercadante,29,Italy,Left-Back,€300k
+Squad AS Gubbio 1910,23,Christian Dimarco,21,Italy,Left-Back,€100k
+Squad AS Gubbio 1910,19,Gabriele Morelli,27,Italy,Right-Back,€200k
+Squad AS Gubbio 1910,21,Francesco Corsinelli,26,Italy,Right-Back,€150k
+Squad AS Gubbio 1910,25,Lorenzo Guerrini,17,Italy,Right-Back,-
+Squad AS Gubbio 1910,20,Alessio Brambilla,22,Italy,Defensive Midfield,€200k
+Squad AS Gubbio 1910,6,Federico Casolari,21,Italy,Defensive Midfield,€100k
+Squad AS Gubbio 1910,8,Giacomo Rosaia,31,Italy,Central Midfield,€250k
+Squad AS Gubbio 1910,5,Alessandro Mercati,21,Italy,Central Midfield,€200k
+Squad AS Gubbio 1910,18,Luca Chierico,22,Italy,Central Midfield,€100k
+Squad AS Gubbio 1910,78,Jonathan Bumbu,25,France,Attacking Midfield,€150k
+Squad AS Gubbio 1910,10,Jacopo Desogus,21,Italy,Left Winger,€400k
+Squad AS Gubbio 1910,7,Alessio Di Massimo,27,Italy,Left Winger,€300k
+Squad AS Gubbio 1910,28,Marco Spina,24,Italy,Right Winger,€300k
+Squad AS Gubbio 1910,11,King Udoh,26,Italy,Centre-Forward,€200k
+Squad AS Gubbio 1910,99,Gabriele Bernardotto,26,Italy,Centre-Forward,€150k
+Squad AS Gubbio 1910,29,Alessandro Galeandro,24,Italy,Centre-Forward,€100k
+Squad Lucchese 1905,22,Niccolò Chiorra,23,Italy,Goalkeeper,€200k
+Squad Lucchese 1905,1,Jacopo Coletta,31,Italy,Goalkeeper,€150k
+Squad Lucchese 1905,12,Filippo Berti,21,Italy,Goalkeeper,€25k
+Squad Lucchese 1905,6,Andrea Tiritiello,29,Italy,Centre-Back,€400k
+Squad Lucchese 1905,23,Francesco Benassai,25,Italy,Centre-Back,€250k
+Squad Lucchese 1905,21,Alessio Sabbione,32,Italy,Centre-Back,€150k
+Squad Lucchese 1905,4,Robert Toma,19,Romania,Centre-Back,€25k
+Squad Lucchese 1905,97,Vincent De Maria,24,Italy,Left-Back,€150k
+Squad Lucchese 1905,3,Nicolas Perotta,22,Italy,Left-Back,€50k
+Squad Lucchese 1905,2,Manuel Alagna,22,Italy,Right-Back,€150k
+Squad Lucchese 1905,14,Ettore Quirini,20,Italy,Right-Back,€150k
+Squad Lucchese 1905,20,Nicolò Fazzi,29,Italy,Right-Back,€150k
+Squad Lucchese 1905,27,Robert Gucher,33,Austria,Defensive Midfield,€200k
+Squad Lucchese 1905,16,Andrea Astrologo,22,Italy,Defensive Midfield,€100k
+Squad Lucchese 1905,7,Andrea Rizzo Pinna,24,Italy,Central Midfield,€300k
+Squad Lucchese 1905,30,Simone Cangianiello,20,Italy,Central Midfield,€200k
+Squad Lucchese 1905,8,Giorgio Tumbarello,27,Italy,Central Midfield,€150k
+Squad Lucchese 1905,17,Malik Djibril,20,Togo,Central Midfield,€100k
+Squad Lucchese 1905,72,Elia Visconti,23,Italy,Left Midfield,€150k
+Squad Lucchese 1905,19,Federico Russo,26,Italy,Attacking Midfield,€200k
+Squad Lucchese 1905,10,Francesco Fedato,31,Italy,Left Winger,€150k
+Squad Lucchese 1905,38,Manuel Leone,19,Italy,Left Winger,€25k
+Squad Lucchese 1905,77,Giuseppe Guadagni,22,Italy,Right Winger,€150k
+Squad Lucchese 1905,-,Babacar Ndiaye,18,Senegal,Right Winger,-
+Squad Lucchese 1905,11,Francesco Disanto,29,Italy,Second Striker,€300k
+Squad Lucchese 1905,99,Simone Magnaghi,30,Italy,Centre-Forward,€200k
+Squad Lucchese 1905,45,Philip Yeboah,21,Ghana,Centre-Forward,€150k
+Squad US Ancona,32,Filippo Perucchini,32,Italy,Goalkeeper,€300k
+Squad US Ancona,12,Leonardo Vitali,25,Italy,Goalkeeper,€75k
+Squad US Ancona,22,Gabriel Testagrossa,18,Italy,Goalkeeper,€25k
+Squad US Ancona,4,Stefano Cella,22,Italy,Centre-Back,€300k
+Squad US Ancona,5,Davide Mondonico,26,Italy,Centre-Back,€175k
+Squad US Ancona,30,Stefano Pellizzari,27,Italy,Centre-Back,€150k
+Squad US Ancona,27,Nicola Pasini,33,Italy,Centre-Back,€125k
+Squad US Ancona,13,Filippo Marenco,21,Italy,Centre-Back,€50k
+Squad US Ancona,73,Alessandro Macchioni,21,Italy,Centre-Back,€50k
+Squad US Ancona,29,Emiliano Bugari,18,Italy,Centre-Back,€25k
+Squad US Ancona,3,Alessandro Martina,23,Italy,Left-Back,€200k
+Squad US Ancona,19,Giuseppe Agyemang,21,Italy,Left-Back,€50k
+Squad US Ancona,34,Vito Mattia Radicchio,21,Italy,Left-Back,€25k
+Squad US Ancona,70,Tommaso Barnabà,23,Italy,Right-Back,€50k
+Squad US Ancona,8,Emanuele Gatto,29,Italy,Defensive Midfield,€300k
+Squad US Ancona,99,Gianmarco Basso,25,Italy,Defensive Midfield,€100k
+Squad US Ancona,80,Vasilios Vogiatzis,28,Greece,Defensive Midfield,€50k
+Squad US Ancona,21,Lorenzo Paolucci,27,Italy,Central Midfield,€200k
+Squad US Ancona,94,Coli Saco,21,Mali,Central Midfield,€200k
+Squad US Ancona,33,Mario Prezioso,28,Italy,Central Midfield,€150k
+Squad US Ancona,24,Michael D'Eramo,24,Italy,Central Midfield,€75k
+Squad US Ancona,17,Denis Useini,18,Italy,Central Midfield,€25k
+Squad US Ancona,23,Gianluca Clemente,28,Italy,Right Midfield,€100k
+Squad US Ancona,11,Antonio Cioffi,21,Italy,Left Winger,€300k
+Squad US Ancona,10,Antonio Energe,24,Italy,Right Winger,€150k
+Squad US Ancona,28,Daniel Giampaolo,28,Italy,Second Striker,€100k
+Squad US Ancona,9,Alberto Spagnoli,29,Italy,Centre-Forward,€400k
+Squad US Ancona,90,Federico Moretti,29,Italy,Centre-Forward,€100k
+Squad US Città di Pontedera,12,Giuseppe Ciocci,22,Italy,Goalkeeper,€200k
+Squad US Città di Pontedera,22,Giuseppe Stancampiano,37,Italy,Goalkeeper,€50k
+Squad US Città di Pontedera,1,Luca Lewis,23,United States,Goalkeeper,€25k
+Squad US Città di Pontedera,30,Niccolò Vivoli,23,Italy,Goalkeeper,€25k
+Squad US Città di Pontedera,4,Gabriele Calvani,20,Italy,Centre-Back,€200k
+Squad US Città di Pontedera,5,Riccardo Martinelli,32,Italy,Centre-Back,€200k
+Squad US Città di Pontedera,19,Marcos Espeche,38,Argentina,Centre-Back,€200k
+Squad US Città di Pontedera,18,Matteo Guidi,20,Italy,Centre-Back,€150k
+Squad US Città di Pontedera,6,Mattia Pretato,21,Italy,Centre-Back,€75k
+Squad US Città di Pontedera,2,Lorenzo Gagliardi,20,Italy,Centre-Back,€50k
+Squad US Città di Pontedera,-,Leonardo Di Bella,19,Italy,Centre-Back,€25k
+Squad US Città di Pontedera,3,Samuele Angori,20,Italy,Left-Back,€300k
+Squad US Città di Pontedera,23,Cristian Cerretti,22,Italy,Right-Back,€50k
+Squad US Città di Pontedera,16,Lorenzo Ignacchiti,19,Italy,Central Midfield,€500k
+Squad US Città di Pontedera,14,Alessandro Lombardi,24,Italy,Central Midfield,€100k
+Squad US Città di Pontedera,27,Alessandro Provenzano,32,Italy,Central Midfield,€100k
+Squad US Città di Pontedera,8,Federico Marrone,20,Italy,Central Midfield,€25k
+Squad US Città di Pontedera,21,Gabriele Perretta,24,Italy,Right Midfield,€300k
+Squad US Città di Pontedera,7,Michele Ambrosini,20,Italy,Left Midfield,€100k
+Squad US Città di Pontedera,20,Isaías Delpupo,21,Argentina,Attacking Midfield,€300k
+Squad US Città di Pontedera,10,Giacomo Benedetti,25,Italy,Attacking Midfield,€200k
+Squad US Città di Pontedera,11,Simone Ianesi,22,Italy,Left Winger,€150k
+Squad US Città di Pontedera,15,Lorenzo Peli,24,Italy,Right Winger,€150k
+Squad US Città di Pontedera,29,Andrea Salvadori,18,Italy,Second Striker,€25k
+Squad US Città di Pontedera,99,Simone Ganz,30,Italy,Centre-Forward,€200k
+Squad US Città di Pontedera,26,Gabriele Selleri,20,Italy,Centre-Forward,€75k
+Squad SS Arezzo,22,Daniele Borra,28,Italy,Goalkeeper,€150k
+Squad SS Arezzo,1,Luca Trombini,23,Italy,Goalkeeper,€100k
+Squad SS Arezzo,12,Jacopo Ermini,18,Italy,Goalkeeper,€25k
+Squad SS Arezzo,4,Giacomo Risaliti,28,Italy,Centre-Back,€200k
+Squad SS Arezzo,13,Marco Chiosa,30,Italy,Centre-Back,€200k
+Squad SS Arezzo,25,Lorenzo Masetti,23,Italy,Centre-Back,€200k
+Squad SS Arezzo,6,Lorenzo Polvani,29,Italy,Centre-Back,€100k
+Squad SS Arezzo,2,Alberto Montini,22,Italy,Left-Back,€75k
+Squad SS Arezzo,27,Lorenzo Coccia,21,Italy,Left-Back,€75k
+Squad SS Arezzo,3,Francesco Donati,23,Italy,Right-Back,€400k
+Squad SS Arezzo,17,Mirko Lazzarini,23,Italy,Right-Back,€75k
+Squad SS Arezzo,5,Sebastiano Bianchi,21,Italy,Defensive Midfield,€100k
+Squad SS Arezzo,18,Mattia Damiani,21,Italy,Defensive Midfield,€100k
+Squad SS Arezzo,20,Giovanni Catanese,31,Italy,Central Midfield,€300k
+Squad SS Arezzo,8,Andrea Settembrini,32,Italy,Central Midfield,€200k
+Squad SS Arezzo,16,Eklu Shaka Mawuli,25,Ghana,Central Midfield,€200k
+Squad SS Arezzo,14,Alessandro Renzi,20,Italy,Central Midfield,€150k
+Squad SS Arezzo,21,Luca Castiglia,35,Italy,Central Midfield,€150k
+Squad SS Arezzo,24,Fabio Foglia,34,Italy,Central Midfield,€75k
+Squad SS Arezzo,11,Mattia Gaddini,21,Italy,Left Winger,€100k
+Squad SS Arezzo,7,Filippo Guccione,31,Italy,Right Winger,€250k
+Squad SS Arezzo,10,Emiliano Pattarello,24,Italy,Right Winger,€200k
+Squad SS Arezzo,28,Niccolò Gucci,33,Italy,Centre-Forward,€200k
+Squad SS Arezzo,9,Joseph Ekuban,24,Ghana,Centre-Forward,€50k
+Squad SS Arezzo,26,Juan Facundo Crisafi,19,Argentina,Centre-Forward,€25k
+Squad SS Arezzo,29,Cristiano Sebastiani,24,Italy,Centre-Forward,€25k
+Squad Pineto Calcio,22,Alessandro Tonti,31,Italy,Goalkeeper,€200k
+Squad Pineto Calcio,1,Simone Mercorelli,22,Italy,Goalkeeper,€100k
+Squad Pineto Calcio,36,Matteo Grilli,17,Italy,Goalkeeper,€10k
+Squad Pineto Calcio,23,Simone De Santis,30,Italy,Centre-Back,€200k
+Squad Pineto Calcio,24,Nicolò Evangelisti,21,Italy,Centre-Back,€200k
+Squad Pineto Calcio,28,Gianmarco Ingrosso,35,Italy,Centre-Back,€150k
+Squad Pineto Calcio,14,Andrea Marafini,23,Italy,Centre-Back,€100k
+Squad Pineto Calcio,30,Lorenzo Villa,20,Italy,Centre-Back,€100k
+Squad Pineto Calcio,19,Matteo Borsoi,21,Italy,Left-Back,€75k
+Squad Pineto Calcio,20,Riccardo Della Quercia,25,Italy,Right-Back,€150k
+Squad Pineto Calcio,27,Federico Baggi,20,Italy,Right-Back,€100k
+Squad Pineto Calcio,6,Stefano Amadio,35,Italy,Defensive Midfield,€250k
+Squad Pineto Calcio,21,Luca Lombardi,21,Italy,Defensive Midfield,€100k
+Squad Pineto Calcio,8,Gianluca Germinario,21,Italy,Central Midfield,€200k
+Squad Pineto Calcio,10,Daniel Sannipoli,24,Italy,Central Midfield,€200k
+Squad Pineto Calcio,17,Denis Manu,20,Italy,Central Midfield,€75k
+Squad Pineto Calcio,5,Luca Schirone,21,Italy,Central Midfield,€50k
+Squad Pineto Calcio,70,Marco Teraschi,22,Italy,Right Midfield,€150k
+Squad Pineto Calcio,66,Davide Traini,19,Italy,Right Midfield,€75k
+Squad Pineto Calcio,32,Giuseppe Macario,21,Italy,Right Midfield,€25k
+Squad Pineto Calcio,77,Mattia Foglia,25,Italy,Left Midfield,€75k
+Squad Pineto Calcio,82,Pasquale Iaccarino,19,Italy,Left Midfield,€50k
+Squad Pineto Calcio,99,Alessandro Pellegrino,19,Italy,Attacking Midfield,€50k
+Squad Pineto Calcio,7,Emilio Volpicelli,31,Italy,Right Winger,€500k
+Squad Pineto Calcio,11,Moussadja Njambè,25,Cameroon,Centre-Forward,€200k
+Squad Pineto Calcio,9,Diego Gambale,25,Italy,Centre-Forward,€150k
+Squad Pineto Calcio,29,Mohammed Amine Chakir,23,Italy,Centre-Forward,€150k
+Squad Olbia Calcio 1905,1,Filippo Rinaldi,21,Italy,Goalkeeper,€200k
+Squad Olbia Calcio 1905,22,Maarten van der Want,29,Netherlands,Goalkeeper,€25k
+Squad Olbia Calcio 1905,5,Gabriele Bellodi,23,Italy,Centre-Back,€200k
+Squad Olbia Calcio 1905,17,Luigi Palomba,21,Italy,Centre-Back,€150k
+Squad Olbia Calcio 1905,39,Mattia Motolese,20,Italy,Centre-Back,€150k
+Squad Olbia Calcio 1905,27,Filippo Fabbri,22,San Marino,Centre-Back,€100k
+Squad Olbia Calcio 1905,19,Mattia Scaringi,21,Italy,Centre-Back,€75k
+Squad Olbia Calcio 1905,43,Matteo Montebugnoli,22,Italy,Left-Back,€100k
+Squad Olbia Calcio 1905,7,Davide Mordini,27,Italy,Left-Back,€75k
+Squad Olbia Calcio 1905,23,Christian Arboleda,27,Italy,Right-Back,€150k
+Squad Olbia Calcio 1905,2,Francesco Zallu,20,Italy,Right-Back,€100k
+Squad Olbia Calcio 1905,8,Andrea Schiavone,31,Italy,Defensive Midfield,€300k
+Squad Olbia Calcio 1905,3,Luca La Rosa,35,Italy,Defensive Midfield,€150k
+Squad Olbia Calcio 1905,26,Angelo Mameli,19,Italy,Defensive Midfield,€100k
+Squad Olbia Calcio 1905,15,Federico Zanchetta,22,Italy,Defensive Midfield,€75k
+Squad Olbia Calcio 1905,6,Davide Incerti,21,Cuba,Defensive Midfield,€50k
+Squad Olbia Calcio 1905,4,Daniele Dessena,36,Italy,Central Midfield,€300k
+Squad Olbia Calcio 1905,33,Stefano Guidotti,24,Switzerland,Central Midfield,€100k
+Squad Olbia Calcio 1905,21,Roberto Biancu,24,Italy,Attacking Midfield,€200k
+Squad Olbia Calcio 1905,20,Nicolò Cavuoti,21,Italy,Attacking Midfield,€150k
+Squad Olbia Calcio 1905,90,Lorenzo Catania,24,Italy,Left Winger,€75k
+Squad Olbia Calcio 1905,16,Lorenzo Boganini,21,Italy,Right Winger,€25k
+Squad Olbia Calcio 1905,10,Daniele Ragatzu,32,Italy,Second Striker,€400k
+Squad Olbia Calcio 1905,18,Nicola Nanni,23,San Marino,Centre-Forward,€150k
+Squad Olbia Calcio 1905,99,Andrea Bianchimano,27,Italy,Centre-Forward,€125k
+Squad Olbia Calcio 1905,29,Massimiliano Gennari,20,Italy,Centre-Forward,€50k
+Squad Olbia Calcio 1905,67,Thomas Scapin,21,Italy,Centre-Forward,€50k
+Squad US Recanatese,1,Gabriel Meli,25,Italy,Goalkeeper,€150k
+Squad US Recanatese,12,Tommaso Tiberi,18,Italy,Goalkeeper,€25k
+Squad US Recanatese,22,Nicola Mascolo,21,Italy,Goalkeeper,€25k
+Squad US Recanatese,14,Edoardo Ferrante,32,Italy,Centre-Back,€200k
+Squad US Recanatese,5,Cristian Shiba,23,Albania,Centre-Back,€150k
+Squad US Recanatese,54,Manuel Peretti,24,Italy,Centre-Back,€150k
+Squad US Recanatese,2,Angelo Veltri,20,Italy,Centre-Back,€75k
+Squad US Recanatese,3,Nicholas Allievi,31,Italy,Centre-Back,€50k
+Squad US Recanatese,7,Andrea Pelamatti,19,Russia,Left-Back,€100k
+Squad US Recanatese,19,Alessandro Raimo,25,Italy,Right-Back,€150k
+Squad US Recanatese,25,Gianluca Longobardi,21,Italy,Right-Back,€150k
+Squad US Recanatese,28,Moussa Mané,20,Italy,Right-Back,€75k
+Squad US Recanatese,33,Francesco Rizzo,26,Italy,Right-Back,€75k
+Squad US Recanatese,16,Biagio Morrone,24,Italy,Defensive Midfield,€200k
+Squad US Recanatese,4,Antonio Prisco,20,Italy,Defensive Midfield,€150k
+Squad US Recanatese,31,Mattia Fiorini,23,Italy,Defensive Midfield,€125k
+Squad US Recanatese,24,Marco Raparo,32,Italy,Defensive Midfield,€75k
+Squad US Recanatese,6,Francis Gomez,24,The Gambia,Defensive Midfield,€50k
+Squad US Recanatese,8,Gianluca Carpani,30,Italy,Central Midfield,€400k
+Squad US Recanatese,10,Alessandro Sbaffo,33,Italy,Attacking Midfield,€400k
+Squad US Recanatese,37,Daniele Ferretti,37,Italy,Right Winger,€100k
+Squad US Recanatese,17,Destiny Egharevba,21,Italy,Right Winger,€25k
+Squad US Recanatese,97,Alessio Re,20,Italy,Right Winger,€25k
+Squad US Recanatese,30,Andrea Mazia,20,Italy,Second Striker,€75k
+Squad US Recanatese,9,Federico Melchiorri,37,Italy,Centre-Forward,€300k
+Squad US Recanatese,11,Mirco Lipari,21,Italy,Centre-Forward,€150k
+Squad US Recanatese,21,Filippo Guidobaldi,19,Italy,Centre-Forward,€75k
+Squad US Recanatese,74,Matteo Ahmetaj,21,Italy,Centre-Forward,€10k
+Squad Vis Pesaro 1898,1,Filippo Neri,21,Italy,Goalkeeper,€200k
+Squad Vis Pesaro 1898,22,Emanuele Polverino,27,Italy,Goalkeeper,€75k
+Squad Vis Pesaro 1898,12,Mattia Mariani,23,Italy,Goalkeeper,€25k
+Squad Vis Pesaro 1898,29,Gabriele Fortin,20,Italy,Goalkeeper,€25k
+Squad Vis Pesaro 1898,4,Davide Zagnoni,29,Italy,Centre-Back,€200k
+Squad Vis Pesaro 1898,15,Mirco Ceccacci,20,Italy,Centre-Back,€200k
+Squad Vis Pesaro 1898,5,Denis Tonucci,35,Italy,Centre-Back,€150k
+Squad Vis Pesaro 1898,19,Afonso Peixoto,21,Portugal,Left-Back,€25k
+Squad Vis Pesaro 1898,25,Alessandro Mattioli,26,Italy,Right-Back,€150k
+Squad Vis Pesaro 1898,6,Stefano Rossoni,27,Italy,Right-Back,€50k
+Squad Vis Pesaro 1898,13,Gian Marco Neri,21,Italy,Right-Back,€25k
+Squad Vis Pesaro 1898,10,Manuel Di Paola,26,Italy,Defensive Midfield,€200k
+Squad Vis Pesaro 1898,11,Damiano Pecile,22,Canada,Defensive Midfield,€100k
+Squad Vis Pesaro 1898,37,Mirko Valdifiori,37,Italy,Defensive Midfield,€100k
+Squad Vis Pesaro 1898,16,Joel Obi,32,Nigeria,Central Midfield,€100k
+Squad Vis Pesaro 1898,38,Matteo Rossetti,25,Italy,Central Midfield,€100k
+Squad Vis Pesaro 1898,39,Antonio Pio Iervolino,20,Italy,Central Midfield,€100k
+Squad Vis Pesaro 1898,8,Christian Nina,22,Italy,Central Midfield,€75k
+Squad Vis Pesaro 1898,23,Lorenzo Loru,20,Italy,Central Midfield,€25k
+Squad Vis Pesaro 1898,28,Angelo Foresta,19,Italy,Central Midfield,€25k
+Squad Vis Pesaro 1898,60,Mattia Gulli,20,Italy,Central Midfield,€25k
+Squad Vis Pesaro 1898,80,Lorenzo Da Pozzo,19,Italy,Right Midfield,€100k
+Squad Vis Pesaro 1898,30,Blue Mamona,21,Italy,Left Winger,€75k
+Squad Vis Pesaro 1898,14,Jack de Vries,22,United States,Right Winger,€200k
+Squad Vis Pesaro 1898,99,Nelson Kemayou,19,Italy,Right Winger,€25k
+Squad Vis Pesaro 1898,7,Manuel Pucciarelli,32,Italy,Second Striker,€150k
+Squad Vis Pesaro 1898,9,Francesco Nicastro,32,Italy,Centre-Forward,€400k
+Squad Vis Pesaro 1898,20,Óttar Magnús Karlsson,27,Iceland,Centre-Forward,€200k
+Squad Vis Pesaro 1898,-,Davide Pio Stabile,19,Italy,Centre-Forward,€75k
+Squad Vis Pesaro 1898,-,Babacar Diop,20,Senegal,Centre-Forward,€25k
+Squad Vis Pesaro 1898,85,Simone Castigliani,20,Italy,Centre-Forward,€25k
+Squad Vis Pesaro 1898,30,Juan Ignacio Molina,26,Argentina,Centre-Forward,-
+Squad USD Sestri Levante 1919,1,Joyce Anacoura,29,Italy,Goalkeeper,€150k
+Squad USD Sestri Levante 1919,22,Pietro Balducci,21,Italy,Goalkeeper,€75k
+Squad USD Sestri Levante 1919,74,Matteo Raspa,22,Italy,Goalkeeper,€50k
+Squad USD Sestri Levante 1919,64,Francesco Sias,18,Italy,Goalkeeper,€25k
+Squad USD Sestri Levante 1919,5,Filippo Oliana,24,Italy,Centre-Back,€200k
+Squad USD Sestri Levante 1919,4,Massimiliano Pane,31,Italy,Centre-Back,€150k
+Squad USD Sestri Levante 1919,25,Vasco Regini,33,Italy,Centre-Back,€100k
+Squad USD Sestri Levante 1919,33,Emanuele Matteucci,24,Italy,Centre-Back,€100k
+Squad USD Sestri Levante 1919,24,Edoardo Grosso,21,Italy,Centre-Back,€75k
+Squad USD Sestri Levante 1919,3,Cristiano Furno,21,Italy,Left-Back,€150k
+Squad USD Sestri Levante 1919,27,Lorenzo Podda,21,Italy,Right-Back,€100k
+Squad USD Sestri Levante 1919,6,Luca Troiano,23,Italy,Defensive Midfield,€150k
+Squad USD Sestri Levante 1919,86,Silvano Raggio Garibaldi,35,Italy,Defensive Midfield,€100k
+Squad USD Sestri Levante 1919,16,Giammarco Schirru,20,Italy,Defensive Midfield,€50k
+Squad USD Sestri Levante 1919,21,Mattia Sandri,23,Italy,Central Midfield,€200k
+Squad USD Sestri Levante 1919,77,Gabriele Parlanti,20,Italy,Central Midfield,€200k
+Squad USD Sestri Levante 1919,10,Simone Andreis,22,Italy,Central Midfield,€100k
+Squad USD Sestri Levante 1919,23,Antonio Gala,19,Italy,Central Midfield,€100k
+Squad USD Sestri Levante 1919,72,Claudio Vaughn,20,United States,Right Midfield,€50k
+Squad USD Sestri Levante 1919,8,Maiko Candiano,31,Italy,Attacking Midfield,€200k
+Squad USD Sestri Levante 1919,94,Luca Clemenza,26,Italy,Right Winger,€250k
+Squad USD Sestri Levante 1919,11,Bob Murphy Omoregbe,20,Italy,Right Winger,€50k
+Squad USD Sestri Levante 1919,7,Riccardo Forte,24,Italy,Second Striker,€200k
+Squad USD Sestri Levante 1919,20,Daniel Fossati,20,Italy,Centre-Forward,€100k
+Squad USD Sestri Levante 1919,9,Riccardo D'Antoni,21,Italy,Centre-Forward,€50k
+Squad Fermana FC,1,Nicola Borghetto,24,Italy,Goalkeeper,€75k
+Squad Fermana FC,22,Alessio Furlanetto,22,Italy,Goalkeeper,€75k
+Squad Fermana FC,12,Andrea Mancini,18,Italy,Goalkeeper,€25k
+Squad Fermana FC,5,Jonathan Spedalieri,22,Italy,Centre-Back,€150k
+Squad Fermana FC,-,Emanuele Padella,35,Italy,Centre-Back,€100k
+Squad Fermana FC,36,Alessandro Carosso,22,Italy,Centre-Back,€100k
+Squad Fermana FC,25,Ivan De Santis,26,Italy,Centre-Back,€50k
+Squad Fermana FC,6,Federico Fort,21,Italy,Centre-Back,€25k
+Squad Fermana FC,-,Alessandro Rabini,19,Italy,Centre-Back,-
+Squad Fermana FC,3,Francesco Pistolesi,19,Italy,Left-Back,€100k
+Squad Fermana FC,18,Manuel Vessella,21,Italy,Left-Back,€25k
+Squad Fermana FC,2,Alessandro Eleuteri,25,Italy,Right-Back,€150k
+Squad Fermana FC,15,Pietro Santi,21,Italy,Right-Back,€100k
+Squad Fermana FC,14,Jonas Heinz,21,Italy,Right-Back,€50k
+Squad Fermana FC,4,Donato De Pascalis,25,Italy,Right-Back,€25k
+Squad Fermana FC,20,Manuel Giandonato,32,Italy,Defensive Midfield,€200k
+Squad Fermana FC,16,Tommaso Fontana,24,Italy,Defensive Midfield,€100k
+Squad Fermana FC,23,Stefano Palmucci,22,Italy,Defensive Midfield,€25k
+Squad Fermana FC,8,Christian Scorza,23,Italy,Central Midfield,€150k
+Squad Fermana FC,26,Gianvito Misuraca,34,Italy,Central Midfield,€150k
+Squad Fermana FC,21,Nicola Malaccari,32,Italy,Central Midfield,€100k
+Squad Fermana FC,28,Ousmane Niang,21,Italy,Central Midfield,€100k
+Squad Fermana FC,24,Jacopo Gianelli,23,Italy,Central Midfield,€25k
+Squad Fermana FC,19,Davide Marcandella,27,Italy,Attacking Midfield,€50k
+Squad Fermana FC,13,Lorenzo Bonfigli,16,Italy,Attacking Midfield,-
+Squad Fermana FC,17,Simone Condello,20,Italy,Left Winger,€125k
+Squad Fermana FC,7,Riccardo Tilli,24,Italy,Right Winger,€100k
+Squad Fermana FC,30,Luca Petrungaro,24,Italy,Right Winger,€100k
+Squad Fermana FC,10,Giuseppe Giovinco,33,Italy,Second Striker,€175k
+Squad Fermana FC,9,Lorenzo Sorrentino,28,Italy,Centre-Forward,€125k
+Squad Fermana FC,70,Mauro Semprini,26,Italy,Centre-Forward,€100k
+Squad Fermana FC,11,Daniele Paponi,36,Italy,Centre-Forward,€50k
+Squad Fermana FC,90,Elia Petrelli,22,Italy,Centre-Forward,€50k
+Squad Benevento Calcio,24,Alberto Paleari,31,Italy,Goalkeeper,€650k
+Squad Benevento Calcio,1,Alessandro Nunziante,17,Italy,Goalkeeper,€100k
+Squad Benevento Calcio,12,Nicolò Manfredini,35,Italy,Goalkeeper,€100k
+Squad Benevento Calcio,58,Christian Pastina,23,Italy,Centre-Back,€450k
+Squad Benevento Calcio,96,Riccardo Capellini,24,Italy,Centre-Back,€450k
+Squad Benevento Calcio,6,Biagio Meccariello,33,Italy,Centre-Back,€200k
+Squad Benevento Calcio,28,Emanuele Terranova,37,Italy,Centre-Back,€150k
+Squad Benevento Calcio,3,Amedeo Benedetti,32,Italy,Left-Back,€400k
+Squad Benevento Calcio,5,Edoardo Masciangelo,27,Italy,Left-Back,€275k
+Squad Benevento Calcio,23,Francesco Rillo,23,Italy,Left-Back,€75k
+Squad Benevento Calcio,25,Angelo Viscardi,19,Italy,Left-Back,€75k
+Squad Benevento Calcio,20,Filippo Berra,29,Italy,Right-Back,€500k
+Squad Benevento Calcio,8,Krzysztof Kubica,23,Poland,Central Midfield,€700k
+Squad Benevento Calcio,7,Nermin Karić,24,Sweden,Central Midfield,€600k
+Squad Benevento Calcio,31,Filippo Nardi,26,Italy,Central Midfield,€500k
+Squad Benevento Calcio,14,Marco Pinato,29,Italy,Central Midfield,€400k
+Squad Benevento Calcio,21,Davide Agazzi,30,Italy,Central Midfield,€350k
+Squad Benevento Calcio,38,Angelo Talia,21,Italy,Central Midfield,€300k
+Squad Benevento Calcio,18,Pier Luigi Simonetti,23,Italy,Central Midfield,€275k
+Squad Benevento Calcio,77,Riccardo Rossi,20,Italy,Central Midfield,€50k
+Squad Benevento Calcio,16,Riccardo Improta,30,Italy,Left Winger,€900k
+Squad Benevento Calcio,30,Lorenzo Carfora,18,Italy,Left Winger,€300k
+Squad Benevento Calcio,10,Camillo Ciano,34,Italy,Right Winger,€300k
+Squad Benevento Calcio,99,Amato Ciciretti,30,Italy,Right Winger,€250k
+Squad Benevento Calcio,98,Don Bolsius,25,Netherlands,Right Winger,€175k
+Squad Benevento Calcio,27,Ernesto Starita,28,Italy,Second Striker,€350k
+Squad Benevento Calcio,90,Eric Lanini,30,Italy,Centre-Forward,€400k
+Squad Benevento Calcio,11,Alexis Ferrante,28,Italy,Centre-Forward,€225k
+Squad Benevento Calcio,9,Alessandro Marotta,37,Italy,Centre-Forward,€175k
+Squad Catania FC,1,Klavs Bethers,20,Latvia,Goalkeeper,€150k
+Squad Catania FC,22,Jacopo Furlan,31,Italy,Goalkeeper,€150k
+Squad Catania FC,95,Marco Albertoni,28,Italy,Goalkeeper,€100k
+Squad Catania FC,12,Christian Torrisi,17,Italy,Goalkeeper,€10k
+Squad Catania FC,2,Marcos Curado,28,Argentina,Centre-Back,€400k
+Squad Catania FC,4,Tommaso Silvestri,32,Italy,Centre-Back,€375k
+Squad Catania FC,46,Salvatore Monaco,31,Italy,Centre-Back,€200k
+Squad Catania FC,27,Alessio Castellini,21,Italy,Centre-Back,€175k
+Squad Catania FC,14,Ivan Kontek,27,Croatia,Centre-Back,€150k
+Squad Catania FC,28,Alessandro Celli,30,Italy,Left-Back,€350k
+Squad Catania FC,3,Kevin Haveri,22,Albania,Left-Back,€250k
+Squad Catania FC,11,Antonio Mazzotta,34,Italy,Left-Back,€125k
+Squad Catania FC,13,Devid Eugene Bouah,22,Italy,Right-Back,€350k
+Squad Catania FC,5,Francesco Rapisarda,31,Italy,Right-Back,€225k
+Squad Catania FC,8,Stefano Sturaro,31,Italy,Central Midfield,€1.20m
+Squad Catania FC,6,Emanuele Ndoj,27,Albania,Central Midfield,€500k
+Squad Catania FC,33,Roberto Zammarini,27,Italy,Central Midfield,€450k
+Squad Catania FC,7,Andrés Tello,27,Colombia,Central Midfield,€350k
+Squad Catania FC,23,Nana Welbeck,29,Ghana,Central Midfield,€200k
+Squad Catania FC,16,Alessandro Quaini,25,Italy,Central Midfield,€150k
+Squad Catania FC,77,Davide Marsura,30,Italy,Left Winger,€400k
+Squad Catania FC,30,Emanuele Cicerelli,29,Italy,Left Winger,€275k
+Squad Catania FC,32,Cosimo Chiricò,32,Italy,Right Winger,€450k
+Squad Catania FC,19,Diego Peralta,27,Italy,Right Winger,€275k
+Squad Catania FC,31,Marco Chiarella,21,Italy,Right Winger,€100k
+Squad Catania FC,10,Samuel Di Carmine,35,Italy,Centre-Forward,€300k
+Squad Catania FC,9,Rocco Costantino,33,Italy,Centre-Forward,€275k
+Squad Catania FC,90,Pietro Cianci,28,Italy,Centre-Forward,€275k
+Squad Catania FC,15,Lorenzo Privitera,18,Italy,Striker,€10k
+Squad FC Crotone,1,Andrea Dini,28,Italy,Goalkeeper,€225k
+Squad FC Crotone,22,Francesco D'Alterio,21,Italy,Goalkeeper,€75k
+Squad FC Crotone,12,Alex Valentini,36,Italy,Goalkeeper,€50k
+Squad FC Crotone,13,Matteo Battistini,30,Italy,Centre-Back,€300k
+Squad FC Crotone,18,Giuseppe Loiacono,32,Italy,Centre-Back,€150k
+Squad FC Crotone,5,Davide Bove,25,Italy,Centre-Back,€125k
+Squad FC Crotone,6,Guillaume Gigliotti,34,France,Centre-Back,€125k
+Squad FC Crotone,-,Giovanni D'Aprile,18,Italy,Centre-Back,€100k
+Squad FC Crotone,2,Federico Papini,24,Italy,Centre-Back,€100k
+Squad FC Crotone,3,Maxime Giron,29,France,Left-Back,€225k
+Squad FC Crotone,14,Carlo Crialese,31,Italy,Left-Back,€200k
+Squad FC Crotone,21,Daniel Leo,22,Switzerland,Right-Back,€250k
+Squad FC Crotone,33,Andrea Rispoli,35,Italy,Right-Back,€200k
+Squad FC Crotone,24,Niccolò Zanellato,25,Italy,Central Midfield,€800k
+Squad FC Crotone,27,Andrea D'Errico,32,Italy,Central Midfield,€325k
+Squad FC Crotone,25,Daniele Altobelli,31,Italy,Central Midfield,€225k
+Squad FC Crotone,26,Sonny D'Angelo,28,Italy,Central Midfield,€200k
+Squad FC Crotone,8,Lucas Felippe,23,Brazil,Central Midfield,€175k
+Squad FC Crotone,28,Mattia Vitale,26,Italy,Central Midfield,€175k
+Squad FC Crotone,32,Riccardo Stronati,27,Italy,Central Midfield,€175k
+Squad FC Crotone,-,Antonio Ranieri,20,Italy,Central Midfield,€75k
+Squad FC Crotone,15,Vinicius,21,Brazil,Central Midfield,€75k
+Squad FC Crotone,63,Riccardo Costa,20,Italy,Central Midfield,€50k
+Squad FC Crotone,11,Dimitar Kostadinov,24,Bulgaria,Attacking Midfield,€500k
+Squad FC Crotone,19,Alessio Tribuzzi,25,Italy,Attacking Midfield,€450k
+Squad FC Crotone,23,Jurica Jurcec,22,Croatia,Attacking Midfield,€150k
+Squad FC Crotone,7,Eugenio D'Ursi,28,Italy,Left Winger,€250k
+Squad FC Crotone,17,Giovanni Bruzzaniti,23,Italy,Left Winger,€200k
+Squad FC Crotone,29,Raffaele Cantisani,19,Italy,Right Winger,€25k
+Squad FC Crotone,9,Guido Gomez,29,Italy,Centre-Forward,€325k
+Squad FC Crotone,93,Marco Tumminello,25,Italy,Centre-Forward,€300k
+Squad FC Crotone,10,Gianmario Comi,32,Italy,Centre-Forward,€250k
+Squad US Avellino 1912,22,Simone Ghidotti,24,Italy,Goalkeeper,€375k
+Squad US Avellino 1912,1,Pasquale Pane,34,Italy,Goalkeeper,€125k
+Squad US Avellino 1912,12,Antonio Pizzella,22,Italy,Goalkeeper,€10k
+Squad US Avellino 1912,16,Michele Rigione,33,Italy,Centre-Back,€275k
+Squad US Avellino 1912,13,Erasmo Mulè,24,Italy,Centre-Back,€225k
+Squad US Avellino 1912,5,Simone Benedetti,32,Italy,Centre-Back,€200k
+Squad US Avellino 1912,26,Thiago Cionek,37,Poland,Centre-Back,€150k
+Squad US Avellino 1912,3,Fabio Tito,30,Italy,Left-Back,€400k
+Squad US Avellino 1912,94,Daniele Liotti,29,Italy,Left-Back,€300k
+Squad US Avellino 1912,38,Paolo Frascatore,32,Italy,Left-Back,€150k
+Squad US Avellino 1912,14,Tommaso Cancellotti,31,Italy,Right-Back,€250k
+Squad US Avellino 1912,2,Manuel Ricciardi,24,Italy,Right-Back,€200k
+Squad US Avellino 1912,60,Manuel Llano,24,Argentina,Right-Back,€125k
+Squad US Avellino 1912,6,Luca Palmiero,27,Italy,Defensive Midfield,€450k
+Squad US Avellino 1912,33,Salvatore Pezzella,24,Italy,Defensive Midfield,€125k
+Squad US Avellino 1912,21,Marco Armellino,34,Italy,Central Midfield,€350k
+Squad US Avellino 1912,96,Michele Rocca,28,Italy,Central Midfield,€325k
+Squad US Avellino 1912,24,Antonio De Cristofaro,24,Italy,Central Midfield,€250k
+Squad US Avellino 1912,23,Jacopo Dall'Oglio,32,Italy,Central Midfield,€200k
+Squad US Avellino 1912,10,Raffaele Russo,25,Italy,Left Winger,€250k
+Squad US Avellino 1912,8,Ignacio Lores Varela,32,Uruguay,Right Winger,€375k
+Squad US Avellino 1912,11,Lorenzo Sgarbi,23,Italy,Second Striker,€275k
+Squad US Avellino 1912,7,Michele D'Ausilio,24,Italy,Second Striker,€200k
+Squad US Avellino 1912,55,Enis Tozaj,19,Albania,Second Striker,€10k
+Squad US Avellino 1912,35,Gabriele Gori,25,Italy,Centre-Forward,€550k
+Squad US Avellino 1912,9,Cosimo Patierno,33,Italy,Centre-Forward,€275k
+Squad US Avellino 1912,31,Michele Marconi,34,Italy,Centre-Forward,€225k
+Squad Calcio Foggia 1920,1,Pietro Perina,32,Italy,Goalkeeper,€275k
+Squad Calcio Foggia 1920,96,Tommaso Nobile,27,Italy,Goalkeeper,€225k
+Squad Calcio Foggia 1920,12,Luca De Simone,17,Italy,Goalkeeper,€10k
+Squad Calcio Foggia 1920,33,Luigi Carillo,27,Italy,Centre-Back,€275k
+Squad Calcio Foggia 1920,31,Emmanuele Salines,23,Italy,Centre-Back,€225k
+Squad Calcio Foggia 1920,13,Manuel Marzupio,24,Italy,Centre-Back,€200k
+Squad Calcio Foggia 1920,18,Davide Riccardi,28,Italy,Centre-Back,€175k
+Squad Calcio Foggia 1920,15,Luca Ercolani,24,Italy,Centre-Back,€125k
+Squad Calcio Foggia 1920,24,Tomislav Papazov,22,Bulgaria,Centre-Back,€100k
+Squad Calcio Foggia 1920,3,Alberto Rizzo,26,Italy,Left-Back,€250k
+Squad Calcio Foggia 1920,2,Alessandro Silvestro,21,Italy,Right-Back,€75k
+Squad Calcio Foggia 1920,30,Luca Di Modugno,22,Italy,Right-Back,€75k
+Squad Calcio Foggia 1920,19,Moses Odjer,27,Ghana,Defensive Midfield,€200k
+Squad Calcio Foggia 1920,28,Giovanni Di Noia,29,Italy,Central Midfield,€325k
+Squad Calcio Foggia 1920,6,Jacopo Martini,19,Italy,Central Midfield,€200k
+Squad Calcio Foggia 1920,8,Andrea Marino,22,Italy,Central Midfield,€150k
+Squad Calcio Foggia 1920,26,Simone Tascone,26,Italy,Central Midfield,€150k
+Squad Calcio Foggia 1920,88,Joshua Tenkorang,23,Italy,Central Midfield,€150k
+Squad Calcio Foggia 1920,25,Alessio Rossi,20,Italy,Central Midfield,€100k
+Squad Calcio Foggia 1920,27,Franco Vezzoni,22,Argentina,Left Midfield,€250k
+Squad Calcio Foggia 1920,16,Gianmarco Antonacci,22,Italy,Left Midfield,€75k
+Squad Calcio Foggia 1920,7,Andrea Schenetti,33,Italy,Attacking Midfield,€350k
+Squad Calcio Foggia 1920,11,Mattia Rolando,31,Italy,Attacking Midfield,€200k
+Squad Calcio Foggia 1920,10,Vincenzo Millico,23,Italy,Left Winger,€500k
+Squad Calcio Foggia 1920,95,Carlos Embalo,29,Guinea-Bissau,Left Winger,€200k
+Squad Calcio Foggia 1920,23,Kalifa Manneh,25,The Gambia,Left Winger,€75k
+Squad Calcio Foggia 1920,37,Luca Gagliano,23,Italy,Centre-Forward,€200k
+Squad Calcio Foggia 1920,9,Riccardo Tonin,23,Italy,Centre-Forward,€175k
+Squad Calcio Foggia 1920,99,Emanuele Santaniello,34,Italy,Centre-Forward,€150k
+Squad Calcio Foggia 1920,75,Alessandro Brancato,20,Italy,Centre-Forward,€10k
+Squad Casertana FC,22,Giacomo Venturi,32,Italy,Goalkeeper,€400k
+Squad Casertana FC,1,Davide Marfella,24,Italy,Goalkeeper,€50k
+Squad Casertana FC,12,Enrico Trematerra,19,Italy,Goalkeeper,-
+Squad Casertana FC,13,Loris Bacchetti,31,Italy,Centre-Back,€200k
+Squad Casertana FC,4,Daniele Celiento,29,Italy,Centre-Back,€175k
+Squad Casertana FC,19,Giacomo Sciacca,27,Italy,Centre-Back,€175k
+Squad Casertana FC,6,Marco Soprano,28,Italy,Centre-Back,€125k
+Squad Casertana FC,-,Ramzi Aya,34,Italy,Centre-Back,€100k
+Squad Casertana FC,3,Alessandro Fabbri,34,Italy,Left-Back,€225k
+Squad Casertana FC,33,Armando Anastasio,27,Italy,Left-Back,€150k
+Squad Casertana FC,98,Manuel Nicoletti,25,Italy,Left-Back,€75k
+Squad Casertana FC,26,Luca Calapai,30,Italy,Right-Back,€325k
+Squad Casertana FC,24,Stefano Paglino,20,Italy,Right-Back,€100k
+Squad Casertana FC,80,Mattia Proietti,32,Italy,Defensive Midfield,€275k
+Squad Casertana FC,5,Marco Toscano,26,Italy,Defensive Midfield,€250k
+Squad Casertana FC,8,Filippo Damian,27,Italy,Central Midfield,€275k
+Squad Casertana FC,18,Francesco Deli,29,Italy,Central Midfield,€150k
+Squad Casertana FC,21,Giacomo Casoli,35,Italy,Central Midfield,€150k
+Squad Casertana FC,16,Mattia Matese,22,Italy,Central Midfield,€50k
+Squad Casertana FC,10,Alessio Curcio,34,Italy,Left Winger,€450k
+Squad Casertana FC,11,Camillo Tavernelli,24,Italy,Left Winger,€225k
+Squad Casertana FC,27,Gianluca Turchetta,32,Italy,Left Winger,€175k
+Squad Casertana FC,7,Mirko Carretta,33,Italy,Right Winger,€200k
+Squad Casertana FC,25,Leonardo Taurino,28,Italy,Second Striker,€75k
+Squad Casertana FC,32,Adriano Montalto,36,Italy,Centre-Forward,€300k
+Squad Casertana FC,31,Pietro Rovaglia,23,Italy,Centre-Forward,€100k
+Squad Latina Calcio 1932,1,Matteo Cardinali,22,Italy,Goalkeeper,€250k
+Squad Latina Calcio 1932,71,Gaetano Fasolino,23,Italy,Goalkeeper,€75k
+Squad Latina Calcio 1932,99,Johan Guadagno,21,Sweden,Goalkeeper,€75k
+Squad Latina Calcio 1932,12,Mario Vona,18,Italy,Goalkeeper,€10k
+Squad Latina Calcio 1932,75,Fabio Cortinovis,21,Italy,Centre-Back,€200k
+Squad Latina Calcio 1932,15,Antonio Marino,35,Italy,Centre-Back,€150k
+Squad Latina Calcio 1932,33,Gabriele Rocchi,27,Italy,Centre-Back,€150k
+Squad Latina Calcio 1932,3,Edoardo Vona,27,Italy,Centre-Back,€100k
+Squad Latina Calcio 1932,17,Anass Serbouti,24,Morocco,Centre-Back,€100k
+Squad Latina Calcio 1932,95,Giovanni Di Renzo,21,Italy,Centre-Back,€75k
+Squad Latina Calcio 1932,23,Salvatore Gallo,22,Italy,Left-Back,€10k
+Squad Latina Calcio 1932,2,Emanuel Ercolano,21,Italy,Right-Back,€325k
+Squad Latina Calcio 1932,13,Eros De Santis,26,Italy,Right-Back,€175k
+Squad Latina Calcio 1932,4,Fausto Perseu,21,Italy,Defensive Midfield,€50k
+Squad Latina Calcio 1932,8,Andrea Cittadino,29,Italy,Central Midfield,€200k
+Squad Latina Calcio 1932,6,Davide Mazzocco,28,Italy,Central Midfield,€125k
+Squad Latina Calcio 1932,5,Simone Biagi,26,Italy,Central Midfield,€100k
+Squad Latina Calcio 1932,26,Luca Crecco,28,Italy,Left Midfield,€300k
+Squad Latina Calcio 1932,10,Alessio Riccardi,23,Italy,Attacking Midfield,€350k
+Squad Latina Calcio 1932,7,Lorenzo Di Livio,27,Italy,Attacking Midfield,€275k
+Squad Latina Calcio 1932,80,Luan Capanni,23,Brazil,Attacking Midfield,€100k
+Squad Latina Calcio 1932,19,Ludovico D'Orazio,24,Italy,Left Winger,€200k
+Squad Latina Calcio 1932,27,Ferdinando Del Sole,26,Italy,Right Winger,€250k
+Squad Latina Calcio 1932,77,Luca Paganini,30,Italy,Right Winger,€250k
+Squad Latina Calcio 1932,72,Riccardo Polletta,18,Italy,Right Winger,€10k
+Squad Latina Calcio 1932,11,Giuseppe Fella,30,Italy,Second Striker,€250k
+Squad Latina Calcio 1932,9,Ferdinando Mastroianni,32,Italy,Centre-Forward,€250k
+Squad Latina Calcio 1932,29,Luca Fabrizi,25,Italy,Centre-Forward,€200k
+Squad Latina Calcio 1932,16,Samuele Sorrentino,21,Italy,Centre-Forward,€100k
+Squad Audace Cerignola,30,Davide Barosi,24,Italy,Goalkeeper,€300k
+Squad Audace Cerignola,1,Titas Krapikas,25,Lithuania,Goalkeeper,€200k
+Squad Audace Cerignola,12,Giuseppe Fares,20,Italy,Goalkeeper,€25k
+Squad Audace Cerignola,22,Salvatore Trezza,21,Italy,Goalkeeper,€25k
+Squad Audace Cerignola,55,Luca Martinelli,35,Italy,Centre-Back,€300k
+Squad Audace Cerignola,15,Alessandro Ligi,34,Italy,Centre-Back,€275k
+Squad Audace Cerignola,23,Lorenzo Gonnelli,30,Italy,Centre-Back,€125k
+Squad Audace Cerignola,4,Giacinto Allegrini,34,Italy,Centre-Back,€100k
+Squad Audace Cerignola,6,Santiago Visentin,25,Argentina,Centre-Back,-
+Squad Audace Cerignola,21,Alberto Tentardini,27,Italy,Left-Back,€275k
+Squad Audace Cerignola,3,Luca Russo,24,Italy,Left-Back,€250k
+Squad Audace Cerignola,34,Agostino Rizzo,25,Italy,Right-Back,€75k
+Squad Audace Cerignola,28,Christian Basile,21,Italy,Right-Back,€50k
+Squad Audace Cerignola,2,Fabricio Olivera,22,Italy,Right-Back,€25k
+Squad Audace Cerignola,5,Galo Capomaggio,27,Argentina,Defensive Midfield,€200k
+Squad Audace Cerignola,8,Raffaele Bianco,36,Italy,Defensive Midfield,€125k
+Squad Audace Cerignola,29,Mattia Tascone,23,Italy,Central Midfield,€250k
+Squad Audace Cerignola,24,Zak Ruggiero,23,Italy,Central Midfield,€125k
+Squad Audace Cerignola,77,Matteo Ghisolfi,21,Italy,Central Midfield,€100k
+Squad Audace Cerignola,13,Giancarlo Bianchini,26,Argentina,Central Midfield,€75k
+Squad Audace Cerignola,18,Aldo Bezzon,21,Italy,Central Midfield,€50k
+Squad Audace Cerignola,7,Giuseppe Coccia,30,Italy,Right Midfield,€225k
+Squad Audace Cerignola,20,Miguel Ángel Sainz-Maza,31,Spain,Attacking Midfield,€225k
+Squad Audace Cerignola,80,Alessandro Carnevale,19,Italy,Attacking Midfield,€50k
+Squad Audace Cerignola,11,Vito Leonetti,30,Italy,Left Winger,€250k
+Squad Audace Cerignola,10,Luca Lombardi,22,Italy,Right Winger,€100k
+Squad Audace Cerignola,9,Giancarlo Malcore,30,Italy,Centre-Forward,€350k
+Squad Audace Cerignola,17,Filippo D'Andrea,25,Italy,Centre-Forward,€275k
+Squad Audace Cerignola,99,Dardan Vuthaj,28,Albania,Centre-Forward,€225k
+Squad Audace Cerignola,-,Luigi Korra,18,Italy,Centre-Forward,-
+Squad AZ Picerno,22,Elia Summa,21,Italy,Goalkeeper,€150k
+Squad AZ Picerno,1,Davide Merelli,28,Italy,Goalkeeper,€125k
+Squad AZ Picerno,12,Andrea Esposito,18,Italy,Goalkeeper,€10k
+Squad AZ Picerno,18,Rubén García,29,Spain,Centre-Back,€200k
+Squad AZ Picerno,13,Matteo Gilli,27,Italy,Centre-Back,€175k
+Squad AZ Picerno,66,Andrea Cadili,24,Italy,Centre-Back,€175k
+Squad AZ Picerno,6,Andrea Allegretto,23,Italy,Centre-Back,€150k
+Squad AZ Picerno,24,Eric Biasiol,26,Croatia,Centre-Back,€150k
+Squad AZ Picerno,25,Walter Guerra,32,Italy,Left-Back,€225k
+Squad AZ Picerno,35,Mattia Novella,23,Italy,Right-Back,€175k
+Squad AZ Picerno,2,Gabriele Pagliai,22,Italy,Right-Back,€150k
+Squad AZ Picerno,27,Matteo Savarese,19,Italy,Right-Back,€50k
+Squad AZ Picerno,30,Rodrigo De Ciancio,29,Argentina,Defensive Midfield,€125k
+Squad AZ Picerno,17,Sevo Ciko,25,Italy,Central Midfield,€200k
+Squad AZ Picerno,5,Francesco Pitarresi,33,Italy,Central Midfield,€150k
+Squad AZ Picerno,8,Andrea Gallo,26,Italy,Central Midfield,€150k
+Squad AZ Picerno,77,Vittorio Graziani,23,Italy,Central Midfield,€125k
+Squad AZ Picerno,20,Alessandro Albertini,29,Italy,Right Midfield,€125k
+Squad AZ Picerno,10,Pasquale Maiorino,34,Italy,Attacking Midfield,€225k
+Squad AZ Picerno,70,Giuseppe D'Agostino,20,Italy,Left Winger,€300k
+Squad AZ Picerno,7,Tommaso Ceccarelli,31,Italy,Right Winger,€275k
+Squad AZ Picerno,37,Pablo Vitali,21,Italy,Right Winger,€175k
+Squad AZ Picerno,11,Emmanuele Esposito,33,Italy,Second Striker,€200k
+Squad AZ Picerno,9,Jacopo Murano,34,Italy,Centre-Forward,€275k
+Squad AZ Picerno,16,Andrea Santarcangelo,21,Italy,Centre-Forward,€150k
+Squad AZ Picerno,19,Francesco Pio Petito,21,Italy,Centre-Forward,€100k
+Squad AZ Picerno,89,Diego Albadoro,35,Italy,Centre-Forward,€50k
+Squad SS Juve Stabia,20,Demba Thiam,26,Senegal,Goalkeeper,€400k
+Squad SS Juve Stabia,32,Matteo Esposito,21,Italy,Goalkeeper,€50k
+Squad SS Juve Stabia,1,Alessandro Signorini,24,Italy,Goalkeeper,€25k
+Squad SS Juve Stabia,22,Davide Lauritano,17,Italy,Goalkeeper,€10k
+Squad SS Juve Stabia,6,Marco Bellich,24,Italy,Centre-Back,€250k
+Squad SS Juve Stabia,21,Matteo Bachini,28,Italy,Centre-Back,€200k
+Squad SS Juve Stabia,91,Luca Stanga,22,Italy,Centre-Back,€100k
+Squad SS Juve Stabia,23,Francesco Folino,22,Italy,Centre-Back,€50k
+Squad SS Juve Stabia,44,Michele Picardi,20,Italy,Centre-Back,€25k
+Squad SS Juve Stabia,19,Daniele Mignanelli,30,Italy,Left-Back,€325k
+Squad SS Juve Stabia,26,Francesco D'Amore,20,Italy,Left-Back,€25k
+Squad SS Juve Stabia,13,Matteo Baldi,22,Italy,Right-Back,€150k
+Squad SS Juve Stabia,28,Cristian Andreoni,31,Italy,Right-Back,€150k
+Squad SS Juve Stabia,3,Alessandro La Rosa,21,Italy,Right-Back,€25k
+Squad SS Juve Stabia,55,Giuseppe Leone,22,Italy,Defensive Midfield,€325k
+Squad SS Juve Stabia,8,Davide Buglio,26,Italy,Central Midfield,€225k
+Squad SS Juve Stabia,25,Alberto Gerbo,34,Italy,Central Midfield,€200k
+Squad SS Juve Stabia,7,Federico Romeo,22,Italy,Central Midfield,€175k
+Squad SS Juve Stabia,10,Christian Pierobon,22,Italy,Central Midfield,€175k
+Squad SS Juve Stabia,33,Bilal Erradi,23,Italy,Central Midfield,€100k
+Squad SS Juve Stabia,61,Gennaro Ruggiero,24,Italy,Central Midfield,€25k
+Squad SS Juve Stabia,98,Nicola Mosti,26,Italy,Attacking Midfield,€200k
+Squad SS Juve Stabia,14,Marco Meli,24,Italy,Attacking Midfield,€100k
+Squad SS Juve Stabia,17,Mariano Guarracino,21,Italy,Left Winger,€50k
+Squad SS Juve Stabia,70,Pasquale Marranzino,20,Italy,Left Winger,€25k
+Squad SS Juve Stabia,99,Enrico Piovanello,23,Italy,Right Winger,€100k
+Squad SS Juve Stabia,18,Ottavio Garau,21,Italy,Right Winger,€25k
+Squad SS Juve Stabia,11,Kevin Piscopo,26,Italy,Second Striker,€200k
+Squad SS Juve Stabia,27,Leonardo Candellone,26,Italy,Centre-Forward,€350k
+Squad SS Juve Stabia,9,Andrea Adorante,24,Italy,Centre-Forward,€175k
+Squad Monterosi Tuscia FC,67,Francesco Forte,32,Italy,Goalkeeper,€250k
+Squad Monterosi Tuscia FC,12,Andrea Rigon,20,Italy,Goalkeeper,€50k
+Squad Monterosi Tuscia FC,22,Daniele Santilli,21,Italy,Goalkeeper,€50k
+Squad Monterosi Tuscia FC,33,Emmanuel Mbende,28,Germany,Centre-Back,€225k
+Squad Monterosi Tuscia FC,23,Simone Sini,32,Italy,Centre-Back,€175k
+Squad Monterosi Tuscia FC,6,Lorenzo Borri,26,Italy,Centre-Back,€150k
+Squad Monterosi Tuscia FC,19,Danilo Piroli,34,Italy,Centre-Back,€150k
+Squad Monterosi Tuscia FC,13,Davide Cinaglia,30,Italy,Centre-Back,€75k
+Squad Monterosi Tuscia FC,15,Pietro Giordani,21,Italy,Centre-Back,€75k
+Squad Monterosi Tuscia FC,16,Angelo Tartaglia,31,Italy,Centre-Back,€75k
+Squad Monterosi Tuscia FC,3,Alessandro Di Renzo,23,Italy,Left-Back,€150k
+Squad Monterosi Tuscia FC,5,Alessandro Crescenzi,32,Italy,Left-Back,€125k
+Squad Monterosi Tuscia FC,27,Roberto Crivello,32,Italy,Left-Back,€125k
+Squad Monterosi Tuscia FC,20,Luca Bittante,30,Italy,Right-Back,€200k
+Squad Monterosi Tuscia FC,30,Filippo Tolomello,21,Italy,Defensive Midfield,€75k
+Squad Monterosi Tuscia FC,32,Fabio Scarsella,34,Italy,Central Midfield,€225k
+Squad Monterosi Tuscia FC,7,Alessandro Di Paolantonio,31,Italy,Central Midfield,€200k
+Squad Monterosi Tuscia FC,18,Samuele Parlati,27,Italy,Central Midfield,€175k
+Squad Monterosi Tuscia FC,21,Lorenzo Gavioli,24,Italy,Central Midfield,€100k
+Squad Monterosi Tuscia FC,25,Mirko Gori,31,Italy,Central Midfield,€100k
+Squad Monterosi Tuscia FC,28,Bruno Conti,21,Italy,Central Midfield,€75k
+Squad Monterosi Tuscia FC,4,Francesco Verde,24,Italy,Right Midfield,€175k
+Squad Monterosi Tuscia FC,10,Marco Frediani,30,Italy,Attacking Midfield,€100k
+Squad Monterosi Tuscia FC,17,Tommaso Fantacci,27,Italy,Attacking Midfield,€75k
+Squad Monterosi Tuscia FC,24,Francesco Golfo,29,Italy,Left Winger,€150k
+Squad Monterosi Tuscia FC,8,Davide Di Francesco,23,Italy,Left Winger,€100k
+Squad Monterosi Tuscia FC,29,Filippo Palazzino,20,Italy,Right Winger,€225k
+Squad Monterosi Tuscia FC,99,Andrea Silipo,23,Italy,Right Winger,€200k
+Squad Monterosi Tuscia FC,77,Gabriele Ferreri,19,Italy,Right Winger,€25k
+Squad Monterosi Tuscia FC,91,Michele Vano,32,Italy,Centre-Forward,€150k
+Squad Monterosi Tuscia FC,9,Umberto Eusepi,35,Italy,Centre-Forward,€100k
+Squad Monterosi Tuscia FC,11,Alessandro Rossi,27,Italy,Centre-Forward,€50k
+Squad SS Monopoli 1966,55,Ludovico Gelmi,22,Italy,Goalkeeper,€150k
+Squad SS Monopoli 1966,12,Joaquin Domingo Dalmasso,23,Argentina,Goalkeeper,€125k
+Squad SS Monopoli 1966,1,Samuele Vitale,21,Italy,Goalkeeper,€75k
+Squad SS Monopoli 1966,13,Pasquale Fazio,34,Italy,Centre-Back,€275k
+Squad SS Monopoli 1966,20,Nicola Bizzotto,34,Italy,Centre-Back,€275k
+Squad SS Monopoli 1966,4,Antony Angileri,23,Italy,Centre-Back,€150k
+Squad SS Monopoli 1966,16,Manuel Ferrini,25,Italy,Centre-Back,€125k
+Squad SS Monopoli 1966,2,Tamir Berman,23,Argentina,Centre-Back,€100k
+Squad SS Monopoli 1966,6,Michele Fornasier,30,Italy,Centre-Back,€75k
+Squad SS Monopoli 1966,95,Luca Barlocco,29,Italy,Left-Back,€150k
+Squad SS Monopoli 1966,18,Salvatore La Vardera,22,Italy,Left-Back,€75k
+Squad SS Monopoli 1966,24,Mirco De Santis,20,Italy,Left-Back,€50k
+Squad SS Monopoli 1966,14,Orlando Viteritti,30,Italy,Right-Back,€300k
+Squad SS Monopoli 1966,17,Claudio Cristallo,20,Italy,Right-Back,€75k
+Squad SS Monopoli 1966,27,Zaccaria Hamlili,32,Italy,Defensive Midfield,€125k
+Squad SS Monopoli 1966,33,Danilo Bulevardi,29,Italy,Central Midfield,€250k
+Squad SS Monopoli 1966,19,Carlo De Risio,32,Italy,Central Midfield,€175k
+Squad SS Monopoli 1966,11,Francesco Ardizzone,32,Italy,Central Midfield,€150k
+Squad SS Monopoli 1966,78,Gennaro Iaccarino,20,Italy,Central Midfield,€125k
+Squad SS Monopoli 1966,80,Mattia Vitale,19,Italy,Central Midfield,€125k
+Squad SS Monopoli 1966,77,Lorenzo Peschetola,21,Italy,Attacking Midfield,€200k
+Squad SS Monopoli 1966,30,Matteo Mazzotta,20,Italy,Attacking Midfield,€25k
+Squad SS Monopoli 1966,10,Giuseppe Borello,24,Italy,Right Winger,€175k
+Squad SS Monopoli 1966,23,Giuseppe Simone,20,Italy,Second Striker,€50k
+Squad SS Monopoli 1966,9,Christian Tommasini,26,Italy,Centre-Forward,€200k
+Squad SS Monopoli 1966,39,Francesco Grandolfo,31,Italy,Centre-Forward,€200k
+Squad SS Monopoli 1966,7,Franco Sosa,28,Argentina,Centre-Forward,€100k
+Squad SS Monopoli 1966,29,Alessandro Arioli,20,Italy,Centre-Forward,€100k
+Squad SS Monopoli 1966,8,Andrea De Paoli,24,Italy,Centre-Forward,€75k
+Squad SS Monopoli 1966,28,Marin Cubretovic,19,Croatia,Striker,€50k
+Squad Taranto FC 1927,26,Gianmarco Vannucchi,28,Italy,Goalkeeper,€350k
+Squad Taranto FC 1927,1,Andrea Loliva,24,Italy,Goalkeeper,€25k
+Squad Taranto FC 1927,22,Federico Costantino,19,Italy,Goalkeeper,-
+Squad Taranto FC 1927,15,Patrick Enrici,22,Italy,Centre-Back,€325k
+Squad Taranto FC 1927,6,Cristian Riggio,27,Italy,Centre-Back,€125k
+Squad Taranto FC 1927,30,Mirko Miceli,32,Italy,Centre-Back,€125k
+Squad Taranto FC 1927,37,Christian Travaglini,24,Italy,Left-Back,€150k
+Squad Taranto FC 1927,16,Alessio Luciani,34,Italy,Right-Back,€300k
+Squad Taranto FC 1927,24,Federico Valietti,25,Italy,Right-Back,€100k
+Squad Taranto FC 1927,8,Riccardo Ladinetti,23,Italy,Defensive Midfield,€175k
+Squad Taranto FC 1927,29,Loris Zonta,26,Italy,Central Midfield,€250k
+Squad Taranto FC 1927,23,Simone Calvano,30,Italy,Central Midfield,€200k
+Squad Taranto FC 1927,28,Marco Fiorani,22,Italy,Central Midfield,€150k
+Squad Taranto FC 1927,21,Antonio Matera,27,Italy,Central Midfield,€100k
+Squad Taranto FC 1927,27,Gianmarco Papaserio,24,Italy,Central Midfield,€25k
+Squad Taranto FC 1927,72,Gianluca Mastromonaco,24,Italy,Right Midfield,€125k
+Squad Taranto FC 1927,70,Federico Capone,21,Italy,Right Midfield,€10k
+Squad Taranto FC 1927,3,Antonio Ferrara,25,Italy,Left Midfield,€200k
+Squad Taranto FC 1927,17,Ciro Panico,24,Italy,Left Midfield,€200k
+Squad Taranto FC 1927,14,Alfredo Bifulco,27,Italy,Left Winger,€200k
+Squad Taranto FC 1927,77,Mamadou Kanoute,30,Senegal,Right Winger,€350k
+Squad Taranto FC 1927,96,Francesco Orlando,27,Italy,Right Winger,€100k
+Squad Taranto FC 1927,99,Michael Fabbro,27,Italy,Centre-Forward,€200k
+Squad Taranto FC 1927,10,Simone Simeri,31,Italy,Centre-Forward,€150k
+Squad Taranto FC 1927,90,Michael De Marchi,29,Italy,Centre-Forward,€125k
+Squad SS Turris Calcio,12,Richard Marcone,31,Italy,Goalkeeper,€200k
+Squad SS Turris Calcio,22,Andrea Pagno,22,Italy,Goalkeeper,€175k
+Squad SS Turris Calcio,1,Simone Iuliano,17,Italy,Goalkeeper,€10k
+Squad SS Turris Calcio,13,Alessio Maestrelli,20,Italy,Centre-Back,€150k
+Squad SS Turris Calcio,89,Luca Ricci,35,Italy,Centre-Back,€150k
+Squad SS Turris Calcio,37,Tommaso Panelli,29,Italy,Centre-Back,€125k
+Squad SS Turris Calcio,6,Laurens Serpe,23,Italy,Centre-Back,€100k
+Squad SS Turris Calcio,5,Niccolò Cocetta,20,Italy,Centre-Back,€75k
+Squad SS Turris Calcio,29,Francesco Clemente,19,Italy,Centre-Back,-
+Squad SS Turris Calcio,27,Sergio Contessa,34,Italy,Left-Back,€275k
+Squad SS Turris Calcio,38,Giuseppe Nicolao,30,Italy,Left-Back,€200k
+Squad SS Turris Calcio,33,Lorenzo D'Alessio,22,Italy,Left-Back,€125k
+Squad SS Turris Calcio,28,Arturo Onda,23,Italy,Right-Back,€75k
+Squad SS Turris Calcio,2,Stefano Esempio,25,Italy,Right-Back,€50k
+Squad SS Turris Calcio,4,Daniele Franco,29,Italy,Defensive Midfield,€200k
+Squad SS Turris Calcio,16,Federico Casarini,34,Italy,Central Midfield,€275k
+Squad SS Turris Calcio,23,Jacopo Scaccabarozzi,29,Italy,Central Midfield,€225k
+Squad SS Turris Calcio,77,Nicholas Siega,33,Italy,Central Midfield,€75k
+Squad SS Turris Calcio,99,Samuel Pugliese,19,Italy,Central Midfield,€75k
+Squad SS Turris Calcio,20,Antonio Primicile,19,Italy,Central Midfield,€10k
+Squad SS Turris Calcio,72,Matteo Saccani,23,Italy,Right Midfield,€200k
+Squad SS Turris Calcio,24,Gianluca Cum,21,Italy,Right Midfield,€100k
+Squad SS Turris Calcio,17,Luca Nocerino,19,Italy,Left Winger,€125k
+Squad SS Turris Calcio,7,Gianluca D'Auria,27,Italy,Left Winger,€100k
+Squad SS Turris Calcio,10,Luca Giannone,34,Italy,Right Winger,€300k
+Squad SS Turris Calcio,11,Francesco De Felice,27,Italy,Right Winger,€150k
+Squad SS Turris Calcio,14,Fabian Pavone,24,Italy,Right Winger,€100k
+Squad SS Turris Calcio,19,Riccardo Maniero,36,Italy,Centre-Forward,€250k
+Squad SS Turris Calcio,31,Sulayman Jallow,27,The Gambia,Centre-Forward,€125k
+Squad SS Turris Calcio,-,Juan Martin Dalbón,22,Argentina,Striker,-
+Squad Giugliano Calcio 1928,12,Gabriele Baldi,19,Italy,Goalkeeper,€150k
+Squad Giugliano Calcio 1928,1,Danilo Russo,36,Italy,Goalkeeper,€75k
+Squad Giugliano Calcio 1928,22,Aniello Scognamiglio,19,Italy,Goalkeeper,-
+Squad Giugliano Calcio 1928,24,Marco Caldore,30,Italy,Centre-Back,€275k
+Squad Giugliano Calcio 1928,28,Riccardo Cargnelutti,25,Italy,Centre-Back,€225k
+Squad Giugliano Calcio 1928,5,Damiano Menna,28,Italy,Centre-Back,€175k
+Squad Giugliano Calcio 1928,13,Walter Zullo,33,Italy,Centre-Back,€75k
+Squad Giugliano Calcio 1928,44,Benedetto Barba,21,Italy,Centre-Back,€75k
+Squad Giugliano Calcio 1928,6,Gennaro Scognamiglio,36,Italy,Centre-Back,€25k
+Squad Giugliano Calcio 1928,11,Sulaiman Oyewale,23,Nigeria,Left-Back,€150k
+Squad Giugliano Calcio 1928,3,Moustapha Yabre,21,Italy,Left-Back,€75k
+Squad Giugliano Calcio 1928,27,Genny Rondinella,22,Italy,Right-Back,€100k
+Squad Giugliano Calcio 1928,19,Aniello Boccia,21,Italy,Right-Back,€50k
+Squad Giugliano Calcio 1928,20,Andrea Valdesi,20,Italy,Right-Back,€50k
+Squad Giugliano Calcio 1928,16,Luca Berardocco,33,Italy,Defensive Midfield,€200k
+Squad Giugliano Calcio 1928,34,Sergio Maselli,23,Italy,Defensive Midfield,€175k
+Squad Giugliano Calcio 1928,14,Gladestony,30,Brazil,Central Midfield,€275k
+Squad Giugliano Calcio 1928,8,Roberto De Rosa,29,Italy,Central Midfield,€200k
+Squad Giugliano Calcio 1928,7,Antonio Romano,28,Italy,Central Midfield,€125k
+Squad Giugliano Calcio 1928,77,Enrico Oviszach,23,Italy,Right Midfield,€150k
+Squad Giugliano Calcio 1928,23,Carmine Giorgione,32,Italy,Attacking Midfield,€250k
+Squad Giugliano Calcio 1928,80,Flavio Di Dio,22,Italy,Left Winger,€125k
+Squad Giugliano Calcio 1928,30,Flavio Ciuferri,20,Italy,Right Winger,€200k
+Squad Giugliano Calcio 1928,15,Vincenzo Perdonó,20,Italy,Second Striker,-
+Squad Giugliano Calcio 1928,10,Francesco Salvemini,27,Italy,Centre-Forward,€175k
+Squad Giugliano Calcio 1928,25,Carmine De Sena,32,Italy,Centre-Forward,€175k
+Squad Giugliano Calcio 1928,9,Abou Diop,30,Senegal,Centre-Forward,€150k
+Squad Giugliano Calcio 1928,32,Ibourahima Baldé,25,Spain,Centre-Forward,€100k
+Squad Giugliano Calcio 1928,18,Massimo Grasso,19,Italy,Centre-Forward,€10k
+Squad Potenza Calcio,24,Tommaso Cucchietti,26,Italy,Goalkeeper,€125k
+Squad Potenza Calcio,22,Fabrizio Alastra,26,Italy,Goalkeeper,€75k
+Squad Potenza Calcio,12,Alexander Iacovino,18,Italy,Goalkeeper,€10k
+Squad Potenza Calcio,5,Nicolò Armini,23,Italy,Centre-Back,€200k
+Squad Potenza Calcio,55,Andrea Hristov,25,Bulgaria,Centre-Back,€175k
+Squad Potenza Calcio,3,Rosario Maddaloni,25,Italy,Centre-Back,€125k
+Squad Potenza Calcio,16,Andrea Sbraga,32,Italy,Centre-Back,€100k
+Squad Potenza Calcio,19,Federico Pace,24,Italy,Left-Back,€150k
+Squad Potenza Calcio,98,Cristian Hadziosmanovic,25,Montenegro,Right-Back,€175k
+Squad Potenza Calcio,36,Riccardo Spaltro,24,Italy,Right-Back,€150k
+Squad Potenza Calcio,28,Pasquale Schiattarella,36,Italy,Defensive Midfield,€300k
+Squad Potenza Calcio,7,Demetrio Steffè,27,Italy,Central Midfield,€225k
+Squad Potenza Calcio,81,Kevin Candellori,27,Italy,Central Midfield,€225k
+Squad Potenza Calcio,23,Manuele Castorani,24,Italy,Central Midfield,€150k
+Squad Potenza Calcio,26,Bruno Verrengia,20,Italy,Central Midfield,€100k
+Squad Potenza Calcio,2,Matteo Marchisano,19,Italy,Right Midfield,€50k
+Squad Potenza Calcio,29,Riccardo Burgio,22,Italy,Left Midfield,€75k
+Squad Potenza Calcio,70,Edoardo Saporiti,22,Italy,Attacking Midfield,€125k
+Squad Potenza Calcio,17,Francesco Maisto,20,Italy,Attacking Midfield,€100k
+Squad Potenza Calcio,10,Andrea Di Grazia,27,Italy,Left Winger,€250k
+Squad Potenza Calcio,77,Giovanni Volpe,21,Italy,Left Winger,€150k
+Squad Potenza Calcio,9,Salvatore Caturano,33,Italy,Centre-Forward,€350k
+Squad Potenza Calcio,90,Raúl Asencio,25,Spain,Centre-Forward,€250k
+Squad Potenza Calcio,11,Mattia Rossetti,27,Italy,Centre-Forward,€100k
+Squad Virtus Francavilla Calcio,89,Paolo Branduani,35,Italy,Goalkeeper,€200k
+Squad Virtus Francavilla Calcio,12,Igor Lucatelli,20,Italy,Goalkeeper,€100k
+Squad Virtus Francavilla Calcio,1,Francesco Carretta,19,Italy,Goalkeeper,€10k
+Squad Virtus Francavilla Calcio,-,Antonio Di Serio,18,Italy,Goalkeeper,-
+Squad Virtus Francavilla Calcio,14,Ivo Molnar,29,Croatia,Centre-Back,€250k
+Squad Virtus Francavilla Calcio,6,Andrea Gasbarro,29,Italy,Centre-Back,€200k
+Squad Virtus Francavilla Calcio,4,Fabio Gavazzi,36,Italy,Centre-Back,€150k
+Squad Virtus Francavilla Calcio,40,Andrea Accardi,28,Italy,Centre-Back,€125k
+Squad Virtus Francavilla Calcio,3,Davide De Marino,24,Italy,Centre-Back,€100k
+Squad Virtus Francavilla Calcio,5,Juan Monteagudo,28,Argentina,Centre-Back,€75k
+Squad Virtus Francavilla Calcio,15,Eduard Duțu,22,Romania,Centre-Back,€50k
+Squad Virtus Francavilla Calcio,72,Marco Fekete,18,Italy,Centre-Back,€10k
+Squad Virtus Francavilla Calcio,50,Gabriele Ingrosso,23,Italy,Left-Back,€150k
+Squad Virtus Francavilla Calcio,70,Cassio Cardoselli,25,Italy,Defensive Midfield,€125k
+Squad Virtus Francavilla Calcio,7,Kevin Biondi,25,Italy,Central Midfield,€250k
+Squad Virtus Francavilla Calcio,27,Mohamed Laaribi,31,Morocco,Central Midfield,€200k
+Squad Virtus Francavilla Calcio,8,Tommaso Di Marco,20,Italy,Central Midfield,€175k
+Squad Virtus Francavilla Calcio,30,Federico Macca,20,Italy,Central Midfield,€175k
+Squad Virtus Francavilla Calcio,19,Nicolas Izzillo,29,Italy,Central Midfield,€150k
+Squad Virtus Francavilla Calcio,21,Andrea Risolo,27,Italy,Central Midfield,€125k
+Squad Virtus Francavilla Calcio,17,Francesco Carella,22,Italy,Central Midfield,€50k
+Squad Virtus Francavilla Calcio,99,Vincenzo Garofalo,24,Italy,Central Midfield,€50k
+Squad Virtus Francavilla Calcio,23,Simone Nicoli,25,Italy,Left Midfield,€50k
+Squad Virtus Francavilla Calcio,20,Vittorio Agostinelli,22,Italy,Attacking Midfield,€100k
+Squad Virtus Francavilla Calcio,11,Samuele Neglia,32,Italy,Left Winger,€150k
+Squad Virtus Francavilla Calcio,9,Gabriele Artistico,21,Italy,Centre-Forward,€200k
+Squad Virtus Francavilla Calcio,10,Alessandro Polidori,32,Italy,Centre-Forward,€175k
+Squad Virtus Francavilla Calcio,18,Gianluca Contini,22,Italy,Centre-Forward,€150k
+Squad Virtus Francavilla Calcio,25,Simone Serio,18,Italy,Striker,€10k
+Squad Virtus Francavilla Calcio,29,Angelo Vapore,18,Italy,Centre-Forward,€10k
+Squad Sorrento 1945,22,Andrea D'Aniello,20,Italy,Goalkeeper,€200k
+Squad Sorrento 1945,1,Ludovico Del Sorbo,19,Italy,Goalkeeper,€150k
+Squad Sorrento 1945,97,Mirko Albertazzi,26,Italy,Goalkeeper,€100k
+Squad Sorrento 1945,9,Edoardo Blondett,32,Italy,Centre-Back,€200k
+Squad Sorrento 1945,25,Raul Morichelli,21,Italy,Centre-Back,€150k
+Squad Sorrento 1945,6,Francesco Fusco,25,Italy,Centre-Back,€125k
+Squad Sorrento 1945,26,Vincenzo Di Somma,27,Italy,Centre-Back,€75k
+Squad Sorrento 1945,14,Marco Chiricallo,21,Italy,Centre-Back,€10k
+Squad Sorrento 1945,19,Lorenzo Colombini,23,Italy,Left-Back,€150k
+Squad Sorrento 1945,27,Ciro Loreto,25,Italy,Left-Back,€150k
+Squad Sorrento 1945,33,Antonio Vitiello,21,Italy,Right-Back,€125k
+Squad Sorrento 1945,2,Gianmarco Todisco,21,Italy,Right-Back,€100k
+Squad Sorrento 1945,-,Andrea Palella,19,Italy,Defensive Midfield,€50k
+Squad Sorrento 1945,15,Alberto De Francesco,29,Italy,Central Midfield,€300k
+Squad Sorrento 1945,3,Gaetano Vitale,22,Italy,Central Midfield,€175k
+Squad Sorrento 1945,4,Giuseppe La Monica,27,Italy,Central Midfield,€175k
+Squad Sorrento 1945,8,Marco Cuccurullo,24,Italy,Central Midfield,€100k
+Squad Sorrento 1945,29,Pietro Messori,23,Italy,Central Midfield,€100k
+Squad Sorrento 1945,30,Angelo Bonavolontà,23,Italy,Central Midfield,€75k
+Squad Sorrento 1945,7,Salvatore Scala,22,Italy,Left Winger,€125k
+Squad Sorrento 1945,98,Pasquale Riccardi,20,Italy,Left Winger,€25k
+Squad Sorrento 1945,21,Aristidi Kolaj,25,Albania,Right Winger,€275k
+Squad Sorrento 1945,11,Ismaila Badje,22,The Gambia,Right Winger,€75k
+Squad Sorrento 1945,10,Riccardo Martignago,32,Italy,Second Striker,€100k
+Squad Sorrento 1945,77,Ciro Capasso,21,Italy,Second Striker,€50k
+Squad Sorrento 1945,91,Mario Ravasio,25,Italy,Centre-Forward,€150k
+Squad Brindisi FC,22,Ivan Saio,22,Italy,Goalkeeper,€225k
+Squad Brindisi FC,1,Vittorio Antonino,25,Italy,Goalkeeper,€50k
+Squad Brindisi FC,12,Cristiano Auro,19,Italy,Goalkeeper,€10k
+Squad Brindisi FC,13,Tano Bonnín,33,Dominican Republic,Centre-Back,€100k
+Squad Brindisi FC,4,Franco Gorzelewski,27,Argentina,Centre-Back,€75k
+Squad Brindisi FC,26,Tommaso Merletti,22,Italy,Centre-Back,€75k
+Squad Brindisi FC,15,Niccolò Bellucci,22,Italy,Centre-Back,€25k
+Squad Brindisi FC,5,Gianluca Fiorentino,19,Italy,Centre-Back,-
+Squad Brindisi FC,17,Giovanni Pinto,32,Italy,Left-Back,€175k
+Squad Brindisi FC,33,Luca Falbo,24,Italy,Left-Back,€150k
+Squad Brindisi FC,27,Marco Calderoni,35,Italy,Left-Back,€100k
+Squad Brindisi FC,3,Niccolò Monti,22,Italy,Left-Back,€50k
+Squad Brindisi FC,16,Bruno Valenti,21,Argentina,Right-Back,€125k
+Squad Brindisi FC,34,Davide Galazzini,24,Italy,Right-Back,€100k
+Squad Brindisi FC,2,Antonello Vona,20,Italy,Right-Back,€50k
+Squad Brindisi FC,8,Mattia Speranza,20,Italy,Defensive Midfield,€75k
+Squad Brindisi FC,23,Vincenzo Spingola,19,Italy,Defensive Midfield,€50k
+Squad Brindisi FC,20,Valerio Labriola,23,Italy,Central Midfield,€125k
+Squad Brindisi FC,73,Niccolò Bagatti,25,Italy,Central Midfield,€125k
+Squad Brindisi FC,36,Carlo Martorelli,24,Italy,Central Midfield,€75k
+Squad Brindisi FC,6,Winston Ceesay,23,Sierra Leone,Central Midfield,€50k
+Squad Brindisi FC,10,Davide Petrucci,32,Italy,Central Midfield,€50k
+Squad Brindisi FC,70,Malik Olalekan Opoola,19,Nigeria,Right Winger,€100k
+Squad Brindisi FC,30,Gianmarco De Feo,29,Italy,Right Winger,€50k
+Squad Brindisi FC,77,Patrizio Zerbo,18,Italy,Right Winger,-
+Squad Brindisi FC,29,Marcello Trotta,31,Italy,Centre-Forward,€300k
+Squad Brindisi FC,9,Cristian Bunino,27,Italy,Centre-Forward,€175k
+Squad Brindisi FC,44,Mattia Pagliuca,21,Italy,Centre-Forward,€100k
+Squad Brindisi FC,19,Angelo Guida,21,Italy,Centre-Forward,€50k
+Squad Brindisi FC,90,Lorenzo Grassi,19,Italy,Centre-Forward,€25k
+Squad Brindisi FC,7,Daniele Vantaggiato,39,Italy,Centre-Forward,€10k
+Squad ACR Messina,1,Edoardo Piana,20,Italy,Goalkeeper,€25k
+Squad ACR Messina,30,Ermanno Fumagalli,42,Italy,Goalkeeper,€25k
+Squad ACR Messina,22,Antonio Di Bella,17,Italy,Goalkeeper,-
+Squad ACR Messina,6,Marco Manetta,32,Italy,Centre-Back,€125k
+Squad ACR Messina,23,Federico Pacciardi,29,Italy,Centre-Back,€75k
+Squad ACR Messina,4,Daniel Dumbravanu,22,Moldova,Centre-Back,€50k
+Squad ACR Messina,24,Pasqualino Ortisi,21,Italy,Left-Back,€50k
+Squad ACR Messina,3,Samuele Zona,21,Italy,Left-Back,€25k
+Squad ACR Messina,7,Damiano Lia,26,Italy,Right-Back,€50k
+Squad ACR Messina,21,Giuseppe Salvo,21,Italy,Right-Back,€25k
+Squad ACR Messina,33,Vincenzo Polito,25,Italy,Right-Back,€25k
+Squad ACR Messina,83,Jacopo Fumagalli,18,Italy,Midfielder,€10k
+Squad ACR Messina,5,Marco Firenze,30,Italy,Central Midfield,€150k
+Squad ACR Messina,16,Domenico Franco,31,Italy,Central Midfield,€150k
+Squad ACR Messina,8,Giulio Frisenna,22,Italy,Central Midfield,€100k
+Squad ACR Messina,19,Francesco Giunta,25,Italy,Central Midfield,€50k
+Squad ACR Messina,91,Marco Civilleri,32,Italy,Central Midfield,€50k
+Squad ACR Messina,90,Antonino Ragusa,34,Italy,Left Winger,€250k
+Squad ACR Messina,11,Marco Zunno,22,Italy,Left Winger,€75k
+Squad ACR Messina,77,Francesco Scafetta,21,Italy,Left Winger,€75k
+Squad ACR Messina,70,Marco Rosafio,30,Italy,Right Winger,€200k
+Squad ACR Messina,10,Michele Emmausso,26,Italy,Right Winger,€125k
+Squad ACR Messina,27,Carlo Cavallo,22,Italy,Right Winger,€50k
+Squad ACR Messina,91,Sabino Signorile,22,Italy,Right Winger,€25k
+Squad ACR Messina,28,Vincenzo Plescia,26,Italy,Centre-Forward,€100k
+Squad ACR Messina,9,Pierluca Luciani,22,Italy,Centre-Forward,€25k
