@@ -76,7 +76,7 @@ with tab4:
 sinbang = pd.read_csv("./useData/gk.csv")
 st.dataframe(sinbang, hide_index = True, use_container_width=True)
 #데이터 불러오기
-raw_file = open("../useData/player_link_url.txt", "r")
+raw_file = open("./useData/player_link_url.txt", "r")
 raw_list = raw_file.read().split("\n")
 st.download_button(label="Download rawdata",
         data=f"'{raw_list}'",
