@@ -1,0 +1,1473 @@
+,leagueNation,league,homeTeam,awayTeam,homeScore,awayScore,matchResult
+0,England,EPL,Burnley,Manchester City,0,3,Away
+1,England,EPL,Arsenal,Nottingham Forest,2,1,Home
+2,England,EPL,AFC Bournemouth,West Ham United,1,1,Draw
+3,England,EPL,Brighton & Hove Albion,Luton Town,4,1,Home
+4,England,EPL,Everton,Fulham,0,1,Away
+5,England,EPL,Sheffield United,Crystal Palace,0,1,Away
+6,England,EPL,Newcastle United,Aston Villa,5,1,Home
+7,England,EPL,Brentford,Tottenham Hotspur,2,2,Draw
+8,England,EPL,Chelsea,Liverpool,1,1,Draw
+9,England,EPL,Manchester United,Wolverhampton Wanderers,1,0,Home
+10,England,EPL,Nottingham Forest,Sheffield United,2,1,Home
+11,England,EPL,Fulham,Brentford,0,3,Away
+12,England,EPL,Liverpool,AFC Bournemouth,3,1,Home
+13,England,EPL,Wolverhampton Wanderers,Brighton & Hove Albion,1,4,Away
+14,England,EPL,Tottenham Hotspur,Manchester United,2,0,Home
+15,England,EPL,Manchester City,Newcastle United,1,0,Home
+16,England,EPL,Aston Villa,Everton,4,0,Home
+17,England,EPL,West Ham United,Chelsea,3,1,Home
+18,England,EPL,Crystal Palace,Arsenal,0,1,Away
+19,England,EPL,Luton Town,Burnley,1,2,Away
+20,England,EPL,Chelsea,Luton Town,3,0,Home
+21,England,EPL,AFC Bournemouth,Tottenham Hotspur,0,2,Away
+22,England,EPL,Arsenal,Fulham,2,2,Draw
+23,England,EPL,Brentford,Crystal Palace,1,1,Draw
+24,England,EPL,Everton,Wolverhampton Wanderers,0,1,Away
+25,England,EPL,Manchester United,Nottingham Forest,3,2,Home
+26,England,EPL,Brighton & Hove Albion,West Ham United,1,3,Away
+27,England,EPL,Burnley,Aston Villa,1,3,Away
+28,England,EPL,Sheffield United,Manchester City,1,2,Away
+29,England,EPL,Newcastle United,Liverpool,1,2,Away
+30,England,EPL,Luton Town,West Ham United,1,2,Away
+31,England,EPL,Sheffield United,Everton,2,2,Draw
+32,England,EPL,Brentford,AFC Bournemouth,2,2,Draw
+33,England,EPL,Burnley,Tottenham Hotspur,2,5,Away
+34,England,EPL,Chelsea,Nottingham Forest,0,1,Away
+35,England,EPL,Manchester City,Fulham,5,1,Home
+36,England,EPL,Brighton & Hove Albion,Newcastle United,3,1,Home
+37,England,EPL,Crystal Palace,Wolverhampton Wanderers,3,2,Home
+38,England,EPL,Liverpool,Aston Villa,3,0,Home
+39,England,EPL,Arsenal,Manchester United,3,1,Home
+40,England,EPL,Wolverhampton Wanderers,Liverpool,1,3,Away
+41,England,EPL,Aston Villa,Crystal Palace,3,1,Home
+42,England,EPL,Fulham,Luton Town,1,0,Home
+43,England,EPL,Manchester United,Brighton & Hove Albion,1,3,Away
+44,England,EPL,Tottenham Hotspur,Sheffield United,2,1,Home
+45,England,EPL,West Ham United,Manchester City,1,3,Away
+46,England,EPL,Newcastle United,Brentford,1,0,Home
+47,England,EPL,AFC Bournemouth,Chelsea,0,0,Draw
+48,England,EPL,Everton,Arsenal,0,1,Away
+49,England,EPL,Nottingham Forest,Burnley,1,1,Draw
+50,England,EPL,Crystal Palace,Fulham,0,0,Draw
+51,England,EPL,Luton Town,Wolverhampton Wanderers,1,1,Draw
+52,England,EPL,Manchester City,Nottingham Forest,2,0,Home
+53,England,EPL,Brentford,Everton,1,3,Away
+54,England,EPL,Burnley,Manchester United,0,1,Away
+55,England,EPL,Arsenal,Tottenham Hotspur,2,2,Draw
+56,England,EPL,Brighton & Hove Albion,AFC Bournemouth,3,1,Home
+57,England,EPL,Chelsea,Aston Villa,0,1,Away
+58,England,EPL,Liverpool,West Ham United,3,1,Home
+59,England,EPL,Sheffield United,Newcastle United,0,8,Away
+60,England,EPL,Aston Villa,Brighton & Hove Albion,6,1,Home
+61,England,EPL,AFC Bournemouth,Arsenal,0,4,Away
+62,England,EPL,Everton,Luton Town,1,2,Away
+63,England,EPL,Manchester United,Crystal Palace,0,1,Away
+64,England,EPL,Newcastle United,Burnley,2,0,Home
+65,England,EPL,West Ham United,Sheffield United,2,0,Home
+66,England,EPL,Wolverhampton Wanderers,Manchester City,2,1,Home
+67,England,EPL,Tottenham Hotspur,Liverpool,2,1,Home
+68,England,EPL,Nottingham Forest,Brentford,1,1,Draw
+69,England,EPL,Fulham,Chelsea,0,2,Away
+70,England,EPL,Luton Town,Tottenham Hotspur,0,1,Away
+71,England,EPL,Burnley,Chelsea,1,4,Away
+72,England,EPL,Everton,AFC Bournemouth,3,0,Home
+73,England,EPL,Fulham,Sheffield United,3,1,Home
+74,England,EPL,Manchester United,Brentford,2,1,Home
+75,England,EPL,Crystal Palace,Nottingham Forest,0,0,Draw
+76,England,EPL,Brighton & Hove Albion,Liverpool,2,2,Draw
+77,England,EPL,West Ham United,Newcastle United,2,2,Draw
+78,England,EPL,Wolverhampton Wanderers,Aston Villa,1,1,Draw
+79,England,EPL,Arsenal,Manchester City,1,0,Home
+80,England,EPL,Liverpool,Everton,2,0,Home
+81,England,EPL,AFC Bournemouth,Wolverhampton Wanderers,1,2,Away
+82,England,EPL,Brentford,Burnley,3,0,Home
+83,England,EPL,Manchester City,Brighton & Hove Albion,2,1,Home
+84,England,EPL,Newcastle United,Crystal Palace,4,0,Home
+85,England,EPL,Nottingham Forest,Luton Town,2,2,Draw
+86,England,EPL,Chelsea,Arsenal,2,2,Draw
+87,England,EPL,Sheffield United,Manchester United,1,2,Away
+88,England,EPL,Aston Villa,West Ham United,4,1,Home
+89,England,EPL,Tottenham,Fulham,2,0,Home
+90,England,EPL,Crystal Palace,Tottenham Hotspur,1,2,Away
+91,England,EPL,Chelsea,Brentford,0,2,Away
+92,England,EPL,AFC Bournemouth,Burnley,2,1,Home
+93,England,EPL,Arsenal,Sheffield United,5,0,Home
+94,England,EPL,Wolverhampton Wanderers,Newcastle United,2,2,Draw
+95,England,EPL,West Ham United,Everton,0,1,Away
+96,England,EPL,Aston Villa,Luton Town,3,1,Home
+97,England,EPL,Brighton & Hove Albion,Fulham,1,1,Draw
+98,England,EPL,Liverpool,Nottingham Forest,3,0,Home
+99,England,EPL,Manchester United,Manchester City,0,3,Away
+100,England,EPL,Fulham,Manchester United,0,1,Away
+101,England,EPL,Brentford,West Ham United,3,2,Home
+102,England,EPL,Burnley,Crystal Palace,0,2,Away
+103,England,EPL,Everton,Brighton & Hove Albion,1,1,Draw
+104,England,EPL,Manchester City,AFC Bournemouth,6,1,Home
+105,England,EPL,Sheffield United,Wolverhampton Wanderers,2,1,Home
+106,England,EPL,Newcastle United,Arsenal,1,0,Home
+107,England,EPL,Nottingham Forest,Aston Villa,2,0,Home
+108,England,EPL,Luton Town,Liverpool,1,1,Draw
+109,England,EPL,Tottenham Hotspur,Chelsea,1,4,Away
+110,England,EPL,Wolverhampton Wanderers,Tottenham Hotspur,2,1,Home
+111,England,EPL,Arsenal,Burnley,3,1,Home
+112,England,EPL,Crystal Palace,Everton,2,3,Away
+113,England,EPL,Manchester United,Luton Town,1,0,Home
+114,England,EPL,AFC Bournemouth,Newcastle United,2,0,Home
+115,England,EPL,Aston Villa,Fulham,3,1,Home
+116,England,EPL,Brighton & Hove Albion,Sheffield United,1,1,Draw
+117,England,EPL,Liverpool,Brentford,3,0,Home
+118,England,EPL,West Ham United,Nottingham Forest,3,2,Home
+119,England,EPL,Chelsea,Manchester City,4,4,Draw
+120,England,EPL,Manchester City,Liverpool,1,1,Draw
+121,England,EPL,Burnley,West Ham United,1,2,Away
+122,England,EPL,Luton Town,Crystal Palace,2,1,Home
+123,England,EPL,Newcastle United,Chelsea,4,1,Home
+124,England,EPL,Nottingham Forest,Brighton & Hove Albion,2,3,Away
+125,England,EPL,Sheffield United,AFC Bournemouth,1,3,Away
+126,England,EPL,Brentford,Arsenal,0,1,Away
+127,England,EPL,Tottenham Hotspur,Aston Villa,1,2,Away
+128,England,EPL,Everton,Manchester United,0,3,Away
+129,England,EPL,Fulham,Wolverhampton Wanderers,3,2,Home
+130,England,EPL,Arsenal,Wolverhampton Wanderers,2,1,Home
+131,England,EPL,Brentford,Luton Town,3,1,Home
+132,England,EPL,Burnley,Sheffield United,5,0,Home
+133,England,EPL,Nottingham Forest,Everton,0,1,Away
+134,England,EPL,Newcastle United,Manchester United,1,0,Home
+135,England,EPL,AFC Bournemouth,Aston Villa,2,2,Draw
+136,England,EPL,Chelsea,Brighton & Hove Albion,3,2,Home
+137,England,EPL,Liverpool,Fulham,4,3,Home
+138,England,EPL,West Ham United,Crystal Palace,1,1,Draw
+139,England,EPL,Manchester City,Tottenham Hotspur,3,3,Draw
+140,England,EPL,Wolverhampton Wanderers,Burnley,1,0,Home
+141,England,EPL,Luton Town,Arsenal,3,4,Away
+142,England,EPL,Brighton & Hove Albion,Brentford,2,1,Home
+143,England,EPL,Crystal Palace,AFC Bournemouth,0,2,Away
+144,England,EPL,Fulham,Nottingham Forest,5,0,Home
+145,England,EPL,Sheffield United,Liverpool,0,2,Away
+146,England,EPL,Aston Villa,Manchester City,1,0,Home
+147,England,EPL,Manchester United,Chelsea,2,1,Home
+148,England,EPL,Everton,Newcastle United,3,0,Home
+149,England,EPL,Tottenham Hotspur,West Ham United,1,2,Away
+150,England,EPL,Crystal Palace,Liverpool,1,2,Away
+151,England,EPL,Brighton & Hove Albion,Burnley,1,1,Draw
+152,England,EPL,Manchester United,AFC Bournemouth,0,3,Away
+153,England,EPL,Sheffield United,Brentford,1,0,Home
+154,England,EPL,Wolverhampton Wanderers,Nottingham Forest,1,1,Draw
+155,England,EPL,Aston Villa,Arsenal,1,0,Home
+156,England,EPL,Everton,Chelsea,2,0,Home
+157,England,EPL,Fulham,West Ham United,5,0,Home
+158,England,EPL,Luton Town,Manchester City,1,2,Away
+159,England,EPL,Tottenham Hotspur,Newcastle United,4,1,Home
+160,England,EPL,Nottingham Forest,Tottenham Hotspur,0,2,Away
+161,England,EPL,AFC Bournemouth,Luton Town,오전,12,Home
+162,England,EPL,Chelsea,Sheffield United,2,0,Home
+163,England,EPL,Manchester City,Crystal Palace,2,2,Draw
+164,England,EPL,Newcastle United,Fulham,3,0,Home
+165,England,EPL,Burnley,Everton,0,2,Away
+166,England,EPL,Arsenal,Brighton & Hove Albion,2,0,Home
+167,England,EPL,Brentford,Aston Villa,1,2,Away
+168,England,EPL,West Ham United,Wolverhampton Wanderers,3,0,Home
+169,England,EPL,Liverpool,Manchester United,0,0,Draw
+170,England,EPL,AFC Bournemouth,Luton Town,4,3,Home
+171,England,EPL,Crystal Palace,Brighton & Hove Albion,1,1,Draw
+172,England,EPL,Aston Villa,Sheffield United,1,1,Draw
+173,England,EPL,West Ham United,Manchester United,2,0,Home
+174,England,EPL,Fulham,Burnley,0,2,Away
+175,England,EPL,Luton Town,Newcastle United,1,0,Home
+176,England,EPL,Nottingham Forest,AFC Bournemouth,2,3,Away
+177,England,EPL,Tottenham Hotspur,Everton,2,1,Home
+178,England,EPL,Liverpool,Arsenal,1,1,Draw
+179,England,EPL,Wolverhampton Wanderers,Chelsea,2,1,Home
+180,England,EPL,Manchester City,Brentford,1,0,Home
+181,England,EPL,Newcastle United,Nottingham Forest,1,3,Away
+182,England,EPL,AFC Bournemouth,Fulham,3,0,Home
+183,England,EPL,Sheffield United,Luton Town,2,3,Away
+184,England,EPL,Burnley,Liverpool,0,2,Away
+185,England,EPL,Manchester United,Aston Villa,3,2,Home
+186,England,EPL,Brentford,Wolverhampton Wanderers,1,4,Away
+187,England,EPL,Chelsea,Crystal Palace,2,1,Home
+188,England,EPL,Everton,Manchester City,1,3,Away
+189,England,EPL,Brighton & Hove Albion,Tottenham Hotspur,4,2,Home
+190,England,EPL,Arsenal,West Ham United,0,2,Away
+191,England,EPL,Luton Town,Chelsea,2,3,Away
+192,England,EPL,Aston Villa,Burnley,3,2,Home
+193,England,EPL,Crystal Palace,Brentford,3,1,Home
+194,England,EPL,Manchester City,Sheffield United,2,0,Home
+195,England,EPL,Wolverhampton Wanderers,Everton,3,0,Home
+196,England,EPL,Nottingham Forest,Manchester United,2,1,Home
+197,England,EPL,Fulham,Arsenal,2,1,Home
+198,England,EPL,Tottenham Hotspur,AFC Bournemouth,3,1,Home
+199,England,EPL,Liverpool,Newcastle United,4,2,Home
+200,England,EPL,West Ham United,Brighton & Hove Albion,0,0,Draw
+201,England,EPL,Burnley,Luton Town,1,1,Draw
+202,England,EPL,Chelsea,Fulham,1,0,Home
+203,England,EPL,Newcastle United,Manchester City,2,3,Away
+204,England,EPL,Everton,Aston Villa,0,0,Draw
+205,England,EPL,Manchester United,Tottenham Hotspur,2,2,Draw
+206,England,EPL,Arsenal,Crystal Palace,5,0,Home
+207,England,EPL,Brentford,Nottingham Forest,3,2,Home
+208,England,EPL,Sheffield United,West Ham United,2,2,Draw
+209,England,EPL,AFC Bournemouth,Liverpool,0,4,Away
+210,England,EPL,Brighton & Hove Albion,Wolverhampton Wanderers,0,0,Draw
+211,England,EPL,Nottingham Forest,Arsenal,1,2,Away
+212,England,EPL,Fulham,Everton,0,0,Draw
+213,England,EPL,Luton Town,Brighton & Hove Albion,4,0,Home
+214,England,EPL,Crystal Palace,Sheffield United,3,2,Home
+215,England,EPL,Aston Villa,Newcastle United,1,3,Away
+216,England,EPL,Manchester City,Burnley,3,1,Home
+217,England,EPL,Tottenham Hotspur,Brentford,3,2,Home
+218,England,EPL,Liverpool,Chelsea,4,1,Home
+219,England,EPL,West Ham United,AFC Bournemouth,1,1,Draw
+220,England,EPL,Wolverhampton Wanderers,Manchester United,3,4,Away
+221,England,EPL,Everton,Tottenham Hotspur,2,2,Draw
+222,England,EPL,Brighton & Hove Albion,Crystal Palace,4,1,Home
+223,England,EPL,Burnley,Fulham,2,2,Draw
+224,England,EPL,Newcastle United,Luton Town,4,4,Draw
+225,England,EPL,Sheffield United,Aston Villa,0,5,Away
+226,England,EPL,AFC Bournemouth,Nottingham Forest,1,1,Draw
+227,England,EPL,Chelsea,Wolverhampton Wanderers,2,4,Away
+228,England,EPL,Manchester United,West Ham United,3,0,Home
+229,England,EPL,Arsenal,Liverpool,3,1,Home
+230,England,EPL,Brentford,Manchester City,1,3,Away
+231,England,EPL,Manchester City,Everton,2,0,Home
+232,England,EPL,Fulham,AFC Bournemouth,3,1,Home
+233,England,EPL,Liverpool,Burnley,3,1,Home
+234,England,EPL,Luton Town,Sheffield United,1,3,Away
+235,England,EPL,Tottenham Hotspur,Brighton & Hove Albion,2,1,Home
+236,England,EPL,Wolverhampton Wanderers,Brentford,0,2,Away
+237,England,EPL,Nottingham Forest,Newcastle United,2,3,Away
+238,England,EPL,West Ham United,Arsenal,0,6,Away
+239,England,EPL,Aston Villa,Manchester United,1,2,Away
+240,England,EPL,Crystal Palace,Chelsea,1,3,Away
+241,England,EPL,Brentford,Liverpool,1,4,Away
+242,England,EPL,Burnley,Arsenal,0,5,Away
+243,England,EPL,Fulham,Aston Villa,1,2,Away
+244,England,EPL,Newcastle United,AFC Bournemouth,2,2,Draw
+245,England,EPL,Nottingham Forest,West Ham United,2,0,Home
+246,England,EPL,Tottenham Hotspur,Wolverhampton Wanderers,1,2,Away
+247,England,EPL,Manchester City,Chelsea,1,1,Draw
+248,England,EPL,Sheffield United,Brighton & Hove Albion,0,5,Away
+249,England,EPL,Luton Town,Manchester United,1,2,Away
+250,England,EPL,Everton,Crystal Palace,1,1,Draw
+251,England,EPL,Liverpool,Luton Town,4,1,Home
+252,England,EPL,Aston Villa,Nottingham Forest,4,2,Home
+253,England,EPL,Brighton & Hove Albion,Everton,1,1,Draw
+254,England,EPL,Crystal Palace,Burnley,3,0,Home
+255,England,EPL,Manchester United,Fulham,1,2,Away
+256,England,EPL,AFC Bournemouth,Manchester City,0,1,Away
+257,England,EPL,Arsenal,Newcastle United,4,1,Home
+258,England,EPL,Wolverhampton Wanderers,Sheffield United,1,0,Home
+259,England,EPL,West Ham United,Brentford,4,2,Home
+260,England,EPL,Brentford,Chelsea,2,2,Draw
+261,England,EPL,Everton,West Ham United,1,3,Away
+262,England,EPL,Fulham,Brighton & Hove Albion,3,0,Home
+263,England,EPL,Newcastle United,Wolverhampton Wanderers,3,0,Home
+264,England,EPL,Nottingham Forest,Liverpool,0,1,Away
+265,England,EPL,Tottenham Hotspur,Crystal Palace,3,1,Home
+266,England,EPL,Luton Town,Aston Villa,2,3,Away
+267,England,EPL,Burnley,AFC Bournemouth,0,2,Away
+268,England,EPL,Manchester City,Manchester United,3,1,Home
+269,England,EPL,Sheffield United,Arsenal,0,6,Away
+270,England,EPL,Manchester United,Everton,2,0,Home
+271,England,EPL,AFC Bournemouth,Sheffield United,2,2,Draw
+272,England,EPL,Crystal Palace,Luton Town,1,1,Draw
+273,England,EPL,Wolverhampton Wanderers,Fulham,2,1,Home
+274,England,EPL,Arsenal,Brentford,2,1,Home
+275,England,EPL,Aston Villa,Tottenham Hotspur,0,4,Away
+276,England,EPL,Brighton & Hove Albion,Nottingham Forest,1,0,Home
+277,England,EPL,West Ham United,Burnley,2,2,Draw
+278,England,EPL,Liverpool,Manchester City,1,1,Draw
+279,England,EPL,Chelsea,Newcastle United,3,2,Home
+280,England,EPL,Burnley,Brentford,2,1,Home
+281,England,EPL,Luton Town,Nottingham Forest,1,1,Draw
+282,England,EPL,Fulham,Tottenham Hotspur,3,0,Home
+283,England,EPL,West Ham United,Aston Villa,1,1,Draw
+284,England,EPL,Newcastle United,West Ham United,4,3,Home
+285,England,EPL,AFC Bournemouth,Everton,2,1,Home
+286,England,EPL,Chelsea,Burnley,2,2,Draw
+287,England,EPL,Nottingham Forest,Crystal Palace,1,1,Draw
+288,England,EPL,Sheffield United,Fulham,3,3,Draw
+289,England,EPL,Tottenham Hotspur,Luton Town,2,1,Home
+290,England,EPL,Aston Villa,Wolverhampton Wanderers,2,0,Home
+291,England,EPL,Brentford,Manchester United,1,1,Draw
+292,England,EPL,Liverpool,Brighton & Hove Albion,2,1,Home
+293,England,EPL,Manchester City,Arsenal,0,0,Draw
+294,England,EPL,Newcastle United,Everton,1,1,Draw
+295,England,EPL,Nottingham Forest,Fulham,3,1,Home
+296,England,EPL,AFC Bournemouth,Crystal Palace,1,0,Home
+297,England,EPL,Burnley,Wolverhampton Wanderers,1,1,Draw
+298,England,EPL,West Ham United,Tottenham Hotspur,1,1,Draw
+299,England,EPL,Arsenal,Luton Town,2,0,Home
+300,England,EPL,Brentford,Brighton & Hove Albion,0,0,Draw
+301,England,EPL,Manchester City,Aston Villa,4,1,Home
+302,England,EPL,Liverpool,Sheffield United,3,1,Home
+303,England,EPL,Chelsea,Manchester United,4,3,Home
+304,England,EPL,Crystal Palace,Manchester City,2,4,Away
+305,England,EPL,Aston Villa,Brentford,3,3,Draw
+306,England,EPL,Everton,Burnley,1,0,Home
+307,England,EPL,Fulham,Newcastle United,0,1,Away
+308,England,EPL,Luton Town,AFC Bournemouth,2,1,Home
+309,England,EPL,Wolverhampton Wanderers,West Ham United,1,2,Away
+310,England,EPL,Brighton & Hove Albion,Arsenal,0,3,Away
+311,England,EPL,Manchester United,Liverpool,2,2,Draw
+312,England,EPL,Sheffield United,Chelsea,2,2,Draw
+313,England,EPL,Tottenham Hotspur,Nottingham Forest,3,1,Home
+314,England,EPL,Newcastle United,Tottenham Hotspur,4,0,Home
+315,England,EPL,Brentford,Sheffield United,2,0,Home
+316,England,EPL,Burnley,Brighton & Hove Albion,1,1,Draw
+317,England,EPL,Manchester City,Luton Town,5,1,Home
+318,England,EPL,Nottingham Forest,Wolverhampton Wanderers,2,2,Draw
+319,England,EPL,AFC Bournemouth,Manchester United,2,2,Draw
+320,England,EPL,Liverpool,Crystal Palace,0,1,Away
+321,England,EPL,West Ham United,Fulham,0,2,Away
+322,England,EPL,Arsenal,Aston Villa,0,2,Away
+323,England,EPL,Chelsea,Everton,6,0,Home
+324,Germany,Bundesliga,Werder Bremen,Bayern München,0,4,Away
+325,Germany,Bundesliga,FC Augsburg,Borussia M'Gladbach,4,4,Draw
+326,Germany,Bundesliga,Bayer Leverkusen,RB Leipzig,3,2,Home
+327,Germany,Bundesliga,TSG Hoffenheim,SC Freiburg,1,2,Away
+328,Germany,Bundesliga,VfB Stuttgart,VfL Bochum,5,0,Home
+329,Germany,Bundesliga,Wolfsburg,FC Heidenheim,2,0,Home
+330,Germany,Bundesliga,Borussia Dortmund,1. FC Köln,1,0,Home
+331,Germany,Bundesliga,Union Berlin,Mainz 05,4,1,Home
+332,Germany,Bundesliga,Eintracht Frankfurt,SV Darmstadt,1,0,Home
+333,Germany,Bundesliga,RB Leipzig,VfB Stuttgart,5,1,Home
+334,Germany,Bundesliga,VfL Bochum,Borussia Dortmund,1,1,Draw
+335,Germany,Bundesliga,SV Darmstadt,Union Berlin,1,4,Away
+336,Germany,Bundesliga,FC Heidenheim,TSG Hoffenheim,2,3,Away
+337,Germany,Bundesliga,1. FC Köln,Wolfsburg,1,2,Away
+338,Germany,Bundesliga,SC Freiburg,Werder Bremen,1,0,Home
+339,Germany,Bundesliga,Borussia M'Gladbach,Bayer Leverkusen,0,3,Away
+340,Germany,Bundesliga,Mainz 05,Eintracht Frankfurt,1,1,Draw
+341,Germany,Bundesliga,Bayern München,FC Augsburg,3,1,Home
+342,Germany,Bundesliga,Borussia Dortmund,FC Heidenheim,2,2,Draw
+343,Germany,Bundesliga,FC Augsburg,VfL Bochum,2,2,Draw
+344,Germany,Bundesliga,Bayer Leverkusen,SV Darmstadt,5,1,Home
+345,Germany,Bundesliga,TSG Hoffenheim,Wolfsburg,3,1,Home
+346,Germany,Bundesliga,VfB Stuttgart,SC Freiburg,5,0,Home
+347,Germany,Bundesliga,Werder Bremen,Mainz 05,4,0,Home
+348,Germany,Bundesliga,Borussia M'Gladbach,Bayern München,1,2,Away
+349,Germany,Bundesliga,Eintracht Frankfurt,1. FC Köln,1,1,Draw
+350,Germany,Bundesliga,Union Berlin,RB Leipzig,0,3,Away
+351,Germany,Bundesliga,Bayern München,Bayer Leverkusen,2,2,Draw
+352,Germany,Bundesliga,1. FC Köln,TSG Hoffenheim,1,3,Away
+353,Germany,Bundesliga,SC Freiburg,Borussia Dortmund,2,4,Away
+354,Germany,Bundesliga,Mainz 05,VfB Stuttgart,1,3,Away
+355,Germany,Bundesliga,RB Leipzig,FC Augsburg,3,0,Home
+356,Germany,Bundesliga,Wolfsburg,Union Berlin,2,1,Home
+357,Germany,Bundesliga,VfL Bochum,Eintracht Frankfurt,1,1,Draw
+358,Germany,Bundesliga,FC Heidenheim,Werder Bremen,4,2,Home
+359,Germany,Bundesliga,SV Darmstadt,Borussia M'Gladbach,3,3,Draw
+360,Germany,Bundesliga,VfB Stuttgart,SV Darmstadt,3,1,Home
+361,Germany,Bundesliga,FC Augsburg,Mainz 05,2,1,Home
+362,Germany,Bundesliga,Bayern München,VfL Bochum,7,0,Home
+363,Germany,Bundesliga,Borussia Dortmund,Wolfsburg,1,0,Home
+364,Germany,Bundesliga,Borussia M'Gladbach,RB Leipzig,0,1,Away
+365,Germany,Bundesliga,Union Berlin,TSG Hoffenheim,0,2,Away
+366,Germany,Bundesliga,Werder Bremen,1. FC Köln,2,1,Home
+367,Germany,Bundesliga,Bayer Leverkusen,FC Heidenheim,4,1,Home
+368,Germany,Bundesliga,Eintracht Frankfurt,SC Freiburg,0,0,Draw
+369,Germany,Bundesliga,TSG Hoffenheim,Borussia Dortmund,1,3,Away
+370,Germany,Bundesliga,FC Heidenheim,Union Berlin,1,0,Home
+371,Germany,Bundesliga,1. FC Köln,VfB Stuttgart,0,2,Away
+372,Germany,Bundesliga,Mainz 05,Bayer Leverkusen,0,3,Away
+373,Germany,Bundesliga,Wolfsburg,Eintracht Frankfurt,2,0,Home
+374,Germany,Bundesliga,VfL Bochum,Borussia M'Gladbach,1,3,Away
+375,Germany,Bundesliga,RB Leipzig,Bayern München,2,2,Draw
+376,Germany,Bundesliga,SV Darmstadt,Werder Bremen,4,2,Home
+377,Germany,Bundesliga,SC Freiburg,FC Augsburg,2,0,Home
+378,Germany,Bundesliga,Borussia M'Gladbach,Mainz 05,2,2,Draw
+379,Germany,Bundesliga,FC Augsburg,SV Darmstadt,1,2,Away
+380,Germany,Bundesliga,Borussia Dortmund,Union Berlin,4,2,Home
+381,Germany,Bundesliga,RB Leipzig,VfL Bochum,0,0,Draw
+382,Germany,Bundesliga,VfB Stuttgart,Wolfsburg,3,1,Home
+383,Germany,Bundesliga,Werder Bremen,TSG Hoffenheim,2,3,Away
+384,Germany,Bundesliga,Bayer Leverkusen,1. FC Köln,3,0,Home
+385,Germany,Bundesliga,Bayern München,SC Freiburg,3,0,Home
+386,Germany,Bundesliga,Eintracht Frankfurt,FC Heidenheim,2,0,Home
+387,Germany,Bundesliga,Borussia Dortmund,Werder Bremen,1,0,Home
+388,Germany,Bundesliga,SV Darmstadt,RB Leipzig,1,3,Away
+389,Germany,Bundesliga,SC Freiburg,VfL Bochum,2,1,Home
+390,Germany,Bundesliga,TSG Hoffenheim,Eintracht Frankfurt,1,3,Away
+391,Germany,Bundesliga,Union Berlin,VfB Stuttgart,0,3,Away
+392,Germany,Bundesliga,Wolfsburg,Bayer Leverkusen,1,2,Away
+393,Germany,Bundesliga,Mainz 05,Bayern München,1,3,Away
+394,Germany,Bundesliga,1. FC Köln,Borussia M'Gladbach,3,1,Home
+395,Germany,Bundesliga,FC Heidenheim,FC Augsburg,2,5,Away
+396,Germany,Bundesliga,VfL Bochum,Mainz 05,2,2,Draw
+397,Germany,Bundesliga,FC Augsburg,Wolfsburg,3,2,Home
+398,Germany,Bundesliga,Bayern München,SV Darmstadt,8,0,Home
+399,Germany,Bundesliga,Borussia M'Gladbach,FC Heidenheim,2,1,Home
+400,Germany,Bundesliga,VfB Stuttgart,TSG Hoffenheim,2,3,Away
+401,Germany,Bundesliga,Werder Bremen,Union Berlin,2,0,Home
+402,Germany,Bundesliga,RB Leipzig,1. FC Köln,6,0,Home
+403,Germany,Bundesliga,Eintracht Frankfurt,Borussia Dortmund,3,3,Draw
+404,Germany,Bundesliga,Bayer Leverkusen,SC Freiburg,2,1,Home
+405,Germany,Bundesliga,SV Darmstadt,VfL Bochum,1,2,Away
+406,Germany,Bundesliga,1. FC Köln,FC Augsburg,1,1,Draw
+407,Germany,Bundesliga,SC Freiburg,Borussia M'Gladbach,3,3,Draw
+408,Germany,Bundesliga,TSG Hoffenheim,Bayer Leverkusen,2,3,Away
+409,Germany,Bundesliga,Mainz 05,RB Leipzig,2,0,Home
+410,Germany,Bundesliga,Union Berlin,Eintracht Frankfurt,0,3,Away
+411,Germany,Bundesliga,Borussia Dortmund,Bayern München,0,4,Away
+412,Germany,Bundesliga,Wolfsburg,Werder Bremen,2,2,Draw
+413,Germany,Bundesliga,FC Heidenheim,VfB Stuttgart,2,0,Home
+414,Germany,Bundesliga,Borussia M'Gladbach,Wolfsburg,4,0,Home
+415,Germany,Bundesliga,FC Augsburg,TSG Hoffenheim,1,1,Draw
+416,Germany,Bundesliga,Bayern München,FC Heidenheim,4,2,Home
+417,Germany,Bundesliga,SV Darmstadt,Mainz 05,0,0,Draw
+418,Germany,Bundesliga,VfB Stuttgart,Borussia Dortmund,2,1,Home
+419,Germany,Bundesliga,VfL Bochum,1. FC Köln,1,1,Draw
+420,Germany,Bundesliga,Bayer Leverkusen,Union Berlin,4,0,Home
+421,Germany,Bundesliga,Werder Bremen,Eintracht Frankfurt,2,2,Draw
+422,Germany,Bundesliga,RB Leipzig,SC Freiburg,3,1,Home
+423,Germany,Bundesliga,1. FC Köln,Bayern München,0,1,Away
+424,Germany,Bundesliga,Borussia Dortmund,Borussia M'Gladbach,4,2,Home
+425,Germany,Bundesliga,SC Freiburg,SV Darmstadt,1,1,Draw
+426,Germany,Bundesliga,Union Berlin,FC Augsburg,1,1,Draw
+427,Germany,Bundesliga,Werder Bremen,Bayer Leverkusen,0,3,Away
+428,Germany,Bundesliga,Wolfsburg,RB Leipzig,2,1,Home
+429,Germany,Bundesliga,Eintracht Frankfurt,VfB Stuttgart,1,2,Away
+430,Germany,Bundesliga,FC Heidenheim,VfL Bochum,0,0,Draw
+431,Germany,Bundesliga,TSG Hoffenheim,Mainz 05,1,1,Draw
+432,Germany,Bundesliga,SV Darmstadt,FC Köln,0,1,Away
+433,Germany,Bundesliga,VfL Bochum,Wolfsburg,3,1,Home
+434,Germany,Bundesliga,Borussia M'Gladbach,TSG Hoffenheim,2,1,Home
+435,Germany,Bundesliga,RB Leipzig,FC Heidenheim,2,1,Home
+436,Germany,Bundesliga,VfB Stuttgart,Werder Bremen,2,0,Home
+437,Germany,Bundesliga,Mainz 05,SC Freiburg,0,1,Away
+438,Germany,Bundesliga,Bayer Leverkusen,Borussia Dortmund,1,1,Draw
+439,Germany,Bundesliga,FC Augsburg,Eintracht Frankfurt,2,1,Home
+440,Germany,Bundesliga,Bayern München,Union Berlin,1,0,Home
+441,Germany,Bundesliga,TSG Hoffenheim,VfL Bochum,3,1,Home
+442,Germany,Bundesliga,Eintracht Frankfurt,Bayern München,5,1,Home
+443,Germany,Bundesliga,FC Heidenheim,SV Darmstadt,3,2,Home
+444,Germany,Bundesliga,Union Berlin,Borussia Mönchengladbach,3,1,Home
+445,Germany,Bundesliga,Werder Bremen,FC Augsburg,2,0,Home
+446,Germany,Bundesliga,Wolfsburg,SC Freiburg,0,1,Away
+447,Germany,Bundesliga,Borussia Dortmund,RB Leipzig,2,3,Away
+448,Germany,Bundesliga,VfB Stuttgart,Bayer Leverkusen,1,1,Draw
+449,Germany,Bundesliga,1. FC Köln,Mainz 05,0,0,Draw
+450,Germany,Bundesliga,Borussia Mönchengladbach,Werder Bremen,2,2,Draw
+451,Germany,Bundesliga,FC Augsburg,Borussia Dortmund,1,1,Draw
+452,Germany,Bundesliga,VfL Bochum,Union Berlin,3,0,Home
+453,Germany,Bundesliga,SV Darmstadt,Wolfsburg,0,1,Away
+454,Germany,Bundesliga,Mainz 05,FC Heidenheim,0,1,Away
+455,Germany,Bundesliga,RB Leipzig,TSG Hoffenheim,3,1,Home
+456,Germany,Bundesliga,SC Freiburg,1. FC Köln,2,0,Home
+457,Germany,Bundesliga,Bayer Leverkusen,Eintracht Frankfurt,3,0,Home
+458,Germany,Bundesliga,Bayern München,VfB Stuttgart,3,0,Home
+459,Germany,Bundesliga,Werder Bremen,RB Leipzig,1,1,Draw
+460,Germany,Bundesliga,Borussia Dortmund,Mainz 05,1,1,Draw
+461,Germany,Bundesliga,TSG Hoffenheim,SV Darmstadt,3,3,Draw
+462,Germany,Bundesliga,Union Berlin,1. FC Köln,2,0,Home
+463,Germany,Bundesliga,Bayer Leverkusen,VfL Bochum,4,0,Home
+464,Germany,Bundesliga,Eintracht Frankfurt,Borussia M'Gladbach,2,1,Home
+465,Germany,Bundesliga,FC Heidenheim,SC Freiburg,3,2,Home
+466,Germany,Bundesliga,VfB Stuttgart,FC Augsburg,3,0,Home
+467,Germany,Bundesliga,Wolfsburg,Bayern München,1,2,Away
+468,Germany,Bundesliga,Bayern München,TSG Hoffenheim,3,0,Home
+469,Germany,Bundesliga,FC Augsburg,Bayer Leverkusen,0,1,Away
+470,Germany,Bundesliga,1. FC Köln,FC Heidenheim,1,1,Draw
+471,Germany,Bundesliga,SC Freiburg,Union Berlin,0,0,Draw
+472,Germany,Bundesliga,Mainz 05,Wolfsburg,1,1,Draw
+473,Germany,Bundesliga,RB Leipzig,Eintracht Frankfurt,0,1,Away
+474,Germany,Bundesliga,SV Darmstadt,Borussia Dortmund,0,3,Away
+475,Germany,Bundesliga,VfL Bochum,Werder Bremen,1,1,Draw
+476,Germany,Bundesliga,Borussia Mönchengladbach,VfB Stuttgart,3,1,Home
+477,Germany,Bundesliga,VfL Bochum,VfB Stuttgart,1,0,Home
+478,Germany,Bundesliga,SV Darmstadt,Eintracht Frankfurt,2,2,Draw
+479,Germany,Bundesliga,FC Heidenheim,Wolfsburg,1,1,Draw
+480,Germany,Bundesliga,1. FC Köln,Borussia Dortmund,0,4,Away
+481,Germany,Bundesliga,SC Freiburg,TSG Hoffenheim,3,2,Home
+482,Germany,Bundesliga,RB Leipzig,Bayer Leverkusen,2,3,Away
+483,Germany,Bundesliga,Bayern München,Werder Bremen,0,1,Away
+484,Germany,Bundesliga,Borussia M'Gladbach,FC Augsburg,1,2,Away
+485,Germany,Bundesliga,Mainz 05,Union Berlin,1,1,Draw
+486,Germany,Bundesliga,Eintracht Frankfurt,Mainz 05,1,0,Home
+487,Germany,Bundesliga,FC Augsburg,Bayern München,2,3,Away
+488,Germany,Bundesliga,TSG Hoffenheim,FC Heidenheim,1,1,Draw
+489,Germany,Bundesliga,VfB Stuttgart,RB Leipzig,5,2,Home
+490,Germany,Bundesliga,Werder Bremen,SC Freiburg,3,1,Home
+491,Germany,Bundesliga,Wolfsburg,1. FC Köln,1,1,Draw
+492,Germany,Bundesliga,Bayer Leverkusen,Borussia Mönchengladbach,0,0,Draw
+493,Germany,Bundesliga,Union Berlin,SV Darmstadt,1,0,Home
+494,Germany,Bundesliga,Borussia Dortmund,VfL Bochum,3,1,Home
+495,Germany,Bundesliga,FC Heidenheim,Borussia Dortmund,0,0,Draw
+496,Germany,Bundesliga,Bayern München,Borussia Mönchengladbach,3,1,Home
+497,Germany,Bundesliga,VfL Bochum,FC Augsburg,1,1,Draw
+498,Germany,Bundesliga,SV Darmstadt,Bayer Leverkusen,0,2,Away
+499,Germany,Bundesliga,SC Freiburg,VfB Stuttgart,1,3,Away
+500,Germany,Bundesliga,Mainz 05,Werder Bremen,0,1,Away
+501,Germany,Bundesliga,FC Köln,Eintracht Frankfurt,2,0,Home
+502,Germany,Bundesliga,Wolfsburg,TSG Hoffenheim,2,2,Draw
+503,Germany,Bundesliga,RB Leipzig,Union Berlin,2,0,Home
+504,Germany,Bundesliga,Borussia Dortmund,SC Freiburg,3,0,Home
+505,Germany,Bundesliga,FC Augsburg,RB Leipzig,2,2,Draw
+506,Germany,Bundesliga,Borussia Mönchengladbach,SV Darmstadt,0,0,Draw
+507,Germany,Bundesliga,Eintracht Frankfurt,VfL Bochum,1,1,Draw
+508,Germany,Bundesliga,Union Berlin,Wolfsburg,1,0,Home
+509,Germany,Bundesliga,Werder Bremen,FC Heidenheim,1,2,Away
+510,Germany,Bundesliga,Bayer Leverkusen,Bayern München,3,0,Home
+511,Germany,Bundesliga,VfB Stuttgart,Mainz 05,3,1,Home
+512,Germany,Bundesliga,TSG Hoffenheim,FC Köln,1,1,Draw
+513,Germany,Bundesliga,FC Köln,Werder Bremen,0,1,Away
+514,Germany,Bundesliga,SV Darmstadt,VfB Stuttgart,1,2,Away
+515,Germany,Bundesliga,FC Heidenheim,Bayer Leverkusen,1,2,Away
+516,Germany,Bundesliga,TSG Hoffenheim,Union Berlin,0,1,Away
+517,Germany,Bundesliga,Mainz 05,FC Augsburg,1,0,Home
+518,Germany,Bundesliga,Wolfsburg,Borussia Dortmund,1,1,Draw
+519,Germany,Bundesliga,RB Leipzig,Borussia Mönchengladbach,2,0,Home
+520,Germany,Bundesliga,SC Freiburg,Eintracht Frankfurt,3,3,Draw
+521,Germany,Bundesliga,VfL Bochum,Bayern München,3,2,Home
+522,Germany,Bundesliga,Bayer Leverkusen,Mainz 05,2,1,Home
+523,Germany,Bundesliga,Union Berlin,FC Heidenheim,2,2,Draw
+524,Germany,Bundesliga,VfB Stuttgart,FC Köln,1,1,Draw
+525,Germany,Bundesliga,Werder Bremen,SV Darmstadt,1,1,Draw
+526,Germany,Bundesliga,Borussia Mönchengladbach,VfL Bochum,5,2,Home
+527,Germany,Bundesliga,Bayern München,RB Leipzig,2,1,Home
+528,Germany,Bundesliga,Eintracht Frankfurt,Wolfsburg,2,2,Draw
+529,Germany,Bundesliga,Borussia Dortmund,TSG Hoffenheim,2,3,Away
+530,Germany,Bundesliga,FC Augsburg,SC Freiburg,2,1,Home
+531,Germany,Bundesliga,SC Freiburg,Bayern München,2,2,Draw
+532,Germany,Bundesliga,VfL Bochum,RB Leipzig,1,4,Away
+533,Germany,Bundesliga,SV Darmstadt,FC Augsburg,0,6,Away
+534,Germany,Bundesliga,FC Heidenheim,Eintracht Frankfurt,1,2,Away
+535,Germany,Bundesliga,Mainz 05,Borussia Mönchengladbach,1,1,Draw
+536,Germany,Bundesliga,Union Berlin,Borussia Dortmund,0,2,Away
+537,Germany,Bundesliga,Wolfsburg,VfB Stuttgart,2,3,Away
+538,Germany,Bundesliga,FC Köln,Bayer Leverkusen,0,2,Away
+539,Germany,Bundesliga,TSG Hoffenheim,Werder Bremen,2,1,Home
+540,Germany,Bundesliga,VfB Stuttgart,Union Berlin,2,0,Home
+541,Germany,Bundesliga,FC Augsburg,FC Heidenheim,1,0,Home
+542,Germany,Bundesliga,Bayern München,Mainz 05,8,1,Home
+543,Germany,Bundesliga,Borussia Mönchengladbach,FC Köln,3,3,Draw
+544,Germany,Bundesliga,RB Leipzig,SV Darmstadt,2,0,Home
+545,Germany,Bundesliga,Werder Bremen,Borussia Dortmund,1,2,Away
+546,Germany,Bundesliga,VfL Bochum,SC Freiburg,1,2,Away
+547,Germany,Bundesliga,Eintracht Frankfurt,TSG Hoffenheim,3,1,Home
+548,Germany,Bundesliga,Bayer Leverkusen,Wolfsburg,2,0,Home
+549,Germany,Bundesliga,FC Köln,RB Leipzig,1,5,Away
+550,Germany,Bundesliga,SV Darmstadt,Bayern München,2,5,Away
+551,Germany,Bundesliga,FC Heidenheim,Borussia Mönchengladbach,1,1,Draw
+552,Germany,Bundesliga,Mainz 05,VfL Bochum,2,0,Home
+553,Germany,Bundesliga,Union Berlin,Werder Bremen,2,1,Home
+554,Germany,Bundesliga,Wolfsburg,FC Augsburg,1,3,Away
+555,Germany,Bundesliga,TSG Hoffenheim,VfB Stuttgart,0,3,Away
+556,Germany,Bundesliga,SC Freiburg,Bayer Leverkusen,2,3,Away
+557,Germany,Bundesliga,Borussia Dortmund,Eintracht Frankfurt,3,1,Home
+558,Germany,Bundesliga,Bayer Leverkusen,TSG Hoffenheim,2,1,Home
+559,Germany,Bundesliga,Borussia Mönchengladbach,SC Freiburg,0,3,Away
+560,Germany,Bundesliga,Eintracht Frankfurt,Union Berlin,0,0,Draw
+561,Germany,Bundesliga,RB Leipzig,Mainz 05,0,0,Draw
+562,Germany,Bundesliga,Werder Bremen,Wolfsburg,0,2,Away
+563,Germany,Bundesliga,Bayern München,Borussia Dortmund,0,2,Away
+564,Germany,Bundesliga,FC Augsburg,FC Köln,1,1,Draw
+565,Germany,Bundesliga,VfB Stuttgart,FC Heidenheim,3,3,Draw
+566,Germany,Bundesliga,VfL Bochum,SV Darmstadt,2,2,Draw
+567,Germany,Bundesliga,Eintracht Frankfurt,Werder Bremen,1,1,Draw
+568,Germany,Bundesliga,FC Heidenheim,Bayern München,3,2,Home
+569,Germany,Bundesliga,FC Köln,VfL Bochum,2,1,Home
+570,Germany,Bundesliga,SC Freiburg,RB Leipzig,1,4,Away
+571,Germany,Bundesliga,Mainz 05,SV Darmstadt,4,0,Home
+572,Germany,Bundesliga,Union Berlin,Bayer Leverkusen,0,1,Away
+573,Germany,Bundesliga,Borussia Dortmund,VfB Stuttgart,0,1,Away
+574,Germany,Bundesliga,TSG Hoffenheim,FC Augsburg,3,1,Home
+575,Germany,Bundesliga,Wolfsburg,Borussia Mönchengladbach,1,3,Away
+576,Germany,Bundesliga,FC Augsburg,Union Berlin,2,0,Home
+577,Germany,Bundesliga,Bayern München,FC Köln,2,0,Home
+578,Germany,Bundesliga,VfL Bochum,FC Heidenheim,1,1,Draw
+579,Germany,Bundesliga,Borussia Mönchengladbach,Borussia Dortmund,1,2,Away
+580,Germany,Bundesliga,Mainz 05,TSG Hoffenheim,4,1,Home
+581,Germany,Bundesliga,RB Leipzig,Wolfsburg,3,0,Home
+582,Germany,Bundesliga,VfB Stuttgart,Eintracht Frankfurt,3,0,Home
+583,Germany,Bundesliga,SV Darmstadt,SC Freiburg,0,1,Away
+584,Germany,Bundesliga,Bayer Leverkusen,Werder Bremen,5,0,Home
+585,Italy,Serie-A,Empoli,Hellas Verona,0,1,Away
+586,Italy,Serie-A,Frosinone,Napoli,1,3,Away
+587,Italy,Serie-A,Genoa,Fiorentina,1,4,Away
+588,Italy,Serie-A,Inter,Monza,2,0,Home
+589,Italy,Serie-A,Roma,Salernitana,2,2,Draw
+590,Italy,Serie-A,Sassuolo,Atalanta,0,2,Away
+591,Italy,Serie-A,Lecce,Lazio,2,1,Home
+592,Italy,Serie-A,Udinese,Juventus,0,3,Away
+593,Italy,Serie-A,Torino,Cagliari,0,0,Draw
+594,Italy,Serie-A,Bologna,Milan,0,2,Away
+595,Italy,Serie-A,Frosinone,Atalanta,2,1,Home
+596,Italy,Serie-A,Monza,Empoli,2,0,Home
+597,Italy,Serie-A,Milan,Torino,4,1,Home
+598,Italy,Serie-A,Hellas Verona,Roma,2,1,Home
+599,Italy,Serie-A,Juventus,Bologna,1,1,Draw
+600,Italy,Serie-A,Fiorentina,Lecce,2,2,Draw
+601,Italy,Serie-A,Lazio,Genoa,0,1,Away
+602,Italy,Serie-A,Napoli,Sassuolo,2,0,Home
+603,Italy,Serie-A,Salernitana,Udinese,1,1,Draw
+604,Italy,Serie-A,Cagliari,Inter,0,2,Away
+605,Italy,Serie-A,Sassuolo,Hellas Verona,3,1,Home
+606,Italy,Serie-A,Roma,Milan,1,2,Away
+607,Italy,Serie-A,Bologna,Cagliari,2,1,Home
+608,Italy,Serie-A,Atalanta,Monza,3,0,Home
+609,Italy,Serie-A,Napoli,Lazio,1,2,Away
+610,Italy,Serie-A,Inter,Fiorentina,4,0,Home
+611,Italy,Serie-A,Torino,Genoa,1,0,Home
+612,Italy,Serie-A,Empoli,Juventus,0,2,Away
+613,Italy,Serie-A,Lecce,Salernitana,2,0,Home
+614,Italy,Serie-A,Juventus,Lazio,3,1,Home
+615,Italy,Serie-A,Inter,Milan,5,1,Home
+616,Italy,Serie-A,Genoa,Napoli,2,2,Draw
+617,Italy,Serie-A,Cagliari,Udinese,0,0,Draw
+618,Italy,Serie-A,Frosinone,Sassuolo,4,2,Home
+619,Italy,Serie-A,Monza,Lecce,1,1,Draw
+620,Italy,Serie-A,Fiorentina,Atalanta,3,2,Home
+621,Italy,Serie-A,Roma,Empoli,7,0,Home
+622,Italy,Serie-A,Salernitana,Torino,0,3,Away
+623,Italy,Serie-A,Hellas Verona,Bologna,0,0,Draw
+624,Italy,Serie-A,Salernitana,Frosinone,1,1,Draw
+625,Italy,Serie-A,Lecce,Genoa,1,0,Home
+626,Italy,Serie-A,Milan,Hellas Verona,1,0,Home
+627,Italy,Serie-A,Sassuolo,Juventus,4,2,Home
+628,Italy,Serie-A,Lazio,Monza,1,1,Draw
+629,Italy,Serie-A,Empoli,Inter,0,1,Away
+630,Italy,Serie-A,Atalanta,Cagliari,2,0,Home
+631,Italy,Serie-A,Udinese,Fiorentina,0,2,Away
+632,Italy,Serie-A,Bologna,Napoli,0,0,Draw
+633,Italy,Serie-A,Torino,Roma,1,1,Draw
+634,Italy,Serie-A,Juventus,Lecce,1,0,Home
+635,Italy,Serie-A,Cagliari,Milan,1,3,Away
+636,Italy,Serie-A,Empoli,Salernitana,1,0,Home
+637,Italy,Serie-A,Hellas Verona,Atalanta,0,1,Away
+638,Italy,Serie-A,Inter,Sassuolo,1,2,Away
+639,Italy,Serie-A,Lazio,Torino,2,0,Home
+640,Italy,Serie-A,Napoli,Udinese,4,1,Home
+641,Italy,Serie-A,Frosinone,Fiorentina,1,1,Draw
+642,Italy,Serie-A,Monza,Bologna,0,0,Draw
+643,Italy,Serie-A,Genoa,Roma,4,1,Home
+644,Italy,Serie-A,Lecce,Napoli,0,4,Away
+645,Italy,Serie-A,Milan,Lazio,2,0,Home
+646,Italy,Serie-A,Salernitana,Inter,0,4,Away
+647,Italy,Serie-A,Bologna,Empoli,3,0,Home
+648,Italy,Serie-A,Udinese,Genoa,2,2,Draw
+649,Italy,Serie-A,Atalanta,Juventus,0,0,Draw
+650,Italy,Serie-A,Roma,Frosinone,2,0,Home
+651,Italy,Serie-A,Sassuolo,Monza,0,1,Away
+652,Italy,Serie-A,Torino,Hellas Verona,0,0,Draw
+653,Italy,Serie-A,Fiorentina,Cagliari,3,0,Home
+654,Italy,Serie-A,Empoli,Udinese,0,0,Draw
+655,Italy,Serie-A,Lecce,Sassuolo,1,1,Draw
+656,Italy,Serie-A,Inter,Bologna,2,2,Draw
+657,Italy,Serie-A,Juventus,Torino,2,0,Home
+658,Italy,Serie-A,Genoa,Milan,0,1,Away
+659,Italy,Serie-A,Monza,Salernitana,3,0,Home
+660,Italy,Serie-A,Frosinone,Hellas Verona,2,1,Home
+661,Italy,Serie-A,Lazio,Atalanta,3,2,Home
+662,Italy,Serie-A,Cagliari,Roma,1,4,Away
+663,Italy,Serie-A,Napoli,Fiorentina,1,3,Away
+664,Italy,Serie-A,Hellas Verona,Napoli,1,3,Away
+665,Italy,Serie-A,Torino,Inter,0,3,Away
+666,Italy,Serie-A,Sassuolo,Lazio,0,2,Away
+667,Italy,Serie-A,Roma,Monza,1,0,Home
+668,Italy,Serie-A,Bologna,Frosinone,2,1,Home
+669,Italy,Serie-A,Salernitana,Cagliari,2,2,Draw
+670,Italy,Serie-A,Atalanta,Genoa,2,0,Home
+671,Italy,Serie-A,Milan,Juventus,0,1,Away
+672,Italy,Serie-A,Udinese,Lecce,1,1,Draw
+673,Italy,Serie-A,Fiorentina,Empoli,0,2,Away
+674,Italy,Serie-A,Genoa,Salernitana,1,0,Home
+675,Italy,Serie-A,Sassuolo,Bologna,1,1,Draw
+676,Italy,Serie-A,Lecce,Torino,0,1,Away
+677,Italy,Serie-A,Juventus,Hellas Verona,1,0,Home
+678,Italy,Serie-A,Cagliari,Frosinone,4,3,Home
+679,Italy,Serie-A,Monza,Udinese,1,1,Draw
+680,Italy,Serie-A,Inter,Roma,1,0,Home
+681,Italy,Serie-A,Napoli,Milan,2,2,Draw
+682,Italy,Serie-A,Empoli,Atalanta,0,3,Away
+683,Italy,Serie-A,Lazio,Fiorentina,1,0,Home
+684,Italy,Serie-A,Bologna,Lazio,1,0,Home
+685,Italy,Serie-A,Salernitana,Napoli,0,2,Away
+686,Italy,Serie-A,Atalanta,Inter,1,2,Away
+687,Italy,Serie-A,Milan,Udinese,0,1,Away
+688,Italy,Serie-A,Hellas Verona,Monza,1,3,Away
+689,Italy,Serie-A,Cagliari,Genoa,2,1,Home
+690,Italy,Serie-A,Roma,Lecce,2,1,Home
+691,Italy,Serie-A,Fiorentina,Juventus,0,1,Away
+692,Italy,Serie-A,Frosinone,Empoli,2,1,Home
+693,Italy,Serie-A,Torino,Sassuolo,2,1,Home
+694,Italy,Serie-A,Sassuolo,Salernitana,2,2,Draw
+695,Italy,Serie-A,Genoa,Hellas Verona,1,0,Home
+696,Italy,Serie-A,Lecce,Milan,2,2,Draw
+697,Italy,Serie-A,Juventus,Cagliari,2,1,Home
+698,Italy,Serie-A,Monza,Torino,1,1,Draw
+699,Italy,Serie-A,Napoli,Empoli,0,1,Away
+700,Italy,Serie-A,Fiorentina,Bologna,2,1,Home
+701,Italy,Serie-A,Udinese,Atalanta,1,1,Draw
+702,Italy,Serie-A,Lazio,Roma,0,0,Draw
+703,Italy,Serie-A,Inter,Frosinone,2,0,Home
+704,Italy,Serie-A,Salernitana,Lazio,2,1,Home
+705,Italy,Serie-A,Atalanta,Napoli,1,2,Away
+706,Italy,Serie-A,AC Milan,Fiorentina,1,0,Home
+707,Italy,Serie-A,Cagliari,Monza,1,1,Draw
+708,Italy,Serie-A,Empoli,Sassuolo,3,4,Away
+709,Italy,Serie-A,Frosinone,Genoa,2,1,Home
+710,Italy,Serie-A,Roma,Udinese,3,1,Home
+711,Italy,Serie-A,Juventus,Inter,1,1,Draw
+712,Italy,Serie-A,Hellas Verona,Lecce,2,2,Draw
+713,Italy,Serie-A,Bologna,Torino,2,0,Home
+714,Italy,Serie-A,Monza,Juventus,1,2,Away
+715,Italy,Serie-A,Genoa,Empoli,1,1,Draw
+716,Italy,Serie-A,Lazio,Cagliari,1,0,Home
+717,Italy,Serie-A,AC Milan,Frosinone,3,1,Home
+718,Italy,Serie-A,Lecce,Bologna,1,1,Draw
+719,Italy,Serie-A,Fiorentina,Salernitana,3,0,Home
+720,Italy,Serie-A,Udinese,Hellas Verona,3,3,Draw
+721,Italy,Serie-A,Sassuolo,Roma,1,2,Away
+722,Italy,Serie-A,Napoli,Inter,0,3,Away
+723,Italy,Serie-A,Torino,Atalanta,3,0,Home
+724,Italy,Serie-A,Juventus,Napoli,1,0,Home
+725,Italy,Serie-A,Hellas Verona,Lazio,1,1,Draw
+726,Italy,Serie-A,Atalanta,AC Milan,3,2,Home
+727,Italy,Serie-A,Inter,Udinese,4,0,Home
+728,Italy,Serie-A,Frosinone,Torino,0,0,Draw
+729,Italy,Serie-A,Monza,Genoa,1,0,Home
+730,Italy,Serie-A,Salernitana,Bologna,1,2,Away
+731,Italy,Serie-A,Roma,Fiorentina,1,1,Draw
+732,Italy,Serie-A,Empoli,Lecce,1,1,Draw
+733,Italy,Serie-A,Cagliari,Sassuolo,2,1,Home
+734,Italy,Serie-A,Genoa,Juventus,1,1,Draw
+735,Italy,Serie-A,Lecce,Frosinone,2,1,Home
+736,Italy,Serie-A,SSC Napoli,Cagliari,2,1,Home
+737,Italy,Serie-A,Torino,Empoli,1,0,Home
+738,Italy,Serie-A,AC Milan,Monza,3,0,Home
+739,Italy,Serie-A,Fiorentina,Hellas Verona,1,0,Home
+740,Italy,Serie-A,Udinese,Sassuolo,2,2,Draw
+741,Italy,Serie-A,Bologna,Roma,2,0,Home
+742,Italy,Serie-A,Lazio,Inter,0,2,Away
+743,Italy,Serie-A,Atalanta,Salernitana,4,1,Home
+744,Italy,Serie-A,Empoli,Lazio,0,2,Away
+745,Italy,Serie-A,Sassuolo,Genoa,1,2,Away
+746,Italy,Serie-A,Monza,Fiorentina,0,1,Away
+747,Italy,Serie-A,Salernitana,AC Milan,2,2,Draw
+748,Italy,Serie-A,Frosinone,Juventus,1,2,Away
+749,Italy,Serie-A,Bologna,Atalanta,1,0,Home
+750,Italy,Serie-A,Torino,Udinese,1,1,Draw
+751,Italy,Serie-A,Hellas Verona,Cagliari,2,0,Home
+752,Italy,Serie-A,Inter,Lecce,2,0,Home
+753,Italy,Serie-A,Roma,SSC Napoli,2,0,Home
+754,Italy,Serie-A,Fiorentina,Torino,1,0,Home
+755,Italy,Serie-A,SSC Napoli,Monza,0,0,Draw
+756,Italy,Serie-A,Genoa,Inter,1,1,Draw
+757,Italy,Serie-A,Lazio,Frosinone,3,1,Home
+758,Italy,Serie-A,Atalanta,Lecce,1,0,Home
+759,Italy,Serie-A,Cagliari,Empoli,0,0,Draw
+760,Italy,Serie-A,Udinese,Bologna,3,0,Home
+761,Italy,Serie-A,AC Milan,Sassuolo,1,0,Home
+762,Italy,Serie-A,Hellas Verona,Salernitana,0,1,Away
+763,Italy,Serie-A,Juventus,Roma,1,0,Home
+764,Italy,Serie-A,Bologna,Genoa,1,1,Draw
+765,Italy,Serie-A,Inter,Hellas Verona,2,1,Home
+766,Italy,Serie-A,Frosinone,Monza,2,3,Away
+767,Italy,Serie-A,Lecce,Cagliari,1,1,Draw
+768,Italy,Serie-A,Sassuolo,Fiorentina,1,0,Home
+769,Italy,Serie-A,Empoli,AC Milan,0,3,Away
+770,Italy,Serie-A,Torino,SSC Napoli,3,0,Home
+771,Italy,Serie-A,Udinese,Lazio,1,2,Away
+772,Italy,Serie-A,Salernitana,Juventus,1,2,Away
+773,Italy,Serie-A,Roma,Atalanta,1,1,Draw
+774,Italy,Serie-A,Genoa,Torino,0,0,Draw
+775,Italy,Serie-A,SSC Napoli,Salernitana,2,1,Home
+776,Italy,Serie-A,Hellas Verona,Empoli,2,1,Home
+777,Italy,Serie-A,Monza,Inter,1,5,Away
+778,Italy,Serie-A,Lazio,Lecce,1,0,Home
+779,Italy,Serie-A,Cagliari,Bologna,2,1,Home
+780,Italy,Serie-A,Fiorentina,Udinese,2,2,Draw
+781,Italy,Serie-A,AC Milan,Roma,3,1,Home
+782,Italy,Serie-A,Atalanta,Frosinone,5,0,Home
+783,Italy,Serie-A,Juventus,Sassuolo,3,0,Home
+784,Italy,Serie-A,Roma,Hellas Verona,2,1,Home
+785,Italy,Serie-A,Udinese,AC Milan,2,3,Away
+786,Italy,Serie-A,Frosinone,Cagliari,3,1,Home
+787,Italy,Serie-A,Empoli,Monza,3,0,Home
+788,Italy,Serie-A,Salernitana,Genoa,1,2,Away
+789,Italy,Serie-A,Lecce,Juventus,0,3,Away
+790,Italy,Serie-A,Bologna,Fiorentina,2,0,Home
+791,Italy,Serie-A,Torino,Lazio,0,2,Away
+792,Italy,Serie-A,Sassuolo,SSC Napoli,1,6,Away
+793,Italy,Serie-A,Inter,Atalanta,4,0,Home
+794,Italy,Serie-A,Cagliari,Torino,1,2,Away
+795,Italy,Serie-A,Atalanta,Udinese,2,0,Home
+796,Italy,Serie-A,Juventus,Empoli,1,1,Draw
+797,Italy,Serie-A,AC Milan,Bologna,2,2,Draw
+798,Italy,Serie-A,Genoa,Lecce,2,1,Home
+799,Italy,Serie-A,Hellas Verona,Frosinone,1,1,Draw
+800,Italy,Serie-A,Monza,Sassuolo,1,0,Home
+801,Italy,Serie-A,Lazio,SSC Napoli,0,0,Draw
+802,Italy,Serie-A,Fiorentina,Inter,0,1,Away
+803,Italy,Serie-A,Salernitana,Roma,1,2,Away
+804,Italy,Serie-A,Lecce,Fiorentina,3,2,Home
+805,Italy,Serie-A,Empoli,Genoa,0,0,Draw
+806,Italy,Serie-A,Udinese,Monza,0,0,Draw
+807,Italy,Serie-A,Frosinone,AC Milan,2,3,Away
+808,Italy,Serie-A,Bologna,Sassuolo,4,2,Home
+809,Italy,Serie-A,Torino,Salernitana,0,0,Draw
+810,Italy,Serie-A,SSC Napoli,Hellas Verona,2,1,Home
+811,Italy,Serie-A,Atalanta,Lazio,3,1,Home
+812,Italy,Serie-A,Inter,Juventus,1,0,Home
+813,Italy,Serie-A,Roma,Cagliari,4,0,Home
+814,Italy,Serie-A,Salernitana,Empoli,1,3,Away
+815,Italy,Serie-A,Cagliari,Lazio,1,3,Away
+816,Italy,Serie-A,Roma,Inter,2,4,Away
+817,Italy,Serie-A,Sassuolo,Torino,1,1,Draw
+818,Italy,Serie-A,Fiorentina,Frosinone,5,1,Home
+819,Italy,Serie-A,Bologna,Lecce,4,0,Home
+820,Italy,Serie-A,Monza,Hellas Verona,0,0,Draw
+821,Italy,Serie-A,Genoa,Atalanta,1,4,Away
+822,Italy,Serie-A,AC Milan,SSC Napoli,1,0,Home
+823,Italy,Serie-A,Juventus,Udinese,0,1,Away
+824,Italy,Serie-A,Torino,Lecce,2,0,Home
+825,Italy,Serie-A,Inter,Salernitana,4,0,Home
+826,Italy,Serie-A,SSC Napoli,Genoa,1,1,Draw
+827,Italy,Serie-A,Hellas Verona,Juventus,2,2,Draw
+828,Italy,Serie-A,Atalanta,Sassuolo,3,0,Home
+829,Italy,Serie-A,Lazio,Bologna,1,2,Away
+830,Italy,Serie-A,Empoli,Fiorentina,1,1,Draw
+831,Italy,Serie-A,Udinese,Cagliari,1,1,Draw
+832,Italy,Serie-A,Frosinone,Roma,0,3,Away
+833,Italy,Serie-A,Monza,AC Milan,4,2,Home
+834,Italy,Serie-A,Bologna,Hellas Verona,2,0,Home
+835,Italy,Serie-A,Sassuolo,Empoli,2,3,Away
+836,Italy,Serie-A,Salernitana,Monza,0,2,Away
+837,Italy,Serie-A,Genoa,Udinese,2,0,Home
+838,Italy,Serie-A,Juventus,Frosinone,3,2,Home
+839,Italy,Serie-A,Cagliari,SSC Napoli,1,1,Draw
+840,Italy,Serie-A,Lecce,Inter,0,4,Away
+841,Italy,Serie-A,AC Milan,Atalanta,1,1,Draw
+842,Italy,Serie-A,Roma,Torino,3,2,Home
+843,Italy,Serie-A,Fiorentina,Lazio,2,1,Home
+844,Italy,Serie-A,Lazio,AC Milan,0,1,Away
+845,Italy,Serie-A,Udinese,Salernitana,1,1,Draw
+846,Italy,Serie-A,Monza,Roma,1,4,Away
+847,Italy,Serie-A,Torino,Fiorentina,0,0,Draw
+848,Italy,Serie-A,Hellas Verona,Sassuolo,1,0,Home
+849,Italy,Serie-A,Empoli,Cagliari,0,1,Away
+850,Italy,Serie-A,Frosinone,Lecce,1,1,Draw
+851,Italy,Serie-A,Atalanta,Bologna,1,2,Away
+852,Italy,Serie-A,SSC Napoli,Juventus,2,1,Home
+853,Italy,Serie-A,Inter,Genoa,2,1,Home
+854,Italy,Serie-A,SSC Napoli,Torino,1,1,Draw
+855,Italy,Serie-A,Cagliari,Salernitana,4,2,Home
+856,Italy,Serie-A,Sassuolo,Frosinone,1,0,Home
+857,Italy,Serie-A,Bologna,Inter,0,1,Away
+858,Italy,Serie-A,Genoa,Monza,2,3,Away
+859,Italy,Serie-A,Lecce,Hellas Verona,0,1,Away
+860,Italy,Serie-A,AC Milan,Empoli,1,0,Home
+861,Italy,Serie-A,Juventus,Atalanta,2,2,Draw
+862,Italy,Serie-A,Fiorentina,Roma,2,2,Draw
+863,Italy,Serie-A,Lazio,Udinese,1,2,Away
+864,Italy,Serie-A,Empoli,Bologna,0,1,Away
+865,Italy,Serie-A,Monza,Cagliari,1,0,Home
+866,Italy,Serie-A,Udinese,Torino,0,2,Away
+867,Italy,Serie-A,Salernitana,Lecce,0,1,Away
+868,Italy,Serie-A,Frosinone,Lazio,2,3,Away
+869,Italy,Serie-A,Juventus,Genoa,0,0,Draw
+870,Italy,Serie-A,Hellas Verona,AC Milan,1,3,Away
+871,Italy,Serie-A,Roma,Sassuolo,1,0,Home
+872,Italy,Serie-A,Inter,SSC Napoli,1,1,Draw
+873,Italy,Serie-A,SSC Napoli,Atalanta,0,3,Away
+874,Italy,Serie-A,Genoa,Frosinone,1,1,Draw
+875,Italy,Serie-A,Torino,Monza,1,0,Home
+876,Italy,Serie-A,Lazio,Juventus,1,0,Home
+877,Italy,Serie-A,Fiorentina,AC Milan,1,2,Away
+878,Italy,Serie-A,Bologna,Salernitana,3,0,Home
+879,Italy,Serie-A,Cagliari,Hellas Verona,1,1,Draw
+880,Italy,Serie-A,Sassuolo,Udinese,1,1,Draw
+881,Italy,Serie-A,Lecce,Roma,0,0,Draw
+882,Italy,Serie-A,Inter,Empoli,2,0,Home
+883,Italy,Serie-A,Salernitana,Sassuolo,2,2,Draw
+884,Italy,Serie-A,AC Milan,Lecce,3,0,Home
+885,Italy,Serie-A,Roma,Lazio,1,0,Home
+886,Italy,Serie-A,Empoli,Torino,3,2,Home
+887,Italy,Serie-A,Frosinone,Bologna,0,0,Draw
+888,Italy,Serie-A,Monza,SSC Napoli,2,4,Away
+889,Italy,Serie-A,Cagliari,Atalanta,2,1,Home
+890,Italy,Serie-A,Hellas Verona,Genoa,1,2,Away
+891,Italy,Serie-A,Juventus,Fiorentina,1,0,Home
+892,Italy,Serie-A,Udinese,Inter,1,2,Away
+893,Italy,Serie-A,Lazio,Salernitana,4,1,Home
+894,Italy,Serie-A,Lecce,Empoli,1,0,Home
+895,Italy,Serie-A,Torino,Juventus,0,0,Draw
+896,Italy,Serie-A,Bologna,Monza,0,0,Draw
+897,Italy,Serie-A,SSC Napoli,Frosinone,2,2,Draw
+898,Italy,Serie-A,Sassuolo,AC Milan,3,3,Draw
+899,Italy,Serie-A,Udinese,Roma,오전,1:,Home
+900,Italy,Serie-A,Inter,Cagliari,2,2,Draw
+901,Italy,Serie-A,Fiorentina,Genoa,1,1,Draw
+902,Italy,Serie-A,Atalanta,Hellas Verona,2,2,Draw
+903,France,Ligue-1,Nice,Lille,1,1,Draw
+904,France,Ligue-1,Marseille,Reims,2,1,Home
+905,France,Ligue-1,Paris Saint-Germain,Lorient,0,0,Draw
+906,France,Ligue-1,Brest,Lens,3,2,Home
+907,France,Ligue-1,Clermont Foot,Monaco,2,4,Away
+908,France,Ligue-1,Montpellier,Le Havre,2,2,Draw
+909,France,Ligue-1,Nantes,Toulouse,1,2,Away
+910,France,Ligue-1,Rennes,Metz,5,1,Home
+911,France,Ligue-1,Strasbourg,Lyon,2,1,Home
+912,France,Ligue-1,Metz,Marseille,2,2,Draw
+913,France,Ligue-1,Lyon,Montpellier,1,4,Away
+914,France,Ligue-1,Toulouse,Paris Saint-Germain,1,1,Draw
+915,France,Ligue-1,Lille,Nantes,2,0,Home
+916,France,Ligue-1,Le Havre,Brest,1,2,Away
+917,France,Ligue-1,Lorient,Nice,1,1,Draw
+918,France,Ligue-1,Reims,Clermont Foot,2,0,Home
+919,France,Ligue-1,Monaco,Strasbourg,3,0,Home
+920,France,Ligue-1,Lens,Rennes,1,1,Draw
+921,France,Ligue-1,Nantes,Monaco,3,3,Draw
+922,France,Ligue-1,Marseille,Brest,2,0,Home
+923,France,Ligue-1,Paris Saint-Germain,Lens,3,1,Home
+924,France,Ligue-1,Rennes,Le Havre,2,2,Draw
+925,France,Ligue-1,Clermont Foot,Metz,0,1,Away
+926,France,Ligue-1,Montpellier,Reims,1,3,Away
+927,France,Ligue-1,Strasbourg,Toulouse,2,0,Home
+928,France,Ligue-1,Lorient,Lille,4,1,Home
+929,France,Ligue-1,Nice,Lyon,0,0,Draw
+930,France,Ligue-1,Nantes,Marseille,1,1,Draw
+931,France,Ligue-1,Brest,Rennes,0,0,Draw
+932,France,Ligue-1,Monaco,Lens,3,0,Home
+933,France,Ligue-1,Toulouse,Clermont Foot,2,2,Draw
+934,France,Ligue-1,Le Havre,Lorient,3,0,Home
+935,France,Ligue-1,Lille,Montpellier,1,0,Home
+936,France,Ligue-1,Metz,Reims,2,2,Draw
+937,France,Ligue-1,Nice,Strasbourg,2,0,Home
+938,France,Ligue-1,Lyon,Paris Saint-Germain,1,4,Away
+939,France,Ligue-1,Paris Saint-Germain,Nice,2,3,Away
+940,France,Ligue-1,Rennes,Lille,2,2,Draw
+941,France,Ligue-1,Lens,Metz,0,1,Away
+942,France,Ligue-1,Lorient,Monaco,2,2,Draw
+943,France,Ligue-1,Clermont Foot,Nantes,0,1,Away
+944,France,Ligue-1,Reims,Brest,1,2,Away
+945,France,Ligue-1,Strasbourg,Montpellier,2,2,Draw
+946,France,Ligue-1,Marseille,Toulouse,0,0,Draw
+947,France,Ligue-1,Lyon,Le Havre,0,0,Draw
+948,France,Ligue-1,Monaco,Nice,0,1,Away
+949,France,Ligue-1,Nantes,Lorient,5,3,Home
+950,France,Ligue-1,Brest,Lyon,1,0,Home
+951,France,Ligue-1,Metz,Strasbourg,0,1,Away
+952,France,Ligue-1,Le Havre,Clermont Foot,2,1,Home
+953,France,Ligue-1,Lens,Toulouse,2,1,Home
+954,France,Ligue-1,Montpellier,Rennes,0,0,Draw
+955,France,Ligue-1,Paris Saint-Germain,Marseille,4,0,Home
+956,France,Ligue-1,Lille,Reims,1,2,Away
+957,France,Ligue-1,Strasbourg,Lens,0,1,Away
+958,France,Ligue-1,Clermont Foot,Paris Saint-Germain,0,0,Draw
+959,France,Ligue-1,Monaco,Marseille,3,2,Home
+960,France,Ligue-1,Reims,Lyon,2,0,Home
+961,France,Ligue-1,Le Havre,Lille,0,2,Away
+962,France,Ligue-1,Nice,Brest,0,0,Draw
+963,France,Ligue-1,Toulouse,Metz,3,0,Home
+964,France,Ligue-1,Lorient,Montpellier,0,3,Away
+965,France,Ligue-1,Rennes,Nantes,3,1,Home
+966,France,Ligue-1,Strasbourg,Nantes,1,2,Away
+967,France,Ligue-1,Metz,Nice,0,1,Away
+968,France,Ligue-1,Reims,Monaco,1,3,Away
+969,France,Ligue-1,Marseille,Le Havre,3,0,Home
+970,France,Ligue-1,Brest,Toulouse,1,1,Draw
+971,France,Ligue-1,Lyon,Lorient,3,3,Draw
+972,France,Ligue-1,Montpellier,Clermont Foot,오후,10,Home
+973,France,Ligue-1,Lens,Lille,1,1,Draw
+974,France,Ligue-1,Rennes,Paris Saint-Germain,1,3,Away
+975,France,Ligue-1,Montpellier,Clermont Foot,1,1,Draw
+976,France,Ligue-1,Le Havre,Lens,0,0,Draw
+977,France,Ligue-1,Paris Saint-Germain,Strasbourg,3,0,Home
+978,France,Ligue-1,Nice,Marseille,1,0,Home
+979,France,Ligue-1,Lorient,Rennes,2,1,Home
+980,France,Ligue-1,Lille,Brest,1,0,Home
+981,France,Ligue-1,Nantes,Montpellier,2,0,Home
+982,France,Ligue-1,Toulouse,Reims,1,1,Draw
+983,France,Ligue-1,Monaco,Metz,2,1,Home
+984,France,Ligue-1,Lyon,Clermont Foot,1,2,Away
+985,France,Ligue-1,Clermont Foot,Nice,0,1,Away
+986,France,Ligue-1,Reims,Lorient,1,0,Home
+987,France,Ligue-1,Lens,Nantes,4,0,Home
+988,France,Ligue-1,Brest,Paris Saint-Germain,2,3,Away
+989,France,Ligue-1,Lille,Monaco,2,0,Home
+990,France,Ligue-1,Metz,Le Havre,0,0,Draw
+991,France,Ligue-1,Montpellier,Toulouse,3,0,Home
+992,France,Ligue-1,Rennes,Strasbourg,1,1,Draw
+993,France,Ligue-1,Marseille,Lyon,3,0,Home
+994,France,Ligue-1,Paris Saint-Germain,Montpellier,3,0,Home
+995,France,Ligue-1,Lorient,Lens,0,0,Draw
+996,France,Ligue-1,Marseille,Lille,0,0,Draw
+997,France,Ligue-1,Lyon,Metz,1,1,Draw
+998,France,Ligue-1,Nantes,Reims,0,1,Away
+999,France,Ligue-1,Strasbourg,Clermont Foot,0,0,Draw
+1000,France,Ligue-1,Toulouse,Le Havre,1,2,Away
+1001,France,Ligue-1,Monaco,Brest,2,0,Home
+1002,France,Ligue-1,Nice,Rennes,2,0,Home
+1003,France,Ligue-1,Montpellier,Nice,0,0,Draw
+1004,France,Ligue-1,Reims,Paris Saint-Germain,0,3,Away
+1005,France,Ligue-1,Le Havre,Monaco,0,0,Draw
+1006,France,Ligue-1,Clermont Foot,Lorient,1,0,Home
+1007,France,Ligue-1,Lille,Toulouse,1,1,Draw
+1008,France,Ligue-1,Metz,Nantes,3,1,Home
+1009,France,Ligue-1,Rennes,Lyon,0,1,Away
+1010,France,Ligue-1,Lens,Marseille,1,0,Home
+1011,France,Ligue-1,Brest,Strasbourg,1,1,Draw
+1012,France,Ligue-1,Paris Saint-Germain,Monaco,5,2,Home
+1013,France,Ligue-1,Clermont Foot,Lens,0,3,Away
+1014,France,Ligue-1,Strasbourg,Marseille,1,1,Draw
+1015,France,Ligue-1,Nice,Toulouse,1,0,Home
+1016,France,Ligue-1,Lorient,Metz,2,3,Away
+1017,France,Ligue-1,Montpellier,Brest,1,3,Away
+1018,France,Ligue-1,Nantes,Le Havre,0,0,Draw
+1019,France,Ligue-1,Rennes,Reims,3,1,Home
+1020,France,Ligue-1,Lyon,Lille,0,2,Away
+1021,France,Ligue-1,Reims,Strasbourg,2,1,Home
+1022,France,Ligue-1,Lens,Lyon,3,2,Home
+1023,France,Ligue-1,Nantes,Nice,1,0,Home
+1024,France,Ligue-1,Le Havre,Paris Saint-Germain,0,2,Away
+1025,France,Ligue-1,Brest,Clermont Foot,3,0,Home
+1026,France,Ligue-1,Monaco,Montpellier,2,0,Home
+1027,France,Ligue-1,Toulouse,Lorient,1,1,Draw
+1028,France,Ligue-1,Lille,Metz,2,0,Home
+1029,France,Ligue-1,Marseille,Rennes,2,0,Home
+1030,France,Ligue-1,Montpellier,Lens,0,0,Draw
+1031,France,Ligue-1,Rennes,Monaco,1,2,Away
+1032,France,Ligue-1,Paris Saint-Germain,Nantes,2,1,Home
+1033,France,Ligue-1,Nice,Reims,2,1,Home
+1034,France,Ligue-1,Clermont Foot,Lille,0,0,Draw
+1035,France,Ligue-1,Metz,Brest,0,1,Away
+1036,France,Ligue-1,Strasbourg,Le Havre,2,1,Home
+1037,France,Ligue-1,Lyon,Toulouse,3,0,Home
+1038,France,Ligue-1,Lorient,Marseille,2,4,Away
+1039,France,Ligue-1,Monaco,Lyon,0,1,Away
+1040,France,Ligue-1,Le Havre,Nice,3,1,Home
+1041,France,Ligue-1,Lens,Reims,2,0,Home
+1042,France,Ligue-1,Nantes,Brest,0,2,Away
+1043,France,Ligue-1,Lorient,Strasbourg,1,2,Away
+1044,France,Ligue-1,Metz,Montpellier,0,1,Away
+1045,France,Ligue-1,Toulouse,Rennes,0,0,Draw
+1046,France,Ligue-1,Marseille,Clermont Foot,2,1,Home
+1047,France,Ligue-1,Lille,Paris Saint-Germain,1,1,Draw
+1048,France,Ligue-1,Brest,Lorient,4,0,Home
+1049,France,Ligue-1,Clermont Foot,Rennes,1,3,Away
+1050,France,Ligue-1,Lyon,Nantes,1,0,Home
+1051,France,Ligue-1,Montpellier,Marseille,1,1,Draw
+1052,France,Ligue-1,Nice,Lens,2,0,Home
+1053,France,Ligue-1,Paris Saint-Germain,Metz,3,1,Home
+1054,France,Ligue-1,Reims,Le Havre,1,0,Home
+1055,France,Ligue-1,Strasbourg,Lille,2,1,Home
+1056,France,Ligue-1,Toulouse,Monaco,1,2,Away
+1057,France,Ligue-1,Marseille,Strasbourg,1,1,Draw
+1058,France,Ligue-1,Monaco,Reims,1,3,Away
+1059,France,Ligue-1,Rennes,Nice,2,0,Home
+1060,France,Ligue-1,Lille,Lorient,3,0,Home
+1061,France,Ligue-1,Brest,Montpellier,2,0,Home
+1062,France,Ligue-1,Metz,Toulouse,0,1,Away
+1063,France,Ligue-1,Nantes,Clermont Foot,1,2,Away
+1064,France,Ligue-1,Le Havre,Lyon,3,1,Home
+1065,France,Ligue-1,Lens,Paris Saint-Germain,0,2,Away
+1066,France,Ligue-1,Lyon,Rennes,2,3,Away
+1067,France,Ligue-1,Nice,Metz,1,0,Home
+1068,France,Ligue-1,Marseille,Monaco,2,2,Draw
+1069,France,Ligue-1,Montpellier,Lille,0,0,Draw
+1070,France,Ligue-1,Clermont Foot,Strasbourg,1,1,Draw
+1071,France,Ligue-1,Lorient,Le Havre,3,3,Draw
+1072,France,Ligue-1,Reims,Nantes,0,0,Draw
+1073,France,Ligue-1,Toulouse,Lens,0,2,Away
+1074,France,Ligue-1,Paris Saint-Germain,Brest,2,2,Draw
+1075,France,Ligue-1,Strasbourg,Paris Saint-Germain,1,2,Away
+1076,France,Ligue-1,Rennes,Montpellier,2,1,Home
+1077,France,Ligue-1,Nantes,Lens,0,1,Away
+1078,France,Ligue-1,Monaco,Le Havre,1,1,Draw
+1079,France,Ligue-1,Lille,Clermont Foot,4,0,Home
+1080,France,Ligue-1,Metz,Lorient,1,2,Away
+1081,France,Ligue-1,Reims,Toulouse,2,3,Away
+1082,France,Ligue-1,Brest,Nice,0,0,Draw
+1083,France,Ligue-1,Lyon,Marseille,1,0,Home
+1084,France,Ligue-1,Marseille,Metz,1,1,Draw
+1085,France,Ligue-1,Lens,Strasbourg,3,1,Home
+1086,France,Ligue-1,Paris Saint-Germain,Lille,3,1,Home
+1087,France,Ligue-1,Le Havre,Rennes,0,1,Away
+1088,France,Ligue-1,Clermont Foot,Brest,1,1,Draw
+1089,France,Ligue-1,Lorient,Reims,2,0,Home
+1090,France,Ligue-1,Toulouse,Nantes,1,2,Away
+1091,France,Ligue-1,Montpellier,Lyon,1,2,Away
+1092,France,Ligue-1,Nice,Monaco,2,3,Away
+1093,France,Ligue-1,Lyon,Nice,1,0,Home
+1094,France,Ligue-1,Lille,Le Havre,3,0,Home
+1095,France,Ligue-1,Nantes,Paris Saint-Germain,0,2,Away
+1096,France,Ligue-1,Strasbourg,Lorient,1,3,Away
+1097,France,Ligue-1,Monaco,Toulouse,1,2,Away
+1098,France,Ligue-1,Montpellier,Metz,3,0,Home
+1099,France,Ligue-1,Rennes,Clermont Foot,3,1,Home
+1100,France,Ligue-1,Reims,Lens,1,1,Draw
+1101,France,Ligue-1,Brest,Marseille,1,0,Home
+1102,France,Ligue-1,Metz,Lyon,1,2,Away
+1103,France,Ligue-1,Lorient,Nantes,0,1,Away
+1104,France,Ligue-1,Strasbourg,Brest,0,3,Away
+1105,France,Ligue-1,Lens,Monaco,2,3,Away
+1106,France,Ligue-1,Le Havre,Reims,1,2,Away
+1107,France,Ligue-1,Nice,Clermont Foot,0,0,Draw
+1108,France,Ligue-1,Toulouse,Lille,3,1,Home
+1109,France,Ligue-1,Paris Saint-Germain,Rennes,1,1,Draw
+1110,France,Ligue-1,Marseille,Montpellier,4,1,Home
+1111,France,Ligue-1,Monaco,Paris Saint-Germain,0,0,Draw
+1112,France,Ligue-1,Reims,Lille,0,1,Away
+1113,France,Ligue-1,Clermont Foot,Marseille,1,5,Away
+1114,France,Ligue-1,Toulouse,Nice,2,1,Home
+1115,France,Ligue-1,Brest,Le Havre,1,0,Home
+1116,France,Ligue-1,Montpellier,Strasbourg,2,2,Draw
+1117,France,Ligue-1,Nantes,Metz,0,2,Away
+1118,France,Ligue-1,Rennes,Lorient,1,2,Away
+1119,France,Ligue-1,Lyon,Lens,0,3,Away
+1120,France,Ligue-1,Nice,Montpellier,1,2,Away
+1121,France,Ligue-1,Lorient,Lyon,0,2,Away
+1122,France,Ligue-1,Lens,Brest,1,0,Home
+1123,France,Ligue-1,Paris Saint-Germain,Reims,2,2,Draw
+1124,France,Ligue-1,Le Havre,Toulouse,1,0,Home
+1125,France,Ligue-1,Metz,Clermont Foot,1,0,Home
+1126,France,Ligue-1,Strasbourg,Monaco,0,1,Away
+1127,France,Ligue-1,Lille,Rennes,2,2,Draw
+1128,France,Ligue-1,Marseille,Nantes,2,0,Home
+1129,France,Ligue-1,Toulouse,Lyon,2,3,Away
+1130,France,Ligue-1,Nantes,Strasbourg,1,3,Away
+1131,France,Ligue-1,Lens,Nice,1,3,Away
+1132,France,Ligue-1,Brest,Lille,1,1,Draw
+1133,France,Ligue-1,Clermont Foot,Le Havre,2,1,Home
+1134,France,Ligue-1,Monaco,Lorient,2,2,Draw
+1135,France,Ligue-1,Reims,Metz,2,1,Home
+1136,France,Ligue-1,Rennes,Marseille,2,0,Home
+1137,France,Ligue-1,Montpellier,Paris Saint-Germain,2,6,Away
+1138,France,Ligue-1,Lille,Lens,2,1,Home
+1139,France,Ligue-1,Metz,Monaco,2,5,Away
+1140,France,Ligue-1,Lyon,Reims,1,1,Draw
+1141,France,Ligue-1,Lorient,Brest,0,1,Away
+1142,France,Ligue-1,Clermont Foot,Toulouse,0,3,Away
+1143,France,Ligue-1,Le Havre,Montpellier,0,2,Away
+1144,France,Ligue-1,Nice,Nantes,1,2,Away
+1145,France,Ligue-1,Strasbourg,Rennes,2,0,Home
+1146,France,Ligue-1,Marseille,Paris Saint-Germain,0,2,Away
+1147,France,Ligue-1,Lille,Marseille,3,1,Home
+1148,France,Ligue-1,Lens,Le Havre,1,1,Draw
+1149,France,Ligue-1,Paris Saint-Germain,Clermont Foot,1,1,Draw
+1150,France,Ligue-1,Brest,Metz,4,3,Home
+1151,France,Ligue-1,Montpellier,Lorient,2,0,Home
+1152,France,Ligue-1,Reims,Nice,0,0,Draw
+1153,France,Ligue-1,Toulouse,Strasbourg,0,0,Draw
+1154,France,Ligue-1,Monaco,Rennes,1,0,Home
+1155,France,Ligue-1,Nantes,Lyon,1,3,Away
+1156,France,Ligue-1,Metz,Lens,2,1,Home
+1157,France,Ligue-1,Strasbourg,Reims,3,1,Home
+1158,France,Ligue-1,Rennes,Toulouse,1,2,Away
+1159,France,Ligue-1,Le Havre,Nantes,0,1,Away
+1160,France,Ligue-1,Clermont Foot,Montpellier,1,1,Draw
+1161,France,Ligue-1,Lyon,Brest,4,3,Home
+1162,Spain,LaLiga,Almeria,Rayo Vallecano,0,2,Away
+1163,Spain,LaLiga,Sevilla,Valencia,1,2,Away
+1164,Spain,LaLiga,Real Sociedad,Girona,1,1,Draw
+1165,Spain,LaLiga,Las Palmas,Mallorca,1,1,Draw
+1166,Spain,LaLiga,Athletic Club,Real Madrid,0,2,Away
+1167,Spain,LaLiga,Celta Vigo,Osasuna,0,2,Away
+1168,Spain,LaLiga,Villarreal,Real Betis,1,2,Away
+1169,Spain,LaLiga,Getafe,Barcelona,0,0,Draw
+1170,Spain,LaLiga,Cadiz,Deportivo Alaves,1,0,Home
+1171,Spain,LaLiga,Atletico Madrid,Granada,3,1,Home
+1172,Spain,LaLiga,Mallorca,Villarreal,0,1,Away
+1173,Spain,LaLiga,Valencia,Las Palmas,1,0,Home
+1174,Spain,LaLiga,Real Sociedad,Celta Vigo,1,1,Draw
+1175,Spain,LaLiga,Almeria,Real Madrid,1,3,Away
+1176,Spain,LaLiga,Osasuna,Athletic Club,0,2,Away
+1177,Spain,LaLiga,Girona,Getafe,3,0,Home
+1178,Spain,LaLiga,Barcelona,Cadiz,2,0,Home
+1179,Spain,LaLiga,Real Betis,Atletico Madrid,0,0,Draw
+1180,Spain,LaLiga,Deportivo Alaves,Sevilla,4,3,Home
+1181,Spain,LaLiga,Granada,Rayo Vallecano,0,2,Away
+1182,Spain,LaLiga,Las Palmas,Real Sociedad,0,0,Draw
+1183,Spain,LaLiga,Celta Vigo,Real Madrid,0,1,Away
+1184,Spain,LaLiga,Cadiz,Almeria,1,1,Draw
+1185,Spain,LaLiga,Granada,Mallorca,3,2,Home
+1186,Spain,LaLiga,Sevilla,Girona,1,2,Away
+1187,Spain,LaLiga,Villarreal,Barcelona,3,4,Away
+1188,Spain,LaLiga,Valencia,Osasuna,1,2,Away
+1189,Spain,LaLiga,Athletic Club,Real Betis,4,2,Home
+1190,Spain,LaLiga,Getafe,Deportivo Alaves,1,0,Home
+1191,Spain,LaLiga,Rayo Vallecano,Atletico Madrid,0,7,Away
+1192,Spain,LaLiga,Cadiz,Villarreal,3,1,Home
+1193,Spain,LaLiga,Almeria,Celta Vigo,2,3,Away
+1194,Spain,LaLiga,Real Sociedad,Granada,5,3,Home
+1195,Spain,LaLiga,Real Madrid,Getafe,2,1,Home
+1196,Spain,LaLiga,Deportivo Alaves,Valencia,1,0,Home
+1197,Spain,LaLiga,Real Betis,Rayo Vallecano,1,0,Home
+1198,Spain,LaLiga,Girona,Las Palmas,1,0,Home
+1199,Spain,LaLiga,Mallorca,Athletic Club,0,0,Draw
+1200,Spain,LaLiga,Osasuna,Barcelona,1,2,Away
+1201,Spain,LaLiga,Atletico Madrid,Sevilla,1,0,Home
+1202,Spain,LaLiga,Rayo Vallecano,Deportivo Alaves,2,0,Home
+1203,Spain,LaLiga,Athletic Club,Cadiz,3,0,Home
+1204,Spain,LaLiga,Valencia,Atletico Madrid,3,0,Home
+1205,Spain,LaLiga,Celta Vigo,Mallorca,0,1,Away
+1206,Spain,LaLiga,Barcelona,Real Betis,5,0,Home
+1207,Spain,LaLiga,Getafe,Osasuna,3,2,Home
+1208,Spain,LaLiga,Villarreal,Almeria,2,1,Home
+1209,Spain,LaLiga,Sevilla,Las Palmas,1,0,Home
+1210,Spain,LaLiga,Real Madrid,Real Sociedad,2,1,Home
+1211,Spain,LaLiga,Granada,Girona,2,4,Away
+1212,Spain,LaLiga,Deportivo Alaves,Athletic Club,0,2,Away
+1213,Spain,LaLiga,Girona,Mallorca,5,3,Home
+1214,Spain,LaLiga,Osasuna,Sevilla,0,0,Draw
+1215,Spain,LaLiga,Barcelona,Celta Vigo,3,2,Home
+1216,Spain,LaLiga,Almeria,Valencia,2,2,Draw
+1217,Spain,LaLiga,Real Sociedad,Getafe,4,3,Home
+1218,Spain,LaLiga,Rayo Vallecano,Villarreal,1,1,Draw
+1219,Spain,LaLiga,Las Palmas,Granada,1,0,Home
+1220,Spain,LaLiga,Real Betis,Cadiz,1,1,Draw
+1221,Spain,LaLiga,Atletico Madrid,Real Madrid,3,1,Home
+1222,Spain,LaLiga,Sevilla,Almeria,5,1,Home
+1223,Spain,LaLiga,Mallorca,Barcelona,2,2,Draw
+1224,Spain,LaLiga,Athletic Club,Getafe,2,2,Draw
+1225,Spain,LaLiga,Real Madrid,Las Palmas,2,0,Home
+1226,Spain,LaLiga,Villarreal,Girona,1,2,Away
+1227,Spain,LaLiga,Cadiz,Rayo Vallecano,0,0,Draw
+1228,Spain,LaLiga,Valencia,Real Sociedad,0,1,Away
+1229,Spain,LaLiga,Celta Vigo,Deportivo Alaves,1,1,Draw
+1230,Spain,LaLiga,Granada,Real Betis,1,1,Draw
+1231,Spain,LaLiga,Osasuna,Atletico Madrid,0,2,Away
+1232,Spain,LaLiga,Barcelona,Sevilla,1,0,Home
+1233,Spain,LaLiga,Getafe,Villarreal,0,0,Draw
+1234,Spain,LaLiga,Rayo Vallecano,Mallorca,2,2,Draw
+1235,Spain,LaLiga,Girona,Real Madrid,0,3,Away
+1236,Spain,LaLiga,Real Sociedad,Athletic Club,3,0,Home
+1237,Spain,LaLiga,Almeria,Granada,3,3,Draw
+1238,Spain,LaLiga,Deportivo Alaves,Osasuna,0,2,Away
+1239,Spain,LaLiga,Atletico Madrid,Cadiz,3,2,Home
+1240,Spain,LaLiga,Real Betis,Valencia,3,0,Home
+1241,Spain,LaLiga,Las Palmas,Celta Vigo,2,1,Home
+1242,Spain,LaLiga,Athletic Club,Almeria,3,0,Home
+1243,Spain,LaLiga,Cadiz,Girona,0,1,Away
+1244,Spain,LaLiga,Real Madrid,Osasuna,4,0,Home
+1245,Spain,LaLiga,Mallorca,Valencia,1,1,Draw
+1246,Spain,LaLiga,Sevilla,Rayo Vallecano,2,2,Draw
+1247,Spain,LaLiga,Villarreal,Las Palmas,1,2,Away
+1248,Spain,LaLiga,Atlético Madrid,Real Sociedad,2,1,Home
+1249,Spain,LaLiga,Celta Vigo,Getafe,2,2,Draw
+1250,Spain,LaLiga,Deportivo Alaves,Real Betis,1,1,Draw
+1251,Spain,LaLiga,Granada,Barcelona,2,2,Draw
+1252,Spain,LaLiga,Osasuna,Granada,2,0,Home
+1253,Spain,LaLiga,Real Sociedad,Mallorca,1,0,Home
+1254,Spain,LaLiga,Getafe,Real Betis,1,1,Draw
+1255,Spain,LaLiga,Sevilla,Real Madrid,1,1,Draw
+1256,Spain,LaLiga,Celta Vigo,Atlético Madrid,0,3,Away
+1257,Spain,LaLiga,Las Palmas,Rayo Vallecano,0,1,Away
+1258,Spain,LaLiga,Girona,Almeria,5,2,Home
+1259,Spain,LaLiga,Villarreal,Deportivo Alaves,1,1,Draw
+1260,Spain,LaLiga,Barcelona,Athletic Club,1,0,Home
+1261,Spain,LaLiga,Valencia,Cadiz,2,0,Home
+1262,Spain,LaLiga,Girona,Celta Vigo,1,0,Home
+1263,Spain,LaLiga,Almeria,Las Palmas,1,2,Away
+1264,Spain,LaLiga,Barcelona,Real Madrid,1,2,Away
+1265,Spain,LaLiga,Mallorca,Getafe,0,0,Draw
+1266,Spain,LaLiga,Cadiz,Sevilla,2,2,Draw
+1267,Spain,LaLiga,Real Betis,Osasuna,2,1,Home
+1268,Spain,LaLiga,Rayo Vallecano,Real Sociedad,2,2,Draw
+1269,Spain,LaLiga,Athletic Club,Valencia,2,2,Draw
+1270,Spain,LaLiga,Atlético Madrid,Deportivo Alaves,2,1,Home
+1271,Spain,LaLiga,Granada,Villarreal,2,3,Away
+1272,Spain,LaLiga,Las Palmas,Atlético Madrid,2,1,Home
+1273,Spain,LaLiga,Osasuna,Girona,2,4,Away
+1274,Spain,LaLiga,Real Betis,Mallorca,2,0,Home
+1275,Spain,LaLiga,Celta Vigo,Sevilla,1,1,Draw
+1276,Spain,LaLiga,Real Sociedad,Barcelona,0,1,Away
+1277,Spain,LaLiga,Deportivo Alaves,Almeria,1,0,Home
+1278,Spain,LaLiga,Valencia,Granada,1,0,Home
+1279,Spain,LaLiga,Villarreal,Athletic Club,2,3,Away
+1280,Spain,LaLiga,Real Madrid,Rayo Vallecano,0,0,Draw
+1281,Spain,LaLiga,Getafe,Cadiz,1,0,Home
+1282,Spain,LaLiga,Athletic Club,Celta Vigo,4,3,Home
+1283,Spain,LaLiga,Rayo Vallecano,Girona,1,2,Away
+1284,Spain,LaLiga,Almeria,Real Sociedad,1,3,Away
+1285,Spain,LaLiga,Granada,Getafe,1,1,Draw
+1286,Spain,LaLiga,Osasuna,Las Palmas,1,1,Draw
+1287,Spain,LaLiga,Real Madrid,Valencia,5,1,Home
+1288,Spain,LaLiga,Barcelona,Deportivo Alaves,2,1,Home
+1289,Spain,LaLiga,Sevilla,Real Betis,1,1,Draw
+1290,Spain,LaLiga,Atlético Madrid,Villarreal,3,1,Home
+1291,Spain,LaLiga,Mallorca,Cadiz,1,1,Draw
+1292,Spain,LaLiga,Deportivo Alaves,Granada,3,1,Home
+1293,Spain,LaLiga,Rayo Vallecano,Barcelona,1,1,Draw
+1294,Spain,LaLiga,Valencia,Celta Vigo,0,0,Draw
+1295,Spain,LaLiga,Getafe,Almeria,2,1,Home
+1296,Spain,LaLiga,Atlético Madrid,Mallorca,1,0,Home
+1297,Spain,LaLiga,Villarreal,Osasuna,3,1,Home
+1298,Spain,LaLiga,Real Sociedad,Sevilla,2,1,Home
+1299,Spain,LaLiga,Cadiz,Real Madrid,0,3,Away
+1300,Spain,LaLiga,Real Betis,Las Palmas,1,0,Home
+1301,Spain,LaLiga,Girona,Athletic Club,1,1,Draw
+1302,Spain,LaLiga,Las Palmas,Getafe,2,0,Home
+1303,Spain,LaLiga,Girona,Valencia,2,1,Home
+1304,Spain,LaLiga,Athletic Club,Rayo Vallecano,4,0,Home
+1305,Spain,LaLiga,Real Madrid,Granada,2,0,Home
+1306,Spain,LaLiga,Osasuna,Real Sociedad,1,1,Draw
+1307,Spain,LaLiga,Mallorca,Deportivo Alaves,0,0,Draw
+1308,Spain,LaLiga,Almeria,Real Betis,0,0,Draw
+1309,Spain,LaLiga,Sevilla,Villarreal,1,1,Draw
+1310,Spain,LaLiga,Barcelona,Atletico Madrid,1,0,Home
+1311,Spain,LaLiga,Celta Vigo,Cadiz,1,1,Draw
+1312,Spain,LaLiga,Getafe,Valencia,1,0,Home
+1313,Spain,LaLiga,Deportivo Alaves,Las Palmas,0,1,Away
+1314,Spain,LaLiga,Real Betis,Real Madrid,1,1,Draw
+1315,Spain,LaLiga,Villarreal,Real Sociedad,0,3,Away
+1316,Spain,LaLiga,Mallorca,Sevilla,1,0,Home
+1317,Spain,LaLiga,Atletico Madrid,Almeria,2,1,Home
+1318,Spain,LaLiga,Cadiz,Osasuna,1,1,Draw
+1319,Spain,LaLiga,Barcelona,Girona,2,4,Away
+1320,Spain,LaLiga,Granada,Athletic Club,1,1,Draw
+1321,Spain,LaLiga,Rayo Vallecano,Celta Vigo,0,0,Draw
+1322,Spain,LaLiga,Osasuna,Rayo Vallecano,1,0,Home
+1323,Spain,LaLiga,Celta Vigo,Granada,1,0,Home
+1324,Spain,LaLiga,Athletic Club,Atletico Madrid,2,0,Home
+1325,Spain,LaLiga,Sevilla,Getafe,0,3,Away
+1326,Spain,LaLiga,Valencia,Barcelona,1,1,Draw
+1327,Spain,LaLiga,Almeria,Mallorca,0,0,Draw
+1328,Spain,LaLiga,Real Sociedad,Real Betis,0,0,Draw
+1329,Spain,LaLiga,Las Palmas,Cadiz,1,1,Draw
+1330,Spain,LaLiga,Real Madrid,Villarreal,4,1,Home
+1331,Spain,LaLiga,Girona,Deportivo Alaves,3,0,Home
+1332,Spain,LaLiga,Rayo Vallecano,Valencia,0,1,Away
+1333,Spain,LaLiga,Atletico Madrid,Getafe,3,3,Draw
+1334,Spain,LaLiga,Granada,Sevilla,0,3,Away
+1335,Spain,LaLiga,Barcelona,Almeria,3,2,Home
+1336,Spain,LaLiga,Athletic Bilbao,Las Palmas,1,0,Home
+1337,Spain,LaLiga,Villarreal,Celta Vigo,3,2,Home
+1338,Spain,LaLiga,Cadiz,Real Sociedad,0,0,Draw
+1339,Spain,LaLiga,Real Betis,Girona,1,1,Draw
+1340,Spain,LaLiga,Deportivo Alaves,Real Madrid,0,1,Away
+1341,Spain,LaLiga,Mallorca,Osasuna,3,2,Home
+1342,Spain,LaLiga,Getafe,Rayo Vallecano,0,2,Away
+1343,Spain,LaLiga,Real Sociedad,Deportivo Alaves,1,1,Draw
+1344,Spain,LaLiga,Valencia,Villarreal,3,1,Home
+1345,Spain,LaLiga,Granada,Cadiz,2,0,Home
+1346,Spain,LaLiga,Celta Vigo,Real Betis,2,1,Home
+1347,Spain,LaLiga,Real Madrid,Mallorca,1,0,Home
+1348,Spain,LaLiga,Girona,Atletico Madrid,4,3,Home
+1349,Spain,LaLiga,Osasuna,Almeria,1,0,Home
+1350,Spain,LaLiga,Sevilla,Athletic Bilbao,0,2,Away
+1351,Spain,LaLiga,Las Palmas,Barcelona,1,2,Away
+1352,Spain,LaLiga,Sevilla,Deportivo Alaves,2,3,Away
+1353,Spain,LaLiga,Las Palmas,Villarreal,3,0,Home
+1354,Spain,LaLiga,Mallorca,Celta Vigo,1,1,Draw
+1355,Spain,LaLiga,Athletic Club,Real Sociedad,2,1,Home
+1356,Spain,LaLiga,Real Betis,Granada,1,0,Home
+1357,Spain,LaLiga,Almeria,Girona,0,0,Draw
+1358,Spain,LaLiga,Cadiz,Valencia,1,4,Away
+1359,Spain,LaLiga,Barcelona,Osasuna,1,0,Home
+1360,Spain,LaLiga,Atletico Madrid,Rayo Vallecano,2,1,Home
+1361,Spain,LaLiga,Getafe,Real Madrid,0,2,Away
+1362,Spain,LaLiga,Deportivo Alaves,Cadiz,1,0,Home
+1363,Spain,LaLiga,Rayo Vallecano,Las Palmas,0,2,Away
+1364,Spain,LaLiga,Villarreal,Mallorca,1,1,Draw
+1365,Spain,LaLiga,Valencia,Athletic Club,1,0,Home
+1366,Spain,LaLiga,Celta Vigo,Real Sociedad,0,1,Away
+1367,Spain,LaLiga,Osasuna,Getafe,3,2,Home
+1368,Spain,LaLiga,Real Madrid,Almeria,3,2,Home
+1369,Spain,LaLiga,Real Betis,Barcelona,2,4,Away
+1370,Spain,LaLiga,Girona,Sevilla,5,1,Home
+1371,Spain,LaLiga,Granada,Atletico Madrid,0,1,Away
+1372,Spain,LaLiga,Almeria,Deportivo Alaves,0,3,Away
+1373,Spain,LaLiga,Real Sociedad,Rayo Vallecano,0,0,Draw
+1374,Spain,LaLiga,Las Palmas,Real Madrid,1,2,Away
+1375,Spain,LaLiga,Barcelona,Villarreal,3,5,Away
+1376,Spain,LaLiga,Mallorca,Real Betis,0,1,Away
+1377,Spain,LaLiga,Celta Vigo,Girona,0,1,Away
+1378,Spain,LaLiga,Cadiz,Athletic Club,0,0,Draw
+1379,Spain,LaLiga,Sevilla,Osasuna,1,1,Draw
+1380,Spain,LaLiga,Atletico Madrid,Valencia,2,0,Home
+1381,Spain,LaLiga,Getafe,Granada,2,0,Home
+1382,Spain,LaLiga,Athletic Club,Mallorca,4,0,Home
+1383,Spain,LaLiga,Valencia,Almeria,2,1,Home
+1384,Spain,LaLiga,Granada,Las Palmas,1,1,Draw
+1385,Spain,LaLiga,Deportivo Alaves,Barcelona,1,3,Away
+1386,Spain,LaLiga,Girona,Real Sociedad,0,0,Draw
+1387,Spain,LaLiga,Villarreal,Cadiz,0,0,Draw
+1388,Spain,LaLiga,Osasuna,Celta Vigo,0,3,Away
+1389,Spain,LaLiga,Real Betis,Getafe,1,1,Draw
+1390,Spain,LaLiga,Real Madrid,Atletico Madrid,1,1,Draw
+1391,Spain,LaLiga,Rayo Vallecano,Sevilla,1,2,Away
+1392,Spain,LaLiga,Cadiz,Real Betis,0,2,Away
+1393,Spain,LaLiga,Deportivo Alaves,Villarreal,1,1,Draw
+1394,Spain,LaLiga,Real Sociedad,Osasuna,0,1,Away
+1395,Spain,LaLiga,Real Madrid,Girona,4,0,Home
+1396,Spain,LaLiga,Las Palmas,Valencia,2,0,Home
+1397,Spain,LaLiga,Getafe,Celta Vigo,3,2,Home
+1398,Spain,LaLiga,Mallorca,Rayo Vallecano,2,1,Home
+1399,Spain,LaLiga,Sevilla,Atletico Madrid,1,0,Home
+1400,Spain,LaLiga,Barcelona,Granada,3,3,Draw
+1401,Spain,LaLiga,Almeria,Athletic Club,0,0,Draw
+1402,Spain,LaLiga,Villarreal,Getafe,1,1,Draw
+1403,Spain,LaLiga,Atletico Madrid,Las Palmas,5,0,Home
+1404,Spain,LaLiga,Osasuna,Cadiz,2,0,Home
+1405,Spain,LaLiga,Celta Vigo,Barcelona,1,2,Away
+1406,Spain,LaLiga,Valencia,Sevilla,0,0,Draw
+1407,Spain,LaLiga,Rayo Vallecano,Real Madrid,1,1,Draw
+1408,Spain,LaLiga,Granada,Almeria,1,1,Draw
+1409,Spain,LaLiga,Mallorca,Real Sociedad,1,2,Away
+1410,Spain,LaLiga,Real Betis,Deportivo Alaves,0,0,Draw
+1411,Spain,LaLiga,Athletic Club,Girona,3,2,Home
+1412,Spain,LaLiga,Real Sociedad,Villarreal,1,3,Away
+1413,Spain,LaLiga,Barcelona,Getafe,4,0,Home
+1414,Spain,LaLiga,Deportivo Alaves,Mallorca,1,1,Draw
+1415,Spain,LaLiga,Almeria,Atletico Madrid,2,2,Draw
+1416,Spain,LaLiga,Cadiz,Celta Vigo,2,2,Draw
+1417,Spain,LaLiga,Real Betis,Athletic Club,3,1,Home
+1418,Spain,LaLiga,Las Palmas,Osasuna,1,1,Draw
+1419,Spain,LaLiga,Real Madrid,Sevilla,1,0,Home
+1420,Spain,LaLiga,Girona,Rayo Vallecano,3,0,Home
+1421,Spain,LaLiga,Granada,Valencia,0,1,Away
+1422,Spain,LaLiga,Celta Vigo,Almeria,1,0,Home
+1423,Spain,LaLiga,Sevilla,Real Sociedad,3,2,Home
+1424,Spain,LaLiga,Rayo Vallecano,Cadiz,1,1,Draw
+1425,Spain,LaLiga,Getafe,Las Palmas,3,3,Draw
+1426,Spain,LaLiga,Valencia,Real Madrid,2,2,Draw
+1427,Spain,LaLiga,Villarreal,Granada,5,1,Home
+1428,Spain,LaLiga,Atletico Madrid,Real Betis,2,1,Home
+1429,Spain,LaLiga,Mallorca,Girona,1,0,Home
+1430,Spain,LaLiga,Athletic Club,Barcelona,0,0,Draw
+1431,Spain,LaLiga,Osasuna,Deportivo Alaves,1,0,Home
+1432,Spain,LaLiga,Barcelona,Mallorca,1,0,Home
+1433,Spain,LaLiga,Valencia,Getafe,1,0,Home
+1434,Spain,LaLiga,Cadiz,Atletico Madrid,2,0,Home
+1435,Spain,LaLiga,Granada,Real Sociedad,2,3,Away
+1436,Spain,LaLiga,Girona,Osasuna,2,0,Home
+1437,Spain,LaLiga,Deportivo Alaves,Rayo Vallecano,1,0,Home
+1438,Spain,LaLiga,Las Palmas,Athletic Club,0,2,Away
+1439,Spain,LaLiga,Real Madrid,Celta Vigo,4,0,Home
+1440,Spain,LaLiga,Real Betis,Villarreal,2,3,Away
+1441,Spain,LaLiga,Almeria,Sevilla,2,2,Draw
+1442,Spain,LaLiga,Real Sociedad,Cadiz,2,0,Home
+1443,Spain,LaLiga,Mallorca,Granada,1,0,Home
+1444,Spain,LaLiga,Osasuna,Real Madrid,2,4,Away
+1445,Spain,LaLiga,Getafe,Girona,1,0,Home
+1446,Spain,LaLiga,Athletic Club,Deportivo Alaves,2,0,Home
+1447,Spain,LaLiga,Sevilla,Celta Vigo,1,2,Away
+1448,Spain,LaLiga,Las Palmas,Almeria,0,1,Away
+1449,Spain,LaLiga,Villarreal,Valencia,1,0,Home
+1450,Spain,LaLiga,Rayo Vallecano,Real Betis,2,0,Home
+1451,Spain,LaLiga,Atletico Madrid,Barcelona,0,3,Away
+1452,Spain,LaLiga,Cadiz,Granada,1,0,Home
+1453,Spain,LaLiga,Getafe,Sevilla,0,1,Away
+1454,Spain,LaLiga,Almeria,Osasuna,0,3,Away
+1455,Spain,LaLiga,Valencia,Mallorca,0,0,Draw
+1456,Spain,LaLiga,Barcelona,Las Palmas,1,0,Home
+1457,Spain,LaLiga,Celta Vigo,Rayo Vallecano,0,0,Draw
+1458,Spain,LaLiga,Girona,Real Betis,3,2,Home
+1459,Spain,LaLiga,Deportivo Alaves,Real Sociedad,0,1,Away
+1460,Spain,LaLiga,Real Madrid,Athletic Club,2,0,Home
+1461,Spain,LaLiga,Villarreal,Atletico Madrid,1,2,Away
+1462,Spain,LaLiga,Real Betis,Celta Vigo,2,1,Home
+1463,Spain,LaLiga,Atletico Madrid,Girona,3,1,Home
+1464,Spain,LaLiga,Rayo Vallecano,Getafe,0,0,Draw
+1465,Spain,LaLiga,Mallorca,Real Madrid,0,1,Away
+1466,Spain,LaLiga,Cadiz,Barcelona,0,1,Away
+1467,Spain,LaLiga,Las Palmas,Sevilla,0,2,Away
+1468,Spain,LaLiga,Granada,Deportivo Alaves,2,0,Home
+1469,Spain,LaLiga,Athletic Club,Villarreal,1,1,Draw
+1470,Spain,LaLiga,Real Sociedad,Almeria,2,2,Draw
+1471,Spain,LaLiga,Osasuna,Valencia,0,1,Away

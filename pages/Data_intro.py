@@ -73,13 +73,396 @@ with tab4:
     (10) 펀칭(빈도)(Tendency To Punch): 펀칭 빈도는 골키퍼가 가능하면 공을 잡으려 하는지 아니면 펀칭으로 걷어내는 걸 선호하는지 나타낸다. 이 등급이 높으면 골키퍼가 공을 잡을 수 있을 때도 펀칭으로 걷어낸다는 뜻. 장단점이 있는 능력치. 높을수록 상대 슈팅을 쉽게 막지만 펀칭 후 루즈볼에 실점할 가능성이 높아지며, 낮으면 펀칭을 거의 안 하고 공을 잡으려고 시도해 루즈볼 기회를 주지 않지만 역효과로 상대 슈팅을 못 막게 될 수 있다. 높으면 스카우터들이 단점으로 지적하는 것으로 볼 때, 시스템적으로는 낮은 선수가 높은 평가를 받는다. 단, 비가 오는 경기에선 펀칭빈도가 높은 골키퍼를 사용하는 것이 더 효율적이다.\n
     (11) 페널티 박스 장악력(Command Of Area): 페널티 박스 장악력은 수비수와 협력해서 페널티 박스를 장악하는 골키퍼의 능력을 나타낸다. 이 등급이 높아서 박스 전체를 장악하는 골키퍼는 거의 본능적으로 날아오는 크로스를 비롯한 각종 상황에 대처한다. (이 때 공중 장악력이 높으면 도움이 된다) 하지만 이 등급이 높아도 골키퍼가 크로스를 잡으려 할 가능성만 오를 뿐, 잡아낸다는 보장은 없다.''')
 
+
+gkdf = pd.read_csv("./usedata/gk.csv")
+st.dataframe(gkdf, hide_index = True, use_container_width=True)
+#데이터 불러오기
+raw_file = open("./player_link_url.txt", "r")
+raw_list = raw_file.read().split("\n")
+st.download_button(label="Download rawdata",
+        data=f"'{raw_list}'",
+        file_name='raw_file.txt',
+        mime='text/csv')
+st.markdown(":floppy_disk: 선수 세부정보가 포함된 링크 크롤링 코드")
+st.code('''
+from bs4 import BeautifulSoup 
+import requests
+
+#라이브러리 호출
+#라이브러리
+from selenium import webdriver # Selenium의 웹 드라이버를 사용하기 위한 모듈을 임포트
+from selenium.webdriver.common.by import By # Selenium에서 사용하는 By 클래스를 임포트합니다. 이 클래스는 웹 요소를 검색하는데 사용
+from selenium.webdriver.common.keys import Keys #키보드 입력을 제어하기 위한 Keys 클래스를 임포트
+from selenium.webdriver.chrome.service import Service # Chrome 드라이버 서비스를 사용하기 위한 모듈을 임포트
+from selenium.webdriver.chrome.options import Options # Chrome 드라이버 옵션을 설정하기 위한 클래스를 임포트
+from webdriver_manager.chrome import ChromeDriverManager #Chrome 드라이버를 자동으로 설치 및 관리하는 데 사용되는 매니저를 임포트
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException
+import time #시간 관련 함수를 사용하기 위한 time 모듈을 임포
+        
+#옵션객체 생성
+sel_opt = Options() 
+sel_opt.add_experimental_option("excludeSwitches", ["enable-automation"]) #드라이버 시작시 불필요문구 미표시되도록 설정
+sel_opt.add_experimental_option("excludeSwitches", ["enable-logging"]) #터미널상의 불필요문구 미표시되도록 설정
+# ma_option.add_argument("--headless") #드라이버창 안열리게 설정
+sel_opt.add_argument("--start-maximized") # 화면크기 최대화
+sel_opt.add_argument("--disable-gpu") #헤드리스가 안될경우 함께 사용
+sel_opt.add_experimental_option("detach", True)  # 화면꺼짐 방지옵션 추가
+sel_opt.add_argument("--incognito") #시크릿모드로 진행
+
+#드라이버 세팅
+srt_sevice = Service(ChromeDriverManager().install()) #드라이버설치
+core_driver = webdriver.Chrome(service=srt_sevice, options=sel_opt)
+
+#타겟링크 지정 정보수신
+target_Url = "https://fminside.net/players#google_vignette"
+core_driver.get(target_Url)
+time.sleep(10)
+        
+# 무한 루프 시작
+while True:
+    try:
+        # 'loadmore' 클래스를 가진 버튼 찾기
+        more_btn = WebDriverWait(core_driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "loadmore")))
+        # 버튼 클릭
+        more_btn.click()
+        # 3초 대기 (페이지 로드를 기다리기 위함)
+        time.sleep(3)
+    except TimeoutException:
+        # 만약에 'loadmore' 버튼이 없으면 break로 탈출
+        break
+    except ElementClickInterceptedException:
+        # 클릭할 수 없는 경우, 페이지가 로드될 때까지 대기 후 다시 시도
+        time.sleep(3)
+
+#전처리
+raw_data = list()
+player_href = core_driver.find_elements(By.TAG_NAME, "b") #태그네임이 b인 것을 리스트로 저장
+for v in player_href: #반복문을 통해 b태그의 outerHTML 요소 값 추출 및 빈리스트에 추가
+    raw = v.get_attribute("outerHTML")
+    raw_data.append(raw)
+#outerHTML 요소를 split 하여 링크 주소 추출 및 메인 도메인 주소와 합쳐 완성형 주소로 전처리
+for v in raw_data:
+    back_rul = v.split("href=")[1].split("'>'"''")[0]
+    full_url = "https://fminside.net"+back_rul
+    print(full_url)
+''')
+
+st.markdown(":floppy_disk: 선수 세부정보 크롤링 코드")
+st.code('''
+#라이브러리 호출
+from bs4 import BeautifulSoup 
+import pandas as pd
+import requests
+#데이터 불러오기
+raw_file = open("./player_link_url.txt", "r")
+raw_list = raw_file.read().split("\n")
+print(len(raw_list))
+# 선수별 세부링크 변수 
+real_link = raw_list
+
+# 데이터 프레임에 사용할 리스트
+basic_field = ["player_nm", "player_overall", "player_potential", "player_team", "player_country", "player_position", "player_age", "player_foot", "player_height", "player_Weight"]
+nonGK_field_nm = ['corners', 'crossing', 'dribbling', 'finishing', 'first-touch', 'free-kick-taking', 'heading', 'long-shots', 'long-throws', 'marking', 'passing', 'penalty-taking', 'tackling', 'technique', 'aggression', 'anticipation', 'bravery', 'composure', 'concentration', 'decisions', 'determination', 'flair', 'leadership', 'off-the-ball', 'positioning', 'teamwork', 'vision', 'work-rate', 'acceleration', 'agility', 'balance', 'jumping-reach', 'natural-fitness', 'pace', 'stamina', 'strength']
+GK_field_nm = ['aerial-reach', 'command-of-area', 'communication', 'eccentricity', 'first-touch', 'handling', 'kicking', 'one-on-ones', 'passing', 'punching-tendency', 'reflexes', 'rushing-out-tendency', 'throwing', 'aggression', 'anticipation', 'bravery', 'composure', 'concentration', 'decisions', 'determination', 'flair', 'leadership', 'off-the-ball', 'positioning', 'teamwork', 'vision', 'work-rate', 'acceleration', 'agility', 'balance', 'jumping-reach', 'natural-fitness', 'pace', 'stamina', 'strength', 'free-kick-taking', 'penalty-taking', 'technique']
+
+# 선수 정보를 저장할 데이터프레임 초기화
+Basic_nongk_df = pd.DataFrame(columns=basic_field)
+Basic_gk_df = pd.DataFrame(columns=basic_field)
+nonGK_df = pd.DataFrame(columns=nonGK_field_nm)
+GK_df = pd.DataFrame(columns=GK_field_nm)
+
+# 뷰티풀숲을 통한 크롤링
+now_num = 1
+for link in real_link[:30]:
+    print(now_num + real_link.index(link))
+    get_info = requests.get(link)
+    all_data = get_info.text
+    myparser = BeautifulSoup(all_data, 'html.parser')  # 해당 링크 html 파싱
+
+    # 프로필
+    target_area = myparser.select("div#player_info")
+
+    for lt in target_area:
+        try:
+            player_position = lt.select_one("div#player > div.title > div.meta > ul > li > span.value > span.desktop_positions").text
+            player_nm = lt.select_one("div#player > div.title > h1").text
+            player_overall = lt.select_one("div#player > div.title > div.meta > span#ability").text
+            player_potential = lt.select_one("div#player > div.title > div.meta > span#potential").text
+            player_team = lt.select_one("div#player > div.title > div.meta > ul > li > a > span.value").text
+            player_country = lt.select_one("div#player > div.title > div.meta > ul > li > span.value > a").text
+
+            # 좌측하단 선수 프로필
+            for ld in target_area:
+                player_column = ld.select("div#player > div.column > ul > li")
+                for ld_v in player_column:
+                    if ld_v.select_one("span.key").text == "Age":
+                        player_age = ld_v.select_one("span.value").text
+                    elif ld_v.select_one("span.key").text == "Foot":
+                        player_foot = ld_v.select_one("span.value").text
+                    elif ld_v.select_one("span.key").text == "Height":
+                        player_Height = ld_v.select_one("span.value").text.split(" ")[0]
+                    elif ld_v.select_one("span.key").text == "Weight":
+                        player_Weight = ld_v.select_one("span.value").text.split(" ")[0]
+
+            # 우측 프로필
+            stat_columns = myparser.select("div#right_column > div.block.stats > div.column > table > tr > td[class^='stat value_']")
+            stat_num = [vv.text for vv in stat_columns]
+
+            
+            # 세부 속성 데이터를 기존 데이터프레임에 추가
+            if player_position != "GK" and len(stat_num) == len(nonGK_field_nm):
+                nonGK_df.loc[len(nonGK_df)] = stat_num
+                # 기본 속성 데이터를 기존 데이터프레임에 추가
+                Basic_nongk_df.loc[len(Basic_nongk_df)] = [player_nm, player_overall, player_potential, player_team, player_country, player_position, player_age, player_foot, player_Height, player_Weight]
+            elif player_position == "GK" and len(stat_num) == len(GK_field_nm):
+                GK_df.loc[len(GK_df)] = stat_num
+                # 기본 속성 데이터를 기존 데이터프레임에 추가
+                Basic_gk_df.loc[len(Basic_gk_df)] = [player_nm, player_overall, player_potential, player_team, player_country, player_position, player_age, player_foot, player_Height, player_Weight]
+            else:
+                pass
+
+        except AttributeError:
+            player_team = "NaN"
+            player_country = "NaN"
+            player_position = "NaN"
+
+# 데이터프레임 컨캣
+final_player_GKdf = pd.concat([Basic_gk_df, GK_df], axis=1)
+final_player_nonGKdf = pd.concat([Basic_nongk_df, nonGK_df], axis=1)
+''')
 st.markdown("------")
 
-st.subheader(":two: 23/24년도 유럽 5 대리그별 경기결과")
+st.subheader(":two: 23/24년도 유럽 5 대 리그별 경기결과")
 st.markdown(":white_check_mark:데이터 출처 : FotMob(https://www.fotmob.com/en-GB)")
 st.markdown(":white_check_mark:데이터 소개 : 23년도, 24년도 유렵축구 5 대리그별 경기결과와 경기별 출전선수 라인업 정보가 포함되어있는 데이터")
 st.markdown(":white_check_mark: 데이터 활용계획")
 st.text("- 승부 예측(팀/포지션별 속성 수치 기반)\n- 랭체인기반 챗봇(선수정보 등)")
+st.dataframe(pd.read_csv("./useData/match_result.csv"), hide_index = True, use_container_width=True)
+st.markdown(":floppy_disk: 5대 리그별 경기결과 크롤링 코드")
+st.code('''
+import selenium
+from bs4 import BeautifulSoup
+import numpy as np
+import pandas as pd
+import time
+from selenium import webdriver #Selenium의 웹 드라이버를 사용하기 위한 모듈을 임포트
+from selenium.webdriver.common.by import By #Selenium에서 사용하는 By 클래스를 임포트합. 웹 요소를 검색하는데 사용.
+from selenium.webdriver.common.keys import Keys #키보드 입력 제어를 위해 Keys 클래스 임포트
+from selenium.webdriver.chrome.service import Service #Chrome 드라이버 서비스를 사용하기 위한 모듈 임포트
+from selenium.webdriver.chrome.options import Options #Chrome 드라이버 옵션을 설정하기 위한 클래스 임포트
+from webdriver_manager.chrome import ChromeDriverManager #Chrome 드라이버를 자동으로 설치 및 관리하는데 사용되는 드라이버 매니저 임포트
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import json
+import requests
+
+#브라우저 꺼짐 방지
+chrome_options = Options()
+chrome_options.add_experimental_option('detach', True)
+#불필요한 에러 메서지 없애기
+chrome_options.add_experimental_option('excludeSwitches',['enable-logging'])
+
+# 경기 정보 링크
+# epl
+epl_url='https://www.fotmob.com/en-GB/leagues/47/matches/premier-league/by-round'
+driver = webdriver.Chrome(options=chrome_options)
+driver.get(epl_url)
+driver.maximize_window()
+driver.implicitly_wait(5)
+roundBtn=driver.find_elements(By.CSS_SELECTOR,'div>select')[1]
+rounds=roundBtn.find_elements(By.TAG_NAME,'option')
+matchLinkDict={'EPL':[]}
+matchHrefs=[]
+baseLink='https://www.fotmob.com'
+for i in rounds:
+    i.click()
+    print(f'---Round {i.text} Start!---')
+    time.sleep(1)
+    html=driver.page_source
+    soup=BeautifulSoup(html,'html.parser')
+    matchContainer=soup.select('div.slick-slide.slick-active>div>section>a')
+    for j in matchContainer:
+        matchHrefs.append(j.get('href'))
+    time.sleep(1)
+driver.close()
+matchLinkDict['EPL']=[i+j for i,j in zip([baseLink]*len(matchHrefs),matchHrefs)]
+print('Match Link Parsing Done!')
+
+#라리가
+laliga_url='https://www.fotmob.com/en-GB/leagues/87/matches/laliga/by-round'
+driver = webdriver.Chrome(options=chrome_options)
+driver.get(laliga_url)
+driver.maximize_window()
+driver.implicitly_wait(5)
+roundBtn=driver.find_elements(By.CSS_SELECTOR,'div>select')[1]
+rounds=roundBtn.find_elements(By.TAG_NAME,'option')
+matchLinkDict['LaLiga']=[]
+matchHrefs=[]
+baseLink='https://www.fotmob.com'
+for i in rounds:
+    i.click()
+    print(f'---Round {i.text} Start!---')
+    time.sleep(1)
+    html=driver.page_source
+    soup=BeautifulSoup(html,'html.parser')
+    matchContainer=soup.select('div.slick-slide.slick-active>div>section>a')
+    for j in matchContainer:
+        matchHrefs.append(j.get('href'))
+    time.sleep(1)
+driver.close()
+matchLinkDict['LaLiga']=[i+j for i,j in zip([baseLink]*len(matchHrefs),matchHrefs)]
+print('Match Link Parsing Done!')
+
+# 분데스리가
+bundes_url='https://www.fotmob.com/en-GB/leagues/54/matches/bundesliga/by-round'
+driver = webdriver.Chrome(options=chrome_options)
+driver.get(bundes_url)
+driver.maximize_window()
+driver.implicitly_wait(5)
+roundBtn=driver.find_elements(By.CSS_SELECTOR,'div>select')[1]
+rounds=roundBtn.find_elements(By.TAG_NAME,'option')
+matchLinkDict['Bundesliga']=[]
+matchHrefs=[]
+baseLink='https://www.fotmob.com'
+for i in rounds:
+    i.click()
+    print(f'---Round {i.text} Start!---')
+    time.sleep(1)
+    html=driver.page_source
+    soup=BeautifulSoup(html,'html.parser')
+    matchContainer=soup.select('div.slick-slide.slick-active>div>section>a')
+    for j in matchContainer:
+        matchHrefs.append(j.get('href'))
+    time.sleep(1)
+driver.close()
+matchLinkDict['Bundesliga']=[i+j for i,j in zip([baseLink]*len(matchHrefs),matchHrefs)]
+print('Match Link Parsing Done!')
+
+# 세리아
+serieA_url='https://www.fotmob.com/en-GB/leagues/55/matches/serie/by-round'
+driver = webdriver.Chrome(options=chrome_options)
+driver.get(serieA_url)
+driver.maximize_window()
+driver.implicitly_wait(5)
+roundBtn=driver.find_elements(By.CSS_SELECTOR,'div>select')[1]
+rounds=roundBtn.find_elements(By.TAG_NAME,'option')
+matchLinkDict['Serie-A']=[]
+matchHrefs=[]
+baseLink='https://www.fotmob.com'
+for i in rounds:
+    i.click()
+    print(f'---Round {i.text} Start!---')
+    time.sleep(1)
+    html=driver.page_source
+    soup=BeautifulSoup(html,'html.parser')
+    matchContainer=soup.select('div.slick-slide.slick-active>div>section>a')
+    for j in matchContainer:
+        matchHrefs.append(j.get('href'))
+    time.sleep(1)
+driver.close()
+matchLinkDict['Serie-A']=[i+j for i,j in zip([baseLink]*len(matchHrefs),matchHrefs)]
+print('Match Link Parsing Done!')
+
+# 리그앙
+ligue1_url='https://www.fotmob.com/en-GB/leagues/53/matches/ligue-1/by-round'
+driver = webdriver.Chrome(options=chrome_options)
+driver.get(ligue1_url)
+driver.maximize_window()
+driver.implicitly_wait(5)
+roundBtn=driver.find_elements(By.CSS_SELECTOR,'div>select')[1]
+rounds=roundBtn.find_elements(By.TAG_NAME,'option')
+matchLinkDict['Ligue-1']=[]
+matchHrefs=[]
+baseLink='https://www.fotmob.com'
+for i in rounds:
+    i.click()
+    print(f'---Round {i.text} Start!---')
+    time.sleep(1)
+    html=driver.page_source
+    soup=BeautifulSoup(html,'html.parser')
+    matchContainer=soup.select('div.slick-slide.slick-active>div>section>a')
+    for j in matchContainer:
+        matchHrefs.append(j.get('href'))
+    time.sleep(1)
+driver.close()
+matchLinkDict['Ligue-1']=[i+j for i,j in zip([baseLink]*len(matchHrefs),matchHrefs)]
+print('Match Link Parsing Done!')
+
+# 저장할 JSON 파일 경로
+file_path = './data/match_link.json'
+
+# 딕셔너리를 JSON 파일로 저장
+with open(file_path, 'w') as json_file:
+    json.dump(matchLinkDict, json_file)
+
+# 페이지 파싱
+driver = webdriver.Chrome(options=chrome_options)
+driver.maximize_window()
+matchResultSoupDict={}
+for league in matchLinkDict.keys():
+    key=league+'_result'
+    matchResultSoupDict[key]=[]
+    for i in matchLinkDict[league]:
+        driver.get(i)
+        try:
+            WebDriverWait(driver, 3).until(EC.visibility_of_element_located((By.CSS_SELECTOR,'div>section.css-1jf4irq-ExpandableCardContainerStyle.e360fsv1')))
+            html=driver.page_source
+            soup=BeautifulSoup(html,'html.parser')
+            matchResultSoupDict[key].append(soup)
+            print(f"{league} {matchLinkDict[league].index(i)+1}/{len(matchLinkDict[league])}")
+        except:
+            print(f"Pass {league} {matchLinkDict[league].index(i)+1}/{len(matchLinkDict[league])}")
+            pass
+print('Done!')
+driver.close()
+
+# 매치결과 데이터프레임으로 변환
+matchResultDf=pd.DataFrame()
+for i in matchResultSoupDict.keys():
+    leagueName=i.split('_')[0]
+    for j in matchResultSoupDict[i]:
+        # 매치 결과 요약 컨테이너
+        matchResultContainer=j.select_one('div>section>header.css-1dpguef-MFHeaderFullscreenHeader.e3q4wbq3')
+        # 홈팀 이름
+        homeTeam=matchResultContainer.select(
+            'span>span.css-1ba2www-TeamNameItself-TeamNameOnTabletUp-hideOnMobile.e1rexsj40')[0].text
+        # 어위이팀 이름
+        awayTeam=matchResultContainer.select(
+            'span>span.css-1ba2www-TeamNameItself-TeamNameOnTabletUp-hideOnMobile.e1rexsj40')[1].text
+        # 홈팀 득정
+        homeScore=matchResultContainer.select_one(
+            'div.css-1cf82ng-MFHeaderStatusWrapper.ed9bevl13').text[:5].split(' ')[0]
+        # 어위이팀 득점
+        awayScore=matchResultContainer.select_one(
+            'div.css-1cf82ng-MFHeaderStatusWrapper.ed9bevl13').text[:5].split(' ')[-1]
+        # Home : 홈팀 승리, Draw : 동점, Away : 어웨이팀 승리
+        if homeScore>awayScore:
+            matchResult='Home'
+        elif homeScore==awayScore:
+            matchResult='Draw'
+        else:
+            matchResult='Away'
+        tempDf=pd.DataFrame({
+            'league':leagueName,
+            'homeTeam':[homeTeam],
+            'awayTeam':[awayTeam],
+            'homeScore':[homeScore],
+            'awayScore':[awayScore],
+            'matchResult':[matchResult]
+        })
+        matchResultDf=pd.concat([matchResultDf,tempDf])
+matchResultDf=matchResultDf.reset_index().drop('index',axis=1)
+
+# 리그 소속국가 추가
+nationLeagueMappingDict={}
+for i,j in zip(list(matchResultDf['league'].unique()),['England','Germany','Italy','France','Spain']):
+    nationLeagueMappingDict[i]=j
+leagueNation=[nationLeagueMappingDict[i] for i in matchResultDf['league']]
+matchResultDf.insert(0,'leagueNation',leagueNation)
+matchResultDf.to_csv(./data/match_result.csv')
+''')
 
 st.markdown("-----")
 st.subheader(":three: 24년도 유럽축구리그별 1, 2부 선수 Market-Value")
