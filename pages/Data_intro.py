@@ -74,9 +74,9 @@ with tab4:
     (11) 페널티 박스 장악력(Command Of Area): 페널티 박스 장악력은 수비수와 협력해서 페널티 박스를 장악하는 골키퍼의 능력을 나타낸다. 이 등급이 높아서 박스 전체를 장악하는 골키퍼는 거의 본능적으로 날아오는 크로스를 비롯한 각종 상황에 대처한다. (이 때 공중 장악력이 높으면 도움이 된다) 하지만 이 등급이 높아도 골키퍼가 크로스를 잡으려 할 가능성만 오를 뿐, 잡아낸다는 보장은 없다.''')
 
 
-st.dataframe(pd.read_csv("usedata/gk.csv"), hide_index = True, use_container_width=True)
+st.dataframe(pd.read_csv("./usedata/gk.csv"), hide_index = True, use_container_width=True)
 #데이터 불러오기
-raw_file = open("usedata/player_link_url.txt", "r")
+raw_file = open("./useData/player_link_url.txt", "r")
 raw_list = raw_file.read().split("\n")
 st.download_button(label="Download rawdata",
         data=f"'{raw_list}'",
