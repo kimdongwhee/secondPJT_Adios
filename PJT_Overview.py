@@ -33,7 +33,7 @@ team_df = st.dataframe({
             "데이터 전처리, 예측/분류 및 Langchain 모델 구축"
               ]},
                hide_index = True, use_container_width=True)
-st.markdown("-----")
+
 col_1, col_2 = st.columns(2) #영역구분
 col_1.text(f"(3)Git 주소\n(https://github.com/kimdongwhee/secondPJT_Adios)")
 col_2.link_button(label="Git 바로가기", url="https://github.com/kimdongwhee/secondPJT_Adios", use_container_width=True)
