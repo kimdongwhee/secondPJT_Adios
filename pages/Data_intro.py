@@ -77,7 +77,7 @@ with tab4:
 gkdf = pd.read_csv("./usedata/gk.csv")
 st.dataframe(gkdf, hide_index = True, use_container_width=True)
 #데이터 불러오기
-raw_file = open("./player_link_url.txt", "r")
+raw_file = open("./usedata/player_link_url.txt", "r")
 raw_list = raw_file.read().split("\n")
 st.download_button(label="Download rawdata",
         data=f"'{raw_list}'",
