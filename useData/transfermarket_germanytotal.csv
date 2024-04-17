@@ -1,0 +1,2522 @@
+team name,num,name,age,nationality,position,market value
+Squad Bayern Munich,1,Manuel Neuer,38,Germany,Goalkeeper,€5.00m
+Squad Bayern Munich,18,Daniel Peretz,23,Israel,Goalkeeper,€4.00m
+Squad Bayern Munich,26,Sven Ulreich,35,Germany,Goalkeeper,€700k
+Squad Bayern Munich,42,Tom Hülsmann,20,Germany,Goalkeeper,€250k
+Squad Bayern Munich,4,Matthijs de Ligt,24,Netherlands,Centre-Back,€65.00m
+Squad Bayern Munich,3,Min-jae Kim,27,"Korea, South",Centre-Back,€55.00m
+Squad Bayern Munich,2,Dayot Upamecano,25,France,Centre-Back,€50.00m
+Squad Bayern Munich,15,Eric Dier,30,England,Centre-Back,€12.00m
+Squad Bayern Munich,28,Tarek Buchmann,19,Germany,Centre-Back,€500k
+Squad Bayern Munich,19,Alphonso Davies,23,Canada,Left-Back,€60.00m
+Squad Bayern Munich,22,Raphaël Guerreiro,30,Portugal,Left-Back,€15.00m
+Squad Bayern Munich,6,Joshua Kimmich,29,Germany,Right-Back,€60.00m
+Squad Bayern Munich,40,Noussair Mazraoui,26,Morocco,Right-Back,€30.00m
+Squad Bayern Munich,23,Sacha Boey,23,France,Right-Back,€22.00m
+Squad Bayern Munich,20,Bouna Sarr,32,Senegal,Right-Back,€2.00m
+Squad Bayern Munich,45,Aleksandar Pavlovic,19,Germany,Defensive Midfield,€25.00m
+Squad Bayern Munich,8,Leon Goretzka,29,Germany,Central Midfield,€30.00m
+Squad Bayern Munich,27,Konrad Laimer,26,Austria,Central Midfield,€28.00m
+Squad Bayern Munich,42,Jamal Musiala,21,Germany,Attacking Midfield,€110.00m
+Squad Bayern Munich,11,Kingsley Coman,27,France,Left Winger,€65.00m
+Squad Bayern Munich,39,Mathys Tel,18,France,Left Winger,€40.00m
+Squad Bayern Munich,17,Bryan Zaragoza,22,Spain,Left Winger,€12.00m
+Squad Bayern Munich,10,Leroy Sané,28,Germany,Right Winger,€70.00m
+Squad Bayern Munich,7,Serge Gnabry,28,Germany,Right Winger,€45.00m
+Squad Bayern Munich,25,Thomas Müller,34,Germany,Second Striker,€10.00m
+Squad Bayern Munich,9,Harry Kane,30,England,Centre-Forward,€110.00m
+Squad Bayern Munich,13,Eric-Maxim Choupo-Moting,35,Cameroon,Centre-Forward,€3.00m
+Squad Bayer 04 Leverkusen,17,Matej Kovar,23,Czech Republic,Goalkeeper,€5.00m
+Squad Bayer 04 Leverkusen,1,Lukas Hradecky,34,Finland,Goalkeeper,€2.50m
+Squad Bayer 04 Leverkusen,36,Niklas Lomb,30,Germany,Goalkeeper,€250k
+Squad Bayer 04 Leverkusen,12,Edmond Tapsoba,25,Burkina Faso,Centre-Back,€40.00m
+Squad Bayer 04 Leverkusen,3,Piero Hincapié,22,Ecuador,Centre-Back,€35.00m
+Squad Bayer 04 Leverkusen,6,Odilon Kossounou,23,Cote d'Ivoire,Centre-Back,€35.00m
+Squad Bayer 04 Leverkusen,4,Jonathan Tah,28,Germany,Centre-Back,€30.00m
+Squad Bayer 04 Leverkusen,2,Josip Stanisic,24,Croatia,Centre-Back,€18.00m
+Squad Bayer 04 Leverkusen,31,Madi Monamay,18,Belgium,Centre-Back,-
+Squad Bayer 04 Leverkusen,20,Alejandro Grimaldo,28,Spain,Left-Back,€45.00m
+Squad Bayer 04 Leverkusen,13,Arthur,21,Brazil,Right-Back,€5.00m
+Squad Bayer 04 Leverkusen,24,Timothy Fosu-Mensah,26,Netherlands,Right-Back,€1.50m
+Squad Bayer 04 Leverkusen,34,Granit Xhaka,31,Switzerland,Defensive Midfield,€20.00m
+Squad Bayer 04 Leverkusen,8,Robert Andrich,29,Germany,Defensive Midfield,€11.00m
+Squad Bayer 04 Leverkusen,18,Noah Mbamba,19,Belgium,Defensive Midfield,€3.00m
+Squad Bayer 04 Leverkusen,25,Exequiel Palacios,25,Argentina,Central Midfield,€40.00m
+Squad Bayer 04 Leverkusen,32,Gustavo Puerta,20,Colombia,Central Midfield,€2.00m
+Squad Bayer 04 Leverkusen,30,Jeremie Frimpong,23,Netherlands,Right Midfield,€50.00m
+Squad Bayer 04 Leverkusen,10,Florian Wirtz,20,Germany,Attacking Midfield,€110.00m
+Squad Bayer 04 Leverkusen,7,Jonas Hofmann,31,Germany,Attacking Midfield,€13.00m
+Squad Bayer 04 Leverkusen,47,Ayman Aourir,19,Morocco,Attacking Midfield,€300k
+Squad Bayer 04 Leverkusen,21,Amine Adli,23,Morocco,Left Winger,€25.00m
+Squad Bayer 04 Leverkusen,19,Nathan Tella,24,Nigeria,Right Winger,€23.00m
+Squad Bayer 04 Leverkusen,22,Victor Boniface,23,Nigeria,Centre-Forward,€40.00m
+Squad Bayer 04 Leverkusen,14,Patrik Schick,28,Czech Republic,Centre-Forward,€22.00m
+Squad Bayer 04 Leverkusen,23,Adam Hlozek,21,Czech Republic,Centre-Forward,€12.00m
+Squad Bayer 04 Leverkusen,9,Borja Iglesias,31,Spain,Centre-Forward,€6.00m
+Squad RB Leipzig,1,Péter Gulácsi,33,Hungary,Goalkeeper,€3.50m
+Squad RB Leipzig,21,Janis Blaswich,32,Germany,Goalkeeper,€3.00m
+Squad RB Leipzig,36,Timo Schlieck,18,Germany,Goalkeeper,€500k
+Squad RB Leipzig,25,Leopold Zingerle,30,Germany,Goalkeeper,€400k
+Squad RB Leipzig,23,Castello Lukeba,21,France,Centre-Back,€40.00m
+Squad RB Leipzig,2,Mohamed Simakan,23,France,Centre-Back,€35.00m
+Squad RB Leipzig,5,El Chadaille Bitshiabu,18,France,Centre-Back,€12.00m
+Squad RB Leipzig,4,Willi Orbán,31,Hungary,Centre-Back,€10.00m
+Squad RB Leipzig,16,Lukas Klostermann,27,Germany,Centre-Back,€8.00m
+Squad RB Leipzig,31,Tim Köhler,18,Germany,Centre-Back,-
+Squad RB Leipzig,22,David Raum,25,Germany,Left-Back,€17.00m
+Squad RB Leipzig,3,Christopher Lenz,29,Germany,Left-Back,€2.00m
+Squad RB Leipzig,39,Benjamin Henrichs,27,Germany,Right-Back,€20.00m
+Squad RB Leipzig,24,Xaver Schlager,26,Austria,Central Midfield,€28.00m
+Squad RB Leipzig,8,Amadou Haidara,26,Mali,Central Midfield,€17.00m
+Squad RB Leipzig,13,Nicolas Seiwald,22,Austria,Central Midfield,€16.00m
+Squad RB Leipzig,44,Kevin Kampl,33,Slovenia,Central Midfield,€3.50m
+Squad RB Leipzig,20,Xavi Simons,20,Netherlands,Attacking Midfield,€80.00m
+Squad RB Leipzig,7,Dani Olmo,25,Spain,Attacking Midfield,€50.00m
+Squad RB Leipzig,6,Eljif Elmas,24,North Macedonia,Attacking Midfield,€24.00m
+Squad RB Leipzig,14,Christoph Baumgartner,24,Austria,Attacking Midfield,€20.00m
+Squad RB Leipzig,17,Loïs Openda,24,Belgium,Centre-Forward,€60.00m
+Squad RB Leipzig,30,Benjamin Sesko,20,Slovenia,Centre-Forward,€40.00m
+Squad RB Leipzig,9,Yussuf Poulsen,29,Denmark,Centre-Forward,€7.00m
+Squad Borussia Dortmund,1,Gregor Kobel,26,Switzerland,Goalkeeper,€40.00m
+Squad Borussia Dortmund,35,Marcel Lotka,22,Germany,Goalkeeper,€1.30m
+Squad Borussia Dortmund,33,Alexander Meyer,33,Germany,Goalkeeper,€800k
+Squad Borussia Dortmund,4,Nico Schlotterbeck,24,Germany,Centre-Back,€30.00m
+Squad Borussia Dortmund,25,Niklas Süle,28,Germany,Centre-Back,€22.00m
+Squad Borussia Dortmund,15,Mats Hummels,35,Germany,Centre-Back,€6.00m
+Squad Borussia Dortmund,47,Antonios Papadopoulos,24,Germany,Centre-Back,€800k
+Squad Borussia Dortmund,22,Ian Maatsen,22,Netherlands,Left-Back,€30.00m
+Squad Borussia Dortmund,5,Ramy Bensebaini,29,Algeria,Left-Back,€9.00m
+Squad Borussia Dortmund,26,Julian Ryerson,26,Norway,Right-Back,€15.00m
+Squad Borussia Dortmund,17,Marius Wolf,28,Germany,Right-Back,€5.00m
+Squad Borussia Dortmund,2,Mateu Morey,24,Spain,Right-Back,€800k
+Squad Borussia Dortmund,6,Salih Özcan,26,Türkiye,Defensive Midfield,€13.00m
+Squad Borussia Dortmund,23,Emre Can,30,Germany,Defensive Midfield,€12.00m
+Squad Borussia Dortmund,32,Abdoulaye Kamara,19,France,Defensive Midfield,€1.50m
+Squad Borussia Dortmund,8,Felix Nmecha,23,Germany,Central Midfield,€25.00m
+Squad Borussia Dortmund,20,Marcel Sabitzer,30,Austria,Central Midfield,€20.00m
+Squad Borussia Dortmund,30,Ole Pohlmann,23,Germany,Central Midfield,€1.00m
+Squad Borussia Dortmund,19,Julian Brandt,27,Germany,Attacking Midfield,€40.00m
+Squad Borussia Dortmund,11,Marco Reus,34,Germany,Attacking Midfield,€7.00m
+Squad Borussia Dortmund,27,Karim Adeyemi,22,Germany,Left Winger,€28.00m
+Squad Borussia Dortmund,43,Jamie Bynoe-Gittens,19,England,Left Winger,€28.00m
+Squad Borussia Dortmund,10,Jadon Sancho,24,England,Left Winger,€25.00m
+Squad Borussia Dortmund,21,Donyell Malen,25,Netherlands,Right Winger,€40.00m
+Squad Borussia Dortmund,16,Julien Duranville,17,Belgium,Right Winger,€8.50m
+Squad Borussia Dortmund,18,Youssoufa Moukoko,19,Germany,Centre-Forward,€25.00m
+Squad Borussia Dortmund,14,Niclas Füllkrug,31,Germany,Centre-Forward,€15.00m
+Squad Borussia Dortmund,9,Sébastien Haller,29,Cote d'Ivoire,Centre-Forward,€14.00m
+Squad VfB Stuttgart,33,Alexander Nübel,27,Germany,Goalkeeper,€10.00m
+Squad VfB Stuttgart,1,Fabian Bredlow,29,Germany,Goalkeeper,€1.00m
+Squad VfB Stuttgart,41,Dennis Seimen,18,Germany,Goalkeeper,€1.00m
+Squad VfB Stuttgart,42,Florian Schock,22,Germany,Goalkeeper,€200k
+Squad VfB Stuttgart,21,Hiroki Ito,24,Japan,Centre-Back,€25.00m
+Squad VfB Stuttgart,2,Waldemar Anton,27,Germany,Centre-Back,€18.00m
+Squad VfB Stuttgart,23,Dan-Axel Zagadou,24,France,Centre-Back,€10.00m
+Squad VfB Stuttgart,29,Anthony Rouault,22,France,Centre-Back,€7.00m
+Squad VfB Stuttgart,20,Leonidas Stergiou,22,Switzerland,Centre-Back,€2.00m
+Squad VfB Stuttgart,7,Maximilian Mittelstädt,27,Germany,Left-Back,€14.00m
+Squad VfB Stuttgart,4,Josha Vagnoman,23,Germany,Right-Back,€10.00m
+Squad VfB Stuttgart,15,Pascal Stenzel,28,Germany,Right-Back,€2.50m
+Squad VfB Stuttgart,6,Angelo Stiller,23,Germany,Defensive Midfield,€18.00m
+Squad VfB Stuttgart,16,Atakan Karazor,27,Germany,Defensive Midfield,€10.00m
+Squad VfB Stuttgart,5,Mahmoud Dahoud,28,Syria,Central Midfield,€8.00m
+Squad VfB Stuttgart,28,Nikolas Nartey,24,Denmark,Central Midfield,€800k
+Squad VfB Stuttgart,32,Roberto Massimo,23,Germany,Right Midfield,€1.00m
+Squad VfB Stuttgart,8,Enzo Millot,21,France,Attacking Midfield,€30.00m
+Squad VfB Stuttgart,10,Woo-yeong Jeong,24,"Korea, South",Attacking Midfield,€3.50m
+Squad VfB Stuttgart,25,Lilian Egloff,21,Germany,Attacking Midfield,€1.20m
+Squad VfB Stuttgart,17,Genki Haraguchi,32,Japan,Attacking Midfield,€700k
+Squad VfB Stuttgart,36,Laurin Ulrich,19,Germany,Attacking Midfield,€500k
+Squad VfB Stuttgart,27,Chris Führich,26,Germany,Left Winger,€25.00m
+Squad VfB Stuttgart,14,Silas,25,DR Congo,Right Winger,€10.00m
+Squad VfB Stuttgart,18,Jamie Leweling,23,Germany,Right Winger,€6.00m
+Squad VfB Stuttgart,40,Luca Raimund,19,Germany,Right Winger,€500k
+Squad VfB Stuttgart,9,Serhou Guirassy,28,Guinea,Centre-Forward,€40.00m
+Squad VfB Stuttgart,26,Deniz Undav,27,Germany,Centre-Forward,€22.00m
+Squad Eintracht Frankfurt,1,Kevin Trapp,33,Germany,Goalkeeper,€5.00m
+Squad Eintracht Frankfurt,40,Kauã Santos,21,Brazil,Goalkeeper,€1.50m
+Squad Eintracht Frankfurt,33,Jens Grahl,35,Germany,Goalkeeper,€200k
+Squad Eintracht Frankfurt,41,Simon Simoni,19,Albania,Goalkeeper,€200k
+Squad Eintracht Frankfurt,3,Willian Pacho,22,Ecuador,Centre-Back,€30.00m
+Squad Eintracht Frankfurt,4,Robin Koch,27,Germany,Centre-Back,€18.00m
+Squad Eintracht Frankfurt,35,Tuta,24,Brazil,Centre-Back,€12.00m
+Squad Eintracht Frankfurt,5,Hrvoje Smolcic,23,Croatia,Centre-Back,€4.00m
+Squad Eintracht Frankfurt,34,Nnamdi Collins,20,Germany,Centre-Back,€750k
+Squad Eintracht Frankfurt,20,Makoto Hasebe,40,Japan,Centre-Back,€500k
+Squad Eintracht Frankfurt,46,Dario Gebuhr,20,Germany,Centre-Back,€400k
+Squad Eintracht Frankfurt,44,Davis Bautista,19,Ecuador,Centre-Back,€250k
+Squad Eintracht Frankfurt,29,Niels Nkounkou,23,France,Left-Back,€7.50m
+Squad Eintracht Frankfurt,31,Philipp Max,30,Germany,Left-Back,€2.00m
+Squad Eintracht Frankfurt,24,Aurélio Buta,27,Portugal,Right-Back,€6.00m
+Squad Eintracht Frankfurt,47,Elias Baum,18,Germany,Right-Back,€1.00m
+Squad Eintracht Frankfurt,22,Timothy Chandler,34,United States,Right-Back,€500k
+Squad Eintracht Frankfurt,15,Ellyes Skhiri,28,Tunisia,Defensive Midfield,€13.00m
+Squad Eintracht Frankfurt,16,Hugo Larsson,19,Sweden,Central Midfield,€28.00m
+Squad Eintracht Frankfurt,26,Junior Dina Ebimbe,23,France,Central Midfield,€14.00m
+Squad Eintracht Frankfurt,25,Donny van de Beek,26,Netherlands,Central Midfield,€7.00m
+Squad Eintracht Frankfurt,17,Sebastian Rode,33,Germany,Central Midfield,€1.00m
+Squad Eintracht Frankfurt,37,Sidney Raebiger,19,Germany,Central Midfield,€750k
+Squad Eintracht Frankfurt,45,Mehdi Loune,19,Germany,Central Midfield,€300k
+Squad Eintracht Frankfurt,49,Harpreet Ghotra,21,Germany,Central Midfield,€100k
+Squad Eintracht Frankfurt,8,Farès Chaïbi,21,Algeria,Attacking Midfield,€18.00m
+Squad Eintracht Frankfurt,27,Mario Götze,31,Germany,Attacking Midfield,€7.00m
+Squad Eintracht Frankfurt,32,Marko Mladenovic,19,Serbia,Attacking Midfield,-
+Squad Eintracht Frankfurt,19,Jean-Mattéo Bahoya,18,France,Left Winger,€7.50m
+Squad Eintracht Frankfurt,36,Ansgar Knauff,22,Germany,Right Winger,€10.00m
+Squad Eintracht Frankfurt,7,Omar Marmoush,25,Egypt,Centre-Forward,€22.00m
+Squad Eintracht Frankfurt,11,Hugo Ekitiké,21,France,Centre-Forward,€15.00m
+Squad Eintracht Frankfurt,9,Sasa Kalajdzic,26,Austria,Centre-Forward,€5.00m
+Squad Eintracht Frankfurt,48,Nacho Ferri,19,Spain,Centre-Forward,€2.00m
+Squad Eintracht Frankfurt,43,Noel Futkeu,21,Germany,Centre-Forward,€400k
+Squad VfL Wolfsburg,1,Koen Casteels,31,Belgium,Goalkeeper,€8.00m
+Squad VfL Wolfsburg,12,Pavao Pervan,36,Austria,Goalkeeper,€400k
+Squad VfL Wolfsburg,30,Niklas Klinger,28,Germany,Goalkeeper,€100k
+Squad VfL Wolfsburg,4,Maxence Lacroix,24,France,Centre-Back,€20.00m
+Squad VfL Wolfsburg,25,Moritz Jenz,24,Germany,Centre-Back,€7.50m
+Squad VfL Wolfsburg,3,Sebastiaan Bornauw,25,Belgium,Centre-Back,€7.00m
+Squad VfL Wolfsburg,5,Cédric Zesiger,25,Switzerland,Centre-Back,€6.00m
+Squad VfL Wolfsburg,13,Rogério,26,Brazil,Left-Back,€7.50m
+Squad VfL Wolfsburg,21,Joakim Maehle,26,Denmark,Right-Back,€14.00m
+Squad VfL Wolfsburg,20,Ridle Baku,26,Germany,Right-Back,€8.00m
+Squad VfL Wolfsburg,2,Kilian Fischer,23,Germany,Right-Back,€1.50m
+Squad VfL Wolfsburg,41,Kofi Amoako,18,Germany,Defensive Midfield,-
+Squad VfL Wolfsburg,32,Mattias Svanberg,25,Sweden,Central Midfield,€15.00m
+Squad VfL Wolfsburg,6,Aster Vranckx,21,Belgium,Central Midfield,€12.00m
+Squad VfL Wolfsburg,27,Maximilian Arnold,29,Germany,Central Midfield,€10.00m
+Squad VfL Wolfsburg,31,Yannick Gerhardt,30,Germany,Central Midfield,€5.00m
+Squad VfL Wolfsburg,40,Kevin Paredes,20,United States,Left Midfield,€5.00m
+Squad VfL Wolfsburg,19,Lovro Majer,26,Croatia,Attacking Midfield,€25.00m
+Squad VfL Wolfsburg,16,Jakub Kaminski,21,Poland,Left Winger,€7.00m
+Squad VfL Wolfsburg,26,Ulysses Llanez,23,United States,Left Winger,€200k
+Squad VfL Wolfsburg,39,Patrick Wimmer,22,Austria,Right Winger,€18.00m
+Squad VfL Wolfsburg,7,Vaclav Cerny,26,Czech Republic,Right Winger,€8.00m
+Squad VfL Wolfsburg,23,Jonas Wind,25,Denmark,Centre-Forward,€20.00m
+Squad VfL Wolfsburg,10,Lukas Nmecha,25,Germany,Centre-Forward,€7.00m
+Squad VfL Wolfsburg,11,Tiago Tomás,21,Portugal,Centre-Forward,€6.00m
+Squad VfL Wolfsburg,9,Amin Sarr,23,Sweden,Centre-Forward,€4.00m
+Squad VfL Wolfsburg,17,Kevin Behrens,33,Germany,Centre-Forward,€3.00m
+Squad VfL Wolfsburg,18,Dzenan Pejcinovic,19,Germany,Centre-Forward,€1.00m
+Squad SC Freiburg,1,Noah Atubolu,21,Germany,Goalkeeper,€8.00m
+Squad SC Freiburg,21,Florian Müller,26,Germany,Goalkeeper,€1.20m
+Squad SC Freiburg,31,Benjamin Uphoff,30,Germany,Goalkeeper,€500k
+Squad SC Freiburg,3,Philipp Lienhart,27,Austria,Centre-Back,€20.00m
+Squad SC Freiburg,28,Matthias Ginter,30,Germany,Centre-Back,€15.00m
+Squad SC Freiburg,6,Attila Szalai,26,Hungary,Centre-Back,€6.00m
+Squad SC Freiburg,4,Kenneth Schmidt,21,Germany,Centre-Back,€3.00m
+Squad SC Freiburg,5,Manuel Gulde,33,Germany,Centre-Back,€1.50m
+Squad SC Freiburg,37,Max Rosenfelder,21,Germany,Centre-Back,€500k
+Squad SC Freiburg,30,Christian Günter,31,Germany,Left-Back,€6.00m
+Squad SC Freiburg,33,Jordy Makengo,22,France,Left-Back,€3.50m
+Squad SC Freiburg,25,Kiliann Sildillia,21,France,Right-Back,€18.00m
+Squad SC Freiburg,17,Lukas Kübler,31,Germany,Right-Back,€2.50m
+Squad SC Freiburg,14,Yannik Keitel,24,Germany,Defensive Midfield,€4.00m
+Squad SC Freiburg,27,Nicolas Höfler,34,Germany,Defensive Midfield,€2.00m
+Squad SC Freiburg,8,Maximilian Eggestein,27,Germany,Central Midfield,€10.00m
+Squad SC Freiburg,34,Merlin Röhl,21,Germany,Central Midfield,€10.00m
+Squad SC Freiburg,11,Daniel-Kofi Kyereh,28,Ghana,Attacking Midfield,€5.00m
+Squad SC Freiburg,32,Vincenzo Grifo,31,Italy,Left Winger,€12.00m
+Squad SC Freiburg,7,Noah Weißhaupt,22,Germany,Left Winger,€7.00m
+Squad SC Freiburg,23,Florent Muslija,25,Kosovo,Left Winger,€2.50m
+Squad SC Freiburg,22,Roland Sallai,26,Hungary,Right Winger,€15.00m
+Squad SC Freiburg,42,Ritsu Doan,25,Japan,Right Winger,€15.00m
+Squad SC Freiburg,26,Maximilian Philipp,30,Germany,Second Striker,€2.00m
+Squad SC Freiburg,38,Michael Gregoritsch,29,Austria,Centre-Forward,€8.00m
+Squad SC Freiburg,9,Lucas Höler,29,Germany,Centre-Forward,€5.00m
+Squad SC Freiburg,20,Junior Adamu,22,Austria,Centre-Forward,€5.00m
+Squad SC Freiburg,44,Maximilian Breunig,23,Germany,Centre-Forward,€450k
+Squad Borussia Mönchengladbach,1,Jonas Omlin,30,Switzerland,Goalkeeper,€7.00m
+Squad Borussia Mönchengladbach,33,Moritz Nicolas,26,Germany,Goalkeeper,€2.00m
+Squad Borussia Mönchengladbach,41,Jan Olschowsky,22,Germany,Goalkeeper,€800k
+Squad Borussia Mönchengladbach,21,Tobias Sippel,36,Germany,Goalkeeper,€300k
+Squad Borussia Mönchengladbach,43,Maximilian Brüll,21,Germany,Goalkeeper,€75k
+Squad Borussia Mönchengladbach,3,Ko Itakura,27,Japan,Centre-Back,€15.00m
+Squad Borussia Mönchengladbach,39,Maximilian Wöber,26,Austria,Centre-Back,€14.00m
+Squad Borussia Mönchengladbach,30,Nico Elvedi,27,Switzerland,Centre-Back,€10.00m
+Squad Borussia Mönchengladbach,5,Marvin Friedrich,28,Germany,Centre-Back,€3.50m
+Squad Borussia Mönchengladbach,2,Fabio Chiarodia,18,Italy,Centre-Back,€2.00m
+Squad Borussia Mönchengladbach,24,Tony Jantschke,34,Germany,Centre-Back,€400k
+Squad Borussia Mönchengladbach,4,Mamadou Doucouré,25,France,Centre-Back,€100k
+Squad Borussia Mönchengladbach,20,Luca Netz,20,Germany,Left-Back,€10.00m
+Squad Borussia Mönchengladbach,26,Lukas Ullrich,20,Germany,Left-Back,€750k
+Squad Borussia Mönchengladbach,29,Joe Scally,21,United States,Right-Back,€12.00m
+Squad Borussia Mönchengladbach,18,Stefan Lainer,31,Austria,Right-Back,€3.00m
+Squad Borussia Mönchengladbach,45,Simon Walde,19,Germany,Right-Back,€500k
+Squad Borussia Mönchengladbach,8,Julian Weigl,28,Germany,Defensive Midfield,€10.00m
+Squad Borussia Mönchengladbach,23,Christoph Kramer,33,Germany,Defensive Midfield,€2.00m
+Squad Borussia Mönchengladbach,17,Manu Koné,22,France,Central Midfield,€25.00m
+Squad Borussia Mönchengladbach,27,Rocco Reitz,21,Germany,Central Midfield,€10.00m
+Squad Borussia Mönchengladbach,10,Florian Neuhaus,27,Germany,Central Midfield,€9.00m
+Squad Borussia Mönchengladbach,25,Robin Hack,25,Germany,Left Winger,€4.50m
+Squad Borussia Mönchengladbach,9,Franck Honorat,27,France,Right Winger,€12.00m
+Squad Borussia Mönchengladbach,19,Nathan Ngoumou,24,France,Right Winger,€5.00m
+Squad Borussia Mönchengladbach,7,Patrick Herrmann,33,Germany,Right Winger,€1.00m
+Squad Borussia Mönchengladbach,31,Tomas Cvancara,23,Czech Republic,Centre-Forward,€10.00m
+Squad Borussia Mönchengladbach,14,Alassane Plea,31,France,Centre-Forward,€8.00m
+Squad Borussia Mönchengladbach,13,Jordan,27,United States,Centre-Forward,€6.00m
+Squad Borussia Mönchengladbach,28,Grant-Leon Ranos,20,Armenia,Centre-Forward,€1.00m
+Squad Borussia Mönchengladbach,49,Shio Fukuda,20,Japan,Centre-Forward,€300k
+Squad 1.FC Union Berlin,1,Frederik Rönnow,31,Denmark,Goalkeeper,€5.50m
+Squad 1.FC Union Berlin,37,Alexander Schwolow,31,Germany,Goalkeeper,€900k
+Squad 1.FC Union Berlin,12,Jakob Busk,30,Denmark,Goalkeeper,€250k
+Squad 1.FC Union Berlin,5,Danilho Doekhi,25,Netherlands,Centre-Back,€17.00m
+Squad 1.FC Union Berlin,4,Diogo Leite,25,Portugal,Centre-Back,€15.00m
+Squad 1.FC Union Berlin,31,Robin Knoche,31,Germany,Centre-Back,€4.00m
+Squad 1.FC Union Berlin,2,Kevin Vogt,32,Germany,Centre-Back,€2.50m
+Squad 1.FC Union Berlin,3,Paul Jaeckel,25,Germany,Centre-Back,€2.50m
+Squad 1.FC Union Berlin,26,Jérôme Roussillon,31,Guadeloupe,Left-Back,€2.50m
+Squad 1.FC Union Berlin,18,Josip Juranovic,28,Croatia,Right-Back,€10.00m
+Squad 1.FC Union Berlin,28,Christopher Trimmel,37,Austria,Right-Back,€800k
+Squad 1.FC Union Berlin,8,Rani Khedira,30,Germany,Defensive Midfield,€8.00m
+Squad 1.FC Union Berlin,33,Alex Král,25,Czech Republic,Defensive Midfield,€7.50m
+Squad 1.FC Union Berlin,29,Lucas Tousart,26,France,Defensive Midfield,€7.00m
+Squad 1.FC Union Berlin,42,Noah Engelbreth,18,Germany,Defensive Midfield,-
+Squad 1.FC Union Berlin,20,Aïssa Laïdouni,27,Tunisia,Central Midfield,€8.00m
+Squad 1.FC Union Berlin,13,András Schäfer,25,Hungary,Central Midfield,€5.00m
+Squad 1.FC Union Berlin,19,Janik Haberer,30,Germany,Central Midfield,€4.00m
+Squad 1.FC Union Berlin,6,Robin Gosens,29,Germany,Left Midfield,€12.00m
+Squad 1.FC Union Berlin,7,Brenden Aaronson,23,United States,Attacking Midfield,€14.00m
+Squad 1.FC Union Berlin,10,Kevin Volland,31,Germany,Centre-Forward,€5.00m
+Squad 1.FC Union Berlin,14,Yorbe Vertessen,23,Belgium,Centre-Forward,€4.00m
+Squad 1.FC Union Berlin,16,Benedict Hollerbach,22,Germany,Centre-Forward,€3.50m
+Squad 1.FC Union Berlin,11,Chris Bedia,28,Cote d'Ivoire,Centre-Forward,€3.00m
+Squad 1.FC Union Berlin,9,Mikkel Kaufmann,23,Denmark,Centre-Forward,€2.70m
+Squad TSG 1899 Hoffenheim,1,Oliver Baumann,33,Germany,Goalkeeper,€4.00m
+Squad TSG 1899 Hoffenheim,37,Luca Philipp,23,Germany,Goalkeeper,€300k
+Squad TSG 1899 Hoffenheim,36,Nahuel Noll,21,Germany,Goalkeeper,€250k
+Squad TSG 1899 Hoffenheim,5,Ozan Kabak,24,Türkiye,Centre-Back,€10.00m
+Squad TSG 1899 Hoffenheim,25,Kevin Akpoguma,28,Nigeria,Centre-Back,€3.50m
+Squad TSG 1899 Hoffenheim,34,Stanley Nsoki,25,France,Centre-Back,€3.00m
+Squad TSG 1899 Hoffenheim,23,John Brooks,31,United States,Centre-Back,€2.00m
+Squad TSG 1899 Hoffenheim,15,Kasim Adams,28,Ghana,Centre-Back,€700k
+Squad TSG 1899 Hoffenheim,35,Tim Drexler,19,Germany,Centre-Back,€400k
+Squad TSG 1899 Hoffenheim,19,David Jurásek,23,Czech Republic,Left-Back,€8.00m
+Squad TSG 1899 Hoffenheim,24,Marco John,22,Germany,Left-Back,€2.00m
+Squad TSG 1899 Hoffenheim,3,Pavel Kaderabek,31,Czech Republic,Right-Back,€3.00m
+Squad TSG 1899 Hoffenheim,11,Florian Grillitsch,28,Austria,Defensive Midfield,€6.50m
+Squad TSG 1899 Hoffenheim,16,Anton Stach,25,Germany,Central Midfield,€15.00m
+Squad TSG 1899 Hoffenheim,6,Grischa Prömel,29,Germany,Central Midfield,€7.00m
+Squad TSG 1899 Hoffenheim,40,Umut Tohumcu,19,Germany,Central Midfield,€5.00m
+Squad TSG 1899 Hoffenheim,8,Dennis Geiger,25,Germany,Central Midfield,€4.00m
+Squad TSG 1899 Hoffenheim,20,Finn Becker,23,Germany,Central Midfield,€3.00m
+Squad TSG 1899 Hoffenheim,29,Robert Skov,27,Denmark,Left Midfield,€6.50m
+Squad TSG 1899 Hoffenheim,39,Tom Bischof,18,Germany,Attacking Midfield,€3.50m
+Squad TSG 1899 Hoffenheim,21,Marius Bülter,31,Germany,Left Winger,€3.00m
+Squad TSG 1899 Hoffenheim,31,Bambasé Conté,20,Germany,Left Winger,€700k
+Squad TSG 1899 Hoffenheim,14,Maximilian Beier,21,Germany,Centre-Forward,€24.00m
+Squad TSG 1899 Hoffenheim,7,Mergim Berisha,25,Germany,Centre-Forward,€12.00m
+Squad TSG 1899 Hoffenheim,10,Wout Weghorst,31,Netherlands,Centre-Forward,€7.00m
+Squad TSG 1899 Hoffenheim,27,Andrej Kramaric,32,Croatia,Centre-Forward,€6.00m
+Squad TSG 1899 Hoffenheim,9,Ihlas Bebou,29,Togo,Centre-Forward,€4.00m
+Squad TSG 1899 Hoffenheim,33,Max Moerstedt,18,Germany,Centre-Forward,-
+Squad FC Augsburg,1,Finn Dahmen,26,Germany,Goalkeeper,€5.00m
+Squad FC Augsburg,40,Tomas Koubek,31,Czech Republic,Goalkeeper,€800k
+Squad FC Augsburg,33,Marcel Lubik,19,Poland,Goalkeeper,€250k
+Squad FC Augsburg,19,Felix Uduokhai,26,Germany,Centre-Back,€7.00m
+Squad FC Augsburg,23,Maximilian Bauer,24,Germany,Centre-Back,€3.50m
+Squad FC Augsburg,6,Jeffrey Gouweleeuw,32,Netherlands,Centre-Back,€3.00m
+Squad FC Augsburg,5,Patric Pfeiffer,24,Ghana,Centre-Back,€2.50m
+Squad FC Augsburg,4,Reece Oxford,25,England,Centre-Back,€2.00m
+Squad FC Augsburg,22,Iago,27,Brazil,Left-Back,€5.50m
+Squad FC Augsburg,3,Mads Pedersen,27,Denmark,Left-Back,€2.50m
+Squad FC Augsburg,43,Kevin Mbabu,28,Switzerland,Right-Back,€3.50m
+Squad FC Augsburg,2,Robert Gumny,25,Poland,Right-Back,€2.50m
+Squad FC Augsburg,32,Raphael Framberger,28,Germany,Right-Back,€600k
+Squad FC Augsburg,17,Kristijan Jakic,26,Croatia,Defensive Midfield,€5.50m
+Squad FC Augsburg,30,Niklas Dorsch,26,Germany,Defensive Midfield,€5.00m
+Squad FC Augsburg,18,Tim Breithaupt,22,Germany,Defensive Midfield,€3.00m
+Squad FC Augsburg,27,Arne Engels,20,Belgium,Central Midfield,€7.50m
+Squad FC Augsburg,10,Arne Maier,25,Germany,Central Midfield,€4.50m
+Squad FC Augsburg,8,Elvis Rexhbecaj,26,Germany,Central Midfield,€3.50m
+Squad FC Augsburg,11,Pep Biel,27,Spain,Attacking Midfield,€5.00m
+Squad FC Augsburg,24,Fredrik Jensen,26,Finland,Attacking Midfield,€3.50m
+Squad FC Augsburg,36,Mert Kömür,18,Germany,Attacking Midfield,€1.00m
+Squad FC Augsburg,16,Rubén Vargas,25,Switzerland,Right Winger,€6.50m
+Squad FC Augsburg,9,Ermedin Demirovic,26,Bosnia-Herzegovina,Centre-Forward,€28.00m
+Squad FC Augsburg,7,Dion Beljo,22,Croatia,Centre-Forward,€5.00m
+Squad FC Augsburg,21,Phillip Tietz,26,Germany,Centre-Forward,€5.00m
+Squad FC Augsburg,20,Sven Michel,33,Germany,Centre-Forward,€900k
+Squad 1.FSV Mainz 05,27,Robin Zentner,29,Germany,Goalkeeper,€3.50m
+Squad 1.FSV Mainz 05,33,Daniel Batz,33,Germany,Goalkeeper,€350k
+Squad 1.FSV Mainz 05,1,Lasse Rieß,22,Germany,Goalkeeper,€200k
+Squad 1.FSV Mainz 05,25,Andreas Hanche-Olsen,27,Norway,Centre-Back,€7.50m
+Squad 1.FSV Mainz 05,3,Sepp van den Berg,22,Netherlands,Centre-Back,€7.00m
+Squad 1.FSV Mainz 05,20,Edimilson Fernandes,28,Switzerland,Centre-Back,€4.50m
+Squad 1.FSV Mainz 05,5,Maxim Leitsch,25,Germany,Centre-Back,€1.50m
+Squad 1.FSV Mainz 05,16,Stefan Bell,32,Germany,Centre-Back,€1.00m
+Squad 1.FSV Mainz 05,19,Anthony Caci,26,France,Left-Back,€7.00m
+Squad 1.FSV Mainz 05,30,Silvan Widmer,31,Switzerland,Right-Back,€3.50m
+Squad 1.FSV Mainz 05,2,Phillipp Mwene,30,Austria,Right-Back,€1.50m
+Squad 1.FSV Mainz 05,21,Danny da Costa,30,Germany,Right-Back,€1.50m
+Squad 1.FSV Mainz 05,31,Dominik Kohr,30,Germany,Defensive Midfield,€3.50m
+Squad 1.FSV Mainz 05,23,Josuha Guilavogui,33,France,Defensive Midfield,€1.00m
+Squad 1.FSV Mainz 05,8,Leandro Barreiro,24,Luxembourg,Central Midfield,€14.00m
+Squad 1.FSV Mainz 05,14,Tom Krauß,22,Germany,Central Midfield,€5.50m
+Squad 1.FSV Mainz 05,18,Nadiem Amiri,27,Germany,Central Midfield,€4.00m
+Squad 1.FSV Mainz 05,24,Merveille Papela,23,Germany,Central Midfield,€1.00m
+Squad 1.FSV Mainz 05,7,Jae-sung Lee,31,"Korea, South",Attacking Midfield,€3.00m
+Squad 1.FSV Mainz 05,10,Marco Richter,26,Germany,Attacking Midfield,€2.50m
+Squad 1.FSV Mainz 05,43,Brajan Gruda,19,Germany,Right Winger,€9.00m
+Squad 1.FSV Mainz 05,45,David Mamutovic,23,Germany,Right Winger,€300k
+Squad 1.FSV Mainz 05,29,Jonathan Burkardt,23,Germany,Centre-Forward,€7.00m
+Squad 1.FSV Mainz 05,44,Nelson Weiper,19,Germany,Centre-Forward,€5.00m
+Squad 1.FSV Mainz 05,17,Ludovic Ajorque,30,France,Centre-Forward,€4.00m
+Squad 1.FSV Mainz 05,9,Karim Onisiwo,32,Austria,Centre-Forward,€2.00m
+Squad 1.FSV Mainz 05,11,Jessic Ngankam,23,Germany,Centre-Forward,€2.00m
+Squad SV Werder Bremen,30,Michael Zetterer,28,Germany,Goalkeeper,€2.50m
+Squad SV Werder Bremen,1,Jiri Pavlenka,32,Czech Republic,Goalkeeper,€1.50m
+Squad SV Werder Bremen,38,Dudu,25,Germany,Goalkeeper,€200k
+Squad SV Werder Bremen,32,Marco Friedl,26,Austria,Centre-Back,€6.50m
+Squad SV Werder Bremen,4,Niklas Stark,29,Germany,Centre-Back,€5.50m
+Squad SV Werder Bremen,5,Amos Pieper,26,Germany,Centre-Back,€5.00m
+Squad SV Werder Bremen,13,Milos Veljkovic,28,Serbia,Centre-Back,€4.50m
+Squad SV Werder Bremen,22,Julián Malatini,22,Argentina,Centre-Back,€2.50m
+Squad SV Werder Bremen,3,Anthony Jung,32,Germany,Centre-Back,€1.00m
+Squad SV Werder Bremen,8,Mitchell Weiser,29,Germany,Right-Back,€6.00m
+Squad SV Werder Bremen,27,Felix Agu,24,Germany,Right-Back,€2.50m
+Squad SV Werder Bremen,14,Senne Lynen,25,Belgium,Defensive Midfield,€5.00m
+Squad SV Werder Bremen,36,Christian Groß,35,Germany,Defensive Midfield,€300k
+Squad SV Werder Bremen,6,Jens Stage,27,Denmark,Central Midfield,€7.50m
+Squad SV Werder Bremen,18,Naby Keïta,29,Guinea,Central Midfield,€4.00m
+Squad SV Werder Bremen,28,Skelly Alvero,21,France,Central Midfield,€4.00m
+Squad SV Werder Bremen,2,Olivier Deman,24,Belgium,Left Midfield,€6.00m
+Squad SV Werder Bremen,35,Leon Opitz,19,Germany,Left Midfield,€600k
+Squad SV Werder Bremen,20,Romano Schmid,24,Austria,Attacking Midfield,€6.50m
+Squad SV Werder Bremen,10,Leonardo Bittencourt,30,Germany,Attacking Midfield,€2.50m
+Squad SV Werder Bremen,21,Isak Hansen-Aarøen,19,Norway,Attacking Midfield,€1.50m
+Squad SV Werder Bremen,17,Justin Njinmah,23,Germany,Right Winger,€9.00m
+Squad SV Werder Bremen,7,Marvin Ducksch,30,Germany,Centre-Forward,€9.00m
+Squad SV Werder Bremen,9,Dawid Kownacki,27,Poland,Centre-Forward,€2.00m
+Squad SV Werder Bremen,29,Nick Woltemade,22,Germany,Centre-Forward,€2.00m
+Squad 1.FC Köln,1,Marvin Schwäbe,28,Germany,Goalkeeper,€5.50m
+Squad 1.FC Köln,20,Philipp Pentke,38,Germany,Goalkeeper,€300k
+Squad 1.FC Köln,12,Jonas Nickisch,19,Germany,Goalkeeper,€200k
+Squad 1.FC Köln,44,Matthias Köbbing,26,Germany,Goalkeeper,€100k
+Squad 1.FC Köln,24,Jeff Chabot,26,Germany,Centre-Back,€9.00m
+Squad 1.FC Köln,4,Timo Hübers,27,Germany,Centre-Back,€7.50m
+Squad 1.FC Köln,15,Luca Kilian,24,Germany,Centre-Back,€2.50m
+Squad 1.FC Köln,3,Dominique Heintz,30,Germany,Centre-Back,€1.20m
+Squad 1.FC Köln,38,Elias Bakatukanda,20,Germany,Centre-Back,€250k
+Squad 1.FC Köln,35,Max Finkgräfe,20,Germany,Left-Back,€5.00m
+Squad 1.FC Köln,17,Leart Paçarada,29,Kosovo,Left-Back,€2.00m
+Squad 1.FC Köln,18,Rasmus Carstensen,23,Denmark,Right-Back,€3.00m
+Squad 1.FC Köln,2,Benno Schmitz,29,Germany,Right-Back,€2.00m
+Squad 1.FC Köln,6,Eric Martel,21,Germany,Defensive Midfield,€9.00m
+Squad 1.FC Köln,7,Dejan Ljubicic,26,Austria,Defensive Midfield,€8.00m
+Squad 1.FC Köln,22,Jacob Christensen,22,Denmark,Defensive Midfield,€2.00m
+Squad 1.FC Köln,8,Denis Huseinbasic,22,Bosnia-Herzegovina,Central Midfield,€4.50m
+Squad 1.FC Köln,11,Florian Kainz,31,Austria,Attacking Midfield,€3.50m
+Squad 1.FC Köln,40,Faride Alidou,22,Germany,Left Winger,€2.50m
+Squad 1.FC Köln,45,Justin Diehl,19,Germany,Left Winger,€2.50m
+Squad 1.FC Köln,29,Jan Thielmann,21,Germany,Right Winger,€6.50m
+Squad 1.FC Köln,37,Linton Maina,24,Germany,Right Winger,€5.00m
+Squad 1.FC Köln,27,Davie Selke,29,Germany,Centre-Forward,€3.50m
+Squad 1.FC Köln,9,Luca Waldschmidt,27,Germany,Centre-Forward,€3.00m
+Squad 1.FC Köln,21,Steffen Tigges,25,Germany,Centre-Forward,€1.50m
+Squad 1.FC Köln,13,Mark Uth,32,Germany,Centre-Forward,€1.00m
+Squad 1.FC Köln,42,Damion Downs,19,United States,Centre-Forward,€1.00m
+Squad 1.FC Köln,33,Florian Dietz,25,Germany,Centre-Forward,€800k
+Squad 1.FC Köln,23,Sargis Adamyan,30,Armenia,Centre-Forward,€700k
+Squad VfL Bochum,1,Manuel Riemann,35,Germany,Goalkeeper,€800k
+Squad VfL Bochum,23,Niclas Thiede,25,Germany,Goalkeeper,€350k
+Squad VfL Bochum,16,Andreas Luthe,37,Germany,Goalkeeper,€300k
+Squad VfL Bochum,21,Michael Esser,36,Germany,Goalkeeper,€300k
+Squad VfL Bochum,4,Erhan Masovic,25,Serbia,Centre-Back,€6.00m
+Squad VfL Bochum,5,Bernardo,28,Brazil,Centre-Back,€5.50m
+Squad VfL Bochum,31,Keven Schlotterbeck,26,Germany,Centre-Back,€5.00m
+Squad VfL Bochum,14,Tim Oermann,20,Germany,Centre-Back,€4.00m
+Squad VfL Bochum,20,Ivan Ordets,31,Ukraine,Centre-Back,€3.00m
+Squad VfL Bochum,41,Noah Loosli,27,Switzerland,Centre-Back,€800k
+Squad VfL Bochum,25,Mohammed Tolba,19,Germany,Centre-Back,€200k
+Squad VfL Bochum,32,Maximilian Wittek,28,Germany,Left-Back,€2.00m
+Squad VfL Bochum,3,Danilo Soares,32,Brazil,Left-Back,€1.00m
+Squad VfL Bochum,30,Moritz Römling,22,Germany,Left-Back,€150k
+Squad VfL Bochum,15,Felix Passlack,25,Germany,Right-Back,€1.50m
+Squad VfL Bochum,2,Cristian Gamboa,34,Costa Rica,Right-Back,€600k
+Squad VfL Bochum,17,Agon Elezi,23,North Macedonia,Defensive Midfield,€800k
+Squad VfL Bochum,8,Anthony Losilla,38,France,Defensive Midfield,€500k
+Squad VfL Bochum,6,Patrick Osterhage,24,Germany,Central Midfield,€7.00m
+Squad VfL Bochum,19,Matus Bero,28,Slovakia,Central Midfield,€3.50m
+Squad VfL Bochum,7,Kevin Stöger,30,Austria,Attacking Midfield,€4.00m
+Squad VfL Bochum,10,Philipp Förster,29,Germany,Attacking Midfield,€1.80m
+Squad VfL Bochum,13,Lukas Daschner,25,Germany,Attacking Midfield,€1.50m
+Squad VfL Bochum,27,Moritz-Broni Kwarteng,25,Germany,Attacking Midfield,€1.50m
+Squad VfL Bochum,22,Christopher Antwi-Adjei,30,Ghana,Left Winger,€1.50m
+Squad VfL Bochum,11,Takuma Asano,29,Japan,Right Winger,€4.00m
+Squad VfL Bochum,29,Moritz Broschinski,23,Germany,Centre-Forward,€2.00m
+Squad VfL Bochum,33,Philipp Hofmann,31,Germany,Centre-Forward,€1.80m
+Squad VfL Bochum,9,Gonçalo Paciência,29,Portugal,Centre-Forward,€1.70m
+Squad 1.FC Heidenheim 1846,1,Kevin Müller,33,Germany,Goalkeeper,€1.20m
+Squad 1.FC Heidenheim 1846,22,Vitus Eicher,33,Germany,Goalkeeper,€250k
+Squad 1.FC Heidenheim 1846,34,Paul Tschernuth,22,Austria,Goalkeeper,€100k
+Squad 1.FC Heidenheim 1846,40,Frank Feller,20,Germany,Goalkeeper,-
+Squad 1.FC Heidenheim 1846,5,Benedikt Gimber,27,Germany,Centre-Back,€2.80m
+Squad 1.FC Heidenheim 1846,6,Patrick Mainka,29,Germany,Centre-Back,€2.50m
+Squad 1.FC Heidenheim 1846,4,Tim Siersleben,24,Germany,Centre-Back,€2.00m
+Squad 1.FC Heidenheim 1846,27,Thomas Keller,24,Germany,Centre-Back,€350k
+Squad 1.FC Heidenheim 1846,19,Jonas Föhrenbach,28,Germany,Left-Back,€2.00m
+Squad 1.FC Heidenheim 1846,30,Norman Theuerkauf,37,Germany,Left-Back,€300k
+Squad 1.FC Heidenheim 1846,29,Seedy Jarju,19,The Gambia,Left-Back,-
+Squad 1.FC Heidenheim 1846,23,Omar Traoré,26,Germany,Right-Back,€2.00m
+Squad 1.FC Heidenheim 1846,2,Marnon Busch,29,Germany,Right-Back,€1.50m
+Squad 1.FC Heidenheim 1846,33,Lennard Maloney,24,United States,Defensive Midfield,€5.00m
+Squad 1.FC Heidenheim 1846,36,Luka Janes,20,Germany,Defensive Midfield,€200k
+Squad 1.FC Heidenheim 1846,3,Jan Schöppner,24,Germany,Central Midfield,€2.50m
+Squad 1.FC Heidenheim 1846,16,Kevin Sessa,23,Germany,Central Midfield,€1.00m
+Squad 1.FC Heidenheim 1846,21,Adrian Beck,26,Germany,Attacking Midfield,€1.50m
+Squad 1.FC Heidenheim 1846,11,Denis Thomalla,31,Germany,Attacking Midfield,€750k
+Squad 1.FC Heidenheim 1846,37,Jan-Niklas Beste,25,Germany,Left Winger,€15.00m
+Squad 1.FC Heidenheim 1846,17,Florian Pick,28,Germany,Left Winger,€900k
+Squad 1.FC Heidenheim 1846,8,Eren Dinkçi,22,Germany,Right Winger,€10.00m
+Squad 1.FC Heidenheim 1846,20,Nikola Dovedan,29,Austria,Second Striker,€600k
+Squad 1.FC Heidenheim 1846,10,Tim Kleindienst,28,Germany,Centre-Forward,€5.00m
+Squad 1.FC Heidenheim 1846,18,Marvin Pieringer,24,Germany,Centre-Forward,€2.50m
+Squad 1.FC Heidenheim 1846,9,Stefan Schimmer,29,Germany,Centre-Forward,€500k
+Squad 1.FC Heidenheim 1846,24,Christian Kühlwetter,27,Germany,Centre-Forward,€500k
+Squad 1.FC Heidenheim 1846,44,Elidon Qenaj,20,Kosovo,Centre-Forward,€100k
+Squad SV Darmstadt 98,1,Marcel Schuhen,31,Germany,Goalkeeper,€1.20m
+Squad SV Darmstadt 98,30,Alexander Brunst,28,Germany,Goalkeeper,€400k
+Squad SV Darmstadt 98,13,Morten Behrens,27,Germany,Goalkeeper,€250k
+Squad SV Darmstadt 98,45,Max Wendt,18,Germany,Goalkeeper,-
+Squad SV Darmstadt 98,14,Christoph Klarer,23,Austria,Centre-Back,€3.00m
+Squad SV Darmstadt 98,5,Matej Maglica,25,Croatia,Centre-Back,€2.00m
+Squad SV Darmstadt 98,38,Clemens Riedel,20,Germany,Centre-Back,€2.00m
+Squad SV Darmstadt 98,4,Christoph Zimmermann,31,Germany,Centre-Back,€1.00m
+Squad SV Darmstadt 98,20,Jannik Müller,30,Germany,Centre-Back,€800k
+Squad SV Darmstadt 98,3,Thomas Isherwood,26,Sweden,Centre-Back,€700k
+Squad SV Darmstadt 98,19,Emir Karic,26,Austria,Left-Back,€1.00m
+Squad SV Darmstadt 98,32,Fabian Holland,33,Germany,Left-Back,€600k
+Squad SV Darmstadt 98,26,Matthias Bader,26,Germany,Right-Back,€2.20m
+Squad SV Darmstadt 98,28,Bartol Franjic,24,Croatia,Defensive Midfield,€2.00m
+Squad SV Darmstadt 98,16,Andreas Müller,23,Germany,Defensive Midfield,€800k
+Squad SV Darmstadt 98,23,Klaus Gjasula,34,Albania,Defensive Midfield,€500k
+Squad SV Darmstadt 98,15,Fabian Nürnberger,24,Germany,Central Midfield,€2.50m
+Squad SV Darmstadt 98,8,Fabian Schnellhardt,30,Germany,Central Midfield,€1.00m
+Squad SV Darmstadt 98,11,Tobias Kempe,34,Germany,Central Midfield,€500k
+Squad SV Darmstadt 98,6,Marvin Mehlem,26,Germany,Attacking Midfield,€3.00m
+Squad SV Darmstadt 98,17,Julian Justvan,26,Germany,Attacking Midfield,€1.50m
+Squad SV Darmstadt 98,25,Gerrit Holtmann,29,Philippines,Left Winger,€1.50m
+Squad SV Darmstadt 98,18,Mathias Honsak,27,Austria,Left Winger,€1.20m
+Squad SV Darmstadt 98,27,Tim Skarke,27,Germany,Right Winger,€3.00m
+Squad SV Darmstadt 98,29,Oscar Vilhelmsson,20,Sweden,Centre-Forward,€2.00m
+Squad SV Darmstadt 98,9,Fraser Hornby,24,Scotland,Centre-Forward,€1.80m
+Squad SV Darmstadt 98,7,Braydon Manu,27,Ghana,Centre-Forward,€1.50m
+Squad SV Darmstadt 98,24,Luca Pfeiffer,27,Germany,Centre-Forward,€1.20m
+Squad SV Darmstadt 98,40,Sebastian Polter,33,Germany,Centre-Forward,€700k
+Squad SV Darmstadt 98,22,Aaron Seydel,28,Germany,Centre-Forward,€500k
+Squad SV Darmstadt 98,42,Fabio Torsiello,19,Germany,Centre-Forward,€500k
+Squad Hertha BSC,12,Tjark Ernst,21,Germany,Goalkeeper,€2.50m
+Squad Hertha BSC,35,Marius Gersbeck,28,Germany,Goalkeeper,€500k
+Squad Hertha BSC,33,Robert Kwasigroch,19,Germany,Goalkeeper,€200k
+Squad Hertha BSC,43,Tim Goller,19,Germany,Goalkeeper,€200k
+Squad Hertha BSC,31,Márton Dárdai,22,Hungary,Centre-Back,€2.50m
+Squad Hertha BSC,20,Marc Oliver Kempf,29,Germany,Centre-Back,€2.00m
+Squad Hertha BSC,44,Linus Gechter,20,Germany,Centre-Back,€1.80m
+Squad Hertha BSC,3,Agustín Rogel,26,Uruguay,Centre-Back,€800k
+Squad Hertha BSC,37,Toni Leistner,33,Germany,Centre-Back,€500k
+Squad Hertha BSC,46,Tim Hoffmann,19,Germany,Centre-Back,€200k
+Squad Hertha BSC,6,Michal Karbownik,23,Poland,Left-Back,€3.50m
+Squad Hertha BSC,16,Jonjoe Kenny,27,England,Right-Back,€2.50m
+Squad Hertha BSC,34,Deyovaisio Zeefuik,26,Netherlands,Right-Back,€800k
+Squad Hertha BSC,2,Peter Pekarík,37,Slovakia,Right-Back,€300k
+Squad Hertha BSC,41,Pascal Klemens,19,Germany,Defensive Midfield,€5.00m
+Squad Hertha BSC,23,Bradley Ibrahim,19,England,Defensive Midfield,€400k
+Squad Hertha BSC,48,Mesut Kesik,20,Germany,Defensive Midfield,€150k
+Squad Hertha BSC,5,Andreas Bouchalakis,31,Greece,Central Midfield,€1.50m
+Squad Hertha BSC,8,Bilal Hussein,23,Sweden,Central Midfield,€1.00m
+Squad Hertha BSC,19,Jeremy Dudziak,28,Germany,Central Midfield,€750k
+Squad Hertha BSC,24,Bence Dárdai,18,Germany,Attacking Midfield,€2.00m
+Squad Hertha BSC,18,Aymen Barkok,25,Morocco,Attacking Midfield,€1.70m
+Squad Hertha BSC,30,Ibrahim Maza,18,Germany,Attacking Midfield,€1.50m
+Squad Hertha BSC,11,Fabian Reese,26,Germany,Left Winger,€5.00m
+Squad Hertha BSC,26,Gustav Christensen,19,Denmark,Left Winger,€500k
+Squad Hertha BSC,22,Marten Winkler,21,Germany,Right Winger,€1.50m
+Squad Hertha BSC,27,Palkó Dárdai,24,Hungary,Right Winger,€800k
+Squad Hertha BSC,25,Haris Tabakovic,29,Bosnia-Herzegovina,Centre-Forward,€2.50m
+Squad Hertha BSC,9,Smail Prevljak,28,Bosnia-Herzegovina,Centre-Forward,€1.20m
+Squad Hertha BSC,39,Derry Scherhant,21,Germany,Centre-Forward,€800k
+Squad Hertha BSC,7,Florian Niederlechner,33,Germany,Centre-Forward,€600k
+Squad Hamburger SV,1,Daniel Heuer Fernandes,31,Portugal,Goalkeeper,€900k
+Squad Hamburger SV,19,Matheo Raab,25,Germany,Goalkeeper,€700k
+Squad Hamburger SV,12,Tom Mickel,34,Germany,Goalkeeper,€100k
+Squad Hamburger SV,4,Sebastian Schonlau,29,Germany,Centre-Back,€2.00m
+Squad Hamburger SV,5,Dennis Hadzikadunic,25,Bosnia-Herzegovina,Centre-Back,€1.70m
+Squad Hamburger SV,13,Guilherme Ramos,26,Portugal,Centre-Back,€1.20m
+Squad Hamburger SV,35,Stephan Ambrosius,25,Ghana,Centre-Back,€1.00m
+Squad Hamburger SV,44,Mario Vuskovic,22,Croatia,Centre-Back,-
+Squad Hamburger SV,28,Miro Muheim,26,Switzerland,Left-Back,€1.80m
+Squad Hamburger SV,33,Noah Katterbach,23,Germany,Left-Back,€800k
+Squad Hamburger SV,22,Ignace Van der Brempt,22,Belgium,Right-Back,€3.50m
+Squad Hamburger SV,2,William Mikelbrencis,20,France,Right-Back,€1.00m
+Squad Hamburger SV,3,Moritz Heyer,29,Germany,Right-Back,€800k
+Squad Hamburger SV,47,Nicolas Oliveira,20,Germany,Right-Back,€300k
+Squad Hamburger SV,23,Jonas Meffert,29,Germany,Defensive Midfield,€1.50m
+Squad Hamburger SV,6,Lukasz Poreba,24,Poland,Defensive Midfield,€1.20m
+Squad Hamburger SV,46,Elijah Krahn,20,Germany,Defensive Midfield,€500k
+Squad Hamburger SV,8,László Bénes,26,Slovakia,Central Midfield,€5.00m
+Squad Hamburger SV,14,Ludovit Reis,23,Netherlands,Central Midfield,€5.00m
+Squad Hamburger SV,36,Anssi Suhonen,23,Finland,Central Midfield,€700k
+Squad Hamburger SV,10,Immanuel Pherai,22,Netherlands,Attacking Midfield,€2.80m
+Squad Hamburger SV,41,Omar Megeed,18,Egypt,Attacking Midfield,€250k
+Squad Hamburger SV,27,Jean-Luc Dompé,28,France,Left Winger,€2.20m
+Squad Hamburger SV,17,Masaya Okugawa,28,Japan,Left Winger,€1.70m
+Squad Hamburger SV,21,Levin Öztunali,28,Germany,Left Winger,€700k
+Squad Hamburger SV,11,Ransford Königsdörffer,22,Ghana,Right Winger,€1.70m
+Squad Hamburger SV,18,Bakery Jatta,25,The Gambia,Right Winger,€1.30m
+Squad Hamburger SV,9,Robert Glatzel,30,Germany,Centre-Forward,€3.00m
+Squad Hamburger SV,20,András Németh,21,Hungary,Centre-Forward,€1.50m
+Squad Hamburger SV,45,Tom Sanne,20,Germany,Centre-Forward,€250k
+Squad Fortuna Düsseldorf,33,Florian Kastenmeier,26,Germany,Goalkeeper,€1.50m
+Squad Fortuna Düsseldorf,1,Karol Niemczycki,24,Poland,Goalkeeper,€600k
+Squad Fortuna Düsseldorf,21,Dennis Gorka,22,Germany,Goalkeeper,€200k
+Squad Fortuna Düsseldorf,20,Jamil Siebert,22,Germany,Centre-Back,€2.50m
+Squad Fortuna Düsseldorf,30,Jordy de Wijs,29,Netherlands,Centre-Back,€1.50m
+Squad Fortuna Düsseldorf,3,Andre Hoffmann,31,Germany,Centre-Back,€900k
+Squad Fortuna Düsseldorf,5,Joshua Quarshie,19,Germany,Centre-Back,€800k
+Squad Fortuna Düsseldorf,15,Tim Oberdorf,27,Germany,Centre-Back,€800k
+Squad Fortuna Düsseldorf,19,Emmanuel Iyoha,26,Germany,Left-Back,€1.00m
+Squad Fortuna Düsseldorf,34,Nicolas Gavory,29,France,Left-Back,€1.00m
+Squad Fortuna Düsseldorf,25,Matthias Zimmermann,31,Germany,Right-Back,€800k
+Squad Fortuna Düsseldorf,2,Takashi Uchino,23,Japan,Right-Back,€350k
+Squad Fortuna Düsseldorf,6,Yannik Engelhardt,23,Germany,Defensive Midfield,€2.80m
+Squad Fortuna Düsseldorf,31,Marcel Sobottka,29,Germany,Defensive Midfield,€1.20m
+Squad Fortuna Düsseldorf,4,Ao Tanaka,25,Japan,Central Midfield,€3.50m
+Squad Fortuna Düsseldorf,8,Ísak Jóhannesson,21,Iceland,Central Midfield,€3.50m
+Squad Fortuna Düsseldorf,46,Sima Suso,18,Germany,Central Midfield,€350k
+Squad Fortuna Düsseldorf,35,Daniel Bunk,20,Germany,Central Midfield,€100k
+Squad Fortuna Düsseldorf,23,Shinta Appelkamp,23,Germany,Attacking Midfield,€3.00m
+Squad Fortuna Düsseldorf,7,Christos Tzolis,22,Greece,Left Winger,€7.00m
+Squad Fortuna Düsseldorf,27,Dennis Jastrzembski,24,Germany,Left Winger,€650k
+Squad Fortuna Düsseldorf,11,Felix Klaus,31,Germany,Right Winger,€800k
+Squad Fortuna Düsseldorf,9,Vincent Vermeij,29,Netherlands,Centre-Forward,€1.00m
+Squad Fortuna Düsseldorf,36,Marlon Mustapha,22,Austria,Centre-Forward,€900k
+Squad Fortuna Düsseldorf,18,Jona Niemiec,22,Germany,Centre-Forward,€650k
+Squad Fortuna Düsseldorf,22,Christoph Daferner,26,Germany,Centre-Forward,€600k
+Squad 1.FC Nuremberg,26,Christian Mathenia,32,Germany,Goalkeeper,€400k
+Squad 1.FC Nuremberg,1,Carl Klaus,30,Germany,Goalkeeper,€350k
+Squad 1.FC Nuremberg,31,Jan Reichert,22,Germany,Goalkeeper,€150k
+Squad 1.FC Nuremberg,39,Nicolas Ortegel,20,Germany,Goalkeeper,€100k
+Squad 1.FC Nuremberg,44,Finn Jeltsch,17,Germany,Centre-Back,€3.00m
+Squad 1.FC Nuremberg,15,Iván Márquez,29,Spain,Centre-Back,€700k
+Squad 1.FC Nuremberg,3,Ahmet Gürleyen,24,Germany,Centre-Back,€650k
+Squad 1.FC Nuremberg,4,James Lawrence,31,Wales,Centre-Back,€500k
+Squad 1.FC Nuremberg,19,Florian Hübner,33,Germany,Centre-Back,€350k
+Squad 1.FC Nuremberg,16,Christopher Schindler,33,Germany,Centre-Back,€300k
+Squad 1.FC Nuremberg,27,Nathaniel Brown,20,Germany,Left-Back,€3.00m
+Squad 1.FC Nuremberg,38,Jannes Horn,27,Germany,Left-Back,€1.50m
+Squad 1.FC Nuremberg,13,Erik Wekesser,26,Germany,Left-Back,€500k
+Squad 1.FC Nuremberg,28,Jan Gyamerah,28,Ghana,Right-Back,€800k
+Squad 1.FC Nuremberg,22,Enrico Valentini,35,Germany,Right-Back,€300k
+Squad 1.FC Nuremberg,43,Jannik Hofmann,22,Germany,Right-Back,€175k
+Squad 1.FC Nuremberg,6,Florian Flick,23,Germany,Defensive Midfield,€1.50m
+Squad 1.FC Nuremberg,5,Johannes Geis,30,Germany,Defensive Midfield,€400k
+Squad 1.FC Nuremberg,17,Jens Castrop,20,Germany,Central Midfield,€3.00m
+Squad 1.FC Nuremberg,33,Marcel Wenig,19,Germany,Central Midfield,€600k
+Squad 1.FC Nuremberg,8,Taylan Duman,26,Germany,Central Midfield,€500k
+Squad 1.FC Nuremberg,42,Can Uzun,18,Türkiye,Attacking Midfield,€12.00m
+Squad 1.FC Nuremberg,36,Lukas Schleimer,24,Germany,Attacking Midfield,€750k
+Squad 1.FC Nuremberg,11,Kanji Okunuki,24,Japan,Left Winger,€1.20m
+Squad 1.FC Nuremberg,14,Benjamin Goller,25,Germany,Right Winger,€750k
+Squad 1.FC Nuremberg,23,Joseph Hungbo,24,England,Right Winger,€500k
+Squad 1.FC Nuremberg,9,Daichi Hayashi,26,Japan,Centre-Forward,€1.00m
+Squad 1.FC Nuremberg,7,Felix Lohkemper,29,Germany,Centre-Forward,€500k
+Squad 1.FC Nuremberg,20,Sebastian Andersson,32,Sweden,Centre-Forward,€500k
+Squad 1.FC Nuremberg,46,Julian Kania,22,Germany,Centre-Forward,€300k
+Squad FC St. Pauli,22,Nikola Vasilj,28,Bosnia-Herzegovina,Goalkeeper,€1.30m
+Squad FC St. Pauli,30,Sascha Burchert,34,Germany,Goalkeeper,€200k
+Squad FC St. Pauli,28,Sören Ahlers,26,Germany,Goalkeeper,€50k
+Squad FC St. Pauli,8,Eric Smith,27,Sweden,Centre-Back,€3.50m
+Squad FC St. Pauli,5,Hauke Wahl,30,Germany,Centre-Back,€1.50m
+Squad FC St. Pauli,3,Karol Mets,30,Estonia,Centre-Back,€1.30m
+Squad FC St. Pauli,4,David Nemeth,23,Austria,Centre-Back,€800k
+Squad FC St. Pauli,25,Adam Dzwigala,28,Poland,Centre-Back,€400k
+Squad FC St. Pauli,23,Philipp Treu,23,Germany,Left-Back,€2.00m
+Squad FC St. Pauli,21,Lars Ritzka,25,Germany,Left-Back,€700k
+Squad FC St. Pauli,2,Manolis Saliakas,27,Greece,Right-Back,€2.00m
+Squad FC St. Pauli,29,Luca Günther,22,Germany,Right-Back,€100k
+Squad FC St. Pauli,36,Aljoscha Kemlein,19,Germany,Defensive Midfield,€2.00m
+Squad FC St. Pauli,10,Marcel Hartel,28,Germany,Central Midfield,€4.00m
+Squad FC St. Pauli,7,Jackson Irvine,31,Australia,Central Midfield,€1.80m
+Squad FC St. Pauli,20,Erik Ahlstrand,22,Sweden,Central Midfield,€800k
+Squad FC St. Pauli,16,Carlo Boukhalfa,24,Germany,Central Midfield,€500k
+Squad FC St. Pauli,24,Connor Metcalfe,24,Australia,Attacking Midfield,€1.50m
+Squad FC St. Pauli,26,Elias Saad,24,Tunisia,Left Winger,€3.00m
+Squad FC St. Pauli,17,Oladapo Afolayan,26,England,Right Winger,€2.00m
+Squad FC St. Pauli,15,Danel Sinani,27,Luxembourg,Right Winger,€600k
+Squad FC St. Pauli,18,Scott Banks,22,Scotland,Right Winger,€300k
+Squad FC St. Pauli,11,Johannes Eggestein,25,Germany,Centre-Forward,€1.50m
+Squad FC St. Pauli,6,Simon Zoller,32,Germany,Centre-Forward,€500k
+Squad FC St. Pauli,9,Maurides,30,Brazil,Centre-Forward,€500k
+Squad FC St. Pauli,14,Etienne Amenyido,26,Togo,Centre-Forward,€500k
+Squad FC St. Pauli,19,Andreas Albers,34,Denmark,Centre-Forward,€350k
+Squad FC Schalke 04,32,Marius Müller,30,Germany,Goalkeeper,€800k
+Squad FC Schalke 04,1,Ralf Fährmann,35,Germany,Goalkeeper,€300k
+Squad FC Schalke 04,34,Michael Langer,39,Austria,Goalkeeper,€50k
+Squad FC Schalke 04,26,Tomas Kalas,30,Czech Republic,Centre-Back,€1.00m
+Squad FC Schalke 04,25,Timo Baumgartl,28,Germany,Centre-Back,€800k
+Squad FC Schalke 04,3,Leo Greiml,22,Austria,Centre-Back,€600k
+Squad FC Schalke 04,35,Marcin Kaminski,32,Poland,Centre-Back,€600k
+Squad FC Schalke 04,22,Ibrahima Cissé,23,Mali,Centre-Back,€200k
+Squad FC Schalke 04,5,Derry Murkin,24,England,Left-Back,€1.50m
+Squad FC Schalke 04,21,Brandon Soppy,22,France,Right-Back,€3.00m
+Squad FC Schalke 04,41,Henning Matriciani,24,Germany,Right-Back,€800k
+Squad FC Schalke 04,27,Cédric Brunner,30,Switzerland,Right-Back,€700k
+Squad FC Schalke 04,6,Ron Schallenberg,25,Germany,Defensive Midfield,€2.00m
+Squad FC Schalke 04,43,Assan Ouédraogo,17,Germany,Central Midfield,€8.00m
+Squad FC Schalke 04,7,Paul Seguin,29,Germany,Central Midfield,€1.50m
+Squad FC Schalke 04,10,Lino Tempelmann,25,Germany,Central Midfield,€1.00m
+Squad FC Schalke 04,8,Danny Latza,34,Germany,Central Midfield,€300k
+Squad FC Schalke 04,17,Yusuf Kabadayi,20,Germany,Right Midfield,€900k
+Squad FC Schalke 04,2,Thomas Ouwejan,27,Netherlands,Left Midfield,€1.50m
+Squad FC Schalke 04,29,Tobias Mohr,28,Germany,Left Midfield,€700k
+Squad FC Schalke 04,18,Blendi Idrizi,25,Kosovo,Attacking Midfield,€500k
+Squad FC Schalke 04,24,Dominick Drexler,33,Germany,Attacking Midfield,€400k
+Squad FC Schalke 04,23,Darko Churlinov,23,North Macedonia,Left Winger,€2.00m
+Squad FC Schalke 04,19,Kenan Karaman,30,Türkiye,Centre-Forward,€1.50m
+Squad FC Schalke 04,42,Keke Topp,20,Germany,Centre-Forward,€1.50m
+Squad FC Schalke 04,11,Bryan Lasme,25,France,Centre-Forward,€900k
+Squad FC Schalke 04,9,Simon Terodde,36,Germany,Centre-Forward,€500k
+Squad Holstein Kiel,1,Timon Weiner,25,Germany,Goalkeeper,€800k
+Squad Holstein Kiel,21,Thomas Dähne,30,Germany,Goalkeeper,€400k
+Squad Holstein Kiel,31,Marcel Engelhardt,31,Germany,Goalkeeper,€175k
+Squad Holstein Kiel,34,Colin Kleine-Bekel,21,Germany,Centre-Back,€3.00m
+Squad Holstein Kiel,17,Timo Becker,27,Germany,Centre-Back,€1.50m
+Squad Holstein Kiel,3,Marco Komenda,27,Germany,Centre-Back,€900k
+Squad Holstein Kiel,5,Carl Johansson,29,Sweden,Centre-Back,€700k
+Squad Holstein Kiel,38,Nico Carrera,21,United States,Centre-Back,€150k
+Squad Holstein Kiel,18,Tom Rothe,19,Germany,Left-Back,€6.00m
+Squad Holstein Kiel,2,Mikkel Kirkeskov,32,Denmark,Left-Back,€250k
+Squad Holstein Kiel,23,Lasse Rosenboom,22,Germany,Right-Back,€250k
+Squad Holstein Kiel,6,Marko Ivezic,22,Serbia,Defensive Midfield,€2.00m
+Squad Holstein Kiel,4,Patrick Erras,29,Germany,Defensive Midfield,€850k
+Squad Holstein Kiel,15,Marvin Schulz,29,Germany,Defensive Midfield,€700k
+Squad Holstein Kiel,16,Philipp Sander,26,Germany,Central Midfield,€2.00m
+Squad Holstein Kiel,22,Nicolai Remberg,23,Germany,Central Midfield,€1.20m
+Squad Holstein Kiel,10,Lewis Holtby,33,Germany,Central Midfield,€500k
+Squad Holstein Kiel,26,Lucas Wolf,22,Germany,Central Midfield,€175k
+Squad Holstein Kiel,32,Jonas Sterner,21,Germany,Right Midfield,€600k
+Squad Holstein Kiel,28,Aurel Wagbe,20,Germany,Left Midfield,€100k
+Squad Holstein Kiel,7,Steven Skrzybski,31,Germany,Attacking Midfield,€1.30m
+Squad Holstein Kiel,8,Finn Porath,27,Germany,Attacking Midfield,€1.00m
+Squad Holstein Kiel,27,Joshua Mees,28,Germany,Left Winger,€650k
+Squad Holstein Kiel,11,Alexander Bernhardsson,25,Sweden,Right Winger,€1.00m
+Squad Holstein Kiel,29,Niklas Niehoff,19,Germany,Right Winger,€300k
+Squad Holstein Kiel,9,Benedikt Pichler,26,Austria,Centre-Forward,€1.50m
+Squad Holstein Kiel,13,Shuto Machino,24,Japan,Centre-Forward,€1.50m
+Squad Holstein Kiel,20,Fiete Arp,24,Germany,Centre-Forward,€800k
+Squad Holstein Kiel,19,Hólmbert Aron Fridjónsson,30,Iceland,Centre-Forward,€300k
+Squad SpVgg Greuther Fürth,40,Jonas Urbig,20,Germany,Goalkeeper,€4.00m
+Squad SpVgg Greuther Fürth,1,Nils Körber,27,Germany,Goalkeeper,€250k
+Squad SpVgg Greuther Fürth,25,Leon Schaffran,25,Germany,Goalkeeper,€200k
+Squad SpVgg Greuther Fürth,42,Semir Kaymakci,19,Germany,Goalkeeper,€150k
+Squad SpVgg Greuther Fürth,33,Maximilian Dietz,22,United States,Centre-Back,€2.50m
+Squad SpVgg Greuther Fürth,4,Damian Michalski,25,Poland,Centre-Back,€1.50m
+Squad SpVgg Greuther Fürth,27,Luca Itter,25,Germany,Centre-Back,€1.50m
+Squad SpVgg Greuther Fürth,23,Gideon Jung,29,Germany,Centre-Back,€700k
+Squad SpVgg Greuther Fürth,15,Ben Schlicke,18,Germany,Centre-Back,€150k
+Squad SpVgg Greuther Fürth,17,Niko Gießelmann,32,Germany,Left-Back,€800k
+Squad SpVgg Greuther Fürth,5,Oussama Haddadi,32,Tunisia,Left-Back,€600k
+Squad SpVgg Greuther Fürth,21,Kerim Calhanoglu,21,Germany,Left-Back,€500k
+Squad SpVgg Greuther Fürth,2,Simon Asta,23,Germany,Right-Back,€1.80m
+Squad SpVgg Greuther Fürth,18,Marco Meyerhöfer,28,Germany,Right-Back,€800k
+Squad SpVgg Greuther Fürth,3,Oualid Mhamdi,20,Morocco,Right-Back,€300k
+Squad SpVgg Greuther Fürth,13,Orestis Kiomourtzoglou,25,Germany,Defensive Midfield,€550k
+Squad SpVgg Greuther Fürth,36,Philipp Müller,20,Germany,Defensive Midfield,€200k
+Squad SpVgg Greuther Fürth,22,Robert Wagner,20,Germany,Central Midfield,€3.00m
+Squad SpVgg Greuther Fürth,37,Julian Green,28,United States,Central Midfield,€1.30m
+Squad SpVgg Greuther Fürth,14,Jomaine Consbruch,22,Germany,Central Midfield,€500k
+Squad SpVgg Greuther Fürth,16,Lukas Petkov,23,Bulgaria,Attacking Midfield,€800k
+Squad SpVgg Greuther Fürth,34,Denis Pfaffenrot,19,Germany,Attacking Midfield,€125k
+Squad SpVgg Greuther Fürth,30,Armindo Sieb,21,Germany,Second Striker,€3.50m
+Squad SpVgg Greuther Fürth,19,Tim Lemperle,22,Germany,Centre-Forward,€2.00m
+Squad SpVgg Greuther Fürth,10,Branimir Hrgota,31,Sweden,Centre-Forward,€1.30m
+Squad SpVgg Greuther Fürth,7,Dennis Srbeny,29,Germany,Centre-Forward,€600k
+Squad SpVgg Greuther Fürth,20,Leander Popp,18,Germany,Centre-Forward,€250k
+Squad Hannover 96,1,Ron-Robert Zieler,35,Germany,Goalkeeper,€700k
+Squad Hannover 96,30,Leo Weinkauf,27,Germany,Goalkeeper,€250k
+Squad Hannover 96,33,Toni Stahl,24,Germany,Goalkeeper,€125k
+Squad Hannover 96,35,Leon-Oumar Wechsel,19,Germany,Goalkeeper,€100k
+Squad Hannover 96,4,Bright Arrey-Mbi,21,Germany,Centre-Back,€2.50m
+Squad Hannover 96,23,Marcel Halstenberg,32,Germany,Centre-Back,€2.50m
+Squad Hannover 96,5,Phil Neumann,26,Germany,Centre-Back,€2.00m
+Squad Hannover 96,31,Julian Börner,33,Germany,Centre-Back,€300k
+Squad Hannover 96,34,Yannik Lührs,20,Germany,Centre-Back,€300k
+Squad Hannover 96,37,Brooklyn Ezeh,22,Germany,Left-Back,€700k
+Squad Hannover 96,20,Jannik Dehm,27,Germany,Right-Back,€900k
+Squad Hannover 96,21,Sei Muroya,30,Japan,Right-Back,€700k
+Squad Hannover 96,6,Fabian Kunze,25,Germany,Defensive Midfield,€1.20m
+Squad Hannover 96,13,Max Christiansen,27,Germany,Defensive Midfield,€1.00m
+Squad Hannover 96,8,Enzo Leopold,23,Germany,Central Midfield,€2.00m
+Squad Hannover 96,24,Antonio Foti,20,Cyprus,Central Midfield,€500k
+Squad Hannover 96,11,Louis Schaub,29,Austria,Attacking Midfield,€1.00m
+Squad Hannover 96,10,Sebastian Ernst,29,Germany,Attacking Midfield,€800k
+Squad Hannover 96,40,Christopher Scott,21,Germany,Attacking Midfield,€800k
+Squad Hannover 96,17,Muhammed Damar,20,Germany,Attacking Midfield,€700k
+Squad Hannover 96,29,Kolja Oudenne,22,Sweden,Attacking Midfield,€600k
+Squad Hannover 96,25,Lars Gindorf,22,Germany,Attacking Midfield,€250k
+Squad Hannover 96,9,Nicolò Tresoldi,19,Germany,Centre-Forward,€5.00m
+Squad Hannover 96,36,Cedric Teuchert,27,Germany,Centre-Forward,€2.00m
+Squad Hannover 96,16,Havard Nielsen,30,Norway,Centre-Forward,€1.00m
+Squad Hannover 96,32,Andreas Voglsammer,32,Germany,Centre-Forward,€800k
+Squad 1.FC Kaiserslautern,18,Julian Krahl,24,Germany,Goalkeeper,€750k
+Squad 1.FC Kaiserslautern,30,Avdo Spahic,27,Bosnia-Herzegovina,Goalkeeper,€200k
+Squad 1.FC Kaiserslautern,32,Robin Himmelmann,35,Germany,Goalkeeper,€150k
+Squad 1.FC Kaiserslautern,35,Niklas Heeger,24,Germany,Goalkeeper,€50k
+Squad 1.FC Kaiserslautern,2,Boris Tomiak,25,Germany,Centre-Back,€1.50m
+Squad 1.FC Kaiserslautern,6,Almamy Touré,27,Mali,Centre-Back,€1.20m
+Squad 1.FC Kaiserslautern,14,Nikola Soldo,23,Croatia,Centre-Back,€1.00m
+Squad 1.FC Kaiserslautern,33,Jan Elvedi,27,Switzerland,Centre-Back,€1.00m
+Squad 1.FC Kaiserslautern,5,Kevin Kraus,31,Germany,Centre-Back,€500k
+Squad 1.FC Kaiserslautern,15,Tymoteusz Puchacz,25,Poland,Left-Back,€1.50m
+Squad 1.FC Kaiserslautern,21,Hendrick Zuck,33,Germany,Left-Back,€300k
+Squad 1.FC Kaiserslautern,8,Jean Zimmer,30,Germany,Right-Back,€600k
+Squad 1.FC Kaiserslautern,27,Frank Ronstadt,26,Germany,Right-Back,€550k
+Squad 1.FC Kaiserslautern,16,Julian Niehues,23,Germany,Defensive Midfield,€1.50m
+Squad 1.FC Kaiserslautern,4,Afeez Aremu,24,Nigeria,Defensive Midfield,€700k
+Squad 1.FC Kaiserslautern,39,Aaron Basenach,21,Germany,Defensive Midfield,€100k
+Squad 1.FC Kaiserslautern,20,Tobias Raschl,24,Germany,Central Midfield,€1.20m
+Squad 1.FC Kaiserslautern,26,Filip Kaloč,24,Czech Republic,Central Midfield,€800k
+Squad 1.FC Kaiserslautern,23,Philipp Hercher,28,Germany,Right Midfield,€450k
+Squad 1.FC Kaiserslautern,7,Marlon Ritter,29,Germany,Attacking Midfield,€850k
+Squad 1.FC Kaiserslautern,10,Philipp Klement,31,Germany,Attacking Midfield,€500k
+Squad 1.FC Kaiserslautern,11,Kenny-Prince Redondo,29,Germany,Left Winger,€750k
+Squad 1.FC Kaiserslautern,24,Ba-Muaka Simakala,27,Germany,Left Winger,€650k
+Squad 1.FC Kaiserslautern,17,Aaron Opoku,25,Germany,Left Winger,€600k
+Squad 1.FC Kaiserslautern,31,Ben Zolinski,31,Germany,Right Winger,€300k
+Squad 1.FC Kaiserslautern,9,Ragnar Ache,25,Germany,Centre-Forward,€3.00m
+Squad 1.FC Kaiserslautern,25,Filip Stojilkovic,24,Switzerland,Centre-Forward,€1.20m
+Squad 1.FC Kaiserslautern,29,Richmond Tachie,24,Germany,Centre-Forward,€800k
+Squad 1.FC Kaiserslautern,40,Dickson Abiama,25,Nigeria,Centre-Forward,€700k
+Squad 1.FC Kaiserslautern,19,Daniel Hanslik,27,Germany,Centre-Forward,€400k
+Squad Karlsruher SC,23,Patrick Drewes,31,Germany,Goalkeeper,€600k
+Squad Karlsruher SC,29,Max Weiß,19,Germany,Goalkeeper,€400k
+Squad Karlsruher SC,1,Kai Eisele,28,Germany,Goalkeeper,€200k
+Squad Karlsruher SC,28,Marcel Franke,31,Germany,Centre-Back,€900k
+Squad Karlsruher SC,22,Christoph Kobald,26,Austria,Centre-Back,€800k
+Squad Karlsruher SC,32,Robin Bormuth,28,Germany,Centre-Back,€800k
+Squad Karlsruher SC,4,Marcel Beifus,21,Germany,Centre-Back,€600k
+Squad Karlsruher SC,5,Daniel O'Shaughnessy,29,Finland,Centre-Back,€400k
+Squad Karlsruher SC,20,David Herold,21,Germany,Left-Back,€1.00m
+Squad Karlsruher SC,16,Philip Heise,32,Germany,Left-Back,€500k
+Squad Karlsruher SC,21,Marco Thiede,31,Germany,Right-Back,€400k
+Squad Karlsruher SC,2,Sebastian Jung,33,Germany,Right-Back,€300k
+Squad Karlsruher SC,18,Daniel Brosinski,35,Germany,Right-Back,€200k
+Squad Karlsruher SC,15,Dzenis Burnic,25,Germany,Defensive Midfield,€750k
+Squad Karlsruher SC,17,Nicolai Rapp,27,Germany,Defensive Midfield,€700k
+Squad Karlsruher SC,8,Jérôme Gondorf,35,Germany,Defensive Midfield,€300k
+Squad Karlsruher SC,10,Marvin Wanitzek,30,Germany,Central Midfield,€1.50m
+Squad Karlsruher SC,6,Leon Jensen,26,Germany,Central Midfield,€800k
+Squad Karlsruher SC,39,Efe Kaan Sihlaroglu,18,Türkiye,Central Midfield,€200k
+Squad Karlsruher SC,30,Eren Öztürk,19,Türkiye,Central Midfield,€100k
+Squad Karlsruher SC,26,Paul Nebel,21,Germany,Attacking Midfield,€3.50m
+Squad Karlsruher SC,13,Lars Stindl,35,Germany,Attacking Midfield,€1.00m
+Squad Karlsruher SC,27,Ali-Eren Ersungur,18,Türkiye,Attacking Midfield,€250k
+Squad Karlsruher SC,31,Tim Rossmann,20,Germany,Left Winger,€600k
+Squad Karlsruher SC,9,Igor Matanovic,21,Croatia,Centre-Forward,€4.00m
+Squad Karlsruher SC,11,Budu Zivzivadze,30,Georgia,Centre-Forward,€700k
+Squad Karlsruher SC,24,Fabian Schleusener,32,Germany,Centre-Forward,€600k
+Squad SV 07 Elversberg,20,Nicolas Kristof,24,Austria,Goalkeeper,€800k
+Squad SV 07 Elversberg,28,Tim Boss,30,Germany,Goalkeeper,€200k
+Squad SV 07 Elversberg,1,Frank Lehmann,34,Germany,Goalkeeper,€100k
+Squad SV 07 Elversberg,36,Dylan Downey,18,Germany,Defender,-
+Squad SV 07 Elversberg,5,Frederik Jäkel,23,Germany,Centre-Back,€1.20m
+Squad SV 07 Elversberg,23,Carlo Sickinger,26,Germany,Centre-Back,€700k
+Squad SV 07 Elversberg,3,Florian Le Joncour,29,France,Centre-Back,€600k
+Squad SV 07 Elversberg,19,Lukas Pinckert,24,Germany,Centre-Back,€350k
+Squad SV 07 Elversberg,13,Marcel Correia,34,Portugal,Centre-Back,€250k
+Squad SV 07 Elversberg,4,Kevin Conrad,33,Germany,Centre-Back,€225k
+Squad SV 07 Elversberg,37,Luis Kerner,23,Germany,Centre-Back,-
+Squad SV 07 Elversberg,33,Maurice Neubauer,27,Germany,Left-Back,€700k
+Squad SV 07 Elversberg,26,Arne Sicker,27,Germany,Left-Back,€300k
+Squad SV 07 Elversberg,18,Hugo Vandermersch,24,France,Right-Back,€1.50m
+Squad SV 07 Elversberg,14,Robin Fellhauer,26,Germany,Defensive Midfield,€800k
+Squad SV 07 Elversberg,31,Thore Jacobsen,26,Germany,Defensive Midfield,€500k
+Squad SV 07 Elversberg,6,Patryk Dragon,28,Germany,Defensive Midfield,€100k
+Squad SV 07 Elversberg,25,Sebastian Saftig,22,Germany,Defensive Midfield,€50k
+Squad SV 07 Elversberg,8,Semih Sahin,24,Germany,Central Midfield,€1.50m
+Squad SV 07 Elversberg,11,Luca Dürholtz,30,Germany,Central Midfield,€250k
+Squad SV 07 Elversberg,17,Paul Wanner,18,Germany,Attacking Midfield,€5.00m
+Squad SV 07 Elversberg,21,Paul Stock,27,Germany,Attacking Midfield,€900k
+Squad SV 07 Elversberg,10,Jannik Rochelt,25,Germany,Left Winger,€1.50m
+Squad SV 07 Elversberg,22,Joseph Boyamba,27,Germany,Left Winger,€325k
+Squad SV 07 Elversberg,7,Manuel Feil,29,Germany,Right Winger,€500k
+Squad SV 07 Elversberg,29,Wahid Faghir,20,Denmark,Centre-Forward,€2.50m
+Squad SV 07 Elversberg,24,Luca Schnellbacher,29,Germany,Centre-Forward,€700k
+Squad SV 07 Elversberg,9,Dominik Martinovic,27,Germany,Centre-Forward,€400k
+Squad SV 07 Elversberg,30,Kevin Koffi,37,Italy,Centre-Forward,€100k
+Squad SC Paderborn 07,1,Pelle Boevink,26,Netherlands,Goalkeeper,€700k
+Squad SC Paderborn 07,21,Jannik Huth,30,Germany,Goalkeeper,€400k
+Squad SC Paderborn 07,35,Arne Schulz,21,Germany,Goalkeeper,€100k
+Squad SC Paderborn 07,12,Florian Pruhs,18,Germany,Goalkeeper,€50k
+Squad SC Paderborn 07,33,Marcel Hoffmeier,24,Germany,Centre-Back,€1.20m
+Squad SC Paderborn 07,24,Jannis Heuer,24,Germany,Centre-Back,€1.00m
+Squad SC Paderborn 07,17,Laurin Curda,22,Germany,Centre-Back,€800k
+Squad SC Paderborn 07,31,Maximilian Rohr,28,Germany,Centre-Back,€700k
+Squad SC Paderborn 07,16,Visar Musliu,29,North Macedonia,Centre-Back,€500k
+Squad SC Paderborn 07,4,Calvin Brackelmann,24,Germany,Centre-Back,€250k
+Squad SC Paderborn 07,43,Martin Ens,22,Germany,Centre-Back,€200k
+Squad SC Paderborn 07,20,Justus Henke,22,Germany,Centre-Back,€50k
+Squad SC Paderborn 07,34,Dawyn-Paul Donner,21,Germany,Centre-Back,€50k
+Squad SC Paderborn 07,19,Kimberly Ezekwem,22,Germany,Left-Back,€350k
+Squad SC Paderborn 07,22,Mattes Hansen,19,Germany,Defensive Midfield,€1.80m
+Squad SC Paderborn 07,27,Kai Klefisch,24,Germany,Defensive Midfield,€1.00m
+Squad SC Paderborn 07,6,Marco Schuster,28,Germany,Defensive Midfield,€550k
+Squad SC Paderborn 07,8,David Kinsombi,28,Germany,Central Midfield,€750k
+Squad SC Paderborn 07,25,Jesse Edem Tugbenyo,22,Germany,Central Midfield,€200k
+Squad SC Paderborn 07,23,Raphael Obermair,28,Philippines,Right Midfield,€1.20m
+Squad SC Paderborn 07,32,Aaron Zehnter,19,Germany,Left Midfield,€700k
+Squad SC Paderborn 07,26,Sebastian Klaas,25,Germany,Attacking Midfield,€800k
+Squad SC Paderborn 07,13,Robert Leipertz,31,Germany,Attacking Midfield,€700k
+Squad SC Paderborn 07,11,Sirlord Conteh,27,Germany,Right Winger,€700k
+Squad SC Paderborn 07,29,Ilyas Ansah,19,Germany,Centre-Forward,€1.50m
+Squad SC Paderborn 07,7,Filip Bilbija,23,Germany,Centre-Forward,€1.20m
+Squad SC Paderborn 07,36,Felix Platte,28,Germany,Centre-Forward,€900k
+Squad SC Paderborn 07,10,Koen Kostons,24,Netherlands,Centre-Forward,€650k
+Squad SC Paderborn 07,39,Adriano Grimaldi,33,Germany,Centre-Forward,€400k
+Squad SV Wehen Wiesbaden,16,Florian Stritzel,30,Germany,Goalkeeper,€600k
+Squad SV Wehen Wiesbaden,1,Arthur Lyska,23,Germany,Goalkeeper,€200k
+Squad SV Wehen Wiesbaden,13,Mohamed Amsif,35,Morocco,Goalkeeper,€150k
+Squad SV Wehen Wiesbaden,31,Noah Brdar,18,Germany,Goalkeeper,€50k
+Squad SV Wehen Wiesbaden,24,Marcus Mathisen,28,Denmark,Centre-Back,€1.50m
+Squad SV Wehen Wiesbaden,26,Aleksandar Vukotic,28,Serbia,Centre-Back,€900k
+Squad SV Wehen Wiesbaden,2,Martin Angha,30,Switzerland,Centre-Back,€600k
+Squad SV Wehen Wiesbaden,17,Florian Carstens,25,Germany,Centre-Back,€350k
+Squad SV Wehen Wiesbaden,4,Sascha Mockenhaupt,32,Germany,Centre-Back,€300k
+Squad SV Wehen Wiesbaden,37,Ben Nink,16,Germany,Centre-Back,-
+Squad SV Wehen Wiesbaden,29,Lasse Günther,21,Germany,Left-Back,€1.20m
+Squad SV Wehen Wiesbaden,11,Keanan Bennetts,25,Germany,Left-Back,€500k
+Squad SV Wehen Wiesbaden,27,Nico Rieble,28,Germany,Left-Back,€200k
+Squad SV Wehen Wiesbaden,36,Nassim El Ouarti,19,Morocco,Left-Back,€100k
+Squad SV Wehen Wiesbaden,9,Thijmen Goppel,27,Netherlands,Right-Back,€900k
+Squad SV Wehen Wiesbaden,34,Amar Catic,25,Netherlands,Right-Back,€500k
+Squad SV Wehen Wiesbaden,6,Gino Fechner,26,Germany,Defensive Midfield,€700k
+Squad SV Wehen Wiesbaden,19,Bjarke Jacobsen,30,Denmark,Defensive Midfield,€400k
+Squad SV Wehen Wiesbaden,5,Emanuel Taffertshofer,29,Germany,Defensive Midfield,€325k
+Squad SV Wehen Wiesbaden,7,Robin Heußer,25,Germany,Central Midfield,€1.20m
+Squad SV Wehen Wiesbaden,21,Julius Kade,24,Germany,Central Midfield,€325k
+Squad SV Wehen Wiesbaden,20,Hyun-ju Lee,21,"Korea, South",Attacking Midfield,€1.50m
+Squad SV Wehen Wiesbaden,8,Nick Bätzner,24,Germany,Attacking Midfield,€900k
+Squad SV Wehen Wiesbaden,30,Kianz Froese,28,Canada,Attacking Midfield,€250k
+Squad SV Wehen Wiesbaden,22,Amin Farouk,20,Germany,Attacking Midfield,€100k
+Squad SV Wehen Wiesbaden,18,Ivan Prtajin,27,Croatia,Centre-Forward,€1.80m
+Squad SV Wehen Wiesbaden,14,Franko Kovacevic,24,Croatia,Centre-Forward,€800k
+Squad SV Wehen Wiesbaden,25,Nikolas Agrafiotis,23,Netherlands,Centre-Forward,€750k
+Squad SV Wehen Wiesbaden,10,Antonio Jonjic,24,Germany,Centre-Forward,€500k
+Squad SV Wehen Wiesbaden,33,John Iredale,24,Australia,Centre-Forward,€300k
+Squad 1.FC Magdeburg,1,Dominik Reimann,26,Germany,Goalkeeper,€700k
+Squad 1.FC Magdeburg,42,Julian Pollersbeck,29,Germany,Goalkeeper,€400k
+Squad 1.FC Magdeburg,30,Noah Kruth,20,Germany,Goalkeeper,€100k
+Squad 1.FC Magdeburg,15,Daniel Heber,29,Germany,Centre-Back,€750k
+Squad 1.FC Magdeburg,21,Tobias Müller,29,Germany,Centre-Back,€750k
+Squad 1.FC Magdeburg,3,Andi Hoti,21,Kosovo,Centre-Back,€700k
+Squad 1.FC Magdeburg,5,Jamie Lawrence,21,Germany,Centre-Back,€500k
+Squad 1.FC Magdeburg,19,Leon Bell Bell,27,Cameroon,Left-Back,€650k
+Squad 1.FC Magdeburg,7,Herbert Bockhorn,29,Germany,Right-Back,€700k
+Squad 1.FC Magdeburg,4,Eldin Dzogovic,20,Luxembourg,Right-Back,€100k
+Squad 1.FC Magdeburg,34,Tarek Chahed,27,Germany,Right-Back,€100k
+Squad 1.FC Magdeburg,25,Silas Gnaka,25,Cote d'Ivoire,Defensive Midfield,€1.20m
+Squad 1.FC Magdeburg,6,Daniel Elfadli,27,Libya,Defensive Midfield,€1.00m
+Squad 1.FC Magdeburg,24,Jean Hugonet,24,France,Defensive Midfield,€900k
+Squad 1.FC Magdeburg,29,Amara Condé,27,Germany,Central Midfield,€900k
+Squad 1.FC Magdeburg,13,Connor Krempicki,29,Germany,Central Midfield,€400k
+Squad 1.FC Magdeburg,16,Jonah Fabisch,22,Zimbabwe,Central Midfield,€200k
+Squad 1.FC Magdeburg,23,Baris Atik,29,Türkiye,Left Winger,€1.00m
+Squad 1.FC Magdeburg,37,Tatsuya Ito,26,Japan,Left Winger,€700k
+Squad 1.FC Magdeburg,17,Alexander Nollenberger,26,Germany,Left Winger,€400k
+Squad 1.FC Magdeburg,35,Stefan Korsch,25,Germany,Left Winger,-
+Squad 1.FC Magdeburg,10,Jason Ceka,24,Germany,Right Winger,€1.20m
+Squad 1.FC Magdeburg,11,Mohammed El Hankouri,26,Morocco,Right Winger,€1.00m
+Squad 1.FC Magdeburg,20,Xavier Amaechi,23,England,Right Winger,€500k
+Squad 1.FC Magdeburg,8,Bryan Teixeira,23,Cape Verde,Centre-Forward,€1.20m
+Squad 1.FC Magdeburg,26,Luca Schuler,25,Germany,Centre-Forward,€700k
+Squad 1.FC Magdeburg,9,Luc Castaignos,31,Netherlands,Centre-Forward,€350k
+Squad 1.FC Magdeburg,18,Emir Kuhinja,21,Germany,Centre-Forward,€75k
+Squad FC Hansa Rostock,1,Markus Kolke,33,Germany,Goalkeeper,€500k
+Squad FC Hansa Rostock,40,Marko Johansson,25,Sweden,Goalkeeper,€350k
+Squad FC Hansa Rostock,30,Max Hagemoser,21,Germany,Goalkeeper,€100k
+Squad FC Hansa Rostock,38,Elias Höftmann,20,Germany,Goalkeeper,€50k
+Squad FC Hansa Rostock,17,Jonas David,24,Germany,Centre-Back,€750k
+Squad FC Hansa Rostock,22,Jasper van der Werff,25,Switzerland,Centre-Back,€750k
+Squad FC Hansa Rostock,4,Damian Roßbach,31,Germany,Centre-Back,€500k
+Squad FC Hansa Rostock,5,Oliver Hüsing,31,Germany,Centre-Back,€400k
+Squad FC Hansa Rostock,33,Patrick Nkoa,24,Cameroon,Centre-Back,€200k
+Squad FC Hansa Rostock,3,Konstantinos Stafylidis,30,Greece,Left-Back,€700k
+Squad FC Hansa Rostock,21,Alexander Rossipal,27,Germany,Left-Back,€600k
+Squad FC Hansa Rostock,20,Lukas Scherff,27,Germany,Left-Back,€250k
+Squad FC Hansa Rostock,29,Felix Ruschke,21,Germany,Left-Back,€200k
+Squad FC Hansa Rostock,7,Nico Neidhart,29,Germany,Right-Back,€600k
+Squad FC Hansa Rostock,24,John-Patrick Strauß,28,Philippines,Right-Back,€350k
+Squad FC Hansa Rostock,34,Jannis Lang,21,Germany,Right-Back,€125k
+Squad FC Hansa Rostock,8,Simon Rhein,25,Germany,Defensive Midfield,€600k
+Squad FC Hansa Rostock,6,Dennis Dressel,25,Germany,Central Midfield,€900k
+Squad FC Hansa Rostock,19,Sebastian Vasiliadis,26,Greece,Central Midfield,€600k
+Squad FC Hansa Rostock,26,Janik Bachmann,27,Germany,Central Midfield,€500k
+Squad FC Hansa Rostock,13,Kevin Schumacher,26,Germany,Left Midfield,€500k
+Squad FC Hansa Rostock,36,Milosz Brzozowski,19,Poland,Left Midfield,€150k
+Squad FC Hansa Rostock,14,Svante Ingelsson,25,Sweden,Attacking Midfield,€900k
+Squad FC Hansa Rostock,28,Sarpreet Singh,25,New Zealand,Attacking Midfield,€600k
+Squad FC Hansa Rostock,10,Nils Fröling,23,Sweden,Left Winger,€750k
+Squad FC Hansa Rostock,27,Christian Kinsombi,24,Germany,Left Winger,€650k
+Squad FC Hansa Rostock,9,Kai Pröger,31,Germany,Right Winger,€800k
+Squad FC Hansa Rostock,49,Júnior Brumado,24,Brazil,Centre-Forward,€1.00m
+Squad FC Hansa Rostock,18,Juan-José Perea,24,Colombia,Centre-Forward,€800k
+Squad FC Hansa Rostock,45,Sveinn Aron Gudjohnsen,25,Iceland,Centre-Forward,€800k
+Squad Eintracht Braunschweig,1,Ron-Thorben Hoffmann,25,Germany,Goalkeeper,€800k
+Squad Eintracht Braunschweig,13,Tino Casali,28,Austria,Goalkeeper,€350k
+Squad Eintracht Braunschweig,21,Yannik Bangsow,26,Germany,Goalkeeper,€75k
+Squad Eintracht Braunschweig,34,Justin Duda,21,Germany,Goalkeeper,€50k
+Squad Eintracht Braunschweig,29,Hasan Kuruçay,26,Türkiye,Centre-Back,€800k
+Squad Eintracht Braunschweig,5,Robert Ivanov,29,Finland,Centre-Back,€750k
+Squad Eintracht Braunschweig,6,Ermin Bicakcic,34,Bosnia-Herzegovina,Centre-Back,€400k
+Squad Eintracht Braunschweig,3,Saulo Decarli,32,Switzerland,Centre-Back,€350k
+Squad Eintracht Braunschweig,19,Anton Donkor,26,Germany,Left-Back,€700k
+Squad Eintracht Braunschweig,15,Anderson Lucoqui,26,Angola,Left-Back,€500k
+Squad Eintracht Braunschweig,27,Niko Kijewski,28,Germany,Left-Back,€300k
+Squad Eintracht Braunschweig,18,Marvin Rittmüller,25,Germany,Right-Back,€400k
+Squad Eintracht Braunschweig,26,Jan-Hendrik Marx,28,Germany,Right-Back,€400k
+Squad Eintracht Braunschweig,8,Niklas Tauer,23,Germany,Defensive Midfield,€600k
+Squad Eintracht Braunschweig,33,Sebastian Griesbeck,33,Germany,Defensive Midfield,€500k
+Squad Eintracht Braunschweig,39,Robin Krauße,30,Germany,Defensive Midfield,€500k
+Squad Eintracht Braunschweig,4,Jannis Nikolaou,30,Germany,Defensive Midfield,€400k
+Squad Eintracht Braunschweig,23,Danilo Wiebe,30,Germany,Defensive Midfield,€400k
+Squad Eintracht Braunschweig,12,Hampus Finndell,23,Sweden,Central Midfield,€1.50m
+Squad Eintracht Braunschweig,20,Thórir Jóhann Helgason,23,Iceland,Central Midfield,€800k
+Squad Eintracht Braunschweig,22,Rami Zouaoui,19,Tunisia,Central Midfield,€100k
+Squad Eintracht Braunschweig,25,Emil Kischka,22,Germany,Central Midfield,€50k
+Squad Eintracht Braunschweig,37,Fabio Kaufmann,31,Germany,Right Midfield,€400k
+Squad Eintracht Braunschweig,44,Johan Gómez,22,United States,Attacking Midfield,€750k
+Squad Eintracht Braunschweig,17,Youssef Amyn,20,Iraq,Left Winger,€400k
+Squad Eintracht Braunschweig,7,Maurice Multhaup,27,Germany,Right Winger,€350k
+Squad Eintracht Braunschweig,24,Sidi Sané,20,Germany,Right Winger,€350k
+Squad Eintracht Braunschweig,9,Rayan Philippe,23,France,Centre-Forward,€600k
+Squad Eintracht Braunschweig,10,Florian Krüger,25,Germany,Centre-Forward,€600k
+Squad Eintracht Braunschweig,14,Anthony Ujah,33,Nigeria,Centre-Forward,€600k
+Squad Eintracht Braunschweig,11,Luc Ihorst,24,Germany,Centre-Forward,€350k
+Squad VfL Osnabrück,1,Lennart Grill,25,Germany,Goalkeeper,€800k
+Squad VfL Osnabrück,22,Philipp Kühn,31,Germany,Goalkeeper,€350k
+Squad VfL Osnabrück,35,Daniel Adamczyk,21,Germany,Goalkeeper,€150k
+Squad VfL Osnabrück,36,Luca Böggemann,20,Germany,Goalkeeper,€50k
+Squad VfL Osnabrück,4,Maxwell Gyamfi,24,Germany,Centre-Back,€1.30m
+Squad VfL Osnabrück,25,Niklas Wiemann,25,Germany,Centre-Back,€350k
+Squad VfL Osnabrück,14,Oumar Diakhite,30,Senegal,Centre-Back,€300k
+Squad VfL Osnabrück,33,Timo Beermann,33,Germany,Centre-Back,€300k
+Squad VfL Osnabrück,3,Florian Kleinhansl,23,Germany,Left-Back,€800k
+Squad VfL Osnabrück,28,Florian Bähr,21,Germany,Left-Back,€150k
+Squad VfL Osnabrück,2,Athanasios Androutsos,26,Greece,Right-Back,€700k
+Squad VfL Osnabrück,5,Bashkim Ajdini,31,Germany,Right-Back,€450k
+Squad VfL Osnabrück,16,Henry Rorig,24,Germany,Right-Back,€200k
+Squad VfL Osnabrück,6,Maximilian Thalhammer,26,Germany,Defensive Midfield,€700k
+Squad VfL Osnabrück,26,Dave Gnaase,27,Germany,Defensive Midfield,€600k
+Squad VfL Osnabrück,27,Michaël Cuisance,24,France,Central Midfield,€1.80m
+Squad VfL Osnabrück,13,Lukas Kunze,25,Germany,Central Midfield,€550k
+Squad VfL Osnabrück,8,Robert Tesche,36,Germany,Central Midfield,€300k
+Squad VfL Osnabrück,32,Jannes Wulff,24,Germany,Attacking Midfield,€250k
+Squad VfL Osnabrück,29,Oliver Wähling,24,Germany,Attacking Midfield,€150k
+Squad VfL Osnabrück,38,Kevin Wiethaup,18,Germany,Attacking Midfield,-
+Squad VfL Osnabrück,11,Charalambos Makridis,27,Germany,Left Winger,€350k
+Squad VfL Osnabrück,7,Noel Niemann,24,Germany,Right Winger,€500k
+Squad VfL Osnabrück,17,Christian Conteh,24,Germany,Right Winger,€500k
+Squad VfL Osnabrück,37,Thomas Goiginger,31,Austria,Right Winger,€500k
+Squad VfL Osnabrück,18,Lars Kehl,22,Germany,Right Winger,€400k
+Squad VfL Osnabrück,30,Emeka Oduah,22,Germany,Right Winger,€150k
+Squad VfL Osnabrück,9,Erik Engelhardt,25,Germany,Centre-Forward,€1.00m
+Squad VfL Osnabrück,10,Kwasi Wriedt,29,Ghana,Centre-Forward,€400k
+Squad VfL Osnabrück,21,Lex-Tyger Lobinger,25,Germany,Centre-Forward,€350k
+Squad VfL Osnabrück,23,John Verhoek,35,Netherlands,Centre-Forward,€250k
+Squad Borussia Dortmund II,35,Marcel Lotka,22,Germany,Goalkeeper,€1.30m
+Squad Borussia Dortmund II,31,Silas Ostrzinski,20,Germany,Goalkeeper,€150k
+Squad Borussia Dortmund II,1,Marian Kirsch,20,Germany,Goalkeeper,€100k
+Squad Borussia Dortmund II,33,Tiago Estêvão,21,Germany,Goalkeeper,€75k
+Squad Borussia Dortmund II,48,Leon Klußmann,21,Germany,Goalkeeper,€25k
+Squad Borussia Dortmund II,18,Antonios Papadopoulos,24,Germany,Centre-Back,€800k
+Squad Borussia Dortmund II,5,Mario Suver,24,Croatia,Centre-Back,€225k
+Squad Borussia Dortmund II,4,Felix Irorere,21,Germany,Centre-Back,€175k
+Squad Borussia Dortmund II,13,Bjarne Pudel,22,Germany,Centre-Back,€175k
+Squad Borussia Dortmund II,28,Jonah Husseck,20,Germany,Centre-Back,€75k
+Squad Borussia Dortmund II,3,Guille Bueno,21,Spain,Left-Back,€600k
+Squad Borussia Dortmund II,39,Prince Aning,19,Netherlands,Left-Back,€450k
+Squad Borussia Dortmund II,37,Lion Semic,20,Germany,Left-Back,€250k
+Squad Borussia Dortmund II,15,Antonis Aidonis,22,Germany,Right-Back,€300k
+Squad Borussia Dortmund II,17,Patrick Göbel,30,Germany,Right-Back,€225k
+Squad Borussia Dortmund II,19,Ted Tattermusch,22,Germany,Right-Back,€175k
+Squad Borussia Dortmund II,32,Abdoulaye Kamara,19,France,Defensive Midfield,€1.50m
+Squad Borussia Dortmund II,6,Ayman Azhil,23,Morocco,Defensive Midfield,€500k
+Squad Borussia Dortmund II,23,Franz Pfanne,29,Germany,Defensive Midfield,€225k
+Squad Borussia Dortmund II,30,Ole Pohlmann,23,Germany,Central Midfield,€1.00m
+Squad Borussia Dortmund II,8,Franz Roggow,21,Germany,Central Midfield,€350k
+Squad Borussia Dortmund II,16,Dennis Lütke-Frie,21,Germany,Central Midfield,€125k
+Squad Borussia Dortmund II,14,Michael Eberwein,28,Germany,Attacking Midfield,€300k
+Squad Borussia Dortmund II,10,Falko Michel,23,Germany,Left Winger,€350k
+Squad Borussia Dortmund II,11,Justin Butler,23,Germany,Left Winger,€200k
+Squad Borussia Dortmund II,7,Samuel Bamba,20,Germany,Right Winger,€800k
+Squad Borussia Dortmund II,20,Julian Hettwer,20,Germany,Right Winger,€800k
+Squad Borussia Dortmund II,27,Rodney Elongo-Yombo,22,Germany,Centre-Forward,€400k
+Squad Borussia Dortmund II,29,Jermain Nischalke,21,Germany,Centre-Forward,€300k
+Squad Borussia Dortmund II,22,Paul-Philipp Besong,23,Germany,Centre-Forward,€250k
+Squad Borussia Dortmund II,9,Moses Otuali,21,Germany,Centre-Forward,€225k
+Squad SC Freiburg II,31,Jaaso Jantunen,19,Finland,Goalkeeper,€400k
+Squad SC Freiburg II,40,Niklas Sauter,21,Germany,Goalkeeper,€200k
+Squad SC Freiburg II,38,Lukas Schneller,22,Germany,Goalkeeper,€150k
+Squad SC Freiburg II,33,Sebastian Hornung,23,Germany,Goalkeeper,€125k
+Squad SC Freiburg II,13,Serge Müller,23,Switzerland,Centre-Back,€400k
+Squad SC Freiburg II,27,Niklas Lang,21,Germany,Centre-Back,€275k
+Squad SC Freiburg II,19,Franci Bouebari,20,France,Centre-Back,€250k
+Squad SC Freiburg II,25,Joel Bichsel,22,Switzerland,Centre-Back,€200k
+Squad SC Freiburg II,43,Noah Wagner,18,Germany,Centre-Back,€150k
+Squad SC Freiburg II,44,Drew Murray,18,United States,Centre-Back,€150k
+Squad SC Freiburg II,47,Bruno Ogbus,18,Switzerland,Centre-Back,€150k
+Squad SC Freiburg II,6,Sandrino Braun-Schumacher,35,Germany,Centre-Back,€50k
+Squad SC Freiburg II,48,Berkay Yılmaz,19,Türkiye,Left-Back,€500k
+Squad SC Freiburg II,3,Alexander Lungwitz,23,Germany,Left-Back,€150k
+Squad SC Freiburg II,23,Philip Fahrner,21,Germany,Right-Back,€275k
+Squad SC Freiburg II,17,Pascal Fallmann,20,Austria,Right-Back,€250k
+Squad SC Freiburg II,5,Fabian Rüdlin,27,Germany,Defensive Midfield,€350k
+Squad SC Freiburg II,42,Luca Marino,19,Germany,Defensive Midfield,€250k
+Squad SC Freiburg II,26,Oscar Wiklöf,21,Finland,Central Midfield,€350k
+Squad SC Freiburg II,11,Julian Stark,23,Germany,Central Midfield,€275k
+Squad SC Freiburg II,41,Johan Manzambi,18,Switzerland,Central Midfield,€150k
+Squad SC Freiburg II,22,Mika Baur,19,Germany,Attacking Midfield,€1.00m
+Squad SC Freiburg II,24,Johannes Wurtz,31,Germany,Attacking Midfield,€275k
+Squad SC Freiburg II,46,Yann Sturm,19,Germany,Attacking Midfield,€200k
+Squad SC Freiburg II,20,Marco Wörner,19,Germany,Attacking Midfield,€125k
+Squad SC Freiburg II,36,Lukas Ambros,19,Czech Republic,Left Winger,€225k
+Squad SC Freiburg II,21,Ji-han Lee,21,"Korea, South",Left Winger,€150k
+Squad SC Freiburg II,8,Patrick Lienhard,31,Germany,Left Winger,€100k
+Squad SC Freiburg II,28,Ryan Johansson,23,Ireland,Right Winger,€250k
+Squad SC Freiburg II,9,Alessio Besio,20,Switzerland,Centre-Forward,€600k
+Squad SC Freiburg II,29,Maximilian Breunig,23,Germany,Centre-Forward,€450k
+Squad SC Freiburg II,18,Hamadi Al-Ghaddioui,33,Morocco,Centre-Forward,€250k
+Squad SG Dynamo Dresden,1,Stefan Drljaca,24,Germany,Goalkeeper,€325k
+Squad SG Dynamo Dresden,35,Kevin Broll,28,Germany,Goalkeeper,€250k
+Squad SG Dynamo Dresden,37,Daniel Mesenhöler,28,Germany,Goalkeeper,€125k
+Squad SG Dynamo Dresden,40,Erik Herrmann,19,Germany,Goalkeeper,€75k
+Squad SG Dynamo Dresden,31,Jakob Lewald,25,Germany,Centre-Back,€350k
+Squad SG Dynamo Dresden,23,Lars Bünning,26,Germany,Centre-Back,€300k
+Squad SG Dynamo Dresden,33,Tobias Kraulich,25,Germany,Centre-Back,€300k
+Squad SG Dynamo Dresden,39,Kevin Ehlers,23,Germany,Centre-Back,€300k
+Squad SG Dynamo Dresden,8,Jonathan Meier,24,Germany,Left-Back,€325k
+Squad SG Dynamo Dresden,2,Kyu-hyun Park,23,"Korea, South",Left-Back,€275k
+Squad SG Dynamo Dresden,15,Claudio Kammerknecht,24,Sri Lanka,Right-Back,€400k
+Squad SG Dynamo Dresden,17,Kyrylo Melichenko,24,Ukraine,Right-Back,€175k
+Squad SG Dynamo Dresden,28,Paul Will,25,Germany,Defensive Midfield,€500k
+Squad SG Dynamo Dresden,6,Tom Berger,22,Germany,Defensive Midfield,€200k
+Squad SG Dynamo Dresden,27,Niklas Hauptmann,27,Germany,Central Midfield,€500k
+Squad SG Dynamo Dresden,19,Luca Herrmann,25,Germany,Central Midfield,€350k
+Squad SG Dynamo Dresden,5,Ahmet Arslan,30,Germany,Attacking Midfield,€500k
+Squad SG Dynamo Dresden,25,Jonas Oehmichen,20,Germany,Attacking Midfield,€200k
+Squad SG Dynamo Dresden,22,Tom Zimmerschied,25,Germany,Left Winger,€450k
+Squad SG Dynamo Dresden,11,Lucas Cueto,28,Germany,Left Winger,€300k
+Squad SG Dynamo Dresden,7,Panagiotis Vlachodimos,32,Greece,Left Winger,€175k
+Squad SG Dynamo Dresden,29,Dennis Borkowski,22,Germany,Right Winger,€450k
+Squad SG Dynamo Dresden,10,Jakob Lemmer,23,Germany,Right Winger,€300k
+Squad SG Dynamo Dresden,24,Tony Menzel,19,Germany,Right Winger,€125k
+Squad SG Dynamo Dresden,21,Robin Meißner,24,Germany,Centre-Forward,€450k
+Squad SG Dynamo Dresden,30,Stefan Kutschke,35,Germany,Centre-Forward,€250k
+Squad SG Dynamo Dresden,9,Manuel Schäffler,35,Germany,Centre-Forward,€150k
+Squad SV Sandhausen,1,Nikolai Rehnen,27,Germany,Goalkeeper,€225k
+Squad SV Sandhausen,30,Daniel Klein,23,Germany,Goalkeeper,€200k
+Squad SV Sandhausen,22,Timo Königsmann,27,Germany,Goalkeeper,€125k
+Squad SV Sandhausen,2,Edvinas Girdvainis,31,Lithuania,Centre-Back,€400k
+Squad SV Sandhausen,14,Max Geschwill,22,Germany,Centre-Back,€325k
+Squad SV Sandhausen,4,Tim Knipping,31,Germany,Centre-Back,€300k
+Squad SV Sandhausen,16,Alexander Fuchs,27,Germany,Centre-Back,€225k
+Squad SV Sandhausen,21,Felix Göttlicher,22,Germany,Centre-Back,€175k
+Squad SV Sandhausen,27,Lucas Laux,21,Germany,Centre-Back,€150k
+Squad SV Sandhausen,35,Dennis Egel,19,Germany,Centre-Back,€50k
+Squad SV Sandhausen,3,Christoph Ehlich,25,Germany,Left-Back,€250k
+Squad SV Sandhausen,31,Jonas Weik,24,Germany,Left-Back,€250k
+Squad SV Sandhausen,19,Luca Zander,28,Germany,Right-Back,€300k
+Squad SV Sandhausen,18,Dennis Diekmeier,34,Germany,Right-Back,€250k
+Squad SV Sandhausen,26,Yassin Ben Balla,28,France,Defensive Midfield,€300k
+Squad SV Sandhausen,5,Lion Schuster,23,Austria,Defensive Midfield,€200k
+Squad SV Sandhausen,15,Alexander Mühling,31,Germany,Central Midfield,€450k
+Squad SV Sandhausen,32,Diamant Lokaj,19,Kosovo,Central Midfield,€50k
+Squad SV Sandhausen,24,Patrick Greil,27,Austria,Attacking Midfield,€500k
+Squad SV Sandhausen,6,Abu-Bekir Ömer El-Zein,21,Germany,Attacking Midfield,€250k
+Squad SV Sandhausen,7,Joe-Joe Richardson,22,United States,Attacking Midfield,€175k
+Squad SV Sandhausen,9,Franck Evina,23,Cameroon,Left Winger,€350k
+Squad SV Sandhausen,11,Livan Burcu,19,Türkiye,Left Winger,€350k
+Squad SV Sandhausen,20,Tim Maciejewski,23,Germany,Right Winger,€300k
+Squad SV Sandhausen,36,Sebastian Stolze,29,Germany,Right Winger,€300k
+Squad SV Sandhausen,10,Rouwen Hennings,36,Germany,Second Striker,€250k
+Squad SV Sandhausen,17,David Otto,25,Germany,Centre-Forward,€500k
+Squad SV Sandhausen,23,Markus Pink,33,Austria,Centre-Forward,€400k
+Squad SV Sandhausen,8,Richard Meier,20,Germany,Centre-Forward,€200k
+Squad FC Ingolstadt 04,1,Marius Funk,28,Germany,Goalkeeper,€250k
+Squad FC Ingolstadt 04,40,Markus Ponath,23,Germany,Goalkeeper,€100k
+Squad FC Ingolstadt 04,46,Maurice Dehler,20,Germany,Goalkeeper,€25k
+Squad FC Ingolstadt 04,32,Simon Lorenz,27,Germany,Centre-Back,€600k
+Squad FC Ingolstadt 04,16,Ryan Malone,31,United States,Centre-Back,€325k
+Squad FC Ingolstadt 04,19,Mladen Cvjetinovic,20,Bosnia-Herzegovina,Centre-Back,€300k
+Squad FC Ingolstadt 04,21,Tobias Schröck,31,Germany,Centre-Back,€175k
+Squad FC Ingolstadt 04,27,Donald Nduka,21,Germany,Centre-Back,€150k
+Squad FC Ingolstadt 04,6,Leon Guwara,27,The Gambia,Left-Back,€250k
+Squad FC Ingolstadt 04,23,Moritz Seiffert,23,Germany,Left-Back,€250k
+Squad FC Ingolstadt 04,22,Marcel Costly,28,Germany,Right-Back,€325k
+Squad FC Ingolstadt 04,28,Herbert Paul,30,Germany,Right-Back,€100k
+Squad FC Ingolstadt 04,45,Thomas Rausch,24,Germany,Right-Back,€100k
+Squad FC Ingolstadt 04,34,Lukas Fröde,29,Germany,Defensive Midfield,€450k
+Squad FC Ingolstadt 04,43,Felix Keidel,20,Germany,Central Midfield,€275k
+Squad FC Ingolstadt 04,48,Bryang Kayo,21,United States,Central Midfield,€200k
+Squad FC Ingolstadt 04,20,Yannick Deichmann,29,Germany,Right Midfield,€350k
+Squad FC Ingolstadt 04,29,David Kopacz,24,Poland,Right Midfield,€350k
+Squad FC Ingolstadt 04,8,Benjamin Kanuric,21,Austria,Left Midfield,€500k
+Squad FC Ingolstadt 04,10,Maximilian Dittgen,29,Germany,Left Midfield,€275k
+Squad FC Ingolstadt 04,11,Sebastian Grönning,27,Denmark,Centre-Forward,€500k
+Squad FC Ingolstadt 04,7,Jannik Mause,25,Germany,Centre-Forward,€450k
+Squad FC Ingolstadt 04,37,Pascal Testroet,33,Germany,Centre-Forward,€400k
+Squad FC Ingolstadt 04,31,Julian Kügel,27,Germany,Centre-Forward,€175k
+Squad FC Ingolstadt 04,25,Arian Llugiqi,21,Kosovo,Centre-Forward,€150k
+Squad FC Ingolstadt 04,33,Jeroen Krupa,20,Germany,Centre-Forward,€50k
+Squad TSV 1860 Munich,1,Marco Hiller,27,Germany,Goalkeeper,€275k
+Squad TSV 1860 Munich,15,David Richter,25,Germany,Goalkeeper,€175k
+Squad TSV 1860 Munich,12,Julius Schmid,22,Finland,Goalkeeper,€75k
+Squad TSV 1860 Munich,4,Jesper Verlaat,27,Netherlands,Centre-Back,€325k
+Squad TSV 1860 Munich,16,Max Reinthaler,29,Italy,Centre-Back,€300k
+Squad TSV 1860 Munich,35,Michael Glück,20,Austria,Centre-Back,€300k
+Squad TSV 1860 Munich,18,Tim Kloss,19,Germany,Centre-Back,€75k
+Squad TSV 1860 Munich,24,Daniel Winkler,21,Germany,Centre-Back,€25k
+Squad TSV 1860 Munich,11,Fabian Greilinger,23,Germany,Left-Back,€250k
+Squad TSV 1860 Munich,21,Leroy Kwadwo,27,Germany,Left-Back,€225k
+Squad TSV 1860 Munich,36,Phillipp Steinhart,31,Germany,Left-Back,€200k
+Squad TSV 1860 Munich,29,Kilian Ludewig,24,Germany,Right-Back,€350k
+Squad TSV 1860 Munich,2,Kaan Kurt,22,Germany,Right-Back,€200k
+Squad TSV 1860 Munich,6,Tim Rieder,30,Germany,Defensive Midfield,€275k
+Squad TSV 1860 Munich,37,Marlon Frey,28,Germany,Defensive Midfield,€200k
+Squad TSV 1860 Munich,31,Niklas Tarnat,25,Germany,Defensive Midfield,€150k
+Squad TSV 1860 Munich,8,Manfred Starke,33,Namibia,Central Midfield,€175k
+Squad TSV 1860 Munich,32,Moritz Bangerter,19,Germany,Central Midfield,€75k
+Squad TSV 1860 Munich,7,Julian Guttau,24,Germany,Attacking Midfield,€350k
+Squad TSV 1860 Munich,10,Albion Vrenezi,30,Kosovo,Attacking Midfield,€300k
+Squad TSV 1860 Munich,5,Eroll Zejnullahu,29,Kosovo,Attacking Midfield,€200k
+Squad TSV 1860 Munich,30,Milos Cocic,20,Serbia,Attacking Midfield,€100k
+Squad TSV 1860 Munich,14,Abdenego Nankishi,21,Germany,Left Winger,€500k
+Squad TSV 1860 Munich,22,Valmir Sulejmani,28,Kosovo,Left Winger,€200k
+Squad TSV 1860 Munich,39,Eliot Muteba,20,Germany,Left Winger,€200k
+Squad TSV 1860 Munich,17,Morris Schröter,28,Germany,Right Winger,€350k
+Squad TSV 1860 Munich,23,Devin Sür,19,Türkiye,Right Winger,€75k
+Squad TSV 1860 Munich,9,Joël Zwarts,24,Netherlands,Centre-Forward,€400k
+Squad TSV 1860 Munich,19,Fynn Lakenmacher,23,Germany,Centre-Forward,€275k
+Squad TSV 1860 Munich,38,Serhat-Semih Güler,26,Germany,Centre-Forward,€250k
+Squad TSV 1860 Munich,27,Mansour Ouro-Tagba,19,Togo,Centre-Forward,€150k
+Squad 1.FC Saarbrücken,1,Tim Schreiber,21,Germany,Goalkeeper,€500k
+Squad 1.FC Saarbrücken,30,Tim Paterok,31,Germany,Goalkeeper,€175k
+Squad 1.FC Saarbrücken,35,Finn Kotyrba,20,Germany,Goalkeeper,€25k
+Squad 1.FC Saarbrücken,29,Lukas Boeder,26,Germany,Centre-Back,€275k
+Squad 1.FC Saarbrücken,14,Boné Uaferro,32,Germany,Centre-Back,€225k
+Squad 1.FC Saarbrücken,16,Bjarne Thoelke,32,Germany,Centre-Back,€225k
+Squad 1.FC Saarbrücken,8,Manuel Zeitz,33,Germany,Centre-Back,€200k
+Squad 1.FC Saarbrücken,17,Dominik Becker,24,Germany,Centre-Back,€200k
+Squad 1.FC Saarbrücken,21,Fabio Di Michele Sanchez,21,Germany,Left-Back,€250k
+Squad 1.FC Saarbrücken,19,Marcel Gaus,34,Germany,Left-Back,€200k
+Squad 1.FC Saarbrücken,7,Calogero Rizzuto,32,Germany,Right-Back,€275k
+Squad 1.FC Saarbrücken,15,Robin Becker,27,Germany,Right-Back,€200k
+Squad 1.FC Saarbrücken,34,Frederik Recktenwald,20,Germany,Right-Back,€50k
+Squad 1.FC Saarbrücken,6,Patrick Sontheimer,25,Germany,Defensive Midfield,€450k
+Squad 1.FC Saarbrücken,23,Tim Civeja,22,Albania,Defensive Midfield,€250k
+Squad 1.FC Saarbrücken,33,Luca Kerber,22,Germany,Central Midfield,€800k
+Squad 1.FC Saarbrücken,31,Richard Neudecker,27,Germany,Central Midfield,€400k
+Squad 1.FC Saarbrücken,18,Andy Breuer,18,Germany,Central Midfield,€100k
+Squad 1.FC Saarbrücken,10,Kasim Rabihic,31,Germany,Attacking Midfield,€325k
+Squad 1.FC Saarbrücken,25,Amine Naïfi,24,France,Attacking Midfield,€300k
+Squad 1.FC Saarbrücken,20,Julian Günther-Schmidt,29,Germany,Attacking Midfield,€275k
+Squad 1.FC Saarbrücken,11,Julius Biada,31,Germany,Attacking Midfield,€225k
+Squad 1.FC Saarbrücken,9,Kai Brünker,29,Germany,Centre-Forward,€350k
+Squad 1.FC Saarbrücken,39,Patrick Schmidt,30,Germany,Centre-Forward,€300k
+Squad 1.FC Saarbrücken,22,Simon Stehle,22,Germany,Centre-Forward,€200k
+Squad 1.FC Saarbrücken,24,Sebastian Jacob,30,Germany,Centre-Forward,€200k
+Squad 1.FC Saarbrücken,38,Léo Sahin,18,Türkiye,Centre-Forward,-
+Squad MSV Duisburg,1,Vincent Müller,23,Germany,Goalkeeper,€400k
+Squad MSV Duisburg,30,Dennis Smarsch,25,Germany,Goalkeeper,€150k
+Squad MSV Duisburg,24,Maximilian Braune,20,Germany,Goalkeeper,€125k
+Squad MSV Duisburg,26,Sebastian Mai,30,Germany,Centre-Back,€225k
+Squad MSV Duisburg,29,Joshua Bitter,27,Germany,Centre-Back,€225k
+Squad MSV Duisburg,4,Marvin Senger,24,Germany,Centre-Back,€175k
+Squad MSV Duisburg,15,Tobias Fleckstein,24,Germany,Centre-Back,€175k
+Squad MSV Duisburg,17,Marvin Knoll,33,Germany,Centre-Back,€175k
+Squad MSV Duisburg,11,Niklas Kölle,24,Germany,Left-Back,€275k
+Squad MSV Duisburg,2,Baran Mogultay,19,Germany,Left-Back,€250k
+Squad MSV Duisburg,22,Tim Köther,23,Germany,Left-Back,€175k
+Squad MSV Duisburg,39,Ahmet Engin,27,Türkiye,Right-Back,€450k
+Squad MSV Duisburg,21,Rolf Feltscher,33,Venezuela,Right-Back,€175k
+Squad MSV Duisburg,32,Batuhan Yavuz,18,Türkiye,Right-Back,€75k
+Squad MSV Duisburg,5,Santiago Castaneda,19,United States,Defensive Midfield,€250k
+Squad MSV Duisburg,13,Erik Zenga,31,Germany,Defensive Midfield,€250k
+Squad MSV Duisburg,6,Marvin Bakalorz,34,Germany,Defensive Midfield,€175k
+Squad MSV Duisburg,23,Niclas Stierlin,24,Germany,Defensive Midfield,€150k
+Squad MSV Duisburg,18,Caspar Jander,21,Germany,Central Midfield,€750k
+Squad MSV Duisburg,16,Jonas Michelbrink,22,Germany,Central Midfield,€200k
+Squad MSV Duisburg,10,Thomas Pledl,29,Germany,Attacking Midfield,€275k
+Squad MSV Duisburg,7,Kolja Pusch,31,Germany,Attacking Midfield,€200k
+Squad MSV Duisburg,9,Alaa Bakir,23,Jordan,Attacking Midfield,€150k
+Squad MSV Duisburg,8,Hamza Anhari,20,Morocco,Attacking Midfield,€125k
+Squad MSV Duisburg,33,Daniel Ginczek,33,Germany,Centre-Forward,€400k
+Squad MSV Duisburg,14,Pascal Köpke,28,Germany,Centre-Forward,€200k
+Squad MSV Duisburg,40,Alexander Esswein,34,Germany,Centre-Forward,€200k
+Squad MSV Duisburg,20,Robin Müller,23,Germany,Centre-Forward,€150k
+Squad MSV Duisburg,31,Benjamin Girth,32,Germany,Centre-Forward,€150k
+Squad MSV Duisburg,19,Chinedu Ekene,24,Germany,Centre-Forward,€125k
+Squad MSV Duisburg,36,Kaan İnanoğlu,18,Türkiye,Centre-Forward,€100k
+Squad SSV Jahn Regensburg,1,Felix Gebhardt,22,Germany,Goalkeeper,€600k
+Squad SSV Jahn Regensburg,32,Alexander Weidinger,26,Germany,Goalkeeper,€125k
+Squad SSV Jahn Regensburg,12,Leon Cuk,21,Germany,Goalkeeper,€75k
+Squad SSV Jahn Regensburg,16,Louis Breunig,20,Germany,Centre-Back,€400k
+Squad SSV Jahn Regensburg,4,Florian Ballas,31,Germany,Centre-Back,€300k
+Squad SSV Jahn Regensburg,14,Robin Ziegele,27,Germany,Centre-Back,€250k
+Squad SSV Jahn Regensburg,13,Alexander Bittroff,35,Germany,Centre-Back,€175k
+Squad SSV Jahn Regensburg,37,Leopold Wurm,18,Germany,Centre-Back,€75k
+Squad SSV Jahn Regensburg,3,Bryan Hein,22,Germany,Left-Back,€200k
+Squad SSV Jahn Regensburg,11,Konrad Faber,26,Germany,Right-Back,€450k
+Squad SSV Jahn Regensburg,6,Benedikt Saller,31,Germany,Right-Back,€400k
+Squad SSV Jahn Regensburg,8,Andreas Geipl,31,Germany,Defensive Midfield,€350k
+Squad SSV Jahn Regensburg,5,Rasim Bulic,23,Germany,Defensive Midfield,€325k
+Squad SSV Jahn Regensburg,21,Tobias Eisenhuth,22,Germany,Defensive Midfield,€200k
+Squad SSV Jahn Regensburg,10,Christian Viet,25,Germany,Attacking Midfield,€500k
+Squad SSV Jahn Regensburg,19,Christian Schmidt,22,Germany,Attacking Midfield,€50k
+Squad SSV Jahn Regensburg,7,Oscar Schönfelder,23,Germany,Left Winger,€300k
+Squad SSV Jahn Regensburg,25,Jonas Bauer,20,Germany,Left Winger,€125k
+Squad SSV Jahn Regensburg,31,Max Meyer,17,Germany,Left Winger,€50k
+Squad SSV Jahn Regensburg,27,Dominik Kother,24,Germany,Right Winger,€500k
+Squad SSV Jahn Regensburg,18,Niclas Anspach,23,Germany,Right Winger,€200k
+Squad SSV Jahn Regensburg,23,Jannik Graf,19,Germany,Right Winger,€100k
+Squad SSV Jahn Regensburg,33,Erik Tallig,24,Germany,Right Winger,€100k
+Squad SSV Jahn Regensburg,20,Noah Ganaus,23,Germany,Centre-Forward,€350k
+Squad SSV Jahn Regensburg,29,Elias Huth,27,Germany,Centre-Forward,€250k
+Squad SSV Jahn Regensburg,30,Valdrin Mustafa,26,Kosovo,Centre-Forward,€200k
+Squad SSV Jahn Regensburg,9,Eric Hottmann,24,Germany,Centre-Forward,€175k
+Squad SSV Jahn Regensburg,36,Kelvin Onuigwe,20,Germany,Centre-Forward,€50k
+Squad Arminia Bielefeld,1,Jonas Kersken,23,Germany,Goalkeeper,€200k
+Squad Arminia Bielefeld,22,Leo Oppermann,22,Germany,Goalkeeper,€150k
+Squad Arminia Bielefeld,40,Jonah Busse,18,Germany,Goalkeeper,-
+Squad Arminia Bielefeld,5,Semi Belkahia,25,Germany,Centre-Back,€200k
+Squad Arminia Bielefeld,19,Maximilian Großer,22,Germany,Centre-Back,€200k
+Squad Arminia Bielefeld,23,Leon Schneider,23,Germany,Centre-Back,€200k
+Squad Arminia Bielefeld,27,Gerrit Gohlke,25,Germany,Centre-Back,€175k
+Squad Arminia Bielefeld,4,Louis Oppie,21,Germany,Left-Back,€200k
+Squad Arminia Bielefeld,24,Christopher Lannert,25,Germany,Right-Back,€275k
+Squad Arminia Bielefeld,6,Can Özkan,24,Germany,Right-Back,€200k
+Squad Arminia Bielefeld,38,Marius Wörl,20,Germany,Defensive Midfield,€500k
+Squad Arminia Bielefeld,30,Henry Obermeyer,18,Germany,Defensive Midfield,-
+Squad Arminia Bielefeld,8,Sam Schreck,25,Germany,Central Midfield,€350k
+Squad Arminia Bielefeld,10,Nassim Boujellab,24,Morocco,Central Midfield,€350k
+Squad Arminia Bielefeld,16,Mael Corboz,29,United States,Central Midfield,€350k
+Squad Arminia Bielefeld,17,Merveille Biankadi,28,Germany,Attacking Midfield,€300k
+Squad Arminia Bielefeld,25,Kaito Mizuta,24,Japan,Attacking Midfield,€275k
+Squad Arminia Bielefeld,11,Aygün Yildirim,29,Germany,Left Winger,€225k
+Squad Arminia Bielefeld,34,Leandro Putaro,27,Germany,Left Winger,€200k
+Squad Arminia Bielefeld,37,Noah Sarenren Bazee,27,Germany,Right Winger,€450k
+Squad Arminia Bielefeld,7,Nicklas Shipnoski,26,Germany,Right Winger,€400k
+Squad Arminia Bielefeld,14,Monju Momuluh,22,Germany,Right Winger,€300k
+Squad Arminia Bielefeld,28,Lucas Kiewitt,17,Germany,Right Winger,-
+Squad Arminia Bielefeld,39,Manuel Wintzheimer,25,Germany,Centre-Forward,€350k
+Squad Arminia Bielefeld,9,Fabian Klos,36,Germany,Centre-Forward,€250k
+Squad Arminia Bielefeld,29,Henrik Koch,17,Germany,Centre-Forward,€250k
+Squad FC Viktoria Köln,1,Ben Voll,23,Germany,Goalkeeper,€400k
+Squad FC Viktoria Köln,24,Kevin Rauhut,34,Germany,Goalkeeper,€100k
+Squad FC Viktoria Köln,25,Elias Bördner,22,Germany,Goalkeeper,€100k
+Squad FC Viktoria Köln,3,Michael Schultz,30,Germany,Centre-Back,€300k
+Squad FC Viktoria Köln,2,Lars Dietz,27,Germany,Centre-Back,€225k
+Squad FC Viktoria Köln,4,Jeremias Lorch,28,Germany,Centre-Back,€225k
+Squad FC Viktoria Köln,15,Christoph Greger,27,Germany,Centre-Back,€225k
+Squad FC Viktoria Köln,39,David Kubatta,20,Germany,Centre-Back,€100k
+Squad FC Viktoria Köln,35,Zoumana Keita,18,Germany,Centre-Back,-
+Squad FC Viktoria Köln,37,Niklas May,22,Germany,Left-Back,€275k
+Squad FC Viktoria Köln,7,Simon Handle,31,Germany,Left-Back,€225k
+Squad FC Viktoria Köln,5,Sidny Lopes Cabral,21,Cape Verde,Left-Back,€200k
+Squad FC Viktoria Köln,28,Patrick Koronkiewicz,33,Germany,Right-Back,€175k
+Squad FC Viktoria Köln,33,Jonah Sticker,19,Germany,Right-Back,€100k
+Squad FC Viktoria Köln,20,Sisco Ngambia Dzonga,18,Germany,Right-Back,-
+Squad FC Viktoria Köln,6,Stefano Russo,23,Germany,Defensive Midfield,€250k
+Squad FC Viktoria Köln,23,Moritz Fritz,30,Germany,Defensive Midfield,€200k
+Squad FC Viktoria Köln,14,Joel Udelhoven,18,Germany,Defensive Midfield,-
+Squad FC Viktoria Köln,19,Bryan Henning,29,Germany,Central Midfield,€400k
+Squad FC Viktoria Köln,8,Donny Bogicevic,22,Germany,Central Midfield,€250k
+Squad FC Viktoria Köln,16,Florian Engelhardt,20,Germany,Central Midfield,€125k
+Squad FC Viktoria Köln,34,Hassan Ali,18,Germany,Central Midfield,-
+Squad FC Viktoria Köln,30,Luca Marseiler,27,Germany,Attacking Midfield,€450k
+Squad FC Viktoria Köln,10,David Philipp,24,Germany,Attacking Midfield,€350k
+Squad FC Viktoria Köln,13,Luca de Meester,20,Germany,Attacking Midfield,€200k
+Squad FC Viktoria Köln,21,Suheyel Najar,28,Germany,Attacking Midfield,€175k
+Squad FC Viktoria Köln,28,Said El Mala,17,Germany,Attacking Midfield,€100k
+Squad FC Viktoria Köln,29,Thomas Idel,24,Germany,Attacking Midfield,€100k
+Squad FC Viktoria Köln,9,André Becker,27,Germany,Centre-Forward,€250k
+Squad FC Viktoria Köln,18,Tobias Anselm,24,Austria,Centre-Forward,€250k
+Squad FC Viktoria Köln,38,Seok-ju Hong,20,"Korea, South",Centre-Forward,€150k
+Squad FC Viktoria Köln,42,Malek El Mala,19,Germany,Centre-Forward,€50k
+Squad SV Waldhof Mannheim,30,Lucien Hawryluk,23,Germany,Goalkeeper,€175k
+Squad SV Waldhof Mannheim,1,Jan-Christoph Bartels,25,Germany,Goalkeeper,€150k
+Squad SV Waldhof Mannheim,12,Omer Hanin,25,Israel,Goalkeeper,€125k
+Squad SV Waldhof Mannheim,27,Malwin Zok,20,Germany,Goalkeeper,€50k
+Squad SV Waldhof Mannheim,5,Marcel Seegert,29,Germany,Centre-Back,€225k
+Squad SV Waldhof Mannheim,3,Julian Riedel,32,Germany,Centre-Back,€200k
+Squad SV Waldhof Mannheim,4,Tim Sechelmann,25,Germany,Centre-Back,€200k
+Squad SV Waldhof Mannheim,15,Malte Karbstein,26,Germany,Centre-Back,€175k
+Squad SV Waldhof Mannheim,28,Jonas Carls,27,Germany,Left-Back,€225k
+Squad SV Waldhof Mannheim,25,Luca Bolay,21,Germany,Left-Back,€150k
+Squad SV Waldhof Mannheim,24,Lukas Klünter,27,Germany,Right-Back,€350k
+Squad SV Waldhof Mannheim,18,Laurent Jans,31,Luxembourg,Right-Back,€300k
+Squad SV Waldhof Mannheim,26,Jonas Albenas,21,Algeria,Right-Back,€150k
+Squad SV Waldhof Mannheim,8,Fridolin Wagner,26,Germany,Defensive Midfield,€250k
+Squad SV Waldhof Mannheim,21,Julian Rieckmann,23,Germany,Defensive Midfield,€200k
+Squad SV Waldhof Mannheim,20,Per Lockl,23,Germany,Defensive Midfield,€175k
+Squad SV Waldhof Mannheim,7,Bentley Baxter Bahn,31,Germany,Attacking Midfield,€250k
+Squad SV Waldhof Mannheim,33,Martin Kobylanski,30,Germany,Attacking Midfield,€200k
+Squad SV Waldhof Mannheim,9,Minos Gouras,25,Germany,Left Winger,€250k
+Squad SV Waldhof Mannheim,11,Jalen Hawkins,23,Germany,Left Winger,€225k
+Squad SV Waldhof Mannheim,17,Samuel Abifade,24,Germany,Left Winger,€150k
+Squad SV Waldhof Mannheim,36,Kelvin Arase,25,Austria,Right Winger,€350k
+Squad SV Waldhof Mannheim,14,Kevin Goden,25,Germany,Right Winger,€200k
+Squad SV Waldhof Mannheim,13,Terrence Boyd,33,United States,Centre-Forward,€450k
+Squad SV Waldhof Mannheim,19,Jesaja Herrmann,24,Germany,Centre-Forward,€200k
+Squad SV Waldhof Mannheim,22,Yann Mabella,28,Congo,Centre-Forward,€200k
+Squad SV Waldhof Mannheim,32,Kennedy Okpala,19,Germany,Centre-Forward,€200k
+Squad SV Waldhof Mannheim,10,Pascal Sohm,32,Germany,Centre-Forward,€150k
+Squad Hallescher FC,35,Philipp Schulze,21,Germany,Goalkeeper,€200k
+Squad Hallescher FC,1,Sven Müller,28,Germany,Goalkeeper,€150k
+Squad Hallescher FC,30,Moritz Schulze,23,Germany,Goalkeeper,€150k
+Squad Hallescher FC,3,Brian Behrendt,32,Germany,Centre-Back,€325k
+Squad Hallescher FC,31,Niklas Landgraf,28,Germany,Centre-Back,€200k
+Squad Hallescher FC,5,Jannes Vollert,26,Germany,Centre-Back,€175k
+Squad Hallescher FC,2,Sebastian Zieleniecki,29,Poland,Centre-Back,€150k
+Squad Hallescher FC,6,Enrique Lofolomo,24,Germany,Centre-Back,€150k
+Squad Hallescher FC,21,Tim-Justin Dietrich,21,Germany,Centre-Back,€125k
+Squad Hallescher FC,22,Nico Hug,25,Germany,Left-Back,€225k
+Squad Hallescher FC,19,Jordi Wegmann,21,Germany,Left-Back,€100k
+Squad Hallescher FC,42,Julian Eitschberger,20,Germany,Right-Back,€400k
+Squad Hallescher FC,8,Niklas Kreuzer,31,Germany,Right-Back,€250k
+Squad Hallescher FC,25,Marvin Ajani,30,Germany,Right-Back,€200k
+Squad Hallescher FC,16,Lucas Halangk,20,Germany,Right-Back,€150k
+Squad Hallescher FC,17,Aljaz Casar,23,Slovenia,Defensive Midfield,€350k
+Squad Hallescher FC,20,Tunay Deniz,30,Germany,Central Midfield,€250k
+Squad Hallescher FC,23,Besar Halimi,29,Kosovo,Attacking Midfield,€275k
+Squad Hallescher FC,10,Timur Gayret,25,Germany,Attacking Midfield,€250k
+Squad Hallescher FC,11,Tom Baumgart,26,Germany,Attacking Midfield,€225k
+Squad Hallescher FC,37,Marco Wolf,23,Germany,Left Winger,€150k
+Squad Hallescher FC,14,Henry-Jon Crosthwaite,21,Germany,Left Winger,€125k
+Squad Hallescher FC,40,Erich Berko,29,Germany,Right Winger,€225k
+Squad Hallescher FC,15,Tarsis Bonga,27,Germany,Right Winger,€200k
+Squad Hallescher FC,9,Meris Skenderovic,26,Germany,Right Winger,€175k
+Squad Hallescher FC,29,Andor Bolyki,29,Hungary,Right Winger,€125k
+Squad Hallescher FC,28,Dominic Baumann,28,Germany,Centre-Forward,€350k
+Squad Hallescher FC,33,Jonas Nietfeld,30,Germany,Centre-Forward,€275k
+Squad Rot-Weiss Essen,1,Jakob Golz,25,Germany,Goalkeeper,€325k
+Squad Rot-Weiss Essen,35,Felix Wienand,21,Germany,Goalkeeper,€100k
+Squad Rot-Weiss Essen,31,Ole Springer,32,Germany,Goalkeeper,€50k
+Squad Rot-Weiss Essen,24,Felix Götze,26,Germany,Centre-Back,€450k
+Squad Rot-Weiss Essen,23,José-Enrique Ríos Alonso,23,Germany,Centre-Back,€275k
+Squad Rot-Weiss Essen,16,Mustafa Kourouma,21,Germany,Centre-Back,€150k
+Squad Rot-Weiss Essen,3,Aaron Manu,24,Germany,Centre-Back,€125k
+Squad Rot-Weiss Essen,37,Fabian Rüth,22,Germany,Centre-Back,€75k
+Squad Rot-Weiss Essen,14,Lucas Brumme,24,Germany,Left-Back,€250k
+Squad Rot-Weiss Essen,17,Ekin Celebi,23,Germany,Left-Back,€200k
+Squad Rot-Weiss Essen,2,Sascha Voelcke,22,Germany,Left-Back,€150k
+Squad Rot-Weiss Essen,19,Eric Voufack,22,Germany,Right-Back,€200k
+Squad Rot-Weiss Essen,7,Andreas Wiegel,32,Germany,Right-Back,€175k
+Squad Rot-Weiss Essen,21,Sandro Plechaty,26,Germany,Right-Back,€125k
+Squad Rot-Weiss Essen,27,Vinko Sapina,28,Germany,Defensive Midfield,€350k
+Squad Rot-Weiss Essen,6,Björn Rother,27,Germany,Defensive Midfield,€175k
+Squad Rot-Weiss Essen,26,Torben Müsel,24,Germany,Central Midfield,€275k
+Squad Rot-Weiss Essen,10,Thomas Eisfeld,31,Germany,Central Midfield,€225k
+Squad Rot-Weiss Essen,8,Cedric Harenbrock,25,Germany,Attacking Midfield,€250k
+Squad Rot-Weiss Essen,18,Nils Kaiser,22,Germany,Attacking Midfield,€150k
+Squad Rot-Weiss Essen,30,Isaiah Young,26,United States,Left Winger,€275k
+Squad Rot-Weiss Essen,11,Marvin Obuz,22,Germany,Right Winger,€600k
+Squad Rot-Weiss Essen,20,Leonardo Vonic,20,Croatia,Centre-Forward,€400k
+Squad Rot-Weiss Essen,9,Ron Berlinski,29,Germany,Centre-Forward,€200k
+Squad Rot-Weiss Essen,29,Moussa Doumbouya,26,Guinea,Centre-Forward,€200k
+Squad Preußen Münster,40,Johannes Schenk,21,Germany,Goalkeeper,€300k
+Squad Preußen Münster,35,Maximilian Schulze Niehues,35,Germany,Goalkeeper,€125k
+Squad Preußen Münster,31,Roman Schabbing,22,Germany,Goalkeeper,€25k
+Squad Preußen Münster,24,Niko Koulis,24,Germany,Centre-Back,€275k
+Squad Preußen Münster,6,Thomas Kok,25,Netherlands,Centre-Back,€250k
+Squad Preußen Münster,15,Simon Scherder,31,Germany,Centre-Back,€200k
+Squad Preußen Münster,42,Alexander Hahn,31,Germany,Centre-Back,€150k
+Squad Preußen Münster,3,Benjamin Böckle,21,Austria,Left-Back,€275k
+Squad Preußen Münster,18,Marc Lorenz,35,Germany,Left-Back,€150k
+Squad Preußen Münster,22,Dominik Schad,27,Germany,Right-Back,€225k
+Squad Preußen Münster,27,Jano ter Horst,21,Germany,Right-Back,€200k
+Squad Preußen Münster,32,Luca Bazzoli,23,Germany,Defensive Midfield,€325k
+Squad Preußen Münster,26,Sebastian Mrowca,30,Poland,Defensive Midfield,€300k
+Squad Preußen Münster,20,Dennis Grote,37,Germany,Defensive Midfield,€100k
+Squad Preußen Münster,21,Rico Preißinger,27,Germany,Central Midfield,€225k
+Squad Preußen Münster,8,Darius Ghindovean,22,Romania,Central Midfield,€125k
+Squad Preußen Münster,10,Shaibou Oubeyapwa,31,Germany,Right Midfield,€150k
+Squad Preußen Münster,17,Ogechika Heil,23,Germany,Left Midfield,€250k
+Squad Preußen Münster,7,Daniel Kyerewaa,22,Germany,Attacking Midfield,€275k
+Squad Preußen Münster,5,Yassine Bouchama,26,Germany,Attacking Midfield,€175k
+Squad Preußen Münster,11,Thorben Deters,28,Germany,Attacking Midfield,€175k
+Squad Preußen Münster,23,Malik Batmaz,24,Germany,Centre-Forward,€600k
+Squad Preußen Münster,9,Joel Grodowski,26,Germany,Centre-Forward,€450k
+Squad Preußen Münster,25,Gerrit Wegkamp,31,Germany,Centre-Forward,€200k
+Squad Preußen Münster,28,Dominik Steczyk,24,Poland,Centre-Forward,€200k
+Squad SpVgg Unterhaching,24,Konstantin Heide,18,Germany,Goalkeeper,€200k
+Squad SpVgg Unterhaching,1,René Vollath,34,Germany,Goalkeeper,€175k
+Squad SpVgg Unterhaching,22,Fabian Scherger,22,Germany,Goalkeeper,€50k
+Squad SpVgg Unterhaching,45,Hannes Heilmair,20,Germany,Goalkeeper,€50k
+Squad SpVgg Unterhaching,37,Raphael Schifferl,24,Austria,Centre-Back,€450k
+Squad SpVgg Unterhaching,5,Josef Welzmüller,34,Germany,Centre-Back,€150k
+Squad SpVgg Unterhaching,2,Viktor Zentrich,20,Germany,Centre-Back,€125k
+Squad SpVgg Unterhaching,15,Timon Obermeier,21,Germany,Centre-Back,€75k
+Squad SpVgg Unterhaching,21,Tizian Zimmermann,22,Germany,Centre-Back,€50k
+Squad SpVgg Unterhaching,27,Tim Hoops,18,Germany,Centre-Back,€50k
+Squad SpVgg Unterhaching,26,Benedikt Bauer,20,Germany,Left-Back,€150k
+Squad SpVgg Unterhaching,3,Max Lamby,21,Germany,Left-Back,€125k
+Squad SpVgg Unterhaching,36,Elion Haxhosaj,18,Kosovo,Left-Back,€75k
+Squad SpVgg Unterhaching,39,Dennis Waidner,23,Germany,Right-Back,€275k
+Squad SpVgg Unterhaching,23,Markus Schwabl,33,Germany,Right-Back,€150k
+Squad SpVgg Unterhaching,49,Nils Ortel,19,Germany,Right-Back,€150k
+Squad SpVgg Unterhaching,6,Ben Westermeier,20,Germany,Defensive Midfield,€250k
+Squad SpVgg Unterhaching,8,Manuel Stiefler,35,Germany,Defensive Midfield,€150k
+Squad SpVgg Unterhaching,4,Yannick Stark,33,Germany,Defensive Midfield,€100k
+Squad SpVgg Unterhaching,19,Maximilian Welzmüller,34,Germany,Defensive Midfield,€100k
+Squad SpVgg Unterhaching,40,Leonard Grob,21,Germany,Defensive Midfield,€75k
+Squad SpVgg Unterhaching,10,Sebastian Maier,30,Germany,Central Midfield,€250k
+Squad SpVgg Unterhaching,35,Josef Gottmeier,20,Germany,Central Midfield,€50k
+Squad SpVgg Unterhaching,7,Maurice Krattenmacher,18,Germany,Attacking Midfield,€800k
+Squad SpVgg Unterhaching,16,Aaron Keller,19,Switzerland,Left Winger,€350k
+Squad SpVgg Unterhaching,20,Alexander Leuthard,18,Germany,Left Winger,€50k
+Squad SpVgg Unterhaching,30,Simon Skarlatidis,32,Germany,Right Winger,€200k
+Squad SpVgg Unterhaching,38,Boipelo Mashigo,21,South Africa,Right Winger,€150k
+Squad SpVgg Unterhaching,44,Andreas Hirtlreiter,21,Germany,Right Winger,€50k
+Squad SpVgg Unterhaching,42,Gibson Nana Adu,16,Germany,Centre-Forward,€300k
+Squad SpVgg Unterhaching,34,Patrick Hobsch,29,Germany,Centre-Forward,€250k
+Squad SpVgg Unterhaching,11,Mathias Fetsch,35,Germany,Centre-Forward,€200k
+Squad SpVgg Unterhaching,31,Florian Schmid,23,Germany,Centre-Forward,€75k
+Squad SpVgg Unterhaching,33,Simon Dorfner,19,Germany,Centre-Forward,€25k
+Squad SC Verl,1,Luca Unbehaun,23,Germany,Goalkeeper,€500k
+Squad SC Verl,25,Tom Müller,26,Germany,Goalkeeper,€100k
+Squad SC Verl,32,Fabian Pekruhl,25,Germany,Goalkeeper,€25k
+Squad SC Verl,40,Leon Nübel,20,Germany,Goalkeeper,-
+Squad SC Verl,16,Torge Paetow,28,Germany,Centre-Back,€250k
+Squad SC Verl,2,Fabio Gruber,21,Germany,Centre-Back,€225k
+Squad SC Verl,6,Barne Pernot,24,Germany,Centre-Back,€175k
+Squad SC Verl,4,Daniel Mikic,31,Germany,Centre-Back,€150k
+Squad SC Verl,24,Michel Stöcker,25,Germany,Left-Back,€225k
+Squad SC Verl,20,Gideon Guzy,21,Germany,Left-Back,€75k
+Squad SC Verl,11,Nico Ochojski,25,Germany,Right-Back,€250k
+Squad SC Verl,21,Tobias Knost,23,Germany,Right-Back,€150k
+Squad SC Verl,23,Marcel Benger,25,Germany,Defensive Midfield,€325k
+Squad SC Verl,5,Tom Baack,25,Germany,Defensive Midfield,€300k
+Squad SC Verl,14,Adrian Fein,25,Germany,Defensive Midfield,€300k
+Squad SC Verl,8,Marcel Mehlem,29,Germany,Central Midfield,€225k
+Squad SC Verl,10,Patrick Kammerbauer,27,Germany,Central Midfield,€200k
+Squad SC Verl,22,Marco Mannhardt,21,Germany,Central Midfield,€150k
+Squad SC Verl,30,Nicolas Sessa,28,Germany,Attacking Midfield,€300k
+Squad SC Verl,33,Niclas Nadj,23,Germany,Attacking Midfield,€300k
+Squad SC Verl,9,Berkan Taz,25,Germany,Attacking Midfield,€200k
+Squad SC Verl,29,Joscha Wosz,21,Germany,Attacking Midfield,€150k
+Squad SC Verl,7,Maximilian Wolfram,27,Germany,Centre-Forward,€250k
+Squad SC Verl,13,Lars Lokotsch,27,Germany,Centre-Forward,€250k
+Squad SC Verl,28,Yari Otto,24,Germany,Centre-Forward,€250k
+Squad SC Verl,18,Hendrik Mittelstädt,24,Germany,Centre-Forward,€125k
+Squad SSV Ulm 1846,39,Christian Ortag,29,Germany,Goalkeeper,€225k
+Squad SSV Ulm 1846,1,Lorenz Otto,23,Germany,Goalkeeper,€75k
+Squad SSV Ulm 1846,12,Marvin Seybold,22,Germany,Goalkeeper,€25k
+Squad SSV Ulm 1846,4,Tom Gaal,23,Germany,Centre-Back,€275k
+Squad SSV Ulm 1846,32,Philipp Strompf,25,Germany,Centre-Back,€250k
+Squad SSV Ulm 1846,6,Thomas Geyer,33,Germany,Centre-Back,€200k
+Squad SSV Ulm 1846,5,Johannes Reichert,32,Germany,Centre-Back,€175k
+Squad SSV Ulm 1846,25,Lamar Yarbrough,28,Germany,Centre-Back,€175k
+Squad SSV Ulm 1846,18,Lennart Stoll,27,Germany,Centre-Back,€125k
+Squad SSV Ulm 1846,26,Philipp Maier,29,Germany,Defensive Midfield,€275k
+Squad SSV Ulm 1846,8,Lukas Ahrend,24,Germany,Defensive Midfield,€175k
+Squad SSV Ulm 1846,23,Max Brandt,22,Germany,Central Midfield,€325k
+Squad SSV Ulm 1846,10,Andreas Ludwig,33,Germany,Central Midfield,€125k
+Squad SSV Ulm 1846,7,Bastian Allgeier,22,Germany,Right Midfield,€300k
+Squad SSV Ulm 1846,35,Julian Kudala,22,Germany,Right Midfield,€125k
+Squad SSV Ulm 1846,43,Romario Rösch,24,Germany,Left Midfield,€250k
+Squad SSV Ulm 1846,28,Sascha Risch,24,Germany,Left Midfield,€150k
+Squad SSV Ulm 1846,22,Léo Scienza,25,Brazil,Left Winger,€450k
+Squad SSV Ulm 1846,21,Nicolas Jann,32,Germany,Left Winger,€150k
+Squad SSV Ulm 1846,11,Dennis Chessa,31,Germany,Right Winger,€250k
+Squad SSV Ulm 1846,19,Moritz Hannemann,26,Germany,Right Winger,€100k
+Squad SSV Ulm 1846,24,Thomas Kastanaras,21,Germany,Centre-Forward,€500k
+Squad SSV Ulm 1846,33,Felix Higl,27,Germany,Centre-Forward,€225k
+Squad SSV Ulm 1846,9,Lucas Röser,30,Germany,Centre-Forward,€200k
+Squad FC Erzgebirge Aue,1,Martin Männel,36,Germany,Goalkeeper,€200k
+Squad FC Erzgebirge Aue,22,Louis Lord,20,Germany,Goalkeeper,€150k
+Squad FC Erzgebirge Aue,25,Tim Kips,23,Luxembourg,Goalkeeper,€100k
+Squad FC Erzgebirge Aue,36,Max Uhlig,17,Germany,Goalkeeper,-
+Squad FC Erzgebirge Aue,4,Niko Vukancic,22,Germany,Centre-Back,€275k
+Squad FC Erzgebirge Aue,23,Anthony Barylla,26,Germany,Centre-Back,€275k
+Squad FC Erzgebirge Aue,5,Korbinian Burger,28,Germany,Centre-Back,€200k
+Squad FC Erzgebirge Aue,24,Steffen Nkansah,28,Germany,Centre-Back,€200k
+Squad FC Erzgebirge Aue,40,Ramzi Ferjani,23,Tunisia,Centre-Back,€75k
+Squad FC Erzgebirge Aue,26,Kilian Jakob,26,Germany,Left-Back,€225k
+Squad FC Erzgebirge Aue,29,Linus Rosenlöcher,23,Germany,Left-Back,€225k
+Squad FC Erzgebirge Aue,2,Tim Danhof,26,Germany,Right-Back,€225k
+Squad FC Erzgebirge Aue,12,Franco Schädlich,20,Germany,Right-Back,€75k
+Squad FC Erzgebirge Aue,21,Marco Schikora,29,Germany,Defensive Midfield,€275k
+Squad FC Erzgebirge Aue,13,Erik Majetschak,24,Germany,Defensive Midfield,€200k
+Squad FC Erzgebirge Aue,10,Mirnes Pepic,28,Montenegro,Central Midfield,€300k
+Squad FC Erzgebirge Aue,14,Boris Tashchy,30,Ukraine,Attacking Midfield,€250k
+Squad FC Erzgebirge Aue,8,Joshua Schwirten,22,Germany,Attacking Midfield,€200k
+Squad FC Erzgebirge Aue,34,Marvin Stefaniak,29,Germany,Left Winger,€300k
+Squad FC Erzgebirge Aue,7,Sean Seitz,22,Germany,Left Winger,€200k
+Squad FC Erzgebirge Aue,11,Omar Sijaric,22,Germany,Right Winger,€350k
+Squad FC Erzgebirge Aue,9,Steffen Meuer,24,Germany,Right Winger,€200k
+Squad FC Erzgebirge Aue,16,Finn Hetzsch,19,Germany,Right Winger,€25k
+Squad FC Erzgebirge Aue,15,Marcel Bär,31,Germany,Centre-Forward,€350k
+Squad FC Erzgebirge Aue,30,Maximilian Thiel,31,Germany,Centre-Forward,€200k
+Squad FC Erzgebirge Aue,17,Luc Elsner,20,Germany,Centre-Forward,€25k
+Squad VfB Lübeck,1,Philipp Klewin,30,Germany,Goalkeeper,€200k
+Squad VfB Lübeck,35,Yannic Stein,19,Germany,Goalkeeper,€200k
+Squad VfB Lübeck,28,Gavin Didzilatis,22,Germany,Goalkeeper,€50k
+Squad VfB Lübeck,27,Sören Reddemann,27,Germany,Centre-Back,€175k
+Squad VfB Lübeck,17,Tommy Grupe,32,Germany,Centre-Back,€150k
+Squad VfB Lübeck,3,Niklas Kastenhofer,25,Germany,Centre-Back,€125k
+Squad VfB Lübeck,30,Jannik Löhden,34,Germany,Centre-Back,€125k
+Squad VfB Lübeck,37,Janek Sternberg,31,Germany,Left-Back,€150k
+Squad VfB Lübeck,24,Morten Rüdiger,28,Germany,Left-Back,€125k
+Squad VfB Lübeck,22,Leon Sommer,23,Germany,Right-Back,€200k
+Squad VfB Lübeck,2,Robin Kölle,23,Germany,Right-Back,€150k
+Squad VfB Lübeck,23,Mattis Daube,26,Germany,Right-Back,€75k
+Squad VfB Lübeck,8,Florian Egerer,26,Germany,Defensive Midfield,€175k
+Squad VfB Lübeck,20,Ulrich Taffertshofer,32,Germany,Defensive Midfield,€175k
+Squad VfB Lübeck,31,Mirko Boland,36,Germany,Defensive Midfield,€125k
+Squad VfB Lübeck,18,Hanno Behrens,34,Germany,Central Midfield,€150k
+Squad VfB Lübeck,5,Aaron Herzog,26,Germany,Central Midfield,€125k
+Squad VfB Lübeck,34,Emanuel Adou,22,Germany,Central Midfield,€50k
+Squad VfB Lübeck,25,Tarik Gözüsirin,22,Türkiye,Attacking Midfield,€250k
+Squad VfB Lübeck,10,Manuel Farrona Pulido,30,Germany,Left Winger,€150k
+Squad VfB Lübeck,11,Felix Drinkuth,29,Germany,Left Winger,€150k
+Squad VfB Lübeck,13,Marvin Thiel,29,Germany,Left Winger,€100k
+Squad VfB Lübeck,21,Robin Velasco,21,Germany,Right Winger,€200k
+Squad VfB Lübeck,33,Jan-Marc Schneider,30,Germany,Right Winger,€200k
+Squad VfB Lübeck,7,Marius Hauptmann,24,Germany,Right Winger,€175k
+Squad VfB Lübeck,16,Daouda Beleme,23,Burkina Faso,Centre-Forward,€225k
+Squad VfB Lübeck,14,Cyrill Akono,24,Germany,Centre-Forward,€175k
+Squad VfB Lübeck,39,Pascal Breier,32,Germany,Centre-Forward,€175k
+Squad VfB Lübeck,29,Mats Facklam,27,Germany,Centre-Forward,€125k
+Squad VfB Lübeck,9,Kimmo Hovi,29,Finland,Centre-Forward,€100k
+Squad Hannover 96 II,30,Toni Stahl,24,Germany,Goalkeeper,€125k
+Squad Hannover 96 II,12,Leon-Oumar Wechsel,19,Germany,Goalkeeper,€100k
+Squad Hannover 96 II,1,Liam Tiernan,20,Germany,Goalkeeper,€50k
+Squad Hannover 96 II,22,Luca-Joel Grimpe,19,Germany,Goalkeeper,€50k
+Squad Hannover 96 II,35,Yannik Lührs,20,Germany,Centre-Back,€300k
+Squad Hannover 96 II,5,Lukas Dominke,20,Germany,Centre-Back,€100k
+Squad Hannover 96 II,21,Lorenz Hollenbach,20,Germany,Centre-Back,€100k
+Squad Hannover 96 II,4,Fynn Henze,20,Germany,Centre-Back,€75k
+Squad Hannover 96 II,26,Micah Chisholm,19,Canada,Centre-Back,€50k
+Squad Hannover 96 II,3,Hayate Matsuda,20,Japan,Left-Back,€150k
+Squad Hannover 96 II,15,Alexander Babitsch,19,Germany,Left-Back,€75k
+Squad Hannover 96 II,18,Fynn Arkenberg,28,Germany,Right-Back,€100k
+Squad Hannover 96 II,2,Luis Podolski,19,Germany,Right-Back,€75k
+Squad Hannover 96 II,27,Tom Moustier,21,France,Defensive Midfield,€175k
+Squad Hannover 96 II,10,Eric Uhlmann,21,Germany,Defensive Midfield,€150k
+Squad Hannover 96 II,33,Tim Walbrecht,22,Germany,Defensive Midfield,€150k
+Squad Hannover 96 II,6,Adem Podrimaj,21,Kosovo,Defensive Midfield,€100k
+Squad Hannover 96 II,17,Michel Dammeier,19,Germany,Defensive Midfield,€75k
+Squad Hannover 96 II,23,Luis Hesse,21,Germany,Defensive Midfield,€50k
+Squad Hannover 96 II,16,Keanu Brandt,20,Germany,Central Midfield,€75k
+Squad Hannover 96 II,28,Adrian Becker,19,Germany,Central Midfield,€25k
+Squad Hannover 96 II,24,Kolja Oudenne,22,Sweden,Attacking Midfield,€600k
+Squad Hannover 96 II,25,Lars Gindorf,22,Germany,Attacking Midfield,€250k
+Squad Hannover 96 II,14,Husseyn Chakroun,19,Germany,Left Winger,€100k
+Squad Hannover 96 II,7,Joyce Luyeye-Nkula,20,Germany,Left Winger,€75k
+Squad Hannover 96 II,20,Marin Popovic,29,Bosnia-Herzegovina,Left Winger,€50k
+Squad Hannover 96 II,13,Mamin Sanyang,21,The Gambia,Right Winger,€100k
+Squad Hannover 96 II,11,Ha-neul Jo,21,"Korea, South",Right Winger,€75k
+Squad Hannover 96 II,8,Nick Stepantsev,21,Germany,Centre-Forward,€125k
+Squad Hannover 96 II,19,Lennart Garlipp,20,Germany,Centre-Forward,€100k
+Squad Hannover 96 II,29,Sean Busch,20,Germany,Centre-Forward,€100k
+Squad Hannover 96 II,9,Theo Schröder,22,Germany,Centre-Forward,€25k
+Squad Hamburger SV II,1,Steven Mensah,21,Togo,Goalkeeper,€150k
+Squad Hamburger SV II,12,Malte Brüning,20,Germany,Goalkeeper,€75k
+Squad Hamburger SV II,2,Luis Seifert,20,Germany,Centre-Back,€150k
+Squad Hamburger SV II,3,Dennis Duah,20,Germany,Centre-Back,€150k
+Squad Hamburger SV II,5,Lukas Bornschein,18,Germany,Centre-Back,€125k
+Squad Hamburger SV II,4,Emmanuel Ntsiakoh,20,Germany,Centre-Back,€75k
+Squad Hamburger SV II,20,Tjark Hildebrandt,20,Germany,Centre-Back,€75k
+Squad Hamburger SV II,15,Bent Andresen,21,Germany,Left-Back,€150k
+Squad Hamburger SV II,23,David Igboanugo,19,Germany,Left-Back,€100k
+Squad Hamburger SV II,14,Nicolas Oliveira,20,Germany,Right-Back,€300k
+Squad Hamburger SV II,10,Felix Paschke,20,Germany,Defensive Midfield,€100k
+Squad Hamburger SV II,6,Niklas Tepe,19,Germany,Defensive Midfield,€75k
+Squad Hamburger SV II,16,Milad Nejad,19,Germany,Central Midfield,€100k
+Squad Hamburger SV II,-,Omar Megeed,18,Egypt,Attacking Midfield,€250k
+Squad Hamburger SV II,18,Jesse Kilo,20,Finland,Attacking Midfield,€100k
+Squad Hamburger SV II,11,Arlind Rexhepi,20,Albania,Left Winger,€150k
+Squad Hamburger SV II,7,Theo Harz,20,Germany,Left Winger,€100k
+Squad Hamburger SV II,8,Ayukayoh Mengot,20,Germany,Left Winger,€75k
+Squad Hamburger SV II,17,Emmanuel Appiah,20,Germany,Right Winger,€75k
+Squad Hamburger SV II,13,Tom Sanne,20,Germany,Centre-Forward,€250k
+Squad Hamburger SV II,19,Omar Sillah,20,Germany,Centre-Forward,€75k
+Squad Hamburger SV II,21,Ohene Köhl,20,Germany,Centre-Forward,€75k
+Squad Hamburger SV II,9,Ware Pakia,22,Germany,Centre-Forward,€50k
+Squad Holstein Kiel II,1,Noah Oberbeck,21,Germany,Goalkeeper,€125k
+Squad Holstein Kiel II,12,Tyler Dogan,18,Türkiye,Goalkeeper,€50k
+Squad Holstein Kiel II,25,Jarmain Ozuzu,20,Germany,Goalkeeper,€50k
+Squad Holstein Kiel II,29,Nico Carrera,21,United States,Centre-Back,€150k
+Squad Holstein Kiel II,28,Stefan Rankic,23,Bosnia-Herzegovina,Centre-Back,€125k
+Squad Holstein Kiel II,5,David Lelle,21,Germany,Centre-Back,€100k
+Squad Holstein Kiel II,15,Tim Ottilinger,20,Germany,Centre-Back,€75k
+Squad Holstein Kiel II,30,Yoost Diezemann,20,Germany,Centre-Back,€75k
+Squad Holstein Kiel II,4,Lasse Jetz,21,Germany,Centre-Back,€25k
+Squad Holstein Kiel II,3,Nico Mai,23,Germany,Left-Back,€100k
+Squad Holstein Kiel II,24,Lasse Rosenboom,22,Germany,Right-Back,€250k
+Squad Holstein Kiel II,13,Lenny Borges,22,Germany,Right-Back,€75k
+Squad Holstein Kiel II,2,Jan Wansiedler,23,Germany,Right-Back,€50k
+Squad Holstein Kiel II,6,Jannis Voß,25,Germany,Defensive Midfield,€100k
+Squad Holstein Kiel II,20,Noah Gumpert,21,Germany,Defensive Midfield,€100k
+Squad Holstein Kiel II,8,Lucas Wolf,22,Germany,Central Midfield,€175k
+Squad Holstein Kiel II,18,Cengizhan Koc,19,Germany,Central Midfield,€50k
+Squad Holstein Kiel II,22,Melvin Zimmer,19,Germany,Central Midfield,€50k
+Squad Holstein Kiel II,26,Masahiro Fujiwara,22,Japan,Right Midfield,€25k
+Squad Holstein Kiel II,14,Aurel Wagbe,20,Germany,Left Midfield,€100k
+Squad Holstein Kiel II,17,Matthew Meier,20,Germany,Attacking Midfield,€75k
+Squad Holstein Kiel II,27,Stanislav Fehler,21,Germany,Left Winger,€200k
+Squad Holstein Kiel II,7,Niklas Niehoff,19,Germany,Right Winger,€300k
+Squad Holstein Kiel II,11,Diyar Saka,23,Germany,Right Winger,€50k
+Squad Holstein Kiel II,21,Tim Siedschlag,36,Germany,Right Winger,€50k
+Squad Holstein Kiel II,23,Niklas Kaus,20,Germany,Right Winger,€50k
+Squad Holstein Kiel II,9,Etienne Sohn,20,Germany,Centre-Forward,€75k
+Squad Holstein Kiel II,19,Laurynas Kulikas,30,Russia,Centre-Forward,€75k
+Squad Holstein Kiel II,16,Oskar von Esebeck,20,Germany,Centre-Forward,€25k
+Squad FC St. Pauli II,1,Pascal Kokott,21,Germany,Goalkeeper,€75k
+Squad FC St. Pauli II,19,Kevin Jendrzej,18,Germany,Goalkeeper,€75k
+Squad FC St. Pauli II,12,Phil Kolvenbach,20,Germany,Goalkeeper,€10k
+Squad FC St. Pauli II,4,Lennart Appe,19,Germany,Centre-Back,€150k
+Squad FC St. Pauli II,25,Tjark Scheller,22,Germany,Centre-Back,€125k
+Squad FC St. Pauli II,31,Emil Staugaard,22,Denmark,Centre-Back,€125k
+Squad FC St. Pauli II,3,Luca Menke,23,Germany,Centre-Back,€100k
+Squad FC St. Pauli II,23,Muhammad Dahaba,19,Germany,Centre-Back,-
+Squad FC St. Pauli II,28,Jannis Turtschan,22,Germany,Left-Back,€100k
+Squad FC St. Pauli II,14,Niclas Dühring,20,Germany,Left-Back,€75k
+Squad FC St. Pauli II,2,Luca Günther,22,Germany,Right-Back,€100k
+Squad FC St. Pauli II,20,Remo Merke,19,Germany,Right-Back,€75k
+Squad FC St. Pauli II,5,Peer Mahncke,21,Germany,Defensive Midfield,€75k
+Squad FC St. Pauli II,6,Tom Kankowski,21,Germany,Defensive Midfield,€75k
+Squad FC St. Pauli II,24,Sven Mende,30,Germany,Defensive Midfield,€75k
+Squad FC St. Pauli II,22,Niklas Jessen,20,Germany,Central Midfield,€250k
+Squad FC St. Pauli II,13,Til Kauschke,19,Germany,Central Midfield,€75k
+Squad FC St. Pauli II,30,Gwang-in Lee,22,"Korea, South",Attacking Midfield,€125k
+Squad FC St. Pauli II,8,Mika Clausen,21,Germany,Attacking Midfield,€100k
+Squad FC St. Pauli II,15,Max Marie,19,Germany,Attacking Midfield,€100k
+Squad FC St. Pauli II,17,Johann von Knebel,26,Germany,Attacking Midfield,€100k
+Squad FC St. Pauli II,27,Noah Agbaje,22,Germany,Right Winger,€75k
+Squad FC St. Pauli II,9,Eric da Silva Moreira,17,Germany,Right Winger,-
+Squad FC St. Pauli II,10,Julian Ulbricht,24,Germany,Centre-Forward,€150k
+Squad FC St. Pauli II,11,Bennet Winter,19,Germany,Centre-Forward,€125k
+Squad FC St. Pauli II,7,John Posselt,20,Germany,Centre-Forward,€75k
+Squad VfB Oldenburg,1,Jhonny Peitzmeier,23,Germany,Goalkeeper,€100k
+Squad VfB Oldenburg,49,Sebastian Mielitz,34,Germany,Goalkeeper,€100k
+Squad VfB Oldenburg,20,Marc Schröder,22,Germany,Centre-Back,€125k
+Squad VfB Oldenburg,4,Leon Deichmann,27,Germany,Centre-Back,€100k
+Squad VfB Oldenburg,3,Marcel Appiah,36,Germany,Centre-Back,€50k
+Squad VfB Oldenburg,5,Anouar Adam,25,Germany,Centre-Back,€25k
+Squad VfB Oldenburg,44,Nico Knystock,28,Germany,Left-Back,€100k
+Squad VfB Oldenburg,31,Justin Plautz,25,Germany,Left-Back,€75k
+Squad VfB Oldenburg,17,Patrick Möschl,31,Austria,Right-Back,€125k
+Squad VfB Oldenburg,18,Pascal Richter,27,Germany,Right-Back,€50k
+Squad VfB Oldenburg,14,Ole Käuper,27,Germany,Defensive Midfield,€150k
+Squad VfB Oldenburg,26,Noah Plume,27,Germany,Defensive Midfield,€100k
+Squad VfB Oldenburg,6,Christopher Buchtmann,31,Germany,Central Midfield,€175k
+Squad VfB Oldenburg,10,Kamer Krasniqi,28,Kosovo,Attacking Midfield,€150k
+Squad VfB Oldenburg,8,Drilon Demaj,23,Germany,Attacking Midfield,€50k
+Squad VfB Oldenburg,40,Louis Hajdinaj,18,Germany,Attacking Midfield,€25k
+Squad VfB Oldenburg,22,Elijah Müller,20,Germany,Attacking Midfield,€10k
+Squad VfB Oldenburg,7,Rafael Brand,29,Germany,Left Winger,€100k
+Squad VfB Oldenburg,11,Aurel Loubongo,22,Germany,Left Winger,€100k
+Squad VfB Oldenburg,27,Elsamed Ramaj,27,Albania,Left Winger,€100k
+Squad VfB Oldenburg,13,Linus Schäfer,20,Germany,Right Winger,€100k
+Squad VfB Oldenburg,24,Markus Ziereis,31,Germany,Centre-Forward,€125k
+Squad VfB Oldenburg,9,Max Wegner,35,Germany,Centre-Forward,€75k
+Squad VfB Oldenburg,19,Tom Gaida,19,Germany,Centre-Forward,€10k
+Squad FC Teutonia 05 Ottensen,1,Marius Liesegang,24,Germany,Goalkeeper,€100k
+Squad FC Teutonia 05 Ottensen,33,Yannick Zummack,28,Germany,Goalkeeper,€25k
+Squad FC Teutonia 05 Ottensen,12,Jan Niemann,19,Germany,Goalkeeper,€10k
+Squad FC Teutonia 05 Ottensen,21,Immanuel Höhn,32,Germany,Centre-Back,€200k
+Squad FC Teutonia 05 Ottensen,25,Tjorben Uphoff,29,Germany,Centre-Back,€75k
+Squad FC Teutonia 05 Ottensen,4,Leonard Brodersen,20,Germany,Centre-Back,€50k
+Squad FC Teutonia 05 Ottensen,5,Marcus Coffie,29,Germany,Centre-Back,€50k
+Squad FC Teutonia 05 Ottensen,10,Tobias Schwede,30,Germany,Left-Back,€100k
+Squad FC Teutonia 05 Ottensen,27,Sebastian Hertner,32,Germany,Left-Back,€100k
+Squad FC Teutonia 05 Ottensen,22,Jason Tomety-Hemazro,23,Germany,Left-Back,€25k
+Squad FC Teutonia 05 Ottensen,37,Dominique Ndure,24,Germany,Right-Back,€125k
+Squad FC Teutonia 05 Ottensen,7,Kevin Weidlich,34,Germany,Right-Back,€50k
+Squad FC Teutonia 05 Ottensen,6,Fabio Maiolo,27,Italy,Defensive Midfield,€100k
+Squad FC Teutonia 05 Ottensen,8,Emanuel Mirchev,22,Bulgaria,Defensive Midfield,€75k
+Squad FC Teutonia 05 Ottensen,47,Gazi Siala,29,Germany,Defensive Midfield,€50k
+Squad FC Teutonia 05 Ottensen,23,Ridel Monteiro,27,Cape Verde,Central Midfield,€50k
+Squad FC Teutonia 05 Ottensen,19,Fabian Istefo,30,Germany,Right Midfield,€100k
+Squad FC Teutonia 05 Ottensen,18,Fabian Graudenz,32,Germany,Attacking Midfield,€50k
+Squad FC Teutonia 05 Ottensen,28,Nick Brisevac,31,Germany,Attacking Midfield,€50k
+Squad FC Teutonia 05 Ottensen,20,Mohamed Abd El Aal Ali,21,Germany,Attacking Midfield,€10k
+Squad FC Teutonia 05 Ottensen,35,Diamant Berisha,23,Kosovo,Left Winger,€75k
+Squad FC Teutonia 05 Ottensen,14,Luis Coordes,25,Dominican Republic,Left Winger,€50k
+Squad FC Teutonia 05 Ottensen,30,Nick Gutmann,27,Germany,Right Winger,€75k
+Squad FC Teutonia 05 Ottensen,11,Michael Igwe,21,Germany,Right Winger,€25k
+Squad FC Teutonia 05 Ottensen,17,Ole Wohlers,23,Germany,Centre-Forward,€125k
+Squad FC Teutonia 05 Ottensen,24,Affam Ifeadigo,27,Germany,Centre-Forward,€75k
+Squad FC Teutonia 05 Ottensen,15,Serkan Dursun,23,Germany,Centre-Forward,€50k
+Squad SV Meppen,1,Bennet Schmidt,24,Germany,Goalkeeper,€100k
+Squad SV Meppen,16,Julius Pünt,20,Germany,Goalkeeper,€25k
+Squad SV Meppen,32,Erik Domaschke,38,Germany,Goalkeeper,€25k
+Squad SV Meppen,5,Jonas Fedl,25,Germany,Centre-Back,€100k
+Squad SV Meppen,14,Bruno Soares,35,Brazil,Centre-Back,€100k
+Squad SV Meppen,19,Luis Sprekelmeyer,22,Germany,Centre-Back,€100k
+Squad SV Meppen,39,Yigit Karademir,20,Türkiye,Centre-Back,€100k
+Squad SV Meppen,22,Steffen Puttkammer,35,Germany,Centre-Back,€50k
+Squad SV Meppen,4,Sander van Looy,26,Netherlands,Centre-Back,€25k
+Squad SV Meppen,26,Joe Klöpper,22,Germany,Centre-Back,€25k
+Squad SV Meppen,17,Tobias Mißner,24,Germany,Left-Back,€100k
+Squad SV Meppen,30,Daniel Haritonov,24,Germany,Left-Back,€75k
+Squad SV Meppen,2,Louis Gravemann,19,Germany,Left-Back,€10k
+Squad SV Meppen,24,Tjark Reinert,20,Germany,Right-Back,€25k
+Squad SV Meppen,15,Joshua Siemoneit,21,Germany,Right-Back,€10k
+Squad SV Meppen,6,Tim Möller,25,Germany,Defensive Midfield,€75k
+Squad SV Meppen,37,Oliver Holthaus,26,Germany,Defensive Midfield,-
+Squad SV Meppen,7,Fynn Seidel,20,Germany,Central Midfield,€100k
+Squad SV Meppen,8,Willi Evseev,32,Germany,Central Midfield,€100k
+Squad SV Meppen,23,Niclas Wessels,19,Germany,Central Midfield,€50k
+Squad SV Meppen,38,Daniel Benke,21,Germany,Central Midfield,€50k
+Squad SV Meppen,25,Felix Golkowski,20,Germany,Central Midfield,€25k
+Squad SV Meppen,31,Luca Prasse,19,Germany,Right Midfield,€75k
+Squad SV Meppen,20,Marvin Benjamins,21,Germany,Left Midfield,€25k
+Squad SV Meppen,13,Jonathan Wensing,20,Germany,Attacking Midfield,€50k
+Squad SV Meppen,18,Lukas Eixler,20,Germany,Attacking Midfield,€50k
+Squad SV Meppen,29,Malte Zumdieck,19,Germany,Right Winger,-
+Squad SV Meppen,10,Marek Janssen,27,Germany,Centre-Forward,€150k
+Squad SV Meppen,11,Christopher Schepp,24,Germany,Centre-Forward,€150k
+Squad SV Meppen,9,Lars Spit,25,Netherlands,Centre-Forward,€50k
+Squad 1.FC Phönix Lübeck,30,Carl Leonhard,23,Germany,Goalkeeper,€75k
+Squad 1.FC Phönix Lübeck,12,Max Sprang,23,Germany,Goalkeeper,€50k
+Squad 1.FC Phönix Lübeck,1,Malte Schuchardt,25,Germany,Goalkeeper,€25k
+Squad 1.FC Phönix Lübeck,3,Stan van Dijck,23,Netherlands,Centre-Back,€75k
+Squad 1.FC Phönix Lübeck,5,Kevin Ntika,28,Belgium,Centre-Back,€75k
+Squad 1.FC Phönix Lübeck,13,Obinna Iloka,30,United States,Centre-Back,€75k
+Squad 1.FC Phönix Lübeck,-,Hunu Jeong,28,"Korea, South",Centre-Back,€10k
+Squad 1.FC Phönix Lübeck,15,Enock Hartwig,20,Germany,Centre-Back,€10k
+Squad 1.FC Phönix Lübeck,2,Jan Lippegaus,21,Germany,Left-Back,€50k
+Squad 1.FC Phönix Lübeck,14,Luis Riedel,22,Germany,Left-Back,€25k
+Squad 1.FC Phönix Lübeck,27,Corvin Bock,25,Germany,Right-Back,€75k
+Squad 1.FC Phönix Lübeck,8,Morten Knudsen,28,Denmark,Defensive Midfield,€75k
+Squad 1.FC Phönix Lübeck,17,Johann Berger,24,Germany,Central Midfield,€100k
+Squad 1.FC Phönix Lübeck,24,Yevgeniy Obushnyi,19,Ukraine,Central Midfield,€50k
+Squad 1.FC Phönix Lübeck,11,Julian Meier,23,Germany,Attacking Midfield,€100k
+Squad 1.FC Phönix Lübeck,20,Jonathan Stöver,24,Germany,Attacking Midfield,€25k
+Squad 1.FC Phönix Lübeck,26,Vladyslav Kraev,29,Ukraine,Attacking Midfield,€25k
+Squad 1.FC Phönix Lübeck,25,Luke Sendzik,21,Germany,Attacking Midfield,€10k
+Squad 1.FC Phönix Lübeck,21,Valdemar Sadrifar,23,Denmark,Left Winger,€100k
+Squad 1.FC Phönix Lübeck,9,Michael Kobert,28,Germany,Left Winger,€50k
+Squad 1.FC Phönix Lübeck,23,Jayden Bennetts,22,Germany,Left Winger,€50k
+Squad 1.FC Phönix Lübeck,7,Vjekoslav Taritas,24,Croatia,Right Winger,€100k
+Squad 1.FC Phönix Lübeck,-,Aaron Tshimuanga,21,Germany,Right Winger,€10k
+Squad 1.FC Phönix Lübeck,10,Haris Hyseni,31,Kosovo,Centre-Forward,€100k
+Squad 1.FC Phönix Lübeck,18,Leander Fritzsche,23,Germany,Centre-Forward,€75k
+Squad 1.FC Phönix Lübeck,22,Anton Ihde,20,Germany,Centre-Forward,€10k
+Squad SC Weiche Flensburg 08,12,Jesper Heim,24,Germany,Goalkeeper,€75k
+Squad SC Weiche Flensburg 08,1,Philip Østerbaek,20,Denmark,Goalkeeper,€25k
+Squad SC Weiche Flensburg 08,33,Torben Rehfeldt,30,Germany,Centre-Back,€75k
+Squad SC Weiche Flensburg 08,30,Tobias Fölster,30,Germany,Centre-Back,€50k
+Squad SC Weiche Flensburg 08,3,Torben Marten,20,Germany,Centre-Back,€25k
+Squad SC Weiche Flensburg 08,20,Patrick Thomsen,33,Germany,Centre-Back,€25k
+Squad SC Weiche Flensburg 08,13,David Pfeil,22,Germany,Left-Back,€75k
+Squad SC Weiche Flensburg 08,27,Ilídio,32,Brazil,Left-Back,€10k
+Squad SC Weiche Flensburg 08,28,Theo Behrmann,22,Germany,Right-Back,€50k
+Squad SC Weiche Flensburg 08,8,Finn Wirlmann,27,Germany,Defensive Midfield,€75k
+Squad SC Weiche Flensburg 08,6,Mohamed Cherif,23,Germany,Defensive Midfield,€50k
+Squad SC Weiche Flensburg 08,2,Bjarne Schleemann,24,Germany,Defensive Midfield,€25k
+Squad SC Weiche Flensburg 08,22,Marten Schmidt,28,Germany,Central Midfield,€75k
+Squad SC Weiche Flensburg 08,21,Pelle Hoppe,24,Germany,Attacking Midfield,€100k
+Squad SC Weiche Flensburg 08,37,Dominic Hartmann,31,Germany,Attacking Midfield,€75k
+Squad SC Weiche Flensburg 08,10,Marcel Cornils,31,Germany,Left Winger,€100k
+Squad SC Weiche Flensburg 08,19,Thies Richter,20,Germany,Left Winger,€25k
+Squad SC Weiche Flensburg 08,16,Yusri El-Kandoussi,24,Netherlands,Left Winger,€10k
+Squad SC Weiche Flensburg 08,9,Jannic Ehlers,21,Germany,Right Winger,€100k
+Squad SC Weiche Flensburg 08,17,René Guder,29,Germany,Right Winger,€100k
+Squad SC Weiche Flensburg 08,11,Noel Kurzbach,23,Germany,Right Winger,€25k
+Squad SC Weiche Flensburg 08,14,Calvin Ogara,21,Germany,Right Winger,€10k
+Squad SC Weiche Flensburg 08,23,Felix Brügmann,31,Germany,Centre-Forward,€100k
+Squad SC Weiche Flensburg 08,7,Mika Kieselbach,23,Germany,Centre-Forward,€25k
+Squad SC Weiche Flensburg 08,32,John Dethlefs,21,Germany,Centre-Forward,€25k
+Squad TSV Havelse,12,Tom Opitz,20,Germany,Goalkeeper,€50k
+Squad TSV Havelse,22,Antonio Brandt,24,Germany,Goalkeeper,€50k
+Squad TSV Havelse,35,Alexander Dlugaiczyk,41,Germany,Goalkeeper,€10k
+Squad TSV Havelse,5,Dominic Minz,25,Germany,Centre-Back,€75k
+Squad TSV Havelse,26,Niklas Tasky,33,Germany,Centre-Back,€75k
+Squad TSV Havelse,4,Besfort Kolgeci,26,Kosovo,Centre-Back,€50k
+Squad TSV Havelse,21,Irichad Behrens,19,Germany,Centre-Back,€10k
+Squad TSV Havelse,17,Emre Aytun,24,Türkiye,Left-Back,€50k
+Squad TSV Havelse,39,Florian Riedel,34,Germany,Right-Back,€75k
+Squad TSV Havelse,3,Marco Schleef,25,Germany,Right-Back,€50k
+Squad TSV Havelse,23,Julius Düker,28,Germany,Defensive Midfield,€175k
+Squad TSV Havelse,6,Mika Stuhlmacher,21,Germany,Defensive Midfield,€50k
+Squad TSV Havelse,28,Julian Rufidis,23,Germany,Defensive Midfield,€50k
+Squad TSV Havelse,31,Jannik Oltrogge,28,Germany,Defensive Midfield,€25k
+Squad TSV Havelse,18,Silas Steinwedel,21,Germany,Defensive Midfield,€10k
+Squad TSV Havelse,24,Martin Jakubietz,19,Germany,Central Midfield,€10k
+Squad TSV Havelse,15,Vladislav Cherny,20,Germany,Attacking Midfield,€100k
+Squad TSV Havelse,20,Dong-woo Kim,20,"Korea, South",Attacking Midfield,€10k
+Squad TSV Havelse,16,Torben Engelking,27,Germany,Left Winger,€50k
+Squad TSV Havelse,14,Marko Ilic,24,Germany,Left Winger,€25k
+Squad TSV Havelse,27,Eliakim Kukanda,25,Germany,Left Winger,€25k
+Squad TSV Havelse,8,Julius Langfeld,29,Germany,Right Winger,€75k
+Squad TSV Havelse,19,Amoro Diedhiou,21,Germany,Right Winger,€10k
+Squad TSV Havelse,11,Yannik Jaeschke,30,Germany,Centre-Forward,€100k
+Squad TSV Havelse,9,Luca Mittelstädt,24,Germany,Centre-Forward,€25k
+Squad Eintracht Norderstedt,1,Lars Huxsohl,27,Germany,Goalkeeper,€75k
+Squad Eintracht Norderstedt,22,Arne Exner,27,Germany,Goalkeeper,€50k
+Squad Eintracht Norderstedt,25,Dave Ceesay,20,Germany,Goalkeeper,€10k
+Squad Eintracht Norderstedt,5,Moritz Frahm,23,Germany,Centre-Back,€75k
+Squad Eintracht Norderstedt,3,Yannik Nuxoll,26,Germany,Centre-Back,€50k
+Squad Eintracht Norderstedt,24,Saibo Ibraimo,22,Germany,Centre-Back,€25k
+Squad Eintracht Norderstedt,26,Kevin Kling,24,Germany,Centre-Back,€25k
+Squad Eintracht Norderstedt,2,André Wallenborn,29,Germany,Left-Back,€50k
+Squad Eintracht Norderstedt,8,Dane Kummerfeld,31,Germany,Left-Back,€25k
+Squad Eintracht Norderstedt,27,Florian Meier,18,Germany,Left-Back,€10k
+Squad Eintracht Norderstedt,4,Juri Marxen,29,Germany,Right-Back,€75k
+Squad Eintracht Norderstedt,20,In-cheol Choi,26,"Korea, South",Right-Back,€25k
+Squad Eintracht Norderstedt,21,Noah Musse,20,Germany,Right-Back,€25k
+Squad Eintracht Norderstedt,6,Ersin Zehir,26,Germany,Defensive Midfield,€100k
+Squad Eintracht Norderstedt,16,Marc Bölter,21,Germany,Defensive Midfield,€75k
+Squad Eintracht Norderstedt,30,Nathan Winkler,19,Germany,Defensive Midfield,€75k
+Squad Eintracht Norderstedt,13,Philipp Koch,33,Germany,Defensive Midfield,€25k
+Squad Eintracht Norderstedt,11,Eric Gueye,24,Germany,Left Midfield,€75k
+Squad Eintracht Norderstedt,10,Jonas Behounek,25,Germany,Attacking Midfield,€100k
+Squad Eintracht Norderstedt,7,Nils Brüning,29,Germany,Left Winger,€50k
+Squad Eintracht Norderstedt,18,Ayoub Akhber,21,Italy,Left Winger,€10k
+Squad Eintracht Norderstedt,17,Kang-min Choi,31,"Korea, South",Left Winger,-
+Squad Eintracht Norderstedt,23,Nick Selutin,22,Germany,Right Winger,€25k
+Squad Eintracht Norderstedt,28,Noah Awuku,24,Germany,Centre-Forward,€75k
+Squad Eintracht Norderstedt,14,Kevin Prinz von Anhalt,29,Germany,Centre-Forward,€50k
+Squad Eintracht Norderstedt,19,Manuel Brendel,24,Germany,Centre-Forward,€25k
+Squad SV Drochtersen/Assel,30,Patrick Siefkes,34,Germany,Goalkeeper,€50k
+Squad SV Drochtersen/Assel,1,Fynn Hegerfeldt,23,Germany,Goalkeeper,€10k
+Squad SV Drochtersen/Assel,27,Julian Geitz,23,Germany,Goalkeeper,€10k
+Squad SV Drochtersen/Assel,3,Tjorve Mohr,27,Germany,Centre-Back,€50k
+Squad SV Drochtersen/Assel,4,Nikola Serra,29,Germany,Centre-Back,€50k
+Squad SV Drochtersen/Assel,12,Nico von der Reith,30,Germany,Centre-Back,€50k
+Squad SV Drochtersen/Assel,26,Liam Giwah,24,Germany,Centre-Back,€50k
+Squad SV Drochtersen/Assel,28,Christian Rusch,22,Germany,Centre-Back,€25k
+Squad SV Drochtersen/Assel,7,Jannes Elfers,28,Germany,Left-Back,€50k
+Squad SV Drochtersen/Assel,22,Tom Kinitz,22,Germany,Left-Back,€25k
+Squad SV Drochtersen/Assel,5,Arian Khodabakhshian,23,Germany,Right-Back,€25k
+Squad SV Drochtersen/Assel,16,Mika Ney,19,Germany,Right-Back,€10k
+Squad SV Drochtersen/Assel,6,Matti Steinmann,29,Germany,Defensive Midfield,€200k
+Squad SV Drochtersen/Assel,23,Maximilian Geißen,25,Germany,Defensive Midfield,€75k
+Squad SV Drochtersen/Assel,13,Sebastian Haut,28,Germany,Defensive Midfield,€50k
+Squad SV Drochtersen/Assel,31,Matti Cebulla,22,Germany,Central Midfield,€10k
+Squad SV Drochtersen/Assel,25,Dennis Rosin,27,Germany,Attacking Midfield,€50k
+Squad SV Drochtersen/Assel,8,Miguel Fernandes,27,Germany,Left Winger,€50k
+Squad SV Drochtersen/Assel,21,Jan-Miklas Steffens,24,Germany,Right Winger,€50k
+Squad SV Drochtersen/Assel,17,Martin Sattler,24,Germany,Right Winger,€25k
+Squad SV Drochtersen/Assel,9,Moritz Göttel,31,Germany,Centre-Forward,€100k
+Squad SV Drochtersen/Assel,20,Willi Reincke,20,Germany,Centre-Forward,€75k
+Squad SV Drochtersen/Assel,14,Alexander Neumann,34,Germany,Centre-Forward,€50k
+Squad SV Drochtersen/Assel,29,Felix Schmiederer,28,Germany,Centre-Forward,€25k
+Squad SSV Jeddeloh II,1,Felix Bohe,29,Germany,Goalkeeper,€25k
+Squad SSV Jeddeloh II,12,Nikolaos Koliofoukas,27,Greece,Goalkeeper,€25k
+Squad SSV Jeddeloh II,25,Thure Fengler,19,Germany,Goalkeeper,€10k
+Squad SSV Jeddeloh II,4,Niklas von Aschwege,25,Germany,Centre-Back,€50k
+Squad SSV Jeddeloh II,6,Michel Leon Hahn,25,Germany,Centre-Back,€50k
+Squad SSV Jeddeloh II,31,Pierre Becken,36,Germany,Centre-Back,€25k
+Squad SSV Jeddeloh II,5,Konstantin Engel,35,Kazakhstan,Left-Back,€25k
+Squad SSV Jeddeloh II,23,Tom Kanowski,20,Germany,Left-Back,€25k
+Squad SSV Jeddeloh II,11,Mohammed Sultani,20,Afghanistan,Left-Back,€10k
+Squad SSV Jeddeloh II,7,Bastian Schaffer,29,Germany,Defensive Midfield,€25k
+Squad SSV Jeddeloh II,15,Alex Chiarodia,22,Germany,Defensive Midfield,€25k
+Squad SSV Jeddeloh II,17,Willem Hoffrogge,22,Germany,Defensive Midfield,€25k
+Squad SSV Jeddeloh II,14,Jan-Philipp Stottmann,20,Germany,Defensive Midfield,€10k
+Squad SSV Jeddeloh II,27,Elario Ghassan,23,Germany,Central Midfield,€50k
+Squad SSV Jeddeloh II,2,Conor Gnerlich,25,Germany,Right Midfield,€25k
+Squad SSV Jeddeloh II,22,Tristan Darsow,20,Germany,Right Midfield,€10k
+Squad SSV Jeddeloh II,10,Kasra Ghawilu,25,Germany,Left Winger,€75k
+Squad SSV Jeddeloh II,29,Allah Aid Hamid,21,Iraq,Left Winger,€50k
+Squad SSV Jeddeloh II,21,Marcel Gottschling,29,Germany,Right Winger,€75k
+Squad SSV Jeddeloh II,16,Robin Krolikowski,25,Germany,Right Winger,€25k
+Squad SSV Jeddeloh II,20,Tim Janßen,24,Germany,Right Winger,€25k
+Squad SSV Jeddeloh II,28,Dennis Lerche,28,Germany,Second Striker,€75k
+Squad SSV Jeddeloh II,9,Simon Brinkmann,23,Germany,Centre-Forward,€50k
+Squad SSV Jeddeloh II,8,Mario Fredehorst,30,Germany,Centre-Forward,€25k
+Squad SSV Jeddeloh II,13,Bowen Wang,20,China,Centre-Forward,€25k
+Squad SSV Jeddeloh II,18,Julian Bennert,32,Germany,Centre-Forward,€25k
+Squad Bremer SV,12,Andrea Hoxha,24,Albania,Goalkeeper,€100k
+Squad Bremer SV,1,Malte Seemann,29,Germany,Goalkeeper,€25k
+Squad Bremer SV,22,Tobias Duffner,40,Germany,Goalkeeper,€10k
+Squad Bremer SV,2,Justin Gröger,21,Germany,Centre-Back,€25k
+Squad Bremer SV,5,Mathis Richter,20,Germany,Centre-Back,€25k
+Squad Bremer SV,8,Manasse Fionouke,24,Germany,Centre-Back,€25k
+Squad Bremer SV,28,Justin Sauermilch,24,Germany,Centre-Back,€25k
+Squad Bremer SV,34,Ziad Ouled-Haj-M'hand,21,Netherlands,Centre-Back,€25k
+Squad Bremer SV,3,Toshiaki Miyamoto,24,Japan,Left-Back,€25k
+Squad Bremer SV,18,Fabio Orlick,21,Germany,Left-Back,€25k
+Squad Bremer SV,27,Jan-Luca Warm,24,Germany,Right-Back,€50k
+Squad Bremer SV,37,Ahmad Assaf,24,Germany,Right-Back,€50k
+Squad Bremer SV,15,Vasilios Polichronakis,22,Germany,Right-Back,€25k
+Squad Bremer SV,6,Jonas Kühl,24,Germany,Defensive Midfield,€25k
+Squad Bremer SV,13,Justin Bretgeld,24,Germany,Defensive Midfield,€25k
+Squad Bremer SV,24,Mats Kaiser,27,Germany,Defensive Midfield,€25k
+Squad Bremer SV,32,Bjarne Kasper,22,Germany,Defensive Midfield,€25k
+Squad Bremer SV,7,Fritz Kleiner,21,Germany,Attacking Midfield,€25k
+Squad Bremer SV,10,Vedat Tunc,20,Germany,Attacking Midfield,€10k
+Squad Bremer SV,26,Mamadou Ibrahima Diop,27,Senegal,Left Winger,€25k
+Squad Bremer SV,17,Jozo Tunjic,25,Croatia,Left Winger,€10k
+Squad Bremer SV,11,Sadrak Nankishi,24,Germany,Right Winger,€25k
+Squad Bremer SV,19,Muzaffer Can Degirmenci,23,Germany,Right Winger,€25k
+Squad Bremer SV,9,Herdi Bukusu,24,Germany,Centre-Forward,€75k
+Squad Bremer SV,20,Ninte Nater,19,Guinea-Bissau,Centre-Forward,€25k
+Squad Bremer SV,30,Nikky Goguadze,25,Netherlands,Centre-Forward,€25k
+Squad Bremer SV,21,Jan Rabens,19,Germany,Centre-Forward,€10k
+Squad Blau-Weiß Lohne,1,Marko Dedovic,26,Serbia,Goalkeeper,€50k
+Squad Blau-Weiß Lohne,33,Christoph Bollmann,32,Germany,Goalkeeper,€25k
+Squad Blau-Weiß Lohne,24,Gerrit Frohn,20,Germany,Goalkeeper,€10k
+Squad Blau-Weiß Lohne,5,Felix Oevermann,29,Germany,Centre-Back,€50k
+Squad Blau-Weiß Lohne,11,Kai Westerhoff,29,Germany,Centre-Back,€50k
+Squad Blau-Weiß Lohne,4,Christian Düker,28,Germany,Centre-Back,€25k
+Squad Blau-Weiß Lohne,18,Theo Janotta,20,Germany,Centre-Back,€25k
+Squad Blau-Weiß Lohne,2,Lennard Maßmann,28,Germany,Centre-Back,€10k
+Squad Blau-Weiß Lohne,6,Malte Beermann,32,Germany,Centre-Back,€10k
+Squad Blau-Weiß Lohne,27,Patrick Siemer,23,Germany,Right-Back,€10k
+Squad Blau-Weiß Lohne,16,Jakub Bürkle,30,Germany,Defensive Midfield,€50k
+Squad Blau-Weiß Lohne,17,Sandro Heskamp,29,Germany,Defensive Midfield,€50k
+Squad Blau-Weiß Lohne,8,Nico Thoben,24,Germany,Defensive Midfield,€25k
+Squad Blau-Weiß Lohne,23,Rilind Neziri,29,Kosovo,Defensive Midfield,€25k
+Squad Blau-Weiß Lohne,28,Malte Wengerowski,23,Germany,Right Midfield,€25k
+Squad Blau-Weiß Lohne,19,Leonard Bredol,23,Germany,Left Midfield,€25k
+Squad Blau-Weiß Lohne,10,Gentuar Durmishi,22,Germany,Attacking Midfield,€25k
+Squad Blau-Weiß Lohne,20,Aaron Goldmann,30,Germany,Attacking Midfield,€25k
+Squad Blau-Weiß Lohne,14,Marc Augé,23,Germany,Attacking Midfield,€10k
+Squad Blau-Weiß Lohne,13,Elias Beck,22,Germany,Left Winger,€25k
+Squad Blau-Weiß Lohne,15,Benjamin Willenbrink,21,Germany,Right Winger,€10k
+Squad Blau-Weiß Lohne,21,Thorsten Tönnies,33,Germany,Centre-Forward,€75k
+Squad Blau-Weiß Lohne,29,Jannik Zahmel,21,Germany,Centre-Forward,€50k
+Squad Blau-Weiß Lohne,7,Bennet van den Berg,24,Germany,Centre-Forward,€25k
+Squad Eimsbütteler TV,51,Viktor Weber,21,Germany,Goalkeeper,€25k
+Squad Eimsbütteler TV,-,Jo-Daniel Krohn,33,Germany,Goalkeeper,€10k
+Squad Eimsbütteler TV,1,Abou Fofana,27,Germany,Goalkeeper,€10k
+Squad Eimsbütteler TV,34,Enes Özmen,19,Türkiye,Goalkeeper,€10k
+Squad Eimsbütteler TV,4,Samuel Olayisoye,26,Germany,Centre-Back,€25k
+Squad Eimsbütteler TV,8,Abdul-Malik Yago,22,Germany,Centre-Back,€25k
+Squad Eimsbütteler TV,23,Jasper Hölscher,26,Germany,Centre-Back,€25k
+Squad Eimsbütteler TV,98,Benjamin Lucht,23,Germany,Centre-Back,€25k
+Squad Eimsbütteler TV,2,Can Denis Yildiz,23,Germany,Left-Back,€10k
+Squad Eimsbütteler TV,66,Henry Koeberer,21,Germany,Left-Back,€10k
+Squad Eimsbütteler TV,14,Henok Tewolde,22,Germany,Right-Back,€25k
+Squad Eimsbütteler TV,3,Robin Janowsky,27,Germany,Right-Back,€10k
+Squad Eimsbütteler TV,6,Bamo Karim,23,Germany,Defensive Midfield,€25k
+Squad Eimsbütteler TV,20,Finn Schütt,24,Germany,Defensive Midfield,€25k
+Squad Eimsbütteler TV,5,Emre Töremis,24,Germany,Defensive Midfield,€10k
+Squad Eimsbütteler TV,10,Blerim Qestaj,23,Germany,Defensive Midfield,€10k
+Squad Eimsbütteler TV,45,Daniel Naumann,19,Germany,Defensive Midfield,€10k
+Squad Eimsbütteler TV,13,Oskar Lenz,24,Germany,Central Midfield,€25k
+Squad Eimsbütteler TV,47,Dilan Karim,19,Germany,Central Midfield,€10k
+Squad Eimsbütteler TV,-,Leon Bolz,23,Germany,Attacking Midfield,€10k
+Squad Eimsbütteler TV,27,Jon Pauli,26,Germany,Attacking Midfield,€10k
+Squad Eimsbütteler TV,17,Niklas Bär,21,Germany,Left Winger,€25k
+Squad Eimsbütteler TV,7,Jephtah Asare,22,Germany,Left Winger,€10k
+Squad Eimsbütteler TV,9,Tyrese Boakye,20,Germany,Right Winger,€10k
+Squad Eimsbütteler TV,15,Maximilian Baafi,20,Germany,Right Winger,€10k
+Squad Eimsbütteler TV,21,Noel Denis,22,Germany,Right Winger,€10k
+Squad Eimsbütteler TV,18,Maurice Boakye,19,Germany,Centre-Forward,€50k
+Squad Eimsbütteler TV,11,Dominik Akyol,24,Portugal,Centre-Forward,€25k
+Squad Eimsbütteler TV,37,Nick Leptien,20,Germany,Centre-Forward,€10k
+Squad FC Kilia Kiel,41,Tom Pachulski,27,Germany,Goalkeeper,€25k
+Squad FC Kilia Kiel,1,Justus Kaack,25,Germany,Goalkeeper,€10k
+Squad FC Kilia Kiel,12,Nikolas Wulf,28,Germany,Goalkeeper,€10k
+Squad FC Kilia Kiel,22,Finn Kornath,25,Germany,Goalkeeper,€10k
+Squad FC Kilia Kiel,4,Malte Petersen,23,Germany,Centre-Back,€25k
+Squad FC Kilia Kiel,27,Yannik Jakubowski,33,Germany,Centre-Back,€25k
+Squad FC Kilia Kiel,3,Serhat Yüksel,19,Germany,Centre-Back,€10k
+Squad FC Kilia Kiel,15,Florian Foit,29,Germany,Centre-Back,€10k
+Squad FC Kilia Kiel,29,Kevin Harder,26,Germany,Centre-Back,€10k
+Squad FC Kilia Kiel,16,Jeppe Waschko,21,Germany,Left-Back,€10k
+Squad FC Kilia Kiel,33,Salih Ramo,25,Germany,Right-Back,€10k
+Squad FC Kilia Kiel,5,Tom Warncke,30,Germany,Defensive Midfield,€10k
+Squad FC Kilia Kiel,8,Tom Baller,25,Germany,Right Midfield,€10k
+Squad FC Kilia Kiel,10,Julius Alt,26,Germany,Attacking Midfield,€25k
+Squad FC Kilia Kiel,18,Kevin Schulz,35,Germany,Attacking Midfield,€25k
+Squad FC Kilia Kiel,23,Rezan Acer,30,Türkiye,Attacking Midfield,€10k
+Squad FC Kilia Kiel,14,Felix Niebergall,25,Germany,Left Winger,€25k
+Squad FC Kilia Kiel,17,Berat Ayyildiz,25,Germany,Left Winger,€10k
+Squad FC Kilia Kiel,19,Luca Aouci,25,Germany,Left Winger,€10k
+Squad FC Kilia Kiel,20,Sercan Yildirimer,20,Türkiye,Left Winger,€10k
+Squad FC Kilia Kiel,25,Drilon Trepca,21,Germany,Right Winger,€10k
+Squad FC Kilia Kiel,13,Christopher Kramer,34,Germany,Centre-Forward,€50k
+Squad FC Kilia Kiel,11,Jan-Matti Seidel,23,Germany,Centre-Forward,€25k
+Squad FC Kilia Kiel,26,Benjamin Petrick,29,Germany,Centre-Forward,€25k
+Squad FC Kilia Kiel,30,Ben Opoku,20,Germany,Centre-Forward,€25k
+Squad FC Kilia Kiel,9,Ben Luca Nohns,21,Germany,Centre-Forward,€10k
+Squad FC Kilia Kiel,24,Marvin Müller,21,Germany,Centre-Forward,€10k
+Squad SC Spelle-Venhaus,22,Mattis Niemann,22,Germany,Goalkeeper,€25k
+Squad SC Spelle-Venhaus,1,Bernd Lichtenstein,32,Germany,Goalkeeper,€10k
+Squad SC Spelle-Venhaus,23,Oskar Lindemann,21,Germany,Goalkeeper,€10k
+Squad SC Spelle-Venhaus,4,Leon Dosquet,24,Germany,Centre-Back,€25k
+Squad SC Spelle-Venhaus,17,Marcel Ruschmeier,28,Germany,Centre-Back,€10k
+Squad SC Spelle-Venhaus,20,Jan-Hubert Elpermann,30,Germany,Centre-Back,€10k
+Squad SC Spelle-Venhaus,15,Adrian Lenz,23,Germany,Left-Back,€10k
+Squad SC Spelle-Venhaus,24,Ben Wittenbernds,20,Germany,Left-Back,€10k
+Squad SC Spelle-Venhaus,3,Janik Jesgarzewski,30,Germany,Right-Back,€25k
+Squad SC Spelle-Venhaus,2,Jonas Tepper,22,Germany,Right-Back,€10k
+Squad SC Spelle-Venhaus,13,Jannik Landwehr,28,Germany,Defensive Midfield,€25k
+Squad SC Spelle-Venhaus,16,Jan-Luca Ahillen,28,Germany,Defensive Midfield,€10k
+Squad SC Spelle-Venhaus,14,Philipp Elfert,30,Germany,Central Midfield,€25k
+Squad SC Spelle-Venhaus,6,Torben Stegemann,29,Germany,Attacking Midfield,€25k
+Squad SC Spelle-Venhaus,5,Anton Popov,22,Russia,Attacking Midfield,€10k
+Squad SC Spelle-Venhaus,8,Timo Nichau,24,Germany,Left Winger,€10k
+Squad SC Spelle-Venhaus,12,Jan Popov,19,Germany,Left Winger,€10k
+Squad SC Spelle-Venhaus,19,Steffen Schepers,27,Germany,Left Winger,€10k
+Squad SC Spelle-Venhaus,21,Niklas Oswald,25,Germany,Left Winger,€10k
+Squad SC Spelle-Venhaus,7,Steffen Wranik,25,Germany,Right Winger,€10k
+Squad SC Spelle-Venhaus,10,Artem Popov,27,Russia,Right Winger,€10k
+Squad SC Spelle-Venhaus,18,Christoph Ahrens,30,Germany,Right Winger,€10k
+Squad SC Spelle-Venhaus,9,Tom Winnemöller,21,Germany,Centre-Forward,€10k
+Squad SC Spelle-Venhaus,25,Jip Kemna,26,Netherlands,Centre-Forward,€10k
+Squad Hertha BSC II,33,Robert Kwasigroch,19,Germany,Goalkeeper,€200k
+Squad Hertha BSC II,1,Maximilian Mohwinkel,20,Germany,Goalkeeper,€50k
+Squad Hertha BSC II,19,Philip Sprint,30,Germany,Goalkeeper,€25k
+Squad Hertha BSC II,49,Joel da Silva Kiala,20,Germany,Centre-Back,€200k
+Squad Hertha BSC II,54,Tim Hoffmann,19,Germany,Centre-Back,€200k
+Squad Hertha BSC II,15,Peter Matiebel,19,Germany,Centre-Back,€125k
+Squad Hertha BSC II,4,Marlon Morgenstern,23,Germany,Centre-Back,€75k
+Squad Hertha BSC II,36,Eliyas Strasner,19,Germany,Left-Back,€150k
+Squad Hertha BSC II,5,Berkan Alimler,24,Germany,Left-Back,€25k
+Squad Hertha BSC II,2,Sebastian Weiland,19,Germany,Right-Back,€125k
+Squad Hertha BSC II,9,Tony Fuchs,33,Germany,Right-Back,€25k
+Squad Hertha BSC II,38,Veit Stange,20,Germany,Defensive Midfield,€200k
+Squad Hertha BSC II,48,Mesut Kesik,20,Germany,Defensive Midfield,€150k
+Squad Hertha BSC II,8,Biyan Kizildemir,19,Germany,Defensive Midfield,€75k
+Squad Hertha BSC II,14,Maurice Covic,26,Germany,Central Midfield,€125k
+Squad Hertha BSC II,27,Dion Ajvazi,20,Germany,Central Midfield,€75k
+Squad Hertha BSC II,21,Safa Yildirim,20,Türkiye,Central Midfield,€50k
+Squad Hertha BSC II,47,Tony Rölke,21,Germany,Attacking Midfield,€200k
+Squad Hertha BSC II,7,Mustafa Abdullatif,20,Syria,Attacking Midfield,€150k
+Squad Hertha BSC II,55,Julius Gottschalk,17,Germany,Attacking Midfield,€150k
+Squad Hertha BSC II,10,Änis Ben-Hatira,35,Tunisia,Attacking Midfield,€75k
+Squad Hertha BSC II,26,Gustav Christensen,19,Denmark,Left Winger,€500k
+Squad Hertha BSC II,17,Nader Jindaoui,27,Germany,Right Winger,€250k
+Squad Hertha BSC II,28,Dominik Schickersinsky,20,Germany,Right Winger,€75k
+Squad Hertha BSC II,20,Kenan Hadziavdic,20,Germany,Right Winger,€25k
+Squad Hertha BSC II,39,Derry Scherhant,21,Germany,Centre-Forward,€800k
+Squad Hertha BSC II,11,Ruwen Werthmüller,23,Switzerland,Centre-Forward,€100k
+Squad FC Energie Cottbus,12,Elias Bethke,21,Germany,Goalkeeper,€175k
+Squad FC Energie Cottbus,1,Alexander Sebald,27,Germany,Goalkeeper,€100k
+Squad FC Energie Cottbus,30,Karl Pischon,20,Germany,Goalkeeper,€25k
+Squad FC Energie Cottbus,17,Jonas Hildebrandt,27,Germany,Centre-Back,€150k
+Squad FC Energie Cottbus,4,Tim Campulka,24,Germany,Centre-Back,€125k
+Squad FC Energie Cottbus,19,Filip Kusic,27,Germany,Centre-Back,€125k
+Squad FC Energie Cottbus,27,Dennis Slamar,29,Germany,Centre-Back,€125k
+Squad FC Energie Cottbus,20,Axel Borgmann,29,Germany,Left-Back,€150k
+Squad FC Energie Cottbus,28,Niko Bretschneider,24,Germany,Left-Back,€150k
+Squad FC Energie Cottbus,14,Tobias Hasse,28,Germany,Right-Back,€125k
+Squad FC Energie Cottbus,31,Paul Milde,29,Germany,Right-Back,€75k
+Squad FC Energie Cottbus,5,Dominik Pelivan,27,Germany,Defensive Midfield,€100k
+Squad FC Energie Cottbus,8,Joshua Putze,29,Germany,Defensive Midfield,€100k
+Squad FC Energie Cottbus,6,Jonas Hofmann,27,Germany,Central Midfield,€125k
+Squad FC Energie Cottbus,21,Yannik Möker,24,Germany,Central Midfield,€125k
+Squad FC Energie Cottbus,36,Janis Juckel,19,Germany,Central Midfield,€75k
+Squad FC Energie Cottbus,33,Jan Shcherbakovski,23,Germany,Attacking Midfield,€150k
+Squad FC Energie Cottbus,42,Maximilian Pronichev,26,Russia,Attacking Midfield,€125k
+Squad FC Energie Cottbus,10,Maximilian Oesterhelweg,33,Germany,Attacking Midfield,€100k
+Squad FC Energie Cottbus,23,Maximilian Krauß,27,Germany,Left Winger,€150k
+Squad FC Energie Cottbus,11,Phil Halbauer,25,Germany,Left Winger,€125k
+Squad FC Energie Cottbus,39,Tünay Bektas,18,Germany,Left Winger,-
+Squad FC Energie Cottbus,22,Rudolf Ndualu,24,Germany,Right Winger,€75k
+Squad FC Energie Cottbus,18,Cedric Euschen,26,Germany,Second Striker,€75k
+Squad FC Energie Cottbus,9,Tim Heike,24,Germany,Centre-Forward,€200k
+Squad FC Energie Cottbus,7,Timmy Thiele,32,Germany,Centre-Forward,€150k
+Squad Greifswalder FC,1,Jakub Jakubov,35,Czech Republic,Goalkeeper,€125k
+Squad Greifswalder FC,33,Ian Werner,21,Germany,Goalkeeper,€50k
+Squad Greifswalder FC,12,Flynn Schönmottel,20,Germany,Goalkeeper,€25k
+Squad Greifswalder FC,73,Jannis Vonier,20,Germany,Goalkeeper,€25k
+Squad Greifswalder FC,2,Tobi Adewole,28,United States,Centre-Back,€100k
+Squad Greifswalder FC,24,Pascal Schmedemann,24,Germany,Centre-Back,€100k
+Squad Greifswalder FC,29,Mike Eglseder,31,Germany,Centre-Back,€100k
+Squad Greifswalder FC,5,Julian Rüh,23,Germany,Centre-Back,€50k
+Squad Greifswalder FC,21,Rudolf Sanin,24,Germany,Centre-Back,€50k
+Squad Greifswalder FC,17,Can Coskun,26,Germany,Left-Back,€150k
+Squad Greifswalder FC,27,Jannik Bandowski,30,Germany,Left-Back,€75k
+Squad Greifswalder FC,6,Jannis Farr,24,Germany,Right-Back,€75k
+Squad Greifswalder FC,15,Niclas Kubitz,23,Germany,Right-Back,€25k
+Squad Greifswalder FC,8,Niklas Brandt,32,Germany,Defensive Midfield,€125k
+Squad Greifswalder FC,68,Moritz Rosenberg,21,Germany,Defensive Midfield,€10k
+Squad Greifswalder FC,20,David Vogt,23,Germany,Central Midfield,€150k
+Squad Greifswalder FC,25,Oliver Daedlow,23,Germany,Central Midfield,€125k
+Squad Greifswalder FC,18,Elias Kratzer,24,Germany,Right Midfield,€125k
+Squad Greifswalder FC,14,Tom Weilandt,31,Germany,Attacking Midfield,€150k
+Squad Greifswalder FC,13,Wilmer Cabrera Jr.,23,United States,Left Winger,€150k
+Squad Greifswalder FC,7,Guido Kocer,35,Türkiye,Left Winger,€125k
+Squad Greifswalder FC,11,Jorik Wulff,22,Germany,Left Winger,€100k
+Squad Greifswalder FC,22,Noel Eichinger,22,Germany,Right Winger,€150k
+Squad Greifswalder FC,90,Soufian Benyamina,34,Germany,Centre-Forward,€175k
+Squad Greifswalder FC,10,Manassé Eshele,25,DR Congo,Centre-Forward,€125k
+Squad Greifswalder FC,23,Johannes Manske,24,Germany,Centre-Forward,€75k
+Squad Greifswalder FC,9,Jonas Marx,19,Germany,Centre-Forward,€25k
+Squad VSG Altglienicke,1,Lino Kasten,23,Germany,Goalkeeper,€100k
+Squad VSG Altglienicke,22,Nikolai Kemlein,21,Germany,Goalkeeper,€25k
+Squad VSG Altglienicke,33,Cedric Wermund,19,Germany,Goalkeeper,€10k
+Squad VSG Altglienicke,4,Shawn Kauter,28,Germany,Centre-Back,€100k
+Squad VSG Altglienicke,26,Tobias Gunte,27,Germany,Centre-Back,€100k
+Squad VSG Altglienicke,17,Justin Bulang,20,Germany,Centre-Back,€50k
+Squad VSG Altglienicke,28,Ebrahim Farahnak,26,Iran,Centre-Back,€50k
+Squad VSG Altglienicke,35,Ben Wagner,19,Germany,Centre-Back,€25k
+Squad VSG Altglienicke,3,Jacob Engel,23,Germany,Left-Back,€75k
+Squad VSG Altglienicke,14,Ogulcan Tezel,27,Türkiye,Right-Back,€50k
+Squad VSG Altglienicke,19,Florian Sander,24,Germany,Right-Back,€50k
+Squad VSG Altglienicke,6,Jonas Dirkner,21,Germany,Defensive Midfield,€125k
+Squad VSG Altglienicke,16,Robert Deziel Jr.,18,United States,Defensive Midfield,€100k
+Squad VSG Altglienicke,-,Robert Zietarski,30,Poland,Defensive Midfield,€50k
+Squad VSG Altglienicke,29,Jamil Dem,31,Germany,Defensive Midfield,€25k
+Squad VSG Altglienicke,8,Max Kulke,23,Germany,Central Midfield,€150k
+Squad VSG Altglienicke,5,Rintaro Yajima,31,Japan,Central Midfield,€50k
+Squad VSG Altglienicke,30,Louis Wagner,21,Germany,Central Midfield,€25k
+Squad VSG Altglienicke,7,Paul Manske,22,Germany,Right Midfield,€75k
+Squad VSG Altglienicke,10,Tolcay Cigerci,29,Türkiye,Attacking Midfield,€275k
+Squad VSG Altglienicke,20,Philip Türpitz,32,Germany,Attacking Midfield,€125k
+Squad VSG Altglienicke,12,Akaki Gogia,32,Germany,Left Winger,€200k
+Squad VSG Altglienicke,11,Ali Abu-Alfa,24,Palestine,Left Winger,€75k
+Squad VSG Altglienicke,18,Yousef Qashi,19,Germany,Right Winger,€100k
+Squad VSG Altglienicke,36,Tino Kaufmann,18,Germany,Right Winger,€100k
+Squad VSG Altglienicke,13,Marvin Pourié,33,Germany,Centre-Forward,€225k
+Squad VSG Altglienicke,9,Anthony Roczen,24,Germany,Centre-Forward,€75k
+Squad BFC Dynamo,34,Leon Bätge,26,Germany,Goalkeeper,€75k
+Squad BFC Dynamo,79,Kevin Sommer,34,Germany,Goalkeeper,€25k
+Squad BFC Dynamo,12,Paul Hainke,19,Germany,Goalkeeper,€10k
+Squad BFC Dynamo,5,Steffen Eder,26,Germany,Centre-Back,€125k
+Squad BFC Dynamo,15,David Haider,31,Iraq,Centre-Back,€100k
+Squad BFC Dynamo,27,Dominic Duncan,25,United States,Centre-Back,€75k
+Squad BFC Dynamo,24,Karim El Abed,20,Tunisia,Centre-Back,€50k
+Squad BFC Dynamo,4,Felix Meyer,21,Germany,Left-Back,€100k
+Squad BFC Dynamo,17,Ben Meyer,25,Germany,Left-Back,€75k
+Squad BFC Dynamo,13,Chris Reher,30,Germany,Right-Back,€125k
+Squad BFC Dynamo,2,John Liebelt,22,Germany,Right-Back,€50k
+Squad BFC Dynamo,22,Arthur Ekallé,27,Cameroon,Right-Back,€50k
+Squad BFC Dynamo,8,McMoordy Hüther,24,Germany,Defensive Midfield,€100k
+Squad BFC Dynamo,23,Leonidas Tiliudis,23,Germany,Defensive Midfield,€25k
+Squad BFC Dynamo,10,Julian Wießmeier,31,Germany,Central Midfield,€150k
+Squad BFC Dynamo,18,Alexander Siebeck,30,Germany,Central Midfield,€100k
+Squad BFC Dynamo,14,Joey Breitfeld,27,Germany,Right Midfield,€100k
+Squad BFC Dynamo,28,Patrick Sussek,24,Germany,Left Winger,€150k
+Squad BFC Dynamo,7,Tugay Uzan,30,Türkiye,Left Winger,€125k
+Squad BFC Dynamo,25,Tobias Stockinger,24,Germany,Right Winger,€125k
+Squad BFC Dynamo,26,Amar Suljic,25,Bosnia-Herzegovina,Right Winger,€125k
+Squad BFC Dynamo,21,Vasilios Dedidis,24,Greece,Second Striker,€100k
+Squad BFC Dynamo,9,Rufat Dadashov,32,Azerbaijan,Centre-Forward,€200k
+Squad BFC Dynamo,11,Louis Malina,21,Germany,Centre-Forward,€50k
+Squad BFC Dynamo,20,Erlind Zogjani,19,Germany,Centre-Forward,€50k
+Squad FC Carl Zeiss Jena,1,Kevin Kunz,32,Germany,Goalkeeper,€150k
+Squad FC Carl Zeiss Jena,22,Maximus Babke,20,Germany,Goalkeeper,€25k
+Squad FC Carl Zeiss Jena,30,Alexios Dedidis,22,Greece,Goalkeeper,€25k
+Squad FC Carl Zeiss Jena,4,Burim Halili,25,Germany,Centre-Back,€125k
+Squad FC Carl Zeiss Jena,5,Bastian Strietzel,25,Germany,Centre-Back,€125k
+Squad FC Carl Zeiss Jena,6,Maurice Hehne,26,Germany,Centre-Back,€100k
+Squad FC Carl Zeiss Jena,15,Marcel Hoppe,24,Germany,Left-Back,€75k
+Squad FC Carl Zeiss Jena,16,Justin Smyla,20,Germany,Left-Back,€50k
+Squad FC Carl Zeiss Jena,31,Felix Boelter,19,Germany,Left-Back,€50k
+Squad FC Carl Zeiss Jena,26,Nils Butzen,31,Germany,Right-Back,€150k
+Squad FC Carl Zeiss Jena,3,Ken Gipson,28,Germany,Right-Back,€100k
+Squad FC Carl Zeiss Jena,13,Paul Krämer,18,Germany,Right-Back,€25k
+Squad FC Carl Zeiss Jena,8,Lukas Lämmel,26,Germany,Defensive Midfield,€125k
+Squad FC Carl Zeiss Jena,25,Justin Schau,25,Germany,Defensive Midfield,€100k
+Squad FC Carl Zeiss Jena,17,Justin Petermann,25,Germany,Central Midfield,€125k
+Squad FC Carl Zeiss Jena,18,Elias Löder,23,Germany,Attacking Midfield,€175k
+Squad FC Carl Zeiss Jena,10,Alexander Prokopenko,22,Germany,Left Winger,€100k
+Squad FC Carl Zeiss Jena,33,Joshua Endres,27,Germany,Left Winger,€75k
+Squad FC Carl Zeiss Jena,20,Josien Nathaniel,20,Germany,Left Winger,€25k
+Squad FC Carl Zeiss Jena,7,Pasqual Verkamp,26,Germany,Right Winger,€100k
+Squad FC Carl Zeiss Jena,27,Joel Richter,25,Germany,Right Winger,€100k
+Squad FC Carl Zeiss Jena,9,Cemal Sezer,28,Germany,Centre-Forward,€100k
+Squad FC Carl Zeiss Jena,23,Benjamin Zank,19,Germany,Centre-Forward,€75k
+Squad FC Carl Zeiss Jena,21,Max Grimm,20,Germany,Centre-Forward,€50k
+Squad FC Hansa Rostock II,30,Max Hagemoser,21,Germany,Goalkeeper,€100k
+Squad FC Hansa Rostock II,38,Elias Höftmann,20,Germany,Goalkeeper,€50k
+Squad FC Hansa Rostock II,1,Noah-Joel Hoffmann,20,Germany,Goalkeeper,€10k
+Squad FC Hansa Rostock II,13,Patrick Nkoa,24,Cameroon,Centre-Back,€200k
+Squad FC Hansa Rostock II,4,Arbnor Aliu,21,Kosovo,Centre-Back,€25k
+Squad FC Hansa Rostock II,31,Marcel Kohn,29,Germany,Centre-Back,€25k
+Squad FC Hansa Rostock II,5,Till Kozelnik,22,Germany,Centre-Back,€10k
+Squad FC Hansa Rostock II,24,Raul Celotto,19,Germany,Centre-Back,€10k
+Squad FC Hansa Rostock II,23,Felix Ruschke,21,Germany,Left-Back,€200k
+Squad FC Hansa Rostock II,20,Jannis Lang,21,Germany,Right-Back,€125k
+Squad FC Hansa Rostock II,2,Nils Schulz,20,Germany,Right-Back,€10k
+Squad FC Hansa Rostock II,29,Benno Dietze,20,Germany,Defensive Midfield,€75k
+Squad FC Hansa Rostock II,35,Joshua Krüger,19,Germany,Defensive Midfield,€75k
+Squad FC Hansa Rostock II,27,Sascha Schünemann,32,Germany,Defensive Midfield,€25k
+Squad FC Hansa Rostock II,39,Julian Albrecht,22,Germany,Central Midfield,€125k
+Squad FC Hansa Rostock II,36,Milosz Brzozowski,19,Poland,Left Midfield,€150k
+Squad FC Hansa Rostock II,8,Louis Köster,21,Germany,Attacking Midfield,€125k
+Squad FC Hansa Rostock II,10,Alessandro Schulz,21,Germany,Attacking Midfield,€25k
+Squad FC Hansa Rostock II,18,Lucas Sperner,20,Germany,Attacking Midfield,€10k
+Squad FC Hansa Rostock II,11,Thomas Rotfuß,19,Germany,Left Winger,€50k
+Squad FC Hansa Rostock II,33,Mike Bachmann,23,Germany,Right Winger,€75k
+Squad FC Hansa Rostock II,28,Jeremy Postelt,21,Germany,Right Winger,€50k
+Squad FC Hansa Rostock II,16,Lukas Hinterseer,33,Austria,Centre-Forward,€250k
+Squad FC Hansa Rostock II,19,Luca Wollschläger,21,Germany,Centre-Forward,€125k
+Squad FC Hansa Rostock II,17,Tim Krohn,18,Germany,Centre-Forward,€100k
+Squad FC Hansa Rostock II,9,Randy Dei,20,Germany,Centre-Forward,€25k
+Squad FC Hansa Rostock II,7,Luca Barata,21,Portugal,Centre-Forward,€10k
+Squad Rot-Weiß Erfurt,1,Lukas Schellenberg,23,Germany,Goalkeeper,€50k
+Squad Rot-Weiß Erfurt,40,Jean-Marie Plath,21,Germany,Goalkeeper,€50k
+Squad Rot-Weiß Erfurt,20,Pascal Manitz,19,Germany,Goalkeeper,-
+Squad Rot-Weiß Erfurt,6,Maxime Awoudja,26,Germany,Centre-Back,€125k
+Squad Rot-Weiß Erfurt,22,Kwabe Schulz,25,Germany,Centre-Back,€75k
+Squad Rot-Weiß Erfurt,33,Lucas Zeller,24,Germany,Centre-Back,€75k
+Squad Rot-Weiß Erfurt,15,Ayooluwa Adesida,20,England,Centre-Back,€25k
+Squad Rot-Weiß Erfurt,21,Robin Fabinski,20,Germany,Centre-Back,€25k
+Squad Rot-Weiß Erfurt,23,Ismael Mansaray,20,Germany,Centre-Back,€25k
+Squad Rot-Weiß Erfurt,16,Pablo Santana Soares,22,Germany,Left-Back,€25k
+Squad Rot-Weiß Erfurt,44,Paul Lehmann,19,Germany,Right-Back,€125k
+Squad Rot-Weiß Erfurt,2,Ben-Luca Moritz,24,Germany,Right-Back,€75k
+Squad Rot-Weiß Erfurt,18,Robbie Felßberg,20,Germany,Right-Back,€50k
+Squad Rot-Weiß Erfurt,5,Andrey Startsev,29,Kazakhstan,Defensive Midfield,€75k
+Squad Rot-Weiß Erfurt,3,Til Schwarz,24,Germany,Defensive Midfield,€50k
+Squad Rot-Weiß Erfurt,8,Daniel Muteba,24,Germany,Central Midfield,€75k
+Squad Rot-Weiß Erfurt,24,Keliano Tavares,22,France,Central Midfield,€50k
+Squad Rot-Weiß Erfurt,14,Caniggia Elva,27,St. Lucia,Attacking Midfield,€125k
+Squad Rot-Weiß Erfurt,30,Erik Weinhauer,23,Germany,Attacking Midfield,€50k
+Squad Rot-Weiß Erfurt,27,Daniel Krasucki,20,Poland,Attacking Midfield,€25k
+Squad Rot-Weiß Erfurt,17,Romain Gall,29,United States,Left Winger,€175k
+Squad Rot-Weiß Erfurt,31,Artur Mergel,26,Germany,Left Winger,€150k
+Squad Rot-Weiß Erfurt,7,Malcolm Badu,26,Germany,Right Winger,€100k
+Squad Rot-Weiß Erfurt,19,Kay Seidemann,24,Germany,Right Winger,€100k
+Squad Rot-Weiß Erfurt,79,Noa-Gabriel Simic,19,Croatia,Right Winger,€75k
+Squad Rot-Weiß Erfurt,28,Maxime Langner,19,Germany,Second Striker,€25k
+Squad Rot-Weiß Erfurt,9,Michael Seaton,27,Jamaica,Centre-Forward,€125k
+Squad Rot-Weiß Erfurt,11,Romario Hajrulla,25,Albania,Centre-Forward,€100k
+Squad 1.FC Lokomotive Leipzig,1,Isa Dogan,24,Germany,Goalkeeper,€75k
+Squad 1.FC Lokomotive Leipzig,44,Niclas Müller,22,Germany,Goalkeeper,€75k
+Squad 1.FC Lokomotive Leipzig,20,Paul Krause,20,Germany,Goalkeeper,€25k
+Squad 1.FC Lokomotive Leipzig,22,Jan Löhmannsröben,32,Germany,Centre-Back,€150k
+Squad 1.FC Lokomotive Leipzig,5,Lukas Wilton,28,Germany,Centre-Back,€75k
+Squad 1.FC Lokomotive Leipzig,23,Maximilian Schütt,22,Germany,Centre-Back,€50k
+Squad 1.FC Lokomotive Leipzig,4,Jesse Sierck,26,Germany,Centre-Back,€25k
+Squad 1.FC Lokomotive Leipzig,15,Linus Zimmer,21,Germany,Left-Back,€75k
+Squad 1.FC Lokomotive Leipzig,25,Abou Ballo,26,France,Left-Back,€50k
+Squad 1.FC Lokomotive Leipzig,2,Eun-soo Gong,23,"Korea, South",Left-Back,€10k
+Squad 1.FC Lokomotive Leipzig,7,Jannis Held,24,Germany,Right-Back,€75k
+Squad 1.FC Lokomotive Leipzig,16,Nico Rieger,20,Germany,Right-Back,€10k
+Squad 1.FC Lokomotive Leipzig,6,Zak Paulo Piplica,22,Germany,Defensive Midfield,€100k
+Squad 1.FC Lokomotive Leipzig,32,Julian Weigel,22,Germany,Defensive Midfield,€50k
+Squad 1.FC Lokomotive Leipzig,24,Luca Sirch,24,Germany,Central Midfield,€175k
+Squad 1.FC Lokomotive Leipzig,8,Farid Abderrahmane,28,Germany,Central Midfield,€100k
+Squad 1.FC Lokomotive Leipzig,17,Joe Löwe,19,Germany,Central Midfield,€25k
+Squad 1.FC Lokomotive Leipzig,31,Riccardo Grym,24,Germany,Attacking Midfield,€75k
+Squad 1.FC Lokomotive Leipzig,10,Mert Arslan,20,Germany,Attacking Midfield,€50k
+Squad 1.FC Lokomotive Leipzig,99,Osman Atilgan,24,Germany,Left Winger,€150k
+Squad 1.FC Lokomotive Leipzig,34,Tobias Dombrowa,24,Germany,Left Winger,€75k
+Squad 1.FC Lokomotive Leipzig,27,Theo Ogbidi,23,Germany,Right Winger,€100k
+Squad 1.FC Lokomotive Leipzig,11,Ryan Adigo,23,Benin,Right Winger,€50k
+Squad 1.FC Lokomotive Leipzig,13,Djamal Ziane,32,Germany,Centre-Forward,€100k
+Squad 1.FC Lokomotive Leipzig,9,Will Siakam,28,Germany,Centre-Forward,€50k
+Squad FC Viktoria 1889 Berlin,22,Florian Horenburg,22,Germany,Goalkeeper,€25k
+Squad FC Viktoria 1889 Berlin,12,Niklas Petzsch,19,Germany,Goalkeeper,€10k
+Squad FC Viktoria 1889 Berlin,1,Dmytro Karika,18,Ukraine,Goalkeeper,-
+Squad FC Viktoria 1889 Berlin,4,Nikell Touglo,22,Togo,Centre-Back,€125k
+Squad FC Viktoria 1889 Berlin,17,Fatih Baca,24,Germany,Centre-Back,€100k
+Squad FC Viktoria 1889 Berlin,20,Aidan Liu,23,United States,Centre-Back,€100k
+Squad FC Viktoria 1889 Berlin,18,Marvin Pohl,17,Germany,Centre-Back,€50k
+Squad FC Viktoria 1889 Berlin,3,Eke Uzoma,34,Nigeria,Left-Back,€75k
+Squad FC Viktoria 1889 Berlin,5,Gia Huy Phong,20,Germany,Left-Back,€50k
+Squad FC Viktoria 1889 Berlin,27,Jonas Kühn,22,Germany,Left-Back,€50k
+Squad FC Viktoria 1889 Berlin,21,Alexander Dikarev,19,Germany,Right-Back,€50k
+Squad FC Viktoria 1889 Berlin,14,Larry-Nana Oellers,23,Germany,Right-Back,€25k
+Squad FC Viktoria 1889 Berlin,24,Iba May,25,Germany,Defensive Midfield,€100k
+Squad FC Viktoria 1889 Berlin,16,Mohamed Meisur,20,Germany,Defensive Midfield,€50k
+Squad FC Viktoria 1889 Berlin,6,Berk Inaler,24,Germany,Central Midfield,€125k
+Squad FC Viktoria 1889 Berlin,7,Diren-Mehmet Günay,20,Germany,Central Midfield,€75k
+Squad FC Viktoria 1889 Berlin,8,Moritz Berg,20,Germany,Central Midfield,€75k
+Squad FC Viktoria 1889 Berlin,19,Metehan Yildirim,19,Germany,Attacking Midfield,€50k
+Squad FC Viktoria 1889 Berlin,13,Shean Mensah,24,Ghana,Left Winger,€75k
+Squad FC Viktoria 1889 Berlin,29,Laurenz Dehl,22,Germany,Right Winger,€200k
+Squad FC Viktoria 1889 Berlin,11,Julien Damelang,20,Germany,Right Winger,€75k
+Squad FC Viktoria 1889 Berlin,10,Lucas Falcão,24,Brazil,Second Striker,€150k
+Squad FC Viktoria 1889 Berlin,25,Oleg Skakun,19,Ukraine,Second Striker,€50k
+Squad FC Viktoria 1889 Berlin,23,Nicolas Hebisch,34,Germany,Centre-Forward,€75k
+Squad SV Babelsberg 03,1,Luis Klatte,24,Germany,Goalkeeper,€150k
+Squad SV Babelsberg 03,28,Marco Flügel,29,Germany,Goalkeeper,€10k
+Squad SV Babelsberg 03,29,Linus Löffler,19,Germany,Goalkeeper,€10k
+Squad SV Babelsberg 03,22,Janne Sietan,21,Germany,Centre-Back,€100k
+Squad SV Babelsberg 03,5,Jake Wilton,25,Germany,Centre-Back,€75k
+Squad SV Babelsberg 03,21,Philipp Zeiger,33,Germany,Centre-Back,€75k
+Squad SV Babelsberg 03,27,Gordon Büch,28,Germany,Left-Back,€100k
+Squad SV Babelsberg 03,17,Mateo Kastrati,23,Germany,Left-Back,€25k
+Squad SV Babelsberg 03,19,Marcel Rausch,27,Germany,Right-Back,€75k
+Squad SV Babelsberg 03,2,Malcom Scheibner,19,Germany,Right-Back,€25k
+Squad SV Babelsberg 03,33,Leon Bürger,24,Germany,Defensive Midfield,€100k
+Squad SV Babelsberg 03,18,David Danko,31,Slovakia,Defensive Midfield,€50k
+Squad SV Babelsberg 03,8,Emir Can Gencel,22,Germany,Central Midfield,€75k
+Squad SV Babelsberg 03,26,Andreas Pollasch,31,Germany,Central Midfield,€75k
+Squad SV Babelsberg 03,6,Paul Wegener,23,Germany,Central Midfield,€50k
+Squad SV Babelsberg 03,31,Rico Gladrow,33,Germany,Central Midfield,€50k
+Squad SV Babelsberg 03,30,Tahsin Cakmak,26,Türkiye,Attacking Midfield,€100k
+Squad SV Babelsberg 03,10,Tino Schmidt,30,Germany,Attacking Midfield,€50k
+Squad SV Babelsberg 03,14,Samir Werbelow,23,Germany,Left Winger,€75k
+Squad SV Babelsberg 03,20,Ilir Qela,23,Germany,Left Winger,€75k
+Squad SV Babelsberg 03,7,Daoud Iraqi,24,Palestine,Left Winger,€50k
+Squad SV Babelsberg 03,23,Matthias Steinborn,35,Germany,Right Winger,€75k
+Squad SV Babelsberg 03,24,Luca Schulz,25,Germany,Right Winger,€50k
+Squad SV Babelsberg 03,9,Julius Hoffmann,19,Germany,Centre-Forward,€100k
+Squad SV Babelsberg 03,11,Daniel Frahn,36,Germany,Centre-Forward,€75k
+Squad Chemnitzer FC,1,David Wunsch,21,Germany,Goalkeeper,€75k
+Squad Chemnitzer FC,32,Stanley Birke,18,Germany,Goalkeeper,€25k
+Squad Chemnitzer FC,33,Clemens Boldt,17,Germany,Goalkeeper,-
+Squad Chemnitzer FC,21,Robert Zickert,34,Germany,Centre-Back,€75k
+Squad Chemnitzer FC,23,Felix Müller,26,Germany,Centre-Back,€75k
+Squad Chemnitzer FC,25,Roman Eppendorfer,21,Germany,Centre-Back,€75k
+Squad Chemnitzer FC,5,Stefan Pribanovic,26,Austria,Centre-Back,€50k
+Squad Chemnitzer FC,24,Jan Koch,28,Germany,Centre-Back,€50k
+Squad Chemnitzer FC,17,Yanick Abayomi,19,Finland,Centre-Back,€10k
+Squad Chemnitzer FC,4,Niclas Walther,21,Germany,Left-Back,€100k
+Squad Chemnitzer FC,3,Marius Schreiber,21,Germany,Left-Back,€25k
+Squad Chemnitzer FC,16,Manuel Reutter,22,Germany,Right-Back,€100k
+Squad Chemnitzer FC,22,Robert Berger,27,Kazakhstan,Right-Back,€100k
+Squad Chemnitzer FC,38,Tobias Müller,30,Germany,Defensive Midfield,€125k
+Squad Chemnitzer FC,6,Niclas Erlbeck,31,Germany,Defensive Midfield,€75k
+Squad Chemnitzer FC,20,Leon Ampadu,22,Germany,Central Midfield,€75k
+Squad Chemnitzer FC,26,Lukas Stagge,26,Germany,Central Midfield,€50k
+Squad Chemnitzer FC,7,Jannick Wolter,19,Germany,Right Midfield,€25k
+Squad Chemnitzer FC,8,Nils Lihsek,24,Germany,Left Midfield,€50k
+Squad Chemnitzer FC,10,Stephan Mensah,23,Germany,Left Winger,€75k
+Squad Chemnitzer FC,18,Stanley Keller,22,Germany,Left Winger,€75k
+Squad Chemnitzer FC,13,Leon Damer,24,Germany,Right Winger,€150k
+Squad Chemnitzer FC,9,Max Roscher,20,Germany,Right Winger,€50k
+Squad Chemnitzer FC,11,Dejan Bozic,31,Germany,Centre-Forward,€100k
+Squad Chemnitzer FC,14,Kingsley Alison Akindele,19,Germany,Centre-Forward,€25k
+Squad Chemnitzer FC,29,Davis Smith,26,United States,Centre-Forward,€25k
+Squad FSV Zwickau,1,Benjamin Leneis,25,Germany,Goalkeeper,€50k
+Squad FSV Zwickau,30,Lucas Hiemann,24,Germany,Goalkeeper,€50k
+Squad FSV Zwickau,12,Leon Asseth,18,Germany,Goalkeeper,€10k
+Squad FSV Zwickau,4,Kilian Senkbeil,24,Germany,Centre-Back,€75k
+Squad FSV Zwickau,19,Davy Frick,34,Germany,Centre-Back,€75k
+Squad FSV Zwickau,31,Sonny Ziemer,22,Germany,Centre-Back,€75k
+Squad FSV Zwickau,6,Philipp Heller,19,Germany,Centre-Back,€50k
+Squad FSV Zwickau,27,Lloyd-Addo Kuffour,21,Germany,Left-Back,€75k
+Squad FSV Zwickau,16,Sandro Sengersdorf,25,Germany,Left-Back,€50k
+Squad FSV Zwickau,3,Rene Rüther,23,Germany,Right-Back,€50k
+Squad FSV Zwickau,2,Till Schöneich,18,Germany,Right-Back,€10k
+Squad FSV Zwickau,8,Maximilian Somnitz,20,Germany,Defensive Midfield,€100k
+Squad FSV Zwickau,23,Felix Schlüsselburg,22,Germany,Defensive Midfield,€50k
+Squad FSV Zwickau,14,Yannick Linnemann,19,Germany,Defensive Midfield,€10k
+Squad FSV Zwickau,13,Mike Könnecke,35,Germany,Central Midfield,€75k
+Squad FSV Zwickau,18,Louis Schädel,19,Germany,Right Midfield,€10k
+Squad FSV Zwickau,7,Yannic Voigt,21,Germany,Left Midfield,€100k
+Squad FSV Zwickau,20,Jahn Herrmann,23,Germany,Attacking Midfield,€100k
+Squad FSV Zwickau,24,Luis Klein,20,Germany,Left Winger,€50k
+Squad FSV Zwickau,11,Theo Martens,21,Germany,Right Winger,€75k
+Squad FSV Zwickau,33,Marc-Philipp Zimmermann,34,Germany,Centre-Forward,€100k
+Squad FSV Zwickau,28,Veron Dobruna,23,Kosovo,Centre-Forward,€75k
+Squad FSV Zwickau,5,Lucas Albert,24,Germany,Centre-Forward,€50k
+Squad FSV Zwickau,9,Lucas Will,24,Germany,Centre-Forward,€50k
+Squad FSV 63 Luckenwalde,26,Florian Palmowski,22,Germany,Goalkeeper,€25k
+Squad FSV 63 Luckenwalde,30,Kevin Tittel,30,Germany,Goalkeeper,€25k
+Squad FSV 63 Luckenwalde,1,Jonas Dieseler,24,Germany,Goalkeeper,€10k
+Squad FSV 63 Luckenwalde,6,Edgar Kaizer,20,Germany,Centre-Back,€100k
+Squad FSV 63 Luckenwalde,13,Mathis Bruns,20,Germany,Centre-Back,€75k
+Squad FSV 63 Luckenwalde,4,Jonas Böhmert,20,Germany,Centre-Back,€50k
+Squad FSV 63 Luckenwalde,5,Lucas Albrecht,33,Germany,Centre-Back,€50k
+Squad FSV 63 Luckenwalde,14,Sofiene Jannene,21,Germany,Centre-Back,€50k
+Squad FSV 63 Luckenwalde,21,Lucas Vierling,26,Germany,Centre-Back,€50k
+Squad FSV 63 Luckenwalde,3,Justin Ullmann,22,Germany,Centre-Back,€10k
+Squad FSV 63 Luckenwalde,15,Levin Mattmüller,20,Germany,Defensive Midfield,€50k
+Squad FSV 63 Luckenwalde,16,Leon Hellwig,33,Germany,Defensive Midfield,€25k
+Squad FSV 63 Luckenwalde,20,Moritz Wallmann,19,Germany,Midfielder,-
+Squad FSV 63 Luckenwalde,24,Lukas Möckel,20,Germany,Midfielder,-
+Squad FSV 63 Luckenwalde,18,Christian Flath,30,Germany,Central Midfield,€75k
+Squad FSV 63 Luckenwalde,22,Fabio Schneider,21,Germany,Central Midfield,€75k
+Squad FSV 63 Luckenwalde,23,Oliver Maric,21,Germany,Right Midfield,€75k
+Squad FSV 63 Luckenwalde,7,Clemens Koplin,29,Germany,Right Midfield,€25k
+Squad FSV 63 Luckenwalde,19,Luca Dahlke,20,Germany,Left Midfield,€50k
+Squad FSV 63 Luckenwalde,25,Tim Göth,25,Germany,Left Midfield,€50k
+Squad FSV 63 Luckenwalde,10,Niklas Geisler,23,Germany,Attacking Midfield,€50k
+Squad FSV 63 Luckenwalde,17,Phil Butendeich,23,Germany,Attacking Midfield,€50k
+Squad FSV 63 Luckenwalde,8,Timm Koch,20,Germany,Attacking Midfield,€25k
+Squad FSV 63 Luckenwalde,11,Jorden Winter,20,Germany,Centre-Forward,€150k
+Squad FSV 63 Luckenwalde,29,Simon Gollnack,22,Germany,Centre-Forward,€100k
+Squad FSV 63 Luckenwalde,9,Till Plumpe,23,Germany,Centre-Forward,€50k
+Squad BSG Chemie Leipzig,1,Benjamin Bellot,33,Germany,Goalkeeper,€75k
+Squad BSG Chemie Leipzig,12,Jonas Janke,21,Germany,Goalkeeper,€25k
+Squad BSG Chemie Leipzig,22,Lenno Udo Schmidt,20,Germany,Goalkeeper,€10k
+Squad BSG Chemie Leipzig,28,Philipp Harant,25,Germany,Centre-Back,€100k
+Squad BSG Chemie Leipzig,39,Paul Horschig,24,Germany,Centre-Back,€75k
+Squad BSG Chemie Leipzig,14,Vin Kastull,19,Germany,Centre-Back,€50k
+Squad BSG Chemie Leipzig,18,Philipp Wendt,27,Germany,Centre-Back,€50k
+Squad BSG Chemie Leipzig,4,Manuel Wajer,29,Germany,Left-Back,€25k
+Squad BSG Chemie Leipzig,2,Florian Brügmann,33,Germany,Right-Back,€100k
+Squad BSG Chemie Leipzig,31,Luca Marino,24,Germany,Right-Back,€25k
+Squad BSG Chemie Leipzig,5,Cemal Kaymaz,26,Germany,Defensive Midfield,€50k
+Squad BSG Chemie Leipzig,17,Thilo Gildenberg,22,Germany,Defensive Midfield,€25k
+Squad BSG Chemie Leipzig,10,Dennis Mast,32,Germany,Central Midfield,€75k
+Squad BSG Chemie Leipzig,7,Alexander Bury,32,Germany,Central Midfield,€50k
+Squad BSG Chemie Leipzig,11,Lucas Surek,27,Germany,Left Midfield,€75k
+Squad BSG Chemie Leipzig,21,Marcel Hilßner,29,Germany,Attacking Midfield,€100k
+Squad BSG Chemie Leipzig,6,Irfan Brando,23,Germany,Attacking Midfield,€50k
+Squad BSG Chemie Leipzig,19,Yusuf Dogan,19,Germany,Attacking Midfield,€10k
+Squad BSG Chemie Leipzig,33,Denis Jäpel,25,Germany,Left Winger,€75k
+Squad BSG Chemie Leipzig,8,Elias Ndukwe Oke,19,Germany,Left Winger,€10k
+Squad BSG Chemie Leipzig,9,Timo Mauer,26,Germany,Right Winger,€75k
+Squad BSG Chemie Leipzig,27,Janik Mäder,27,Germany,Right Winger,€75k
+Squad BSG Chemie Leipzig,20,Florian Kirstein,28,Germany,Centre-Forward,€50k
+Squad BSG Chemie Leipzig,37,Maximilian Jagatic,19,Germany,Centre-Forward,€10k
+Squad ZFC Meuselwitz,36,Lukas Sedlak,24,Germany,Goalkeeper,€75k
+Squad ZFC Meuselwitz,1,Justin Fietz,21,Germany,Goalkeeper,€25k
+Squad ZFC Meuselwitz,33,Leon Schmökel,21,Germany,Centre-Back,€75k
+Squad ZFC Meuselwitz,16,Ben Keßler,21,Germany,Centre-Back,€50k
+Squad ZFC Meuselwitz,28,Nils Miatke,34,Germany,Centre-Back,€50k
+Squad ZFC Meuselwitz,3,Felix Rehder,21,Germany,Centre-Back,€25k
+Squad ZFC Meuselwitz,20,Fabian Raithel,28,Germany,Left-Back,€75k
+Squad ZFC Meuselwitz,7,Dominik Bock,29,Germany,Right-Back,€75k
+Squad ZFC Meuselwitz,21,Nils Schätzle,24,Germany,Defensive Midfield,€25k
+Squad ZFC Meuselwitz,6,Luca Bürger,27,Germany,Central Midfield,€75k
+Squad ZFC Meuselwitz,30,René Eckardt,34,Germany,Central Midfield,€50k
+Squad ZFC Meuselwitz,13,Till Jacobi,21,Germany,Attacking Midfield,€75k
+Squad ZFC Meuselwitz,17,Amer Kadric,29,Bosnia-Herzegovina,Attacking Midfield,€50k
+Squad ZFC Meuselwitz,10,Can Sakar,26,Germany,Attacking Midfield,€10k
+Squad ZFC Meuselwitz,9,Andy Trübenbach,32,Germany,Left Winger,€75k
+Squad ZFC Meuselwitz,23,Luis Fischer,19,Germany,Left Winger,€75k
+Squad ZFC Meuselwitz,22,Florian Hansch,28,Germany,Right Winger,€100k
+Squad ZFC Meuselwitz,18,Johannes Pistol,22,Germany,Right Winger,€25k
+Squad ZFC Meuselwitz,19,Christoph Pauling,23,Germany,Right Winger,€25k
+Squad ZFC Meuselwitz,11,Arlind Shoshi,26,Kosovo,Centre-Forward,€50k
+Squad ZFC Meuselwitz,24,Michel Ulrich,24,Germany,Centre-Forward,€50k
+Squad Berliner AK 07,1,Luis Zwick,29,Germany,Goalkeeper,€50k
+Squad Berliner AK 07,33,Kilian Schubert,21,Germany,Goalkeeper,€25k
+Squad Berliner AK 07,22,Hendrik Wurr,28,Germany,Centre-Back,€50k
+Squad Berliner AK 07,5,Nicolo Avellino,23,Germany,Centre-Back,€25k
+Squad Berliner AK 07,10,Panzu Ernesto,25,Angola,Centre-Back,€25k
+Squad Berliner AK 07,24,Cedrik Mvondo,26,Germany,Centre-Back,€25k
+Squad Berliner AK 07,4,Rocco Capoano,18,Italy,Centre-Back,€10k
+Squad Berliner AK 07,7,Ahmad Rmieh,20,Germany,Left-Back,€25k
+Squad Berliner AK 07,3,Aleksandar Bilbija,25,Germany,Right-Back,€50k
+Squad Berliner AK 07,81,Shinji Yamada,30,Japan,Right-Back,€50k
+Squad Berliner AK 07,25,Roko Ivankovic,24,Croatia,Defensive Midfield,€150k
+Squad Berliner AK 07,6,Omar Hajjaj,21,Germany,Defensive Midfield,€25k
+Squad Berliner AK 07,27,Umut Satici,21,Türkiye,Defensive Midfield,€25k
+Squad Berliner AK 07,18,Olivér Schindler,24,Germany,Central Midfield,€50k
+Squad Berliner AK 07,61,Cihan Ucar,29,Türkiye,Central Midfield,€25k
+Squad Berliner AK 07,26,Moussa Belaid,20,Algeria,Central Midfield,€10k
+Squad Berliner AK 07,15,Joel Bustamante,23,United States,Attacking Midfield,€25k
+Squad Berliner AK 07,23,Ali Baran Akdag,19,Türkiye,Attacking Midfield,€10k
+Squad Berliner AK 07,17,Ufumwen Osawe,25,Nigeria,Left Winger,€50k
+Squad Berliner AK 07,8,Marcel Bremer,25,Germany,Left Winger,€25k
+Squad Berliner AK 07,20,Selim Gündüz,29,Germany,Left Winger,€25k
+Squad Berliner AK 07,29,Antonio Lubaki,20,Germany,Right Winger,€50k
+Squad Berliner AK 07,19,Semih Kayan,23,Türkiye,Right Winger,€10k
+Squad Berliner AK 07,9,Jamal Rogero,20,Germany,Centre-Forward,€50k
+Squad Berliner AK 07,11,Felix Pilger,21,Germany,Centre-Forward,€50k
+Squad Berliner AK 07,14,Abu Bakarr Kargbo,31,Sierra Leone,Centre-Forward,€50k
+Squad FC Eilenburg,1,Andreas Naumann,31,Germany,Goalkeeper,€25k
+Squad FC Eilenburg,32,Luca Bendel,20,Germany,Goalkeeper,€25k
+Squad FC Eilenburg,33,Janne Kamenz,21,Germany,Goalkeeper,€10k
+Squad FC Eilenburg,27,Quentin Seidel,21,Germany,Centre-Back,€50k
+Squad FC Eilenburg,5,Adrian Jarosch,23,Germany,Centre-Back,€25k
+Squad FC Eilenburg,25,Kilian Zaruba,22,Germany,Centre-Back,€25k
+Squad FC Eilenburg,20,Santos,28,Brazil,Centre-Back,€10k
+Squad FC Eilenburg,24,Arne Rühlemann,19,Germany,Left-Back,€50k
+Squad FC Eilenburg,2,Philipp Sauer,29,Germany,Left-Back,€10k
+Squad FC Eilenburg,4,Nils Tzeuschner,21,Germany,Left-Back,€10k
+Squad FC Eilenburg,16,Alexander Vogel,27,Germany,Right-Back,€25k
+Squad FC Eilenburg,19,Patrick Aguilar,22,Germany,Right-Back,€25k
+Squad FC Eilenburg,29,Michael Schlicht,30,Germany,Defensive Midfield,€50k
+Squad FC Eilenburg,15,Anton Rücker,23,Germany,Defensive Midfield,€25k
+Squad FC Eilenburg,14,Moritz Kretzer,26,Germany,Central Midfield,€25k
+Squad FC Eilenburg,6,Kevin Wadewitz,22,Germany,Central Midfield,€10k
+Squad FC Eilenburg,17,Christoph Bartlog,32,Germany,Right Midfield,€10k
+Squad FC Eilenburg,21,Noah Baumann,22,Germany,Attacking Midfield,€25k
+Squad FC Eilenburg,31,Hugo Jung,20,Germany,Attacking Midfield,€10k
+Squad FC Eilenburg,8,Tim Bunge,27,Germany,Left Winger,€50k
+Squad FC Eilenburg,11,Niklas Borck,20,Germany,Left Winger,€25k
+Squad FC Eilenburg,30,Ibrahim Al-Dawoud,23,Palestine,Left Winger,€10k
+Squad FC Eilenburg,9,Lennert Möbius,20,Germany,Right Winger,€25k
+Squad FC Eilenburg,3,Pascal Sauer,23,Germany,Right Winger,€10k
+Squad FC Eilenburg,22,Benjamin Luis,24,Germany,Centre-Forward,€75k
+Squad FC Eilenburg,7,Christopher Bibaku,28,France,Centre-Forward,€50k

@@ -1,0 +1,2434 @@
+team name,num,name,age,nationality,position,market value
+Squad Real Madrid,1,Thibaut Courtois,31,Belgium,Goalkeeper,€30.00m
+Squad Real Madrid,13,Andriy Lunin,25,Ukraine,Goalkeeper,€16.00m
+Squad Real Madrid,25,Kepa Arrizabalaga,29,Spain,Goalkeeper,€12.00m
+Squad Real Madrid,3,Éder Militão,26,Brazil,Centre-Back,€70.00m
+Squad Real Madrid,4,David Alaba,31,Austria,Centre-Back,€25.00m
+Squad Real Madrid,22,Antonio Rüdiger,31,Germany,Centre-Back,€25.00m
+Squad Real Madrid,6,Nacho Fernández,34,Spain,Centre-Back,€4.00m
+Squad Real Madrid,23,Ferland Mendy,28,France,Left-Back,€20.00m
+Squad Real Madrid,20,Fran García,24,Spain,Left-Back,€15.00m
+Squad Real Madrid,2,Daniel Carvajal,32,Spain,Right-Back,€12.00m
+Squad Real Madrid,17,Lucas Vázquez,32,Spain,Right-Back,€5.00m
+Squad Real Madrid,18,Aurélien Tchouaméni,24,France,Defensive Midfield,€90.00m
+Squad Real Madrid,15,Federico Valverde,25,Uruguay,Central Midfield,€100.00m
+Squad Real Madrid,12,Eduardo Camavinga,21,France,Central Midfield,€90.00m
+Squad Real Madrid,8,Toni Kroos,34,Germany,Central Midfield,€12.00m
+Squad Real Madrid,10,Luka Modric,38,Croatia,Central Midfield,€8.00m
+Squad Real Madrid,19,Dani Ceballos,27,Spain,Central Midfield,€8.00m
+Squad Real Madrid,5,Jude Bellingham,20,England,Attacking Midfield,€180.00m
+Squad Real Madrid,21,Brahim Díaz,24,Morocco,Attacking Midfield,€35.00m
+Squad Real Madrid,24,Arda Güler,19,Türkiye,Attacking Midfield,€15.00m
+Squad Real Madrid,32,Nico Paz,19,Argentina,Attacking Midfield,€10.00m
+Squad Real Madrid,7,Vinicius Junior,23,Brazil,Left Winger,€150.00m
+Squad Real Madrid,11,Rodrygo,23,Brazil,Right Winger,€100.00m
+Squad Real Madrid,14,Joselu,34,Spain,Centre-Forward,€5.00m
+Squad FC Barcelona,1,Marc-André ter Stegen,31,Germany,Goalkeeper,€30.00m
+Squad FC Barcelona,13,Iñaki Peña,25,Spain,Goalkeeper,€8.00m
+Squad FC Barcelona,26,Ander Astralaga,20,Spain,Goalkeeper,€500k
+Squad FC Barcelona,4,Ronald Araujo,25,Uruguay,Centre-Back,€70.00m
+Squad FC Barcelona,23,Jules Koundé,25,France,Centre-Back,€50.00m
+Squad FC Barcelona,15,Andreas Christensen,28,Denmark,Centre-Back,€40.00m
+Squad FC Barcelona,33,Pau Cubarsí,17,Spain,Centre-Back,€25.00m
+Squad FC Barcelona,5,Iñigo Martínez,32,Spain,Centre-Back,€6.00m
+Squad FC Barcelona,3,Alejandro Balde,20,Spain,Left-Back,€40.00m
+Squad FC Barcelona,17,Marcos Alonso,33,Spain,Left-Back,€3.00m
+Squad FC Barcelona,2,João Cancelo,29,Portugal,Right-Back,€30.00m
+Squad FC Barcelona,39,Héctor Fort,17,Spain,Right-Back,€7.50m
+Squad FC Barcelona,18,Oriol Romeu,32,Spain,Defensive Midfield,€3.00m
+Squad FC Barcelona,6,Gavi,19,Spain,Central Midfield,€90.00m
+Squad FC Barcelona,8,Pedri,21,Spain,Central Midfield,€80.00m
+Squad FC Barcelona,21,Frenkie de Jong,26,Netherlands,Central Midfield,€70.00m
+Squad FC Barcelona,22,İlkay Gündoğan,33,Germany,Central Midfield,€16.00m
+Squad FC Barcelona,16,Fermín López,20,Spain,Central Midfield,€15.00m
+Squad FC Barcelona,20,Sergi Roberto,32,Spain,Central Midfield,€3.00m
+Squad FC Barcelona,7,Ferran Torres,24,Spain,Left Winger,€35.00m
+Squad FC Barcelona,14,João Félix,24,Portugal,Left Winger,€30.00m
+Squad FC Barcelona,27,Lamine Yamal,16,Spain,Right Winger,€75.00m
+Squad FC Barcelona,11,Raphinha,27,Brazil,Right Winger,€50.00m
+Squad FC Barcelona,19,Vitor Roque,19,Brazil,Centre-Forward,€40.00m
+Squad FC Barcelona,9,Robert Lewandowski,35,Poland,Centre-Forward,€15.00m
+Squad FC Barcelona,38,Marc Guiu,18,Spain,Centre-Forward,€7.50m
+Squad Real Sociedad,1,Álex Remiro,29,Spain,Goalkeeper,€25.00m
+Squad Real Sociedad,13,Unai Marrero,22,Spain,Goalkeeper,€300k
+Squad Real Sociedad,24,Robin Le Normand,27,Spain,Centre-Back,€40.00m
+Squad Real Sociedad,5,Igor Zubeldia,27,Spain,Centre-Back,€22.00m
+Squad Real Sociedad,6,Aritz Elustondo,30,Spain,Centre-Back,€9.00m
+Squad Real Sociedad,20,Jon Pacheco,23,Spain,Centre-Back,€8.00m
+Squad Real Sociedad,17,Kieran Tierney,26,Scotland,Left-Back,€12.00m
+Squad Real Sociedad,3,Aihen Muñoz,26,Spain,Left-Back,€8.00m
+Squad Real Sociedad,25,Javi Galán,29,Spain,Left-Back,€7.00m
+Squad Real Sociedad,18,Hamari Traoré,32,Mali,Right-Back,€7.50m
+Squad Real Sociedad,2,Álvaro Odriozola,28,Spain,Right-Back,€3.00m
+Squad Real Sociedad,39,Jon Aramburu,21,Venezuela,Right-Back,€2.00m
+Squad Real Sociedad,4,Martín Zubimendi,25,Spain,Defensive Midfield,€50.00m
+Squad Real Sociedad,15,Urko González de Zarate,23,Spain,Defensive Midfield,€1.50m
+Squad Real Sociedad,8,Mikel Merino,27,Spain,Central Midfield,€50.00m
+Squad Real Sociedad,22,Beñat Turrientes,22,Spain,Central Midfield,€12.00m
+Squad Real Sociedad,16,Jon Ander Olasagasti,23,Spain,Central Midfield,€2.00m
+Squad Real Sociedad,23,Brais Méndez,27,Spain,Attacking Midfield,€40.00m
+Squad Real Sociedad,12,Arsen Zakharyan,20,Russia,Attacking Midfield,€15.00m
+Squad Real Sociedad,28,Jon Magunazelaia,22,Spain,Attacking Midfield,€1.00m
+Squad Real Sociedad,10,Mikel Oyarzabal,26,Spain,Left Winger,€50.00m
+Squad Real Sociedad,7,Ander Barrenetxea,22,Spain,Left Winger,€20.00m
+Squad Real Sociedad,-,Martín Merquelanz,28,Spain,Left Winger,€800k
+Squad Real Sociedad,14,Takefusa Kubo,22,Japan,Right Winger,€60.00m
+Squad Real Sociedad,19,Umar Sadiq,27,Nigeria,Centre-Forward,€14.00m
+Squad Real Sociedad,11,Sheraldo Becker,29,Suriname,Centre-Forward,€10.00m
+Squad Real Sociedad,21,André Silva,28,Portugal,Centre-Forward,€7.50m
+Squad Real Sociedad,9,Carlos Fernández,27,Spain,Centre-Forward,€3.00m
+Squad Atlético de Madrid,13,Jan Oblak,31,Slovenia,Goalkeeper,€30.00m
+Squad Atlético de Madrid,1,Horaţiu Moldovan,26,Romania,Goalkeeper,€2.50m
+Squad Atlético de Madrid,2,José María Giménez,29,Uruguay,Centre-Back,€25.00m
+Squad Atlético de Madrid,22,Mario Hermoso,28,Spain,Centre-Back,€25.00m
+Squad Atlético de Madrid,20,Axel Witsel,35,Belgium,Centre-Back,€4.00m
+Squad Atlético de Madrid,15,Stefan Savic,33,Montenegro,Centre-Back,€3.00m
+Squad Atlético de Madrid,4,Gabriel Paulista,33,Brazil,Centre-Back,€2.50m
+Squad Atlético de Madrid,23,Reinildo Mandava,30,Mozambique,Left-Back,€12.00m
+Squad Atlético de Madrid,16,Nahuel Molina,26,Argentina,Right-Back,€35.00m
+Squad Atlético de Madrid,3,César Azpilicueta,34,Spain,Right-Back,€3.00m
+Squad Atlético de Madrid,5,Rodrigo de Paul,29,Argentina,Central Midfield,€30.00m
+Squad Atlético de Madrid,14,Marcos Llorente,29,Spain,Central Midfield,€30.00m
+Squad Atlético de Madrid,18,Arthur Vermeeren,19,Belgium,Central Midfield,€30.00m
+Squad Atlético de Madrid,24,Pablo Barrios,20,Spain,Central Midfield,€25.00m
+Squad Atlético de Madrid,6,Koke,32,Spain,Central Midfield,€12.00m
+Squad Atlético de Madrid,8,Saúl Ñíguez,29,Spain,Central Midfield,€7.50m
+Squad Atlético de Madrid,11,Thomas Lemar,28,France,Attacking Midfield,€12.00m
+Squad Atlético de Madrid,12,Samuel Lino,24,Brazil,Left Winger,€25.00m
+Squad Atlético de Madrid,17,Rodrigo Riquelme,24,Spain,Left Winger,€25.00m
+Squad Atlético de Madrid,-,Marcos Paulo,23,Portugal,Left Winger,€4.00m
+Squad Atlético de Madrid,-,Vitolo,34,Spain,Left Winger,€300k
+Squad Atlético de Madrid,10,Ángel Correa,29,Argentina,Right Winger,€18.00m
+Squad Atlético de Madrid,7,Antoine Griezmann,33,France,Centre-Forward,€25.00m
+Squad Atlético de Madrid,19,Álvaro Morata,31,Spain,Centre-Forward,€20.00m
+Squad Atlético de Madrid,9,Memphis Depay,30,Netherlands,Centre-Forward,€12.00m
+Squad Athletic Bilbao,1,Unai Simón,26,Spain,Goalkeeper,€25.00m
+Squad Athletic Bilbao,13,Julen Agirrezabala,23,Spain,Goalkeeper,€5.00m
+Squad Athletic Bilbao,3,Dani Vivian,24,Spain,Centre-Back,€25.00m
+Squad Athletic Bilbao,4,Aitor Paredes,23,Spain,Centre-Back,€15.00m
+Squad Athletic Bilbao,5,Yeray Álvarez,29,Spain,Centre-Back,€10.00m
+Squad Athletic Bilbao,17,Yuri Berchiche,34,Spain,Left-Back,€2.00m
+Squad Athletic Bilbao,19,Imanol García de Albéniz,23,Spain,Left-Back,€1.50m
+Squad Athletic Bilbao,15,Iñigo Lekue,30,Spain,Right-Back,€3.00m
+Squad Athletic Bilbao,18,Óscar de Marcos,35,Spain,Right-Back,€1.80m
+Squad Athletic Bilbao,6,Mikel Vesga,31,Spain,Defensive Midfield,€5.00m
+Squad Athletic Bilbao,24,Beñat Prados,23,Spain,Central Midfield,€8.00m
+Squad Athletic Bilbao,16,Iñigo Ruiz de Galarreta,30,Spain,Central Midfield,€5.00m
+Squad Athletic Bilbao,21,Ander Herrera,34,Spain,Central Midfield,€2.50m
+Squad Athletic Bilbao,14,Dani García,33,Spain,Central Midfield,€2.00m
+Squad Athletic Bilbao,31,Mikel Jauregizar,20,Spain,Central Midfield,€800k
+Squad Athletic Bilbao,8,Oihan Sancet,23,Spain,Attacking Midfield,€35.00m
+Squad Athletic Bilbao,10,Iker Muniain,31,Spain,Attacking Midfield,€6.00m
+Squad Athletic Bilbao,30,Unai Gómez,20,Spain,Attacking Midfield,€1.50m
+Squad Athletic Bilbao,11,Nico Williams,21,Spain,Left Winger,€50.00m
+Squad Athletic Bilbao,7,Álex Berenguer,28,Spain,Left Winger,€12.00m
+Squad Athletic Bilbao,23,Adu Ares,22,Spain,Left Winger,€1.00m
+Squad Athletic Bilbao,9,Iñaki Williams,29,Ghana,Right Winger,€25.00m
+Squad Athletic Bilbao,12,Gorka Guruzeta,27,Spain,Centre-Forward,€15.00m
+Squad Athletic Bilbao,20,Asier Villalibre,26,Spain,Centre-Forward,€2.50m
+Squad Athletic Bilbao,22,Raúl García,37,Spain,Centre-Forward,€2.00m
+Squad Girona FC,13,Paulo Gazzaniga,32,Argentina,Goalkeeper,€4.00m
+Squad Girona FC,1,Juan Carlos,36,Spain,Goalkeeper,€300k
+Squad Girona FC,26,Toni Fuidias,23,Spain,Goalkeeper,€300k
+Squad Girona FC,25,Eric García,23,Spain,Centre-Back,€15.00m
+Squad Girona FC,5,David López,34,Spain,Centre-Back,€3.00m
+Squad Girona FC,17,Daley Blind,34,Netherlands,Centre-Back,€3.00m
+Squad Girona FC,15,Juanpe,32,Spain,Centre-Back,€1.20m
+Squad Girona FC,3,Miguel Gutiérrez,22,Spain,Left-Back,€20.00m
+Squad Girona FC,20,Yan Couto,21,Brazil,Right-Back,€15.00m
+Squad Girona FC,4,Arnau Martínez,20,Spain,Right-Back,€10.00m
+Squad Girona FC,14,Aleix García,26,Spain,Central Midfield,€25.00m
+Squad Girona FC,21,Yangel Herrera,26,Venezuela,Central Midfield,€20.00m
+Squad Girona FC,18,Pablo Torre,21,Spain,Central Midfield,€3.00m
+Squad Girona FC,22,Jhon Solís,19,Colombia,Central Midfield,€3.00m
+Squad Girona FC,23,Iván Martín,25,Spain,Attacking Midfield,€15.00m
+Squad Girona FC,10,Borja García,33,Spain,Attacking Midfield,€1.00m
+Squad Girona FC,16,Sávio,20,Brazil,Left Winger,€40.00m
+Squad Girona FC,19,Toni Villa,29,Spain,Left Winger,€2.00m
+Squad Girona FC,8,Viktor Tsygankov,26,Ukraine,Right Winger,€28.00m
+Squad Girona FC,24,Portu,31,Spain,Right Winger,€3.50m
+Squad Girona FC,11,Valery Fernández,24,Spain,Right Winger,€2.50m
+Squad Girona FC,9,Artem Dovbyk,26,Ukraine,Centre-Forward,€30.00m
+Squad Girona FC,7,Cristhian Stuani,37,Uruguay,Centre-Forward,€2.00m
+Squad Valencia CF,25,Giorgi Mamardashvili,23,Georgia,Goalkeeper,€35.00m
+Squad Valencia CF,1,Jaume Doménech,33,Spain,Goalkeeper,€900k
+Squad Valencia CF,13,Cristian Rivero,26,Spain,Goalkeeper,€200k
+Squad Valencia CF,3,Cristhian Mosquera,19,Spain,Centre-Back,€15.00m
+Squad Valencia CF,34,Yarek Gasiorowski,19,Spain,Centre-Back,€10.00m
+Squad Valencia CF,4,Mouctar Diakhaby,27,Guinea,Centre-Back,€4.00m
+Squad Valencia CF,15,Cenk Özkacar,23,Türkiye,Centre-Back,€2.00m
+Squad Valencia CF,14,José Gayà,28,Spain,Left-Back,€30.00m
+Squad Valencia CF,21,Jesús Vázquez,21,Spain,Left-Back,€2.00m
+Squad Valencia CF,12,Thierry Correia,25,Portugal,Right-Back,€6.00m
+Squad Valencia CF,20,Dimitri Foulquier,31,Guadeloupe,Right-Back,€2.50m
+Squad Valencia CF,18,Pepelu,25,Spain,Defensive Midfield,€16.00m
+Squad Valencia CF,6,Hugo Guillamón,24,Spain,Defensive Midfield,€8.00m
+Squad Valencia CF,8,Javi Guerra,20,Spain,Central Midfield,€20.00m
+Squad Valencia CF,10,André Almeida,23,Portugal,Central Midfield,€15.00m
+Squad Valencia CF,19,Selim Amallah,27,Morocco,Attacking Midfield,€2.00m
+Squad Valencia CF,27,Pablo Gozálbez,22,Spain,Attacking Midfield,€800k
+Squad Valencia CF,16,Diego López,21,Spain,Left Winger,€12.00m
+Squad Valencia CF,23,Fran Pérez,21,Spain,Right Winger,€8.00m
+Squad Valencia CF,11,Peter Federico,21,Dominican Republic,Right Winger,€3.00m
+Squad Valencia CF,7,Sergi Canós,27,Spain,Right Winger,€2.50m
+Squad Valencia CF,30,Hugo González,21,Spain,Right Winger,€250k
+Squad Valencia CF,9,Hugo Duro,24,Spain,Centre-Forward,€16.00m
+Squad Valencia CF,17,Roman Yaremchuk,28,Ukraine,Centre-Forward,€4.00m
+Squad Valencia CF,22,Alberto Marí,22,Spain,Centre-Forward,€800k
+Squad Villarreal CF,13,Filip Jørgensen,22,Denmark,Goalkeeper,€15.00m
+Squad Villarreal CF,1,Pepe Reina,41,Spain,Goalkeeper,€700k
+Squad Villarreal CF,5,Jorge Cuenca,24,Spain,Centre-Back,€5.00m
+Squad Villarreal CF,2,Yerson Mosquera,22,Colombia,Centre-Back,€3.50m
+Squad Villarreal CF,12,Eric Bailly,30,Cote d'Ivoire,Centre-Back,€3.50m
+Squad Villarreal CF,3,Raúl Albiol,38,Spain,Centre-Back,€2.00m
+Squad Villarreal CF,23,Aïssa Mandi,32,Algeria,Centre-Back,€2.00m
+Squad Villarreal CF,24,Alfonso Pedraza,28,Spain,Left-Back,€9.00m
+Squad Villarreal CF,18,Alberto Moreno,31,Spain,Left-Back,€2.00m
+Squad Villarreal CF,37,Carlos Romero,22,Spain,Left-Back,€1.50m
+Squad Villarreal CF,8,Juan Foyth,26,Argentina,Right-Back,€18.00m
+Squad Villarreal CF,26,Adrià Altimira,23,Spain,Right-Back,€2.00m
+Squad Villarreal CF,17,Kiko Femenía,33,Spain,Right-Back,€1.50m
+Squad Villarreal CF,20,Ramón Terrats,23,Spain,Defensive Midfield,€4.00m
+Squad Villarreal CF,6,Étienne Capoue,35,France,Defensive Midfield,€2.00m
+Squad Villarreal CF,19,Francis Coquelin,32,France,Defensive Midfield,€2.00m
+Squad Villarreal CF,4,Santi Comesaña,27,Spain,Central Midfield,€6.00m
+Squad Villarreal CF,10,Dani Parejo,35,Spain,Central Midfield,€3.00m
+Squad Villarreal CF,14,Manu Trigueros,32,Spain,Central Midfield,€2.00m
+Squad Villarreal CF,16,Álex Baena,22,Spain,Attacking Midfield,€25.00m
+Squad Villarreal CF,22,Denis Suárez,30,Spain,Attacking Midfield,€2.00m
+Squad Villarreal CF,9,Gonçalo Guedes,27,Portugal,Left Winger,€18.00m
+Squad Villarreal CF,21,Yéremy Pino,21,Spain,Right Winger,€30.00m
+Squad Villarreal CF,27,Ilias Akhomach,20,Morocco,Right Winger,€12.00m
+Squad Villarreal CF,25,Bertrand Traoré,28,Burkina Faso,Right Winger,€10.00m
+Squad Villarreal CF,11,Alexander Sørloth,28,Norway,Centre-Forward,€15.00m
+Squad Villarreal CF,7,Gerard Moreno,32,Spain,Centre-Forward,€14.00m
+Squad Villarreal CF,15,José Luis Morales,36,Spain,Centre-Forward,€2.00m
+Squad Villarreal CF,30,Jorge Pascual,21,Spain,Centre-Forward,€1.00m
+Squad Sevilla FC,13,Ørjan Nyland,33,Norway,Goalkeeper,€1.50m
+Squad Sevilla FC,1,Marko Dmitrovic,32,Serbia,Goalkeeper,€1.00m
+Squad Sevilla FC,22,Loïc Badé,24,France,Centre-Back,€14.00m
+Squad Sevilla FC,2,Kike Salas,21,Spain,Centre-Back,€8.00m
+Squad Sevilla FC,23,Marcão,27,Brazil,Centre-Back,€5.00m
+Squad Sevilla FC,6,Nemanja Gudelj,32,Serbia,Centre-Back,€4.00m
+Squad Sevilla FC,14,Tanguy Nianzou,21,France,Centre-Back,€4.00m
+Squad Sevilla FC,4,Sergio Ramos,38,Spain,Centre-Back,€3.00m
+Squad Sevilla FC,3,Adrià Pedrosa,25,Spain,Left-Back,€7.00m
+Squad Sevilla FC,19,Marcos Acuña,32,Argentina,Left-Back,€5.00m
+Squad Sevilla FC,26,Juanlu Sánchez,20,Spain,Right-Back,€15.00m
+Squad Sevilla FC,16,Jesús Navas,38,Spain,Right-Back,€3.00m
+Squad Sevilla FC,24,Boubakary Soumaré,25,France,Defensive Midfield,€14.00m
+Squad Sevilla FC,42,Lucien Agoumé,22,France,Defensive Midfield,€6.00m
+Squad Sevilla FC,18,Djibril Sow,27,Switzerland,Central Midfield,€12.00m
+Squad Sevilla FC,21,Óliver Torres,29,Spain,Central Midfield,€6.00m
+Squad Sevilla FC,8,Joan Jordán,29,Spain,Central Midfield,€4.00m
+Squad Sevilla FC,46,Hannibal,21,Tunisia,Attacking Midfield,€12.00m
+Squad Sevilla FC,5,Lucas Ocampos,29,Argentina,Left Winger,€12.00m
+Squad Sevilla FC,11,Dodi Lukébakio,26,Belgium,Right Winger,€15.00m
+Squad Sevilla FC,7,Suso,30,Spain,Right Winger,€5.00m
+Squad Sevilla FC,17,Erik Lamela,32,Argentina,Right Winger,€3.00m
+Squad Sevilla FC,25,Adnan Januzaj,29,Belgium,Right Winger,€3.00m
+Squad Sevilla FC,15,Youssef En-Nesyri,26,Morocco,Centre-Forward,€18.00m
+Squad Sevilla FC,20,Isaac Romero,23,Spain,Centre-Forward,€15.00m
+Squad Sevilla FC,10,Alejo Véliz,20,Argentina,Centre-Forward,€11.00m
+Squad Sevilla FC,9,Rafa Mir,26,Spain,Centre-Forward,€3.50m
+Squad Sevilla FC,12,Mariano Díaz,30,Dominican Republic,Centre-Forward,€2.00m
+Squad Real Betis Balompié,13,Rui Silva,30,Portugal,Goalkeeper,€15.00m
+Squad Real Betis Balompié,1,Claudio Bravo,41,Chile,Goalkeeper,€900k
+Squad Real Betis Balompié,28,Chadi Riad,20,Morocco,Centre-Back,€6.00m
+Squad Real Betis Balompié,6,Germán Pezzella,32,Argentina,Centre-Back,€5.00m
+Squad Real Betis Balompié,15,Marc Bartra,33,Spain,Centre-Back,€2.00m
+Squad Real Betis Balompié,19,Sokratis Papastathopoulos,35,Greece,Centre-Back,€800k
+Squad Real Betis Balompié,3,Juan Miranda,24,Spain,Left-Back,€7.50m
+Squad Real Betis Balompié,20,Abner,23,Brazil,Left-Back,€7.00m
+Squad Real Betis Balompié,2,Héctor Bellerín,29,Spain,Right-Back,€5.00m
+Squad Real Betis Balompié,23,Youssouf Sabaly,31,Senegal,Right-Back,€3.00m
+Squad Real Betis Balompié,5,Guido Rodríguez,30,Argentina,Defensive Midfield,€24.00m
+Squad Real Betis Balompié,4,Johnny Cardoso,22,United States,Defensive Midfield,€10.00m
+Squad Real Betis Balompié,21,Marc Roca,27,Spain,Defensive Midfield,€10.00m
+Squad Real Betis Balompié,14,William Carvalho,32,Portugal,Defensive Midfield,€5.00m
+Squad Real Betis Balompié,27,Sergi Altimira,22,Spain,Central Midfield,€3.00m
+Squad Real Betis Balompié,18,Pablo Fornals,28,Spain,Attacking Midfield,€17.00m
+Squad Real Betis Balompié,8,Nabil Fekir,30,France,Attacking Midfield,€12.00m
+Squad Real Betis Balompié,22,Isco,31,Spain,Attacking Midfield,€8.00m
+Squad Real Betis Balompié,17,Rodri Sánchez,23,Spain,Attacking Midfield,€6.00m
+Squad Real Betis Balompié,38,Assane Diao,18,Spain,Left Winger,€15.00m
+Squad Real Betis Balompié,7,Abde Ezzalzouli,22,Morocco,Left Winger,€12.00m
+Squad Real Betis Balompié,10,Ayoze Pérez,30,Spain,Left Winger,€7.00m
+Squad Real Betis Balompié,24,Aitor Ruibal,28,Spain,Right Winger,€5.00m
+Squad Real Betis Balompié,12,Willian José,32,Brazil,Centre-Forward,€6.00m
+Squad Real Betis Balompié,9,Chimy Ávila,30,Argentina,Centre-Forward,€3.50m
+Squad Real Betis Balompié,11,Cédric Bakambu,33,DR Congo,Centre-Forward,€2.80m
+Squad Celta de Vigo,13,Iván Villar,26,Spain,Goalkeeper,€1.50m
+Squad Celta de Vigo,25,Vicente Guaita,37,Spain,Goalkeeper,€900k
+Squad Celta de Vigo,4,Unai Núñez,27,Spain,Centre-Back,€7.00m
+Squad Celta de Vigo,2,Carl Starfelt,28,Sweden,Centre-Back,€6.00m
+Squad Celta de Vigo,15,Joseph Aidoo,28,Ghana,Centre-Back,€4.00m
+Squad Celta de Vigo,28,Carlos Domínguez,23,Spain,Centre-Back,€1.50m
+Squad Celta de Vigo,23,Manu Sánchez,23,Spain,Left-Back,€8.00m
+Squad Celta de Vigo,21,Mihailo Ristic,28,Serbia,Left-Back,€1.20m
+Squad Celta de Vigo,3,Óscar Mingueza,24,Spain,Right-Back,€8.00m
+Squad Celta de Vigo,22,Javier Manquillo,29,Spain,Right-Back,€1.80m
+Squad Celta de Vigo,20,Kevin Vázquez,31,Spain,Right-Back,€900k
+Squad Celta de Vigo,5,Renato Tapia,28,Peru,Defensive Midfield,€5.00m
+Squad Celta de Vigo,16,Jailson,28,Brazil,Defensive Midfield,€1.20m
+Squad Celta de Vigo,8,Fran Beltrán,25,Spain,Central Midfield,€6.00m
+Squad Celta de Vigo,14,Luca de la Torre,25,United States,Central Midfield,€3.50m
+Squad Celta de Vigo,6,Carlos Dotor,23,Spain,Central Midfield,€2.50m
+Squad Celta de Vigo,30,Hugo Sotelo,20,Spain,Central Midfield,€1.00m
+Squad Celta de Vigo,19,Williot Swedberg,20,Sweden,Attacking Midfield,€2.50m
+Squad Celta de Vigo,17,Jonathan Bamba,28,Cote d'Ivoire,Left Winger,€10.00m
+Squad Celta de Vigo,11,Franco Cervi,29,Argentina,Left Winger,€1.80m
+Squad Celta de Vigo,33,Hugo Álvarez,20,Spain,Left Winger,€400k
+Squad Celta de Vigo,9,Tadeo Allende,25,Argentina,Right Winger,€4.50m
+Squad Celta de Vigo,7,Carles Pérez,26,Spain,Right Winger,€3.00m
+Squad Celta de Vigo,24,Miguel Rodríguez,20,Spain,Right Winger,€900k
+Squad Celta de Vigo,18,Jørgen Strand Larsen,24,Norway,Centre-Forward,€20.00m
+Squad Celta de Vigo,12,Anastasios Douvikas,24,Greece,Centre-Forward,€6.00m
+Squad Celta de Vigo,10,Iago Aspas,36,Spain,Centre-Forward,€3.00m
+Squad CA Osasuna,1,Sergio Herrera,30,Spain,Goalkeeper,€6.00m
+Squad CA Osasuna,13,Aitor Fernández,32,Spain,Goalkeeper,€2.00m
+Squad CA Osasuna,5,David García,30,Spain,Centre-Back,€14.00m
+Squad CA Osasuna,24,Alejandro Catena,29,Spain,Centre-Back,€5.00m
+Squad CA Osasuna,4,Unai García,32,Spain,Centre-Back,€1.50m
+Squad CA Osasuna,28,Jorge Herrando,23,Spain,Centre-Back,€800k
+Squad CA Osasuna,3,Juan Cruz,31,Spain,Left-Back,€2.50m
+Squad CA Osasuna,22,Johan Mojica,31,Colombia,Left-Back,€2.50m
+Squad CA Osasuna,12,Jesús Areso,24,Spain,Right-Back,€5.00m
+Squad CA Osasuna,15,Rubén Peña,32,Spain,Right-Back,€2.50m
+Squad CA Osasuna,6,Lucas Torró,29,Spain,Defensive Midfield,€6.00m
+Squad CA Osasuna,34,Iker Muñoz,21,Spain,Defensive Midfield,€4.00m
+Squad CA Osasuna,7,Jon Moncayola,25,Spain,Central Midfield,€9.00m
+Squad CA Osasuna,19,Pablo Ibáñez,25,Spain,Central Midfield,€2.50m
+Squad CA Osasuna,10,Aimar Oroz,22,Spain,Attacking Midfield,€15.00m
+Squad CA Osasuna,16,Moi Gómez,29,Spain,Left Winger,€5.00m
+Squad CA Osasuna,14,Rubén García,30,Spain,Left Winger,€3.00m
+Squad CA Osasuna,20,José Manuel Arnáiz,29,Spain,Left Winger,€2.50m
+Squad CA Osasuna,11,Kike Barja,27,Spain,Right Winger,€2.50m
+Squad CA Osasuna,17,Ante Budimir,32,Croatia,Centre-Forward,€5.00m
+Squad CA Osasuna,23,Raúl García,23,Spain,Centre-Forward,€3.00m
+Squad Deportivo Alavés,1,Antonio Sivera,27,Spain,Goalkeeper,€5.00m
+Squad Deportivo Alavés,31,Jesús Owono,23,Equatorial Guinea,Goalkeeper,€400k
+Squad Deportivo Alavés,16,Rafa Marín,21,Spain,Centre-Back,€5.00m
+Squad Deportivo Alavés,5,Abdel Abqar,25,Morocco,Centre-Back,€3.00m
+Squad Deportivo Alavés,4,Aleksandar Sedlar,32,Serbia,Centre-Back,€500k
+Squad Deportivo Alavés,27,Javi López,22,Spain,Left-Back,€5.00m
+Squad Deportivo Alavés,3,Rubén Duarte,28,Spain,Left-Back,€2.50m
+Squad Deportivo Alavés,2,Andoni Gorosabel,27,Spain,Right-Back,€2.50m
+Squad Deportivo Alavés,14,Nahuel Tenaglia,28,Argentina,Right-Back,€1.80m
+Squad Deportivo Alavés,8,Antonio Blanco,23,Spain,Defensive Midfield,€5.00m
+Squad Deportivo Alavés,23,Carlos Benavidez,26,Uruguay,Defensive Midfield,€1.00m
+Squad Deportivo Alavés,6,Ander Guevara,26,Spain,Central Midfield,€5.00m
+Squad Deportivo Alavés,18,Jon Guridi,29,Spain,Central Midfield,€4.00m
+Squad Deportivo Alavés,10,Ianis Hagi,25,Romania,Attacking Midfield,€2.50m
+Squad Deportivo Alavés,11,Luis Rioja,30,Spain,Left Winger,€4.00m
+Squad Deportivo Alavés,21,Abde Rebbach,25,Algeria,Left Winger,€800k
+Squad Deportivo Alavés,7,Álex Sola,24,Spain,Right Winger,€3.00m
+Squad Deportivo Alavés,22,Carlos Vicente,24,Spain,Right Winger,€2.00m
+Squad Deportivo Alavés,17,Xeber Alkain,26,Spain,Right Winger,€1.50m
+Squad Deportivo Alavés,32,Samu Omorodion,19,Spain,Centre-Forward,€40.00m
+Squad Deportivo Alavés,20,Giuliano Simeone,21,Argentina,Centre-Forward,€1.50m
+Squad Deportivo Alavés,15,Kike García,34,Spain,Centre-Forward,€1.20m
+Squad UD Las Palmas,13,Álvaro Valles,26,Spain,Goalkeeper,€15.00m
+Squad UD Las Palmas,1,Aarón Escandell,28,Spain,Goalkeeper,€1.00m
+Squad UD Las Palmas,15,Mika Mármol,22,Spain,Centre-Back,€8.00m
+Squad UD Las Palmas,23,Saúl Coco,25,Equatorial Guinea,Centre-Back,€4.00m
+Squad UD Las Palmas,4,Alex Suárez,31,Spain,Centre-Back,€1.20m
+Squad UD Las Palmas,31,Juanma Herzog,19,Spain,Centre-Back,€1.00m
+Squad UD Las Palmas,6,Eric Curbelo,30,Spain,Centre-Back,€900k
+Squad UD Las Palmas,3,Sergi Cardona,24,Spain,Left-Back,€6.00m
+Squad UD Las Palmas,18,Daley Sinkgraven,28,Netherlands,Left-Back,€1.20m
+Squad UD Las Palmas,28,Julián Araujo,22,Mexico,Right-Back,€8.00m
+Squad UD Las Palmas,14,Álvaro Lemos,31,Spain,Right-Back,€800k
+Squad UD Las Palmas,8,Máximo Perrone,21,Argentina,Defensive Midfield,€7.50m
+Squad UD Las Palmas,22,Nuke Mfulu,30,DR Congo,Defensive Midfield,€800k
+Squad UD Las Palmas,12,Enzo Loiodice,23,France,Central Midfield,€3.00m
+Squad UD Las Palmas,5,Javi Muñoz,29,Spain,Central Midfield,€2.50m
+Squad UD Las Palmas,21,José Campaña,30,Spain,Central Midfield,€2.00m
+Squad UD Las Palmas,25,Fabio González,27,Spain,Central Midfield,€600k
+Squad UD Las Palmas,20,Kirian Rodríguez,28,Spain,Attacking Midfield,€12.00m
+Squad UD Las Palmas,10,Alberto Moleiro,20,Spain,Attacking Midfield,€10.00m
+Squad UD Las Palmas,24,Pejiño,27,Spain,Left Winger,€1.50m
+Squad UD Las Palmas,11,Benito Ramírez,28,Spain,Left Winger,€500k
+Squad UD Las Palmas,2,Marvin Park,23,Spain,Right Winger,€2.00m
+Squad UD Las Palmas,17,Munir El Haddadi,28,Morocco,Right Winger,€2.00m
+Squad UD Las Palmas,16,Sory Kaba,28,Guinea,Centre-Forward,€1.80m
+Squad UD Las Palmas,9,Sandro Ramírez,28,Spain,Centre-Forward,€1.50m
+Squad UD Las Palmas,19,Marc Cardona,28,Spain,Centre-Forward,€1.40m
+Squad UD Las Palmas,7,Cristian Herrera,33,Spain,Centre-Forward,€400k
+Squad Getafe CF,13,David Soria,31,Spain,Goalkeeper,€6.00m
+Squad Getafe CF,1,Daniel Fuzato,26,Brazil,Goalkeeper,€1.00m
+Squad Getafe CF,4,Gastón Álvarez,24,Uruguay,Centre-Back,€10.00m
+Squad Getafe CF,2,Djené,32,Togo,Centre-Back,€3.00m
+Squad Getafe CF,6,Domingos Duarte,29,Portugal,Centre-Back,€3.00m
+Squad Getafe CF,15,Omar Alderete,27,Paraguay,Centre-Back,€3.00m
+Squad Getafe CF,16,Diego Rico,31,Spain,Left-Back,€3.00m
+Squad Getafe CF,3,Fabrizio Angileri,30,Argentina,Left-Back,€1.50m
+Squad Getafe CF,18,José Ángel Carmona,22,Spain,Right-Back,€3.50m
+Squad Getafe CF,21,Juan Iglesias,25,Spain,Right-Back,€2.50m
+Squad Getafe CF,8,Mauro Arambarri,28,Uruguay,Central Midfield,€6.00m
+Squad Getafe CF,20,Nemanja Maksimovic,29,Serbia,Central Midfield,€6.00m
+Squad Getafe CF,5,Luis Milla,29,Spain,Central Midfield,€3.50m
+Squad Getafe CF,11,Carles Aleñá,26,Spain,Central Midfield,€3.00m
+Squad Getafe CF,24,Ilaix Moriba,21,Guinea,Central Midfield,€3.00m
+Squad Getafe CF,25,Yellu Santiago,19,Spain,Central Midfield,€500k
+Squad Getafe CF,9,Óscar Rodríguez,25,Spain,Attacking Midfield,€2.50m
+Squad Getafe CF,32,Jordi Martín,23,Spain,Left Winger,€600k
+Squad Getafe CF,12,Mason Greenwood,22,England,Right Winger,€15.00m
+Squad Getafe CF,19,Borja Mayoral,27,Spain,Centre-Forward,€15.00m
+Squad Getafe CF,14,Juanmi Latasa,23,Spain,Centre-Forward,€3.00m
+Squad Getafe CF,7,Jaime Mata,35,Spain,Centre-Forward,€1.00m
+Squad Granada CF,25,Augusto Batalla,27,Argentina,Goalkeeper,€6.00m
+Squad Granada CF,13,Marc Martínez,34,Spain,Goalkeeper,€400k
+Squad Granada CF,1,Raúl Fernández,36,Spain,Goalkeeper,€300k
+Squad Granada CF,2,Bruno Méndez,24,Uruguay,Centre-Back,€6.00m
+Squad Granada CF,22,Kamil Piatkowski,23,Poland,Centre-Back,€3.00m
+Squad Granada CF,28,Raúl Torrente,22,Spain,Centre-Back,€2.00m
+Squad Granada CF,5,Jesús Vallejo,27,Spain,Centre-Back,€1.50m
+Squad Granada CF,14,Ignasi Miquel,31,Spain,Centre-Back,€1.40m
+Squad Granada CF,4,Miguel Rubio,26,Spain,Centre-Back,€1.20m
+Squad Granada CF,3,Faitout Maouassa,25,France,Left-Back,€5.00m
+Squad Granada CF,15,Carlos Neva,27,Spain,Left-Back,€2.50m
+Squad Granada CF,12,Ricard Sánchez,24,Spain,Right-Back,€2.50m
+Squad Granada CF,16,Víctor Díaz,35,Spain,Right-Back,€500k
+Squad Granada CF,23,Gerard Gumbau,29,Spain,Defensive Midfield,€3.50m
+Squad Granada CF,6,Martin Hongla,26,Cameroon,Defensive Midfield,€2.80m
+Squad Granada CF,24,Gonzalo Villar,26,Spain,Central Midfield,€2.80m
+Squad Granada CF,20,Sergio Ruiz,29,Spain,Central Midfield,€2.00m
+Squad Granada CF,21,Óscar Melendo,26,Spain,Attacking Midfield,€2.00m
+Squad Granada CF,11,Myrto Uzuni,28,Albania,Left Winger,€10.00m
+Squad Granada CF,18,Kamil Jóźwiak,25,Poland,Left Winger,€2.50m
+Squad Granada CF,19,Facundo Pellistri,22,Uruguay,Right Winger,€10.00m
+Squad Granada CF,10,Antonio Puertas,32,Spain,Right Winger,€2.50m
+Squad Granada CF,17,Theo Corbeanu,21,Canada,Right Winger,€1.70m
+Squad Granada CF,9,José Callejón,37,Spain,Right Winger,€900k
+Squad Granada CF,8,Matías Arezo,21,Uruguay,Centre-Forward,€7.50m
+Squad Granada CF,7,Lucas Boyé,28,Argentina,Centre-Forward,€7.00m
+Squad RCD Mallorca,1,Predrag Rajkovic,28,Serbia,Goalkeeper,€10.00m
+Squad RCD Mallorca,13,Dominik Greif,27,Slovakia,Goalkeeper,€2.00m
+Squad RCD Mallorca,25,Iván Cuéllar,39,Spain,Goalkeeper,€100k
+Squad RCD Mallorca,24,Martin Valjent,28,Slovakia,Centre-Back,€4.50m
+Squad RCD Mallorca,4,Siebe Van der Heyden,25,Belgium,Centre-Back,€3.00m
+Squad RCD Mallorca,6,José Copete,24,Spain,Centre-Back,€2.50m
+Squad RCD Mallorca,21,Antonio Raíllo,32,Spain,Centre-Back,€2.00m
+Squad RCD Mallorca,2,Matija Nastasic,31,Serbia,Centre-Back,€1.50m
+Squad RCD Mallorca,3,Toni Lato,26,Spain,Left-Back,€2.50m
+Squad RCD Mallorca,11,Jaume Costa,36,Spain,Left-Back,€1.00m
+Squad RCD Mallorca,15,Pablo Maffeo,26,Argentina,Right-Back,€6.00m
+Squad RCD Mallorca,20,Giovanni González,29,Uruguay,Right-Back,€2.50m
+Squad RCD Mallorca,22,Nacho Vidal,29,Spain,Right-Back,€2.50m
+Squad RCD Mallorca,12,Samú Costa,23,Portugal,Defensive Midfield,€8.00m
+Squad RCD Mallorca,5,Omar Mascarell,31,Spain,Defensive Midfield,€1.00m
+Squad RCD Mallorca,10,Sergi Darder,30,Spain,Central Midfield,€6.00m
+Squad RCD Mallorca,8,Manu Morlanes,25,Spain,Central Midfield,€2.50m
+Squad RCD Mallorca,18,Antonio Sánchez,26,Spain,Central Midfield,€2.50m
+Squad RCD Mallorca,14,Dani Rodríguez,35,Spain,Attacking Midfield,€1.20m
+Squad RCD Mallorca,23,Nemanja Radonjic,28,Serbia,Left Winger,€3.00m
+Squad RCD Mallorca,19,Javi Llabrés,21,Spain,Left Winger,€800k
+Squad RCD Mallorca,7,Vedat Muriqi,29,Kosovo,Centre-Forward,€15.00m
+Squad RCD Mallorca,17,Cyle Larin,29,Canada,Centre-Forward,€5.00m
+Squad RCD Mallorca,9,Abdón Prats,31,Spain,Centre-Forward,€2.00m
+Squad UD Almería,25,Luís Maximiano,25,Portugal,Goalkeeper,€5.00m
+Squad UD Almería,13,Fernando Martínez,33,Spain,Goalkeeper,€800k
+Squad UD Almería,1,Diego Mariño,33,Spain,Goalkeeper,€300k
+Squad UD Almería,3,Edgar González,27,Spain,Centre-Back,€3.00m
+Squad UD Almería,22,César Montes,27,Mexico,Centre-Back,€3.00m
+Squad UD Almería,21,Chumi,25,Spain,Centre-Back,€2.00m
+Squad UD Almería,16,Aleksandar Radovanovic,30,Serbia,Centre-Back,€1.00m
+Squad UD Almería,24,Bruno Langa,26,Mozambique,Left-Back,€1.50m
+Squad UD Almería,20,Álex Centelles,24,Spain,Left-Back,€1.20m
+Squad UD Almería,18,Marc Pubill,20,Spain,Right-Back,€3.00m
+Squad UD Almería,17,Alejandro Pozo,25,Spain,Right-Back,€2.00m
+Squad UD Almería,6,Dion Lopy,22,Senegal,Defensive Midfield,€6.00m
+Squad UD Almería,5,Lucas Robertone,27,Argentina,Central Midfield,€7.00m
+Squad UD Almería,4,Iddrisu Baba,28,Ghana,Central Midfield,€2.50m
+Squad UD Almería,11,Gonzalo Melero,30,Spain,Central Midfield,€2.00m
+Squad UD Almería,19,Sergio Arribas,22,Spain,Attacking Midfield,€8.00m
+Squad UD Almería,8,Jonathan Viera,34,Spain,Attacking Midfield,€1.20m
+Squad UD Almería,7,Largie Ramazani,23,Belgium,Left Winger,€5.00m
+Squad UD Almería,38,Luka Romero,19,Argentina,Right Winger,€5.00m
+Squad UD Almería,10,Adrián Embarba,31,Spain,Right Winger,€2.00m
+Squad UD Almería,9,Luis Suárez,26,Colombia,Centre-Forward,€5.00m
+Squad UD Almería,23,Ibrahima Koné,24,Mali,Centre-Forward,€2.50m
+Squad UD Almería,12,Léo Baptistão,31,Brazil,Centre-Forward,€1.60m
+Squad UD Almería,15,Choco Lozano,30,Honduras,Centre-Forward,€1.20m
+Squad UD Almería,29,Marko Milovanovic,20,Serbia,Centre-Forward,€1.00m
+Squad Rayo Vallecano,1,Stole Dimitrievski,30,North Macedonia,Goalkeeper,€4.00m
+Squad Rayo Vallecano,13,Dani Cárdenas,27,Spain,Goalkeeper,€1.80m
+Squad Rayo Vallecano,24,Florian Lejeune,32,France,Centre-Back,€3.50m
+Squad Rayo Vallecano,16,Abdul Mumin,25,Ghana,Centre-Back,€2.00m
+Squad Rayo Vallecano,5,Aridane Hernández,35,Spain,Centre-Back,€900k
+Squad Rayo Vallecano,4,Martín Pascual,24,Spain,Centre-Back,€300k
+Squad Rayo Vallecano,12,Alfonso Espino,32,Uruguay,Left-Back,€2.50m
+Squad Rayo Vallecano,3,Pep Chavarría,26,Spain,Left-Back,€1.00m
+Squad Rayo Vallecano,20,Iván Balliu,32,Albania,Right-Back,€2.50m
+Squad Rayo Vallecano,2,Andrei Rațiu,25,Romania,Right-Back,€1.50m
+Squad Rayo Vallecano,15,Miguel Crespo,27,Portugal,Central Midfield,€5.00m
+Squad Rayo Vallecano,23,Óscar Valentín,29,Spain,Central Midfield,€5.00m
+Squad Rayo Vallecano,17,Unai López,28,Spain,Central Midfield,€3.50m
+Squad Rayo Vallecano,14,Kike Pérez,27,Spain,Central Midfield,€3.00m
+Squad Rayo Vallecano,21,Pathé Ciss,30,Senegal,Central Midfield,€2.50m
+Squad Rayo Vallecano,8,Óscar Trejo,35,Argentina,Attacking Midfield,€1.50m
+Squad Rayo Vallecano,11,Randy Nteka,26,France,Attacking Midfield,€1.50m
+Squad Rayo Vallecano,6,José Pozo,28,Spain,Attacking Midfield,€1.00m
+Squad Rayo Vallecano,18,Álvaro García,31,Spain,Left Winger,€4.00m
+Squad Rayo Vallecano,10,Bebé,33,Cape Verde,Left Winger,€700k
+Squad Rayo Vallecano,7,Isi Palazón,29,Spain,Right Winger,€10.00m
+Squad Rayo Vallecano,19,Jorge de Frutos,27,Spain,Right Winger,€4.00m
+Squad Rayo Vallecano,22,Raúl de Tomás,29,Spain,Centre-Forward,€3.00m
+Squad Rayo Vallecano,34,Sergio Camello,23,Spain,Centre-Forward,€3.00m
+Squad Rayo Vallecano,9,Radamel Falcao,38,Colombia,Centre-Forward,€900k
+Squad Cádiz CF,1,Conan Ledesma,31,Argentina,Goalkeeper,€6.00m
+Squad Cádiz CF,13,David Gil,30,Spain,Goalkeeper,€700k
+Squad Cádiz CF,3,Fali,30,Spain,Centre-Back,€2.50m
+Squad Cádiz CF,24,Aiham Ousou,24,Syria,Centre-Back,€2.00m
+Squad Cádiz CF,5,Víctor Chust,24,Spain,Centre-Back,€1.50m
+Squad Cádiz CF,22,Jorge Meré,27,Spain,Centre-Back,€1.00m
+Squad Cádiz CF,-,Luis Hernández,35,Spain,Centre-Back,€700k
+Squad Cádiz CF,14,Momo Mbaye,25,Senegal,Centre-Back,€500k
+Squad Cádiz CF,15,Javi Hernández,25,Spain,Left-Back,€3.00m
+Squad Cádiz CF,33,Lucas Pires,23,Brazil,Left-Back,€2.00m
+Squad Cádiz CF,20,Iza Carcelén,30,Spain,Right-Back,€2.00m
+Squad Cádiz CF,2,Joseba Zaldua,31,Spain,Right-Back,€1.00m
+Squad Cádiz CF,6,Diadié Samassékou,28,Mali,Defensive Midfield,€2.50m
+Squad Cádiz CF,-,José Mari,36,Spain,Defensive Midfield,€300k
+Squad Cádiz CF,12,Rominigue Kouamé,27,Mali,Central Midfield,€2.50m
+Squad Cádiz CF,4,Rubén Alcaraz,32,Spain,Central Midfield,€2.00m
+Squad Cádiz CF,17,Gonzalo Escalante,31,Argentina,Central Midfield,€2.00m
+Squad Cádiz CF,24,Fede San Emeterio,27,Spain,Central Midfield,€1.50m
+Squad Cádiz CF,27,Robert Navarro,22,Spain,Attacking Midfield,€3.50m
+Squad Cádiz CF,8,Álex Fernández,31,Spain,Attacking Midfield,€2.00m
+Squad Cádiz CF,9,Juanmi,30,Spain,Left Winger,€8.00m
+Squad Cádiz CF,18,Darwin Machís,31,Venezuela,Left Winger,€2.00m
+Squad Cádiz CF,10,Brian Ocampo,24,Uruguay,Left Winger,€1.00m
+Squad Cádiz CF,11,Iván Alejo,29,Spain,Right Winger,€1.50m
+Squad Cádiz CF,16,Chris Ramos,27,Spain,Centre-Forward,€4.00m
+Squad Cádiz CF,25,Maxi Gómez,27,Uruguay,Centre-Forward,€2.50m
+Squad Cádiz CF,7,Rubén Sobrino,31,Spain,Centre-Forward,€1.50m
+Squad Cádiz CF,21,Roger Martí,33,Spain,Centre-Forward,€1.50m
+Squad Cádiz CF,19,Sergi Guardiola,32,Spain,Centre-Forward,€900k
+Squad RCD Espanyol Barcelona,13,Fernando Pacheco,31,Spain,Goalkeeper,€2.50m
+Squad RCD Espanyol Barcelona,1,Joan García,22,Spain,Goalkeeper,€400k
+Squad RCD Espanyol Barcelona,5,Fernando Calero,28,Spain,Centre-Back,€2.00m
+Squad RCD Espanyol Barcelona,6,Leandro Cabrera,32,Uruguay,Centre-Back,€1.50m
+Squad RCD Espanyol Barcelona,3,Sergi Gómez,32,Spain,Centre-Back,€1.20m
+Squad RCD Espanyol Barcelona,4,Víctor Ruiz,35,Spain,Centre-Back,€800k
+Squad RCD Espanyol Barcelona,14,Brian Oliván,30,Spain,Left-Back,€3.00m
+Squad RCD Espanyol Barcelona,23,Omar El Hilali,20,Morocco,Right-Back,€1.50m
+Squad RCD Espanyol Barcelona,2,Óscar Gil,25,Spain,Right-Back,€1.00m
+Squad RCD Espanyol Barcelona,24,Rubén Sánchez,23,Spain,Right-Back,€700k
+Squad RCD Espanyol Barcelona,20,Edu Expósito,27,Spain,Central Midfield,€3.50m
+Squad RCD Espanyol Barcelona,8,Keidi Bare,26,Albania,Central Midfield,€3.00m
+Squad RCD Espanyol Barcelona,18,Álvaro Aguado,27,Spain,Central Midfield,€3.00m
+Squad RCD Espanyol Barcelona,15,José Gragera,23,Spain,Central Midfield,€2.50m
+Squad RCD Espanyol Barcelona,10,Pol Lozano,24,Spain,Central Midfield,€2.00m
+Squad RCD Espanyol Barcelona,21,Nico Melamed,23,Spain,Attacking Midfield,€5.00m
+Squad RCD Espanyol Barcelona,7,Javi Puado,25,Spain,Left Winger,€8.00m
+Squad RCD Espanyol Barcelona,11,Pere Milla,31,Spain,Left Winger,€2.60m
+Squad RCD Espanyol Barcelona,16,José Carlos Lazo,28,Spain,Left Winger,€2.00m
+Squad RCD Espanyol Barcelona,17,Jofre Carreras,22,Spain,Right Winger,€1.50m
+Squad RCD Espanyol Barcelona,19,Salvi Sánchez,33,Spain,Right Winger,€1.50m
+Squad RCD Espanyol Barcelona,22,Martin Braithwaite,32,Denmark,Centre-Forward,€3.50m
+Squad RCD Espanyol Barcelona,9,Keita Baldé,29,Senegal,Centre-Forward,€1.50m
+Squad RCD Espanyol Barcelona,34,Omar Sadik,20,Morocco,Centre-Forward,€200k
+Squad RCD Espanyol Barcelona,39,Gastón Valles,22,Uruguay,Centre-Forward,€200k
+Squad Real Valladolid CF,1,Jordi Masip,35,Spain,Goalkeeper,€800k
+Squad Real Valladolid CF,13,André Ferreira,27,Portugal,Goalkeeper,€800k
+Squad Real Valladolid CF,6,Enzo Boyomo,22,Cameroon,Centre-Back,€2.20m
+Squad Real Valladolid CF,12,Lucas Oliveira,28,Brazil,Centre-Back,€2.00m
+Squad Real Valladolid CF,5,Javi Sánchez,27,Spain,Centre-Back,€1.50m
+Squad Real Valladolid CF,3,David Torres,21,Spain,Centre-Back,€1.00m
+Squad Real Valladolid CF,34,César Tárrega,22,Spain,Centre-Back,€1.00m
+Squad Real Valladolid CF,18,Sergio Escudero,34,Spain,Left-Back,€1.00m
+Squad Real Valladolid CF,2,Luis Pérez,29,Spain,Right-Back,€1.50m
+Squad Real Valladolid CF,22,Lucas Rosa,24,Brazil,Right-Back,€1.20m
+Squad Real Valladolid CF,20,Stanko Juric,27,Croatia,Defensive Midfield,€2.00m
+Squad Real Valladolid CF,8,Monchu,24,Spain,Central Midfield,€5.00m
+Squad Real Valladolid CF,4,Víctor Meseguer,24,Spain,Central Midfield,€1.20m
+Squad Real Valladolid CF,16,César de la Hoz,32,Spain,Central Midfield,€1.20m
+Squad Real Valladolid CF,23,Anuar,29,Morocco,Central Midfield,€800k
+Squad Real Valladolid CF,26,Alberto Quintana,22,Spain,Central Midfield,€200k
+Squad Real Valladolid CF,17,Stipe Biuk,21,Croatia,Left Winger,€6.50m
+Squad Real Valladolid CF,11,Raúl Moro,21,Spain,Left Winger,€2.50m
+Squad Real Valladolid CF,24,Kenedy,28,Brazil,Left Winger,€2.00m
+Squad Real Valladolid CF,19,Amath Ndiaye,27,Senegal,Left Winger,€1.50m
+Squad Real Valladolid CF,10,Iván Sánchez,31,Spain,Right Winger,€1.00m
+Squad Real Valladolid CF,9,Marcos André,27,Brazil,Centre-Forward,€2.00m
+Squad Real Valladolid CF,7,Mamadou Sylla,30,Senegal,Centre-Forward,€1.50m
+Squad Real Valladolid CF,21,Álvaro Negredo,38,Spain,Centre-Forward,€500k
+Squad Real Valladolid CF,35,Iván Cédric,22,Cameroon,Centre-Forward,€400k
+Squad Real Valladolid CF,38,Israel Salazar,20,Spain,Centre-Forward,€200k
+Squad Real Zaragoza,25,Edgar Badia,32,Spain,Goalkeeper,€1.60m
+Squad Real Zaragoza,13,Gaëtan Poussin,25,France,Goalkeeper,€600k
+Squad Real Zaragoza,35,Dani Rebollo,24,Spain,Goalkeeper,€200k
+Squad Real Zaragoza,1,Cristian Álvarez,38,Argentina,Goalkeeper,€100k
+Squad Real Zaragoza,6,Alejandro Francés,21,Spain,Centre-Back,€4.00m
+Squad Real Zaragoza,15,Santiago Mouriño,22,Uruguay,Centre-Back,€1.00m
+Squad Real Zaragoza,3,Jair Amador,34,Portugal,Centre-Back,€600k
+Squad Real Zaragoza,24,Lluís López,27,Spain,Centre-Back,€500k
+Squad Real Zaragoza,22,Quentin Lecoeuche,30,France,Left-Back,€600k
+Squad Real Zaragoza,17,Carlos Nieto,27,Spain,Left-Back,€500k
+Squad Real Zaragoza,2,Akim Zedadka,28,Algeria,Right-Back,€2.00m
+Squad Real Zaragoza,18,Fran Gámez,32,Spain,Right-Back,€500k
+Squad Real Zaragoza,38,Andrés Borge,22,Spain,Right-Back,€400k
+Squad Real Zaragoza,8,Marc Aguado,24,Spain,Defensive Midfield,€1.50m
+Squad Real Zaragoza,14,Francho Serrano,22,Spain,Central Midfield,€3.00m
+Squad Real Zaragoza,10,Raúl Guti,27,Spain,Central Midfield,€1.60m
+Squad Real Zaragoza,21,Toni Moya,26,Spain,Central Midfield,€1.40m
+Squad Real Zaragoza,5,Jaume Grau,26,Spain,Central Midfield,€700k
+Squad Real Zaragoza,11,Maikel Mesa,32,Spain,Attacking Midfield,€800k
+Squad Real Zaragoza,20,Víctor Mollejo,23,Spain,Left Winger,€3.00m
+Squad Real Zaragoza,7,Germán Valera,22,Spain,Right Winger,€2.00m
+Squad Real Zaragoza,19,Manu Vallejo,27,Spain,Second Striker,€1.80m
+Squad Real Zaragoza,9,Iván Azón,21,Spain,Centre-Forward,€3.00m
+Squad Real Zaragoza,12,Sinan Bakış,29,Türkiye,Centre-Forward,€1.60m
+Squad Real Zaragoza,23,Sergi Enrich,34,Spain,Centre-Forward,€400k
+Squad Elche CF,1,Miguel San Román,26,Spain,Goalkeeper,€1.00m
+Squad Elche CF,13,Matías Dituro,36,Argentina,Goalkeeper,€500k
+Squad Elche CF,5,John Donald,23,Spain,Centre-Back,€1.20m
+Squad Elche CF,2,Mario Gaspar,33,Spain,Centre-Back,€1.00m
+Squad Elche CF,4,Diego González,29,Spain,Centre-Back,€1.00m
+Squad Elche CF,6,Pedro Bigas,33,Spain,Centre-Back,€1.00m
+Squad Elche CF,35,David López,21,Spain,Centre-Back,€100k
+Squad Elche CF,22,Nicolás Fernández Mercau,24,Argentina,Left-Back,€2.40m
+Squad Elche CF,23,Carlos Clerc,32,Spain,Left-Back,€1.50m
+Squad Elche CF,12,José Salinas,23,Spain,Left-Back,€1.00m
+Squad Elche CF,24,Sergio Carreira,23,Spain,Right-Back,€1.20m
+Squad Elche CF,3,Jhegson Méndez,26,Ecuador,Defensive Midfield,€2.00m
+Squad Elche CF,20,Cristian Salvador,29,Spain,Defensive Midfield,€800k
+Squad Elche CF,14,Aleix Febas,28,Spain,Central Midfield,€2.20m
+Squad Elche CF,8,Arnau Puigmal,23,Spain,Central Midfield,€2.00m
+Squad Elche CF,30,Rodrigo Mendoza,19,Spain,Central Midfield,€1.00m
+Squad Elche CF,21,Nicolás Castro,23,Argentina,Attacking Midfield,€3.00m
+Squad Elche CF,11,Tete Morente,27,Spain,Left Winger,€2.50m
+Squad Elche CF,7,Óscar Plano,33,Spain,Right Winger,€1.50m
+Squad Elche CF,9,Sergio Bermejo,26,Spain,Right Winger,€900k
+Squad Elche CF,17,Josan,34,Spain,Right Winger,€800k
+Squad Elche CF,18,Borja Garcés,24,Spain,Centre-Forward,€2.00m
+Squad Elche CF,19,Mourad El Ghezouani,25,Morocco,Centre-Forward,€800k
+Squad Elche CF,10,Manu Nieto,26,Spain,Centre-Forward,€500k
+Squad Real Oviedo,31,Leo Román,23,Spain,Goalkeeper,€1.50m
+Squad Real Oviedo,1,Quentin Braat,26,France,Goalkeeper,€600k
+Squad Real Oviedo,4,David Costas,29,Spain,Centre-Back,€1.50m
+Squad Real Oviedo,12,Dani Calvo,30,Spain,Centre-Back,€1.50m
+Squad Real Oviedo,15,Oier Luengo,26,Spain,Centre-Back,€700k
+Squad Real Oviedo,3,Rodri Tarín,27,Spain,Centre-Back,€600k
+Squad Real Oviedo,23,Abel Bretones,23,Spain,Left-Back,€1.50m
+Squad Real Oviedo,21,Carlos Pomares,31,Spain,Left-Back,€400k
+Squad Real Oviedo,24,Lucas Ahijado,29,Spain,Right-Back,€1.00m
+Squad Real Oviedo,2,Mario Hernández,25,Spain,Right-Back,€600k
+Squad Real Oviedo,11,Santiago Colombatto,27,Argentina,Defensive Midfield,€4.00m
+Squad Real Oviedo,5,Luismi Sánchez,31,Spain,Defensive Midfield,€600k
+Squad Real Oviedo,13,Santiago Homenchenko,20,Uruguay,Defensive Midfield,€500k
+Squad Real Oviedo,16,Jaime Seoane,27,Spain,Central Midfield,€2.00m
+Squad Real Oviedo,10,Víctor Camarasa,29,Spain,Central Midfield,€800k
+Squad Real Oviedo,6,Jimmy Suárez,27,Spain,Central Midfield,€700k
+Squad Real Oviedo,8,Santi Cazorla,39,Spain,Central Midfield,€300k
+Squad Real Oviedo,22,Jonathan Dubasin,24,Spain,Left Winger,€1.50m
+Squad Real Oviedo,25,Borja Sánchez,28,Spain,Left Winger,€1.00m
+Squad Real Oviedo,17,Sebas Moyano,27,Spain,Right Winger,€1.50m
+Squad Real Oviedo,18,Paulino de la Fuente,26,Spain,Right Winger,€1.50m
+Squad Real Oviedo,7,Viti Rozada,26,Spain,Right Winger,€1.20m
+Squad Real Oviedo,28,Mario Sesè,21,Spain,Right Winger,€200k
+Squad Real Oviedo,9,Borja Bastón,31,Spain,Centre-Forward,€3.00m
+Squad Real Oviedo,14,Alemão,26,Brazil,Centre-Forward,€1.50m
+Squad Real Oviedo,19,Álex Millán,24,Spain,Centre-Forward,€800k
+Squad Real Oviedo,20,Masca,23,Portugal,Centre-Forward,€600k
+Squad Sporting Gijón,1,Rubén Yáñez,30,Spain,Goalkeeper,€1.80m
+Squad Sporting Gijón,13,Christian Joel,24,Cuba,Goalkeeper,€800k
+Squad Sporting Gijón,22,Róber Pier,29,Spain,Centre-Back,€1.50m
+Squad Sporting Gijón,24,Carlos Izquierdoz,35,Argentina,Centre-Back,€1.20m
+Squad Sporting Gijón,4,Pablo Insua,30,Spain,Centre-Back,€1.00m
+Squad Sporting Gijón,25,Alexandru Pașcanu,25,Romania,Centre-Back,€1.00m
+Squad Sporting Gijón,14,Axel Bamba,24,Cote d'Ivoire,Centre-Back,€500k
+Squad Sporting Gijón,3,Cote,34,Spain,Left-Back,€1.00m
+Squad Sporting Gijón,5,Pablo García,23,Spain,Left-Back,€600k
+Squad Sporting Gijón,16,Diego Sánchez,20,Spain,Left-Back,€500k
+Squad Sporting Gijón,2,Guille Rosas,23,Spain,Right-Back,€1.20m
+Squad Sporting Gijón,10,Nacho Méndez,26,Spain,Central Midfield,€1.50m
+Squad Sporting Gijón,15,Roque Mesa,34,Spain,Central Midfield,€1.50m
+Squad Sporting Gijón,6,Nacho Martín,22,Spain,Central Midfield,€500k
+Squad Sporting Gijón,12,Jonathan Varane,22,France,Central Midfield,€500k
+Squad Sporting Gijón,17,Christian Rivera,26,Spain,Central Midfield,€500k
+Squad Sporting Gijón,18,Giovanni Zarfino,32,Uruguay,Central Midfield,€500k
+Squad Sporting Gijón,8,Fran Villalba,25,Spain,Attacking Midfield,€1.50m
+Squad Sporting Gijón,7,Gaspar Campos,24,Spain,Left Winger,€2.50m
+Squad Sporting Gijón,9,Dani Queipo,21,Spain,Left Winger,€800k
+Squad Sporting Gijón,30,Álex Lozano,19,Spain,Left Winger,€100k
+Squad Sporting Gijón,19,Juan Otero,28,Colombia,Right Winger,€2.50m
+Squad Sporting Gijón,21,Haissem Hassan,22,France,Right Winger,€2.00m
+Squad Sporting Gijón,20,Mario González,28,Spain,Centre-Forward,€2.50m
+Squad Sporting Gijón,23,Uros Djurdjevic,30,Montenegro,Centre-Forward,€1.80m
+Squad Sporting Gijón,11,Víctor Campuzano,26,Spain,Centre-Forward,€1.00m
+Squad Sporting Gijón,31,Esteban Lozano,21,Mexico,Centre-Forward,€100k
+Squad SD Eibar,1,Luca Zidane,25,France,Goalkeeper,€2.00m
+Squad SD Eibar,13,Yoel Rodríguez,35,Spain,Goalkeeper,€400k
+Squad SD Eibar,5,Juan Berrocal,25,Spain,Centre-Back,€1.00m
+Squad SD Eibar,3,Frederico Venâncio,31,Portugal,Centre-Back,€800k
+Squad SD Eibar,23,Anaitz Arbilla,36,Spain,Centre-Back,€400k
+Squad SD Eibar,22,Stefan Simic,29,Czech Republic,Centre-Back,€300k
+Squad SD Eibar,2,Cristian Gutiérrez,23,Spain,Left-Back,€1.00m
+Squad SD Eibar,21,José Ríos Reina,33,Spain,Left-Back,€300k
+Squad SD Eibar,15,Álvaro Tejero,27,Spain,Right-Back,€2.00m
+Squad SD Eibar,4,Rober Correa,31,Spain,Right-Back,€400k
+Squad SD Eibar,6,Sergio Álvarez,32,Spain,Defensive Midfield,€1.20m
+Squad SD Eibar,24,Peru Nolaskoain,25,Spain,Defensive Midfield,€1.00m
+Squad SD Eibar,14,Unai Vencedor,23,Spain,Central Midfield,€2.50m
+Squad SD Eibar,8,Matheus Pereira,26,Brazil,Central Midfield,€1.20m
+Squad SD Eibar,10,Ager Aketxe,30,Spain,Attacking Midfield,€1.80m
+Squad SD Eibar,30,Mario Soriano,21,Spain,Attacking Midfield,€1.50m
+Squad SD Eibar,19,Stoichkov,30,Spain,Left Winger,€4.00m
+Squad SD Eibar,27,Konrad de la Fuente,22,United States,Left Winger,€800k
+Squad SD Eibar,17,José Corpas,32,Spain,Right Winger,€2.20m
+Squad SD Eibar,18,Jon Bautista,28,Spain,Centre-Forward,€1.40m
+Squad SD Eibar,11,Sergio León,35,Spain,Centre-Forward,€1.00m
+Squad SD Eibar,7,Quique González,33,Spain,Centre-Forward,€600k
+Squad SD Eibar,9,Yacine Qasmi,33,Morocco,Centre-Forward,€500k
+Squad Levante UD,1,Joan Femenías,27,Spain,Goalkeeper,€600k
+Squad Levante UD,13,Andrés Fernández,37,Spain,Goalkeeper,€500k
+Squad Levante UD,3,Álex Muñoz,29,Spain,Centre-Back,€1.20m
+Squad Levante UD,14,Nikola Maras,28,Serbia,Centre-Back,€1.20m
+Squad Levante UD,4,Adrián de la Fuente,25,Spain,Centre-Back,€1.00m
+Squad Levante UD,15,Sergio Postigo,35,Spain,Centre-Back,€500k
+Squad Levante UD,5,Álex Valle,19,Spain,Left-Back,€2.50m
+Squad Levante UD,29,Marcos Navarro,19,Spain,Left-Back,€100k
+Squad Levante UD,2,Ander Capa,32,Spain,Right-Back,€1.00m
+Squad Levante UD,31,Xavi Grande,19,Spain,Right-Back,€200k
+Squad Levante UD,20,Oriol Rey,26,Spain,Defensive Midfield,€1.60m
+Squad Levante UD,23,Ángel Algobia,24,Spain,Defensive Midfield,€800k
+Squad Levante UD,10,Pablo Martínez,26,Spain,Central Midfield,€1.40m
+Squad Levante UD,21,Sergio Lozano,25,Spain,Central Midfield,€1.40m
+Squad Levante UD,6,Giorgi Kochorashvili,24,Georgia,Central Midfield,€1.00m
+Squad Levante UD,16,Álex Blesa,22,Spain,Central Midfield,€300k
+Squad Levante UD,17,Óscar Clemente,25,Spain,Attacking Midfield,€800k
+Squad Levante UD,37,Carlos Álvarez,20,Spain,Attacking Midfield,€800k
+Squad Levante UD,11,Alejandro Cantero,23,Spain,Left Winger,€1.40m
+Squad Levante UD,7,Roger Brugué,27,Spain,Right Winger,€800k
+Squad Levante UD,19,Rober Ibáñez,31,Spain,Right Winger,€500k
+Squad Levante UD,30,Andrés García,21,Spain,Right Winger,€400k
+Squad Levante UD,22,Mohamed Bouldini,28,Morocco,Centre-Forward,€2.50m
+Squad Levante UD,9,Dani Gómez,25,Spain,Centre-Forward,€1.20m
+Squad Levante UD,12,Fabrício,23,Brazil,Centre-Forward,€800k
+Squad Levante UD,18,Iván Romero,23,Spain,Centre-Forward,€800k
+Squad CD Leganés,13,Diego Conde,25,Spain,Goalkeeper,€1.60m
+Squad CD Leganés,1,Dani Jiménez,34,Spain,Goalkeeper,€400k
+Squad CD Leganés,6,Sergio González,31,Spain,Centre-Back,€1.80m
+Squad CD Leganés,3,Jorge Sáenz,27,Spain,Centre-Back,€1.20m
+Squad CD Leganés,22,Aritz Arambarri,26,Spain,Centre-Back,€500k
+Squad CD Leganés,5,Borja López,30,Spain,Centre-Back,€200k
+Squad CD Leganés,15,Enric Franquesa,27,Spain,Left-Back,€1.20m
+Squad CD Leganés,4,Diyaeddine Abzi,25,Canada,Left-Back,€300k
+Squad CD Leganés,21,Jorge Miramón,34,Spain,Right-Back,€1.20m
+Squad CD Leganés,2,Allan Nyom,35,Cameroon,Right-Back,€800k
+Squad CD Leganés,17,Yvan Neyou,27,Cameroon,Defensive Midfield,€1.60m
+Squad CD Leganés,24,Julián Chicco,26,Argentina,Defensive Midfield,€1.00m
+Squad CD Leganés,8,Luis Perea,26,Spain,Defensive Midfield,€600k
+Squad CD Leganés,14,Darko Brasanac,32,Serbia,Central Midfield,€1.50m
+Squad CD Leganés,32,Seydouba Cissé,23,Guinea,Central Midfield,€1.20m
+Squad CD Leganés,20,Iker Undabarrena,28,Spain,Central Midfield,€700k
+Squad CD Leganés,23,Näis Djouahra,24,France,Left Winger,€800k
+Squad CD Leganés,28,Óscar Ureña,20,Dominican Republic,Left Winger,€400k
+Squad CD Leganés,10,Dani Raba,28,Spain,Right Winger,€2.00m
+Squad CD Leganés,11,Juan Cruz,23,Spain,Right Winger,€1.00m
+Squad CD Leganés,7,Francisco Portillo,33,Spain,Right Winger,€800k
+Squad CD Leganés,9,Miguel de la Fuente,24,Spain,Centre-Forward,€2.40m
+Squad CD Leganés,19,Diego García,23,Spain,Centre-Forward,€1.50m
+Squad Racing Santander,13,Jokin Ezkieta,27,Spain,Goalkeeper,€1.20m
+Squad Racing Santander,1,Miquel Parera,27,Spain,Goalkeeper,€700k
+Squad Racing Santander,18,Manu Hernando,25,Spain,Centre-Back,€900k
+Squad Racing Santander,2,Álvaro Mantilla,23,Spain,Centre-Back,€800k
+Squad Racing Santander,15,Rubén Alves,29,Spain,Centre-Back,€800k
+Squad Racing Santander,4,Pol Moreno,29,Spain,Centre-Back,€500k
+Squad Racing Santander,5,Germán Sánchez,37,Spain,Centre-Back,€200k
+Squad Racing Santander,22,Juan Gutiérrez,24,Spain,Centre-Back,€200k
+Squad Racing Santander,3,Saúl García,29,Spain,Left-Back,€500k
+Squad Racing Santander,40,Mario García,20,Spain,Left-Back,€500k
+Squad Racing Santander,23,Dani Fernández,26,Spain,Right-Back,€600k
+Squad Racing Santander,21,Aritz Aldasoro,24,Spain,Central Midfield,€1.20m
+Squad Racing Santander,6,Íñigo Sainz-Maza,25,Spain,Central Midfield,€1.00m
+Squad Racing Santander,16,Iván Morante,23,Spain,Central Midfield,€500k
+Squad Racing Santander,19,Clément Grenier,33,France,Central Midfield,€500k
+Squad Racing Santander,10,Iñigo Vicente,26,Spain,Left Winger,€2.50m
+Squad Racing Santander,20,Lago Júnior,33,Cote d'Ivoire,Left Winger,€600k
+Squad Racing Santander,8,Jordi Mboula,25,Spain,Right Winger,€1.20m
+Squad Racing Santander,7,Marco Sangalli,32,Spain,Right Winger,€500k
+Squad Racing Santander,29,Jeremy Arévalo,19,Spain,Right Winger,€200k
+Squad Racing Santander,17,Peque Fernández,21,Spain,Second Striker,€2.50m
+Squad Racing Santander,14,Ekain Zenitagoia,29,Spain,Second Striker,€500k
+Squad Racing Santander,9,Juan Carlos Arana,24,Spain,Centre-Forward,€1.20m
+Squad Racing Santander,11,Andrés Martín,24,Spain,Centre-Forward,€1.00m
+Squad Racing Santander,12,Roko Baturina,23,Croatia,Centre-Forward,€700k
+Squad Villarreal CF B,1,Iker Álvarez,22,Andorra,Goalkeeper,€800k
+Squad Villarreal CF B,13,Miguel Ángel Morro,23,Spain,Goalkeeper,€600k
+Squad Villarreal CF B,35,Rubén Gómez,22,Spain,Goalkeeper,€100k
+Squad Villarreal CF B,12,Stefan Lekovic,20,Serbia,Centre-Back,€1.50m
+Squad Villarreal CF B,29,Antonio Espigares,19,Spain,Centre-Back,€500k
+Squad Villarreal CF B,19,Pablo Iñiguez,30,Spain,Centre-Back,€300k
+Squad Villarreal CF B,4,Hugo Pérez,21,Spain,Centre-Back,€100k
+Squad Villarreal CF B,5,Abraham del Moral,22,Spain,Centre-Back,€100k
+Squad Villarreal CF B,18,Carlos Romero,22,Spain,Left-Back,€1.50m
+Squad Villarreal CF B,3,Dani Tasende,23,Spain,Left-Back,€700k
+Squad Villarreal CF B,17,Hugo Novoa,21,Spain,Right-Back,€2.50m
+Squad Villarreal CF B,2,Adrià Altimira,23,Spain,Right-Back,€2.00m
+Squad Villarreal CF B,16,Lanchi,22,Spain,Right-Back,€500k
+Squad Villarreal CF B,15,Marcos Sánchez,20,Spain,Right-Back,€100k
+Squad Villarreal CF B,6,Alberto del Moral,23,Spain,Central Midfield,€1.00m
+Squad Villarreal CF B,27,Dani Requena,20,Spain,Central Midfield,€400k
+Squad Villarreal CF B,14,Aitor Gelardo,21,Spain,Central Midfield,€300k
+Squad Villarreal CF B,21,Rodri Alonso,21,Spain,Central Midfield,€300k
+Squad Villarreal CF B,8,Carlo García,23,Spain,Attacking Midfield,€1.00m
+Squad Villarreal CF B,22,Tiago Geralnik,21,Argentina,Attacking Midfield,€200k
+Squad Villarreal CF B,10,Javi Ontiveros,26,Spain,Left Winger,€1.40m
+Squad Villarreal CF B,7,Diego Collado,23,Spain,Left Winger,€1.00m
+Squad Villarreal CF B,23,Víctor Moreno,18,Spain,Right Winger,€100k
+Squad Villarreal CF B,9,Álex Forés,23,Spain,Centre-Forward,€1.50m
+Squad Villarreal CF B,11,Jorge Pascual,21,Spain,Centre-Forward,€1.00m
+Squad Villarreal CF B,24,Andrés Ferrari,21,Uruguay,Centre-Forward,€1.00m
+Squad Albacete Balompié,25,Tomas Vaclik,35,Czech Republic,Goalkeeper,€800k
+Squad Albacete Balompié,1,Bernabé Barragán,31,Spain,Goalkeeper,€600k
+Squad Albacete Balompié,13,Diego Altube,24,Spain,Goalkeeper,€600k
+Squad Albacete Balompié,15,Kaiky,20,Brazil,Centre-Back,€2.50m
+Squad Albacete Balompié,24,Cristian Glauder,28,Spain,Centre-Back,€800k
+Squad Albacete Balompié,2,Mohamed Djetei,29,Cameroon,Centre-Back,€700k
+Squad Albacete Balompié,5,Juan Antonio Ros,28,Spain,Centre-Back,€200k
+Squad Albacete Balompié,3,Jonathan Silva,29,Argentina,Left-Back,€700k
+Squad Albacete Balompié,17,Julio Alonso,25,Spain,Left-Back,€600k
+Squad Albacete Balompié,23,Álvaro Rodríguez,29,Spain,Right-Back,€800k
+Squad Albacete Balompié,22,Carlos Isaac,25,Spain,Right-Back,€400k
+Squad Albacete Balompié,-,Diegui,30,Iceland,Right-Back,€200k
+Squad Albacete Balompié,4,Agus Medina,29,Spain,Central Midfield,€1.00m
+Squad Albacete Balompié,18,Antonio Pacheco,22,Spain,Central Midfield,€600k
+Squad Albacete Balompié,19,Lander Olaetxea,31,Spain,Central Midfield,€600k
+Squad Albacete Balompié,6,Rai Marchán,30,Spain,Central Midfield,€200k
+Squad Albacete Balompié,8,Riki Rodríguez,26,Spain,Attacking Midfield,€900k
+Squad Albacete Balompié,10,Manu Fuster,26,Spain,Left Winger,€2.00m
+Squad Albacete Balompié,11,Fidel,34,Spain,Left Winger,€800k
+Squad Albacete Balompié,20,Samuel Shashoua,24,England,Left Winger,€800k
+Squad Albacete Balompié,7,Juanma García,31,Spain,Right Winger,€700k
+Squad Albacete Balompié,16,Dani Escriche,26,Spain,Centre-Forward,€1.20m
+Squad Albacete Balompié,9,Higinio Marín,30,Spain,Centre-Forward,€1.00m
+Squad Albacete Balompié,21,Alberto Quiles,28,Spain,Centre-Forward,€900k
+Squad Albacete Balompié,14,Pedro Benito,24,Spain,Centre-Forward,€300k
+Squad FC Andorra,25,Dani Martín,25,Spain,Goalkeeper,€1.00m
+Squad FC Andorra,1,Nico Ratti,30,Argentina,Goalkeeper,€400k
+Squad FC Andorra,13,Oier Olazábal,34,Spain,Goalkeeper,€200k
+Squad FC Andorra,3,José Marsà,22,Spain,Centre-Back,€1.00m
+Squad FC Andorra,23,Diego Alende,26,Spain,Centre-Back,€600k
+Squad FC Andorra,5,Adrià Vilanova,27,Spain,Centre-Back,€500k
+Squad FC Andorra,4,Álex Pastor,24,Spain,Centre-Back,€300k
+Squad FC Andorra,15,Diego González,24,Spain,Centre-Back,€300k
+Squad FC Andorra,16,Diego Pampín,24,Spain,Left-Back,€700k
+Squad FC Andorra,20,Martí Vilà,24,Spain,Left-Back,€400k
+Squad FC Andorra,2,Migue Leal,27,Spain,Right-Back,€600k
+Squad FC Andorra,18,Álex Petxa,27,Spain,Right-Back,€600k
+Squad FC Andorra,6,Jandro Orellana,23,Spain,Defensive Midfield,€1.20m
+Squad FC Andorra,8,Sergi Samper,29,Spain,Defensive Midfield,€700k
+Squad FC Andorra,14,Sergio Molina,28,Spain,Central Midfield,€700k
+Squad FC Andorra,10,Iván Gil,24,Spain,Attacking Midfield,€1.00m
+Squad FC Andorra,21,Rubén Bover,31,Spain,Attacking Midfield,€600k
+Squad FC Andorra,22,Jorge Pombo,30,Spain,Attacking Midfield,€400k
+Squad FC Andorra,12,Christos Almpanis,29,Greece,Left Winger,€600k
+Squad FC Andorra,11,Álvaro Martín,23,Spain,Left Winger,€500k
+Squad FC Andorra,17,Álex Calvo,20,Spain,Right Winger,€1.00m
+Squad FC Andorra,27,Iker Benito,21,Spain,Right Winger,€800k
+Squad FC Andorra,9,Jon Karrikaburu,21,Spain,Centre-Forward,€2.50m
+Squad FC Andorra,7,Julen Lobete,23,Spain,Centre-Forward,€1.50m
+Squad FC Andorra,19,Aurélien Scheidler,25,France,Centre-Forward,€1.00m
+Squad FC Andorra,24,Pablo Moreno,21,Spain,Centre-Forward,€600k
+Squad Burgos CF,13,José Antonio Caro,29,Spain,Goalkeeper,€1.50m
+Squad Burgos CF,1,Loïc Badiashile,26,France,Goalkeeper,€100k
+Squad Burgos CF,18,Aitor Córdoba,28,Spain,Centre-Back,€1.20m
+Squad Burgos CF,14,Unai Elgezabal,30,Spain,Centre-Back,€700k
+Squad Burgos CF,20,Grego Sierra,31,Spain,Centre-Back,€700k
+Squad Burgos CF,24,Esteban Saveljich,32,Montenegro,Centre-Back,€500k
+Squad Burgos CF,23,José Matos,28,Spain,Left-Back,€900k
+Squad Burgos CF,4,Anderson Arroyo,24,Colombia,Right-Back,€800k
+Squad Burgos CF,2,Borja González,28,Spain,Right-Back,€500k
+Squad Burgos CF,6,Raúl Navarro,30,Spain,Right-Back,€500k
+Squad Burgos CF,5,Miguel Atienza,24,Spain,Central Midfield,€1.00m
+Squad Burgos CF,22,Mumo Muñoz,29,Spain,Central Midfield,€700k
+Squad Burgos CF,12,Kévin Appin,26,Martinique,Central Midfield,€600k
+Squad Burgos CF,21,Joni Montiel,25,Spain,Attacking Midfield,€1.50m
+Squad Burgos CF,7,Dani Ojeda,29,Spain,Left Winger,€1.20m
+Squad Burgos CF,10,Álex Bermejo,25,Spain,Left Winger,€700k
+Squad Burgos CF,16,Curro Sánchez,28,Spain,Right Winger,€2.00m
+Squad Burgos CF,11,Álex Sancris,27,Spain,Right Winger,€700k
+Squad Burgos CF,8,Ander Martín,23,Spain,Right Winger,€400k
+Squad Burgos CF,9,Fer Niño,23,Spain,Centre-Forward,€2.00m
+Squad Burgos CF,19,Edu Espiau,29,Spain,Centre-Forward,€600k
+Squad CD Tenerife,1,Juan Soriano,26,Spain,Goalkeeper,€1.50m
+Squad CD Tenerife,13,Tomeu Nadal,35,Spain,Goalkeeper,€300k
+Squad CD Tenerife,6,José Amo,26,Spain,Centre-Back,€800k
+Squad CD Tenerife,4,José León,29,Spain,Centre-Back,€700k
+Squad CD Tenerife,5,Sergio González,26,Spain,Centre-Back,€700k
+Squad CD Tenerife,23,Nikola Sipcic,28,Montenegro,Centre-Back,€600k
+Squad CD Tenerife,31,Loïc Williams,22,Spain,Centre-Back,€300k
+Squad CD Tenerife,3,Fernando Medrano,24,Spain,Left-Back,€600k
+Squad CD Tenerife,24,Nacho Martínez,35,Spain,Left-Back,€600k
+Squad CD Tenerife,22,Jérémy Mellot,30,France,Right-Back,€1.20m
+Squad CD Tenerife,2,Aitor Buñuel,26,Spain,Right-Back,€600k
+Squad CD Tenerife,32,Jesús Belza,20,Spain,Right-Back,€200k
+Squad CD Tenerife,15,Yann Bodiger,29,France,Defensive Midfield,€800k
+Squad CD Tenerife,10,Àlex Corredera,28,Spain,Central Midfield,€800k
+Squad CD Tenerife,8,Javi Alonso,25,Spain,Central Midfield,€200k
+Squad CD Tenerife,16,Aitor Sanz,39,Spain,Central Midfield,€100k
+Squad CD Tenerife,14,Roberto López,23,Spain,Attacking Midfield,€3.00m
+Squad CD Tenerife,11,Yanis Rahmani,28,France,Left Winger,€800k
+Squad CD Tenerife,17,Waldo Rubio,28,Spain,Left Winger,€800k
+Squad CD Tenerife,19,Álvaro Romero,27,Spain,Left Winger,€300k
+Squad CD Tenerife,20,Álvaro Jiménez,28,Spain,Right Winger,€700k
+Squad CD Tenerife,21,Teto Martín,22,Spain,Right Winger,€700k
+Squad CD Tenerife,27,Luismi Cruz,22,Spain,Right Winger,€600k
+Squad CD Tenerife,9,Ángel Rodríguez,36,Spain,Centre-Forward,€500k
+Squad CD Tenerife,18,Enric Gallego,37,Spain,Centre-Forward,€500k
+Squad SD Huesca,1,Álvaro Fernández,26,Spain,Goalkeeper,€2.50m
+Squad SD Huesca,13,Juan Pérez,27,Spain,Goalkeeper,€600k
+Squad SD Huesca,14,Jorge Pulido,33,Spain,Centre-Back,€1.00m
+Squad SD Huesca,15,Jérémy Blasco,25,France,Centre-Back,€800k
+Squad SD Huesca,4,Rubén Pulido,23,Spain,Centre-Back,€600k
+Squad SD Huesca,2,Carlos Gutiérrez,32,Spain,Centre-Back,€200k
+Squad SD Huesca,20,Ignasi Vilarrasa,24,Spain,Left-Back,€800k
+Squad SD Huesca,3,Iván Martos,26,Spain,Left-Back,€400k
+Squad SD Huesca,5,Miguel Loureiro,27,Spain,Right-Back,€1.00m
+Squad SD Huesca,12,Juanjo Nieto,29,Spain,Right-Back,€700k
+Squad SD Huesca,10,Kento Hashimoto,30,Japan,Defensive Midfield,€1.00m
+Squad SD Huesca,23,Óscar Sielva,32,Spain,Central Midfield,€1.00m
+Squad SD Huesca,6,Javi Mier,25,Spain,Central Midfield,€600k
+Squad SD Huesca,22,Iker Kortajarena,23,Spain,Central Midfield,€500k
+Squad SD Huesca,26,Álex Balboa,23,Equatorial Guinea,Central Midfield,€200k
+Squad SD Huesca,8,Javi Martínez,24,Spain,Attacking Midfield,€1.20m
+Squad SD Huesca,21,Elady Zorrilla,33,Spain,Left Winger,€600k
+Squad SD Huesca,9,Hugo Vallejo,24,Spain,Left Winger,€500k
+Squad SD Huesca,17,Enzo Lombardo,27,France,Left Winger,€400k
+Squad SD Huesca,11,Joaquín Muñoz,25,Spain,Right Winger,€1.00m
+Squad SD Huesca,7,Gerard Valentín,30,Spain,Right Winger,€800k
+Squad SD Huesca,24,Samuel Obeng,26,Ghana,Centre-Forward,€1.00m
+Squad SD Huesca,16,Jovanny Bolívar,22,Venezuela,Centre-Forward,€300k
+Squad SD Huesca,18,Rafa Tresaco,23,Spain,Centre-Forward,€100k
+Squad CD Mirandés,1,Ramón Juan,24,Spain,Goalkeeper,€500k
+Squad CD Mirandés,25,Andoni Zubiaurre,27,Spain,Goalkeeper,€500k
+Squad CD Mirandés,13,Luis López,22,Spain,Goalkeeper,€300k
+Squad CD Mirandés,4,Sergio Barcia,23,Spain,Centre-Back,€800k
+Squad CD Mirandés,27,Pablo Ramón,22,Spain,Centre-Back,€700k
+Squad CD Mirandés,3,Álex Barbu,22,Spain,Centre-Back,€500k
+Squad CD Mirandés,5,Tachi,26,Spain,Centre-Back,€500k
+Squad CD Mirandés,20,Diogo Verdasca,27,Portugal,Centre-Back,€200k
+Squad CD Mirandés,24,Jonathan Gómez,20,United States,Left-Back,€1.00m
+Squad CD Mirandés,26,Juan María Alcedo,23,Spain,Left-Back,€300k
+Squad CD Mirandés,17,Houboulang Mendes,25,Guinea-Bissau,Right-Back,€1.00m
+Squad CD Mirandés,2,David Vicente,24,Spain,Right-Back,€200k
+Squad CD Mirandés,8,Álvaro Sanz,23,Spain,Defensive Midfield,€800k
+Squad CD Mirandés,6,Ibrahima Kébé,23,Mali,Defensive Midfield,€500k
+Squad CD Mirandés,19,Mathis Lachuer,23,France,Defensive Midfield,€400k
+Squad CD Mirandés,10,Alberto Reina,26,Spain,Central Midfield,€500k
+Squad CD Mirandés,15,Pablo Tomeo,24,Spain,Central Midfield,€200k
+Squad CD Mirandés,22,Miguel Baeza,24,Spain,Attacking Midfield,€500k
+Squad CD Mirandés,32,Daniel Luna,20,Colombia,Attacking Midfield,€400k
+Squad CD Mirandés,7,Gabri Martínez,21,Spain,Left Winger,€1.50m
+Squad CD Mirandés,11,Ilyas Chaira,23,Morocco,Right Winger,€1.50m
+Squad CD Mirandés,9,Carlos Martín,21,Spain,Centre-Forward,€3.00m
+Squad CD Mirandés,18,Javier Martón,24,Spain,Centre-Forward,€500k
+Squad CD Mirandés,23,Antonino La Gumina,28,Italy,Centre-Forward,€500k
+Squad CD Mirandés,29,Lautaro de León,23,Uruguay,Centre-Forward,€300k
+Squad Racing Ferrol,25,Ander Cantero,29,Spain,Goalkeeper,€1.00m
+Squad Racing Ferrol,1,Gianfranco Gazzaniga,30,Argentina,Goalkeeper,€300k
+Squad Racing Ferrol,13,Emilio Bernad,24,Spain,Goalkeeper,€300k
+Squad Racing Ferrol,12,Álex Martín,26,Spain,Centre-Back,€800k
+Squad Racing Ferrol,15,David Castro,28,Spain,Centre-Back,€600k
+Squad Racing Ferrol,5,Enrique Clemente,25,Spain,Centre-Back,€400k
+Squad Racing Ferrol,4,Jon García,32,Spain,Centre-Back,€300k
+Squad Racing Ferrol,18,Brais Martínez,22,Spain,Left-Back,€500k
+Squad Racing Ferrol,21,Moi Delgado,29,Spain,Left-Back,€300k
+Squad Racing Ferrol,-,Fernando Pumar,34,Spain,Left-Back,€100k
+Squad Racing Ferrol,2,Julián Delmás,28,Spain,Right-Back,€600k
+Squad Racing Ferrol,24,Sergio Cubero,24,Spain,Right-Back,€400k
+Squad Racing Ferrol,-,Luca Ferrone,30,Italy,Right-Back,€200k
+Squad Racing Ferrol,6,Jesús Bernal,27,Spain,Central Midfield,€1.00m
+Squad Racing Ferrol,17,Chuca,26,Spain,Central Midfield,€500k
+Squad Racing Ferrol,16,Fran Manzanara,27,Spain,Central Midfield,€400k
+Squad Racing Ferrol,8,Álex López,36,Spain,Central Midfield,€200k
+Squad Racing Ferrol,3,Óscar Pinchi,28,Spain,Attacking Midfield,€500k
+Squad Racing Ferrol,10,Josep Señé,32,Spain,Attacking Midfield,€500k
+Squad Racing Ferrol,23,Nico Serrano,21,Spain,Left Winger,€1.00m
+Squad Racing Ferrol,7,Héber Pena,34,Spain,Left Winger,€400k
+Squad Racing Ferrol,14,Álvaro Vadillo,29,Spain,Left Winger,€400k
+Squad Racing Ferrol,22,Iker Losada,22,Spain,Right Winger,€1.50m
+Squad Racing Ferrol,11,Nacho Sánchez,31,Spain,Right Winger,€500k
+Squad Racing Ferrol,19,Sabin Merino,32,Spain,Centre-Forward,€500k
+Squad Racing Ferrol,20,Álvaro Giménez,32,Spain,Centre-Forward,€500k
+Squad Racing Ferrol,9,Manu Justo,28,Spain,Centre-Forward,€400k
+Squad CD Eldense,31,Álvaro Aceves,20,Spain,Goalkeeper,€600k
+Squad CD Eldense,1,Guillermo Vallejo,28,Spain,Goalkeeper,€400k
+Squad CD Eldense,13,Ian Mackay,37,Spain,Goalkeeper,€100k
+Squad CD Eldense,4,Dario Dumic,32,Bosnia-Herzegovina,Centre-Back,€600k
+Squad CD Eldense,5,Piña,29,Spain,Centre-Back,€300k
+Squad CD Eldense,6,Carlos Hernández,33,Spain,Centre-Back,€200k
+Squad CD Eldense,25,Nacho Monsalve,29,Spain,Centre-Back,€200k
+Squad CD Eldense,12,Derick Poloni,30,Brazil,Left-Back,€300k
+Squad CD Eldense,3,Álex Martínez,33,Spain,Left-Back,€200k
+Squad CD Eldense,2,Toni Abad,27,Spain,Right-Back,€600k
+Squad CD Eldense,14,Miguel Llambrich,28,Spain,Right-Back,€300k
+Squad CD Eldense,24,David Timor,34,Spain,Defensive Midfield,€500k
+Squad CD Eldense,22,Marc-Olivier Doué,23,France,Defensive Midfield,€200k
+Squad CD Eldense,8,Sergio Ortuño,25,Spain,Central Midfield,€800k
+Squad CD Eldense,16,Youness Lachhab,24,Morocco,Central Midfield,€200k
+Squad CD Eldense,18,Pedro Capó,33,Spain,Central Midfield,€100k
+Squad CD Eldense,21,Álex Bernal,33,Spain,Central Midfield,€100k
+Squad CD Eldense,10,Christian Montes,26,Spain,Attacking Midfield,€400k
+Squad CD Eldense,15,Mo Dauda,26,Ghana,Left Winger,€1.00m
+Squad CD Eldense,23,Marc Mateu,33,Spain,Left Winger,€900k
+Squad CD Eldense,19,Joel Jorquera,23,Spain,Left Winger,€200k
+Squad CD Eldense,20,Ivan Chapela,24,Spain,Right Winger,€1.20m
+Squad CD Eldense,17,Jesús Clemente,23,Spain,Right Winger,€500k
+Squad CD Eldense,9,Mario Soberón,26,Spain,Centre-Forward,€800k
+Squad CD Eldense,7,Florin Andone,31,Romania,Centre-Forward,€700k
+Squad CD Eldense,11,Juanto Ortuño,32,Spain,Centre-Forward,€400k
+Squad FC Cartagena,13,Raúl Lizoain,33,Spain,Goalkeeper,€400k
+Squad FC Cartagena,1,Tomás Mejías,35,Spain,Goalkeeper,€100k
+Squad FC Cartagena,14,José Fontán,24,Spain,Centre-Back,€800k
+Squad FC Cartagena,4,Pedro Alcalá,35,Spain,Centre-Back,€400k
+Squad FC Cartagena,5,Gonzalo Verdú,35,Spain,Centre-Back,€400k
+Squad FC Cartagena,22,Kiko Olivas,35,Spain,Centre-Back,€400k
+Squad FC Cartagena,20,Jairo Izquierdo,30,Spain,Left-Back,€800k
+Squad FC Cartagena,33,Arnau Solà,21,Spain,Left-Back,€400k
+Squad FC Cartagena,16,Iván Calero,28,Spain,Right-Back,€700k
+Squad FC Cartagena,2,Diego Moreno,22,Spain,Right-Back,€600k
+Squad FC Cartagena,8,Luis Muñoz,27,Spain,Defensive Midfield,€1.20m
+Squad FC Cartagena,23,Tomás Alarcón,25,Chile,Defensive Midfield,€1.00m
+Squad FC Cartagena,18,Damián Musto,36,Argentina,Defensive Midfield,€200k
+Squad FC Cartagena,32,Jony Álamo,22,Spain,Central Midfield,€300k
+Squad FC Cartagena,6,Andy Rodríguez,34,Spain,Central Midfield,€200k
+Squad FC Cartagena,17,Mikel Rico,39,Spain,Central Midfield,€200k
+Squad FC Cartagena,11,Juan Carlos Real,33,Spain,Attacking Midfield,€800k
+Squad FC Cartagena,26,Arnau Ortiz,22,Spain,Left Winger,€400k
+Squad FC Cartagena,12,Juanjo Narváez,29,Colombia,Centre-Forward,€700k
+Squad FC Cartagena,9,Alfredo Ortuño,33,Spain,Centre-Forward,€600k
+Squad FC Cartagena,10,Darío Poveda,27,Spain,Centre-Forward,€500k
+Squad FC Cartagena,35,Iván Ayllón,22,Spain,Centre-Forward,€400k
+Squad AD Alcorcón,1,Jesús Ruiz,27,Spain,Goalkeeper,€500k
+Squad AD Alcorcón,13,Lucas Anacker,27,Brazil,Goalkeeper,€400k
+Squad AD Alcorcón,2,Javi Castro,23,Spain,Centre-Back,€600k
+Squad AD Alcorcón,23,Chema Rodríguez,32,Spain,Centre-Back,€500k
+Squad AD Alcorcón,4,Óscar Rivas,24,Spain,Centre-Back,€300k
+Squad AD Alcorcón,6,Jean-Sylvain Babin,37,Martinique,Centre-Back,€300k
+Squad AD Alcorcón,19,Xavi Quintillà,27,Spain,Left-Back,€500k
+Squad AD Alcorcón,3,David Morillas,37,Spain,Left-Back,€100k
+Squad AD Alcorcón,20,Iago López,25,Spain,Right-Back,€500k
+Squad AD Alcorcón,17,Víctor García,26,Spain,Right-Back,€400k
+Squad AD Alcorcón,18,Yan Eteki,26,Cameroon,Defensive Midfield,€800k
+Squad AD Alcorcón,5,Pedro Mosquera,35,Spain,Central Midfield,€300k
+Squad AD Alcorcón,10,Juanma Bravo,26,Spain,Central Midfield,€300k
+Squad AD Alcorcón,16,Javi Pérez,28,Spain,Central Midfield,€300k
+Squad AD Alcorcón,24,Iker Bilbao,28,Spain,Central Midfield,€300k
+Squad AD Alcorcón,14,Fede Vico,29,Spain,Attacking Midfield,€800k
+Squad AD Alcorcón,15,Javi Lara,38,Spain,Attacking Midfield,€100k
+Squad AD Alcorcón,26,Emmanuel Addai,22,Ghana,Right Winger,€900k
+Squad AD Alcorcón,8,Jacobo González,27,Spain,Right Winger,€800k
+Squad AD Alcorcón,22,Juan Artola,24,Spain,Right Winger,€400k
+Squad AD Alcorcón,33,Marciano Sanca,20,Guinea-Bissau,Centre-Forward,€1.00m
+Squad AD Alcorcón,11,Dyego Sousa,34,Portugal,Centre-Forward,€600k
+Squad AD Alcorcón,9,Christian Borrego,27,Spain,Centre-Forward,€500k
+Squad AD Alcorcón,21,Koldo Obieta,30,Spain,Centre-Forward,€200k
+Squad SD Amorebieta,30,Pablo Cuñat,21,Spain,Goalkeeper,€800k
+Squad SD Amorebieta,13,Jonmi Magunagoitia,23,Spain,Goalkeeper,€300k
+Squad SD Amorebieta,1,Unai Marino,24,Spain,Goalkeeper,€100k
+Squad SD Amorebieta,28,Félix Garreta,19,Spain,Centre-Back,€700k
+Squad SD Amorebieta,3,Xabi Etxeita,36,Spain,Centre-Back,€300k
+Squad SD Amorebieta,5,Unai Bustinza,32,Spain,Centre-Back,€300k
+Squad SD Amorebieta,24,Josep Gayá,23,Spain,Centre-Back,€300k
+Squad SD Amorebieta,11,Iker Seguín,34,Spain,Left-Back,€200k
+Squad SD Amorebieta,16,Daniel Lasure,30,Spain,Left-Back,€200k
+Squad SD Amorebieta,15,Álvaro Núñez,23,Spain,Right-Back,€500k
+Squad SD Amorebieta,2,Jorge Mier,25,Spain,Right-Back,€300k
+Squad SD Amorebieta,8,Erik Morán,32,Spain,Defensive Midfield,€400k
+Squad SD Amorebieta,21,Àlex Carbonell,26,Spain,Central Midfield,€600k
+Squad SD Amorebieta,10,Ryan Edwards,30,Australia,Central Midfield,€500k
+Squad SD Amorebieta,20,Kwasi Sibo,25,Ghana,Central Midfield,€400k
+Squad SD Amorebieta,6,Jorge Yriarte,24,Venezuela,Central Midfield,€300k
+Squad SD Amorebieta,14,Javi Eraso,34,Spain,Central Midfield,€300k
+Squad SD Amorebieta,22,Jon Morcillo,25,Spain,Left Winger,€1.00m
+Squad SD Amorebieta,29,Ángel Troncho,21,Spain,Left Winger,€200k
+Squad SD Amorebieta,7,Josué Dorrio,30,Spain,Right Winger,€800k
+Squad SD Amorebieta,17,Rayco Rodríguez,27,Spain,Right Winger,€300k
+Squad SD Amorebieta,19,Jürgen Locadia,30,Curacao,Centre-Forward,€1.20m
+Squad SD Amorebieta,9,Eneko Jauregi,27,Spain,Centre-Forward,€500k
+Squad SD Amorebieta,23,Iker Unzueta,25,Spain,Centre-Forward,€300k
+Squad FC Barcelona Atlètic,1,Ander Astralaga,20,Spain,Goalkeeper,€500k
+Squad FC Barcelona Atlètic,13,Marc Vidal,24,Spain,Goalkeeper,€300k
+Squad FC Barcelona Atlètic,24,Diego Kochen,18,United States,Goalkeeper,€100k
+Squad FC Barcelona Atlètic,15,Mikayil Faye,19,Senegal,Centre-Back,€5.00m
+Squad FC Barcelona Atlètic,4,Mamadou Mbacke,21,Senegal,Centre-Back,€2.00m
+Squad FC Barcelona Atlètic,23,Pelayo Fernández,20,Spain,Centre-Back,€150k
+Squad FC Barcelona Atlètic,5,Sergi Domínguez,19,Spain,Centre-Back,€100k
+Squad FC Barcelona Atlètic,3,Gerard Martín,22,Spain,Left-Back,€400k
+Squad FC Barcelona Atlètic,16,Edu Sánchez,18,Spain,Left-Back,€150k
+Squad FC Barcelona Atlètic,32,Héctor Fort,17,Spain,Right-Back,€7.50m
+Squad FC Barcelona Atlètic,2,Trilli,20,Spain,Right-Back,€300k
+Squad FC Barcelona Atlètic,38,Joan Anaya,19,Spain,Right-Back,€100k
+Squad FC Barcelona Atlètic,6,Marc Casadó,20,Spain,Defensive Midfield,€1.50m
+Squad FC Barcelona Atlètic,27,Marc Bernal,16,Spain,Defensive Midfield,€1.00m
+Squad FC Barcelona Atlètic,26,Pau Prim,18,Spain,Defensive Midfield,€500k
+Squad FC Barcelona Atlètic,20,Unai Hernández,19,Spain,Central Midfield,€600k
+Squad FC Barcelona Atlètic,10,Aleix Garrido,20,Spain,Central Midfield,€500k
+Squad FC Barcelona Atlètic,8,Moha Moukhliss,24,Spain,Central Midfield,€300k
+Squad FC Barcelona Atlètic,-,Biel Vicens,19,Spain,Central Midfield,€100k
+Squad FC Barcelona Atlètic,21,Noah Darvich,17,Germany,Attacking Midfield,€2.50m
+Squad FC Barcelona Atlètic,28,Cristo Muñoz,19,Spain,Attacking Midfield,-
+Squad FC Barcelona Atlètic,14,Jaume Cuéllar,22,Bolivia,Left Winger,€400k
+Squad FC Barcelona Atlètic,7,Ángel Alarcón,19,Spain,Left Winger,€300k
+Squad FC Barcelona Atlètic,30,Dani Rodríguez,18,Spain,Left Winger,€100k
+Squad FC Barcelona Atlètic,22,Naim García,21,Spain,Right Winger,€500k
+Squad FC Barcelona Atlètic,18,Pocho Román,20,Italy,Right Winger,€400k
+Squad FC Barcelona Atlètic,12,Iker Goujón,24,Spain,Right Winger,€100k
+Squad FC Barcelona Atlètic,29,Marc Guiu,18,Spain,Centre-Forward,€7.50m
+Squad FC Barcelona Atlètic,19,Pau Víctor,22,Spain,Centre-Forward,€800k
+Squad FC Barcelona Atlètic,9,Diego Percan,22,Spain,Centre-Forward,€300k
+Squad Real Sociedad B,1,Gaizka Ayesa,23,Spain,Goalkeeper,€300k
+Squad Real Sociedad B,25,Aitor Fraga,21,Spain,Goalkeeper,€150k
+Squad Real Sociedad B,30,Lander Olasagasti,20,Spain,Goalkeeper,€100k
+Squad Real Sociedad B,17,Jon Martín,17,Spain,Centre-Back,€2.00m
+Squad Real Sociedad B,5,Yago Cantero,24,Spain,Centre-Back,€300k
+Squad Real Sociedad B,4,Peru Rodríguez,22,Spain,Centre-Back,€250k
+Squad Real Sociedad B,29,Luken Beitia,19,Spain,Centre-Back,€100k
+Squad Real Sociedad B,14,Ibra Cámara,21,Spain,Centre-Back,€50k
+Squad Real Sociedad B,15,Eneko Astigarraga,20,Spain,Centre-Back,€50k
+Squad Real Sociedad B,3,Ander Zoilo,24,Spain,Left-Back,€150k
+Squad Real Sociedad B,23,Unax Agote,21,Spain,Left-Back,€100k
+Squad Real Sociedad B,2,Jon Aramburu,21,Venezuela,Right-Back,€2.00m
+Squad Real Sociedad B,22,Iñaki Rupérez,21,Spain,Right-Back,€100k
+Squad Real Sociedad B,6,Jon Gorrotxategi,22,Spain,Defensive Midfield,€400k
+Squad Real Sociedad B,16,Alex Lebarbier,19,France,Central Midfield,€50k
+Squad Real Sociedad B,20,Mikel Rodriguez,22,Spain,Central Midfield,€50k
+Squad Real Sociedad B,8,Pablo Marín,20,Spain,Attacking Midfield,€1.50m
+Squad Real Sociedad B,11,Jon Magunazelaia,22,Spain,Attacking Midfield,€1.00m
+Squad Real Sociedad B,31,Arkaitz Mariezkurrena,19,Spain,Left Winger,€200k
+Squad Real Sociedad B,18,Eder García,20,Spain,Left Winger,€100k
+Squad Real Sociedad B,21,Jon Balda,21,Spain,Left Winger,€100k
+Squad Real Sociedad B,7,Alberto Dadie,21,Spain,Right Winger,€250k
+Squad Real Sociedad B,27,Job Ochieng,21,Kenya,Right Winger,€50k
+Squad Real Sociedad B,10,Mikel Goti,21,Spain,Second Striker,€200k
+Squad Real Sociedad B,9,Bryan Fiabema,21,Norway,Centre-Forward,€300k
+Squad Real Sociedad B,19,Ekain Azkune,23,Spain,Centre-Forward,€200k
+Squad Real Sociedad B,12,Andoni Arzak,21,Spain,Centre-Forward,€50k
+Squad Real Sociedad B,28,Ekain Orobengoa,19,Spain,Centre-Forward,€50k
+Squad Deportivo de La Coruña,13,Germán Parreño,31,Spain,Goalkeeper,€300k
+Squad Deportivo de La Coruña,1,Eric Puerto,21,Spain,Goalkeeper,€200k
+Squad Deportivo de La Coruña,24,Alberto Sánchez,23,Spain,Goalkeeper,€100k
+Squad Deportivo de La Coruña,15,Pablo Vázquez,29,Spain,Centre-Back,€500k
+Squad Deportivo de La Coruña,4,Pablo Martínez,35,France,Centre-Back,€250k
+Squad Deportivo de La Coruña,19,Jaime Sánchez,29,Spain,Centre-Back,€250k
+Squad Deportivo de La Coruña,5,Dani Barcia,21,Spain,Centre-Back,€150k
+Squad Deportivo de La Coruña,18,Mikel Balenziaga,36,Spain,Left-Back,€200k
+Squad Deportivo de La Coruña,2,Iano Simão,25,Guinea-Bissau,Left-Back,€150k
+Squad Deportivo de La Coruña,22,Paris Adot,34,Spain,Right-Back,€300k
+Squad Deportivo de La Coruña,23,Ximo Navarro,34,Spain,Right-Back,€300k
+Squad Deportivo de La Coruña,8,Diego Villares,27,Spain,Central Midfield,€500k
+Squad Deportivo de La Coruña,20,José Ángel Jurado,31,Spain,Central Midfield,€300k
+Squad Deportivo de La Coruña,35,Rubén López,19,Spain,Central Midfield,€200k
+Squad Deportivo de La Coruña,6,Salva Sevilla,40,Spain,Central Midfield,€50k
+Squad Deportivo de La Coruña,17,Hugo Rama,27,Spain,Attacking Midfield,€400k
+Squad Deportivo de La Coruña,3,David Mella,18,Spain,Left Winger,€600k
+Squad Deportivo de La Coruña,11,Davo,29,Spain,Left Winger,€500k
+Squad Deportivo de La Coruña,10,Yeremay Hernández,21,Spain,Left Winger,€400k
+Squad Deportivo de La Coruña,14,Berto Cayarga,27,Spain,Right Winger,€300k
+Squad Deportivo de La Coruña,21,Pablo Valcarce,31,Spain,Right Winger,€300k
+Squad Deportivo de La Coruña,16,Luis Quintero,19,Colombia,Right Winger,€200k
+Squad Deportivo de La Coruña,7,Lucas Pérez,35,Spain,Centre-Forward,€800k
+Squad Deportivo de La Coruña,9,Iván Barbero,25,Spain,Centre-Forward,€400k
+Squad Deportivo de La Coruña,12,Raúl Alcaina,23,Spain,Centre-Forward,€200k
+Squad Deportivo de La Coruña,29,Martín Ochoa,19,Spain,Centre-Forward,€200k
+Squad SD Ponferradina,1,Andrés Prieto,30,Spain,Goalkeeper,€200k
+Squad SD Ponferradina,13,Ángel Jiménez,21,Spain,Goalkeeper,€150k
+Squad SD Ponferradina,25,Alejandro Palop,20,Spain,Goalkeeper,€50k
+Squad SD Ponferradina,4,Kevin Sibille,25,Argentina,Centre-Back,€400k
+Squad SD Ponferradina,15,Antonio Leal,25,Spain,Centre-Back,€250k
+Squad SD Ponferradina,22,David Andújar,32,Spain,Centre-Back,€200k
+Squad SD Ponferradina,19,Andoni López,28,Spain,Left-Back,€300k
+Squad SD Ponferradina,20,Javi Lancho,22,Spain,Left-Back,€200k
+Squad SD Ponferradina,3,Nil Jiménez,23,Spain,Left-Back,€150k
+Squad SD Ponferradina,17,Thomas Carrique,25,France,Right-Back,€400k
+Squad SD Ponferradina,2,Ale Díez,28,Spain,Right-Back,€300k
+Squad SD Ponferradina,6,James Igbekeme,28,Nigeria,Central Midfield,€300k
+Squad SD Ponferradina,8,Pol Llonch,31,Spain,Central Midfield,€300k
+Squad SD Ponferradina,12,Pablo Clavería,28,Spain,Central Midfield,€250k
+Squad SD Ponferradina,16,Markel Lozano,27,Spain,Central Midfield,€250k
+Squad SD Ponferradina,23,Mangel Prendes,22,Spain,Central Midfield,€200k
+Squad SD Ponferradina,21,Yeray Cabanzón,20,Spain,Attacking Midfield,€300k
+Squad SD Ponferradina,11,Raúl Dacosta,22,Spain,Left Winger,€250k
+Squad SD Ponferradina,14,Josep Cerdà,21,Spain,Left Winger,€100k
+Squad SD Ponferradina,7,Ernesto Gómez,29,Spain,Right Winger,€300k
+Squad SD Ponferradina,18,Brais Abelenda,28,Spain,Right Winger,€300k
+Squad SD Ponferradina,9,Borja Valle,31,Spain,Centre-Forward,€500k
+Squad SD Ponferradina,5,Samuele Longo,32,Italy,Centre-Forward,€300k
+Squad SD Ponferradina,10,Yuri,41,Brazil,Centre-Forward,€100k
+Squad CD Lugo,13,Gonçalo Tabuaço,23,Portugal,Goalkeeper,€400k
+Squad CD Lugo,1,Lucas Díaz,27,Spain,Goalkeeper,€200k
+Squad CD Lugo,4,Gorka Pérez,28,Spain,Centre-Back,€300k
+Squad CD Lugo,14,César Morgado,31,Spain,Centre-Back,€300k
+Squad CD Lugo,5,Bernardo Cruz,30,Spain,Centre-Back,€200k
+Squad CD Lugo,6,Andrés Castrín,20,Spain,Centre-Back,€50k
+Squad CD Lugo,3,Javi Vázquez,23,Spain,Left-Back,€200k
+Squad CD Lugo,22,Alberto López,28,Spain,Left-Back,€150k
+Squad CD Lugo,12,Johaneko Louis-Jean,19,France,Right-Back,€300k
+Squad CD Lugo,2,Carlos Julio Martínez,30,Dominican Republic,Right-Back,€200k
+Squad CD Lugo,18,Jozabed Sánchez,33,Spain,Central Midfield,€300k
+Squad CD Lugo,17,Fran Mérida,34,Spain,Central Midfield,€250k
+Squad CD Lugo,8,Sergio Aguza,31,Spain,Central Midfield,€200k
+Squad CD Lugo,20,Thiago Ojeda,21,Argentina,Central Midfield,€200k
+Squad CD Lugo,9,Nacho Quintana,23,Spain,Attacking Midfield,€250k
+Squad CD Lugo,10,Antonio Aranda,23,Spain,Attacking Midfield,€200k
+Squad CD Lugo,21,Mario da Costa,22,Spain,Left Winger,€150k
+Squad CD Lugo,15,Víctor Narro,24,Spain,Right Winger,€300k
+Squad CD Lugo,27,Jorge González,20,Spain,Right Winger,€50k
+Squad CD Lugo,7,Willy Ledesma,35,Spain,Second Striker,€300k
+Squad CD Lugo,11,Antoñín,24,Spain,Centre-Forward,€500k
+Squad CD Lugo,19,Adrián Fuentes,27,Spain,Centre-Forward,€200k
+Squad CD Lugo,23,Leandro Antonetti,21,Puerto Rico,Centre-Forward,€100k
+Squad RC Celta Fortuna,1,Coke Carrillo,22,Spain,Goalkeeper,€200k
+Squad RC Celta Fortuna,24,César Fernández,20,Spain,Goalkeeper,€200k
+Squad RC Celta Fortuna,13,Ruly García,24,Spain,Goalkeeper,€100k
+Squad RC Celta Fortuna,2,Yoel Lago,20,Spain,Centre-Back,€200k
+Squad RC Celta Fortuna,4,Javi Domínguez,23,Spain,Centre-Back,€200k
+Squad RC Celta Fortuna,5,Gael Alonso,21,Spain,Centre-Back,€150k
+Squad RC Celta Fortuna,34,Pablo Meixús,20,Spain,Centre-Back,€50k
+Squad RC Celta Fortuna,18,Joel López,22,Spain,Left-Back,€200k
+Squad RC Celta Fortuna,3,Tincho,21,Spain,Left-Back,€150k
+Squad RC Celta Fortuna,17,Javi Rueda,21,Spain,Right-Back,€250k
+Squad RC Celta Fortuna,20,Javi Rodríguez,20,Spain,Right-Back,€250k
+Squad RC Celta Fortuna,14,Miguel Román,21,Spain,Central Midfield,€350k
+Squad RC Celta Fortuna,6,Damián Rodríguez,21,Spain,Central Midfield,€250k
+Squad RC Celta Fortuna,12,Manu Fernández,22,Spain,Central Midfield,€200k
+Squad RC Celta Fortuna,21,Víctor San Bartolomé,24,Spain,Central Midfield,€150k
+Squad RC Celta Fortuna,29,David de la Iglesia,21,Spain,Central Midfield,€50k
+Squad RC Celta Fortuna,10,Raúl Blanco,22,Spain,Attacking Midfield,€300k
+Squad RC Celta Fortuna,8,Bruno Iglesias,20,Spain,Attacking Midfield,€200k
+Squad RC Celta Fortuna,15,Fer López,19,Spain,Attacking Midfield,€200k
+Squad RC Celta Fortuna,23,Hugo Álvarez,20,Spain,Left Winger,€400k
+Squad RC Celta Fortuna,11,Alfon González,24,Spain,Left Winger,€300k
+Squad RC Celta Fortuna,9,Pablo Durán,22,Spain,Centre-Forward,€300k
+Squad RC Celta Fortuna,16,Dani González,22,Spain,Centre-Forward,€250k
+Squad RC Celta Fortuna,19,Manu Garrido,23,Spain,Centre-Forward,€200k
+Squad RC Celta Fortuna,25,Lucas Antañón,20,Spain,Centre-Forward,€50k
+Squad Real Unión Club,1,Jon Irazusta,37,Spain,Goalkeeper,€100k
+Squad Real Unión Club,13,Unai Agirre,26,Spain,Goalkeeper,€50k
+Squad Real Unión Club,24,Charlie Pérez,21,Spain,Goalkeeper,€50k
+Squad Real Unión Club,28,Josh Feeney,18,England,Centre-Back,€500k
+Squad Real Unión Club,4,Antonio Montoro,26,Spain,Centre-Back,€250k
+Squad Real Unión Club,15,Imanol Baz,23,Spain,Centre-Back,€250k
+Squad Real Unión Club,5,Iván Pérez,31,Spain,Centre-Back,€200k
+Squad Real Unión Club,3,Roger Riera,29,Spain,Centre-Back,€150k
+Squad Real Unión Club,17,José Carlos Márquez,27,Spain,Left-Back,€250k
+Squad Real Unión Club,22,Julio Martínez,22,Spain,Left-Back,€100k
+Squad Real Unión Club,2,Marcos Luna,21,Spain,Right-Back,€200k
+Squad Real Unión Club,19,Victor Eimil,25,Spain,Right-Back,€150k
+Squad Real Unión Club,16,Ander Vidorreta,26,Spain,Central Midfield,€300k
+Squad Real Unión Club,10,Quique Rivero,32,Spain,Central Midfield,€200k
+Squad Real Unión Club,18,Carlos Beitia,24,Spain,Central Midfield,€150k
+Squad Real Unión Club,6,Jagoba Beobide,37,Spain,Central Midfield,€50k
+Squad Real Unión Club,20,Alberto Solís,26,Spain,Attacking Midfield,€350k
+Squad Real Unión Club,23,Alex Cerdá,21,Spain,Attacking Midfield,€200k
+Squad Real Unión Club,29,Tommi O'Reilly,20,England,Attacking Midfield,€200k
+Squad Real Unión Club,11,Alain Oyarzun,30,Spain,Left Winger,€350k
+Squad Real Unión Club,21,Asier Córdoba,24,Spain,Left Winger,€250k
+Squad Real Unión Club,14,Iñigo Muñoz,27,Spain,Right Winger,€200k
+Squad Real Unión Club,7,Antón Escobar,25,Spain,Centre-Forward,€300k
+Squad Real Unión Club,12,Peru Ruiz,22,Spain,Centre-Forward,€200k
+Squad Real Unión Club,9,Asier Benito,29,Spain,Centre-Forward,€150k
+Squad Cultural Leonesa,1,Miguel Bañuz,30,Spain,Goalkeeper,€250k
+Squad Cultural Leonesa,13,Alejandro Fernández,23,Spain,Goalkeeper,€100k
+Squad Cultural Leonesa,15,Quique Fornos,27,Spain,Centre-Back,€250k
+Squad Cultural Leonesa,20,Rodri Suárez,21,Spain,Centre-Back,€250k
+Squad Cultural Leonesa,4,Aleix Coch,32,Spain,Centre-Back,€200k
+Squad Cultural Leonesa,5,Alberto Guitián,33,Spain,Centre-Back,€200k
+Squad Cultural Leonesa,3,Jaume Pol,29,Spain,Left-Back,€200k
+Squad Cultural Leonesa,17,Álvaro Martínez,21,Spain,Left-Back,€100k
+Squad Cultural Leonesa,2,Víctor García,29,Venezuela,Right-Back,€200k
+Squad Cultural Leonesa,22,Joseba Muguruza,30,Spain,Right-Back,€200k
+Squad Cultural Leonesa,6,Kevin Presa,29,Spain,Central Midfield,€250k
+Squad Cultural Leonesa,8,Diego Barri,28,Spain,Central Midfield,€200k
+Squad Cultural Leonesa,18,Martín Solar,24,Spain,Central Midfield,€200k
+Squad Cultural Leonesa,12,Nico Toca,21,Spain,Central Midfield,€50k
+Squad Cultural Leonesa,14,Bicho,28,Spain,Attacking Midfield,€250k
+Squad Cultural Leonesa,10,Aarón Rey,25,Spain,Attacking Midfield,€200k
+Squad Cultural Leonesa,23,Fabio Blanco,20,Spain,Left Winger,€300k
+Squad Cultural Leonesa,-,Santi Samanes,28,Spain,Left Winger,€250k
+Squad Cultural Leonesa,11,Luis Bilbao,21,Spain,Left Winger,€200k
+Squad Cultural Leonesa,16,Berto,26,Spain,Left Winger,€200k
+Squad Cultural Leonesa,7,Carlos Calderón,29,Spain,Right Winger,€250k
+Squad Cultural Leonesa,9,Guillermo Fernández,30,Spain,Centre-Forward,€300k
+Squad Cultural Leonesa,19,Dorian Hanza,22,Equatorial Guinea,Centre-Forward,€250k
+Squad Cultural Leonesa,21,Rodrigo Escudero,30,Spain,Centre-Forward,€250k
+Squad Gimnàstic de Tarragona,13,Alberto Varo,31,Spain,Goalkeeper,€200k
+Squad Gimnàstic de Tarragona,1,Dani Parra,24,Spain,Goalkeeper,€100k
+Squad Gimnàstic de Tarragona,3,Nacho González,29,Spain,Centre-Back,€300k
+Squad Gimnàstic de Tarragona,4,Pol Domingo,24,Spain,Centre-Back,€300k
+Squad Gimnàstic de Tarragona,5,Unai Dufur,25,Spain,Centre-Back,€250k
+Squad Gimnàstic de Tarragona,2,Pablo Trigueros,31,Spain,Centre-Back,€200k
+Squad Gimnàstic de Tarragona,12,Iker Recio,22,Spain,Centre-Back,€50k
+Squad Gimnàstic de Tarragona,21,Joan Oriol,37,Spain,Left-Back,€100k
+Squad Gimnàstic de Tarragona,20,Alexandru Țîrlea,24,Romania,Right-Back,€100k
+Squad Gimnàstic de Tarragona,8,Marc Montalvo,22,Spain,Central Midfield,€250k
+Squad Gimnàstic de Tarragona,18,Borja Martínez,29,Spain,Central Midfield,€250k
+Squad Gimnàstic de Tarragona,6,Ander Gorostidi,28,Spain,Central Midfield,€200k
+Squad Gimnàstic de Tarragona,14,Óscar Sanz,24,Spain,Central Midfield,€200k
+Squad Gimnàstic de Tarragona,17,Pablo Fernández,27,Spain,Attacking Midfield,€300k
+Squad Gimnàstic de Tarragona,10,Andy Escudero,24,Spain,Left Winger,€300k
+Squad Gimnàstic de Tarragona,15,Álex Mula,27,Spain,Left Winger,€300k
+Squad Gimnàstic de Tarragona,11,Marc Fernández,33,Spain,Left Winger,€250k
+Squad Gimnàstic de Tarragona,19,Mario Rodríguez,27,Spain,Left Winger,€200k
+Squad Gimnàstic de Tarragona,7,Marc Álvarez,22,Spain,Left Winger,€150k
+Squad Gimnàstic de Tarragona,22,Jaume Jardí,22,Spain,Right Winger,€300k
+Squad Gimnàstic de Tarragona,23,David Concha,27,Spain,Right Winger,€150k
+Squad Gimnàstic de Tarragona,16,Maurizio Pochettino,23,Spain,Right Winger,€100k
+Squad Gimnàstic de Tarragona,9,Gorka Santamaría,28,Spain,Centre-Forward,€200k
+Squad Gimnàstic de Tarragona,29,Alan Godoy,20,Spain,Centre-Forward,€200k
+Squad CA Osasuna Promesas,1,Pablo Valencia,23,Spain,Goalkeeper,€200k
+Squad CA Osasuna Promesas,24,Dimitrios Stamatakis,20,Greece,Goalkeeper,€200k
+Squad CA Osasuna Promesas,13,Darío Ramos,24,Spain,Goalkeeper,€100k
+Squad CA Osasuna Promesas,2,Jorge Moreno,22,Spain,Centre-Back,€500k
+Squad CA Osasuna Promesas,15,Guillem Molina,23,Spain,Centre-Back,€300k
+Squad CA Osasuna Promesas,23,Nikolaos Michelis,23,Greece,Centre-Back,€300k
+Squad CA Osasuna Promesas,4,Ibaider Garriz,23,Spain,Centre-Back,€200k
+Squad CA Osasuna Promesas,5,Christian Mutilva,20,Spain,Centre-Back,€200k
+Squad CA Osasuna Promesas,22,Ander Dufur,23,Spain,Right-Back,€50k
+Squad CA Osasuna Promesas,8,Asier Osambela,19,Spain,Central Midfield,€300k
+Squad CA Osasuna Promesas,17,Eneko Aguilar,23,Spain,Central Midfield,€300k
+Squad CA Osasuna Promesas,6,David Rabadán,23,Spain,Central Midfield,€100k
+Squad CA Osasuna Promesas,18,Mauro Echegoyen,19,Spain,Central Midfield,€100k
+Squad CA Osasuna Promesas,21,Jon García,21,Spain,Central Midfield,€50k
+Squad CA Osasuna Promesas,34,Miguel Auría,19,Spain,Central Midfield,€50k
+Squad CA Osasuna Promesas,14,Xabi Huarte,23,Spain,Attacking Midfield,€200k
+Squad CA Osasuna Promesas,10,Ander Yoldi,23,Spain,Left Winger,€400k
+Squad CA Osasuna Promesas,11,Unai Buján,23,Spain,Left Winger,€150k
+Squad CA Osasuna Promesas,12,Javier Sola,20,Spain,Left Winger,€50k
+Squad CA Osasuna Promesas,29,Nowend Lorenzo,21,Dominican Republic,Right Winger,€100k
+Squad CA Osasuna Promesas,36,Iñigo Arguibide,18,Spain,Right Winger,€50k
+Squad CA Osasuna Promesas,9,Jorge Aguirre,24,Spain,Centre-Forward,€400k
+Squad CA Osasuna Promesas,19,Max Svensson,22,Spain,Centre-Forward,€400k
+Squad CA Osasuna Promesas,7,Rubén Azcona,23,Spain,Centre-Forward,€50k
+Squad CA Osasuna Promesas,30,Dani Sancho,22,Spain,Centre-Forward,€50k
+Squad CE Sabadell FC,13,Adrián Ortolá,30,Spain,Goalkeeper,€200k
+Squad CE Sabadell FC,1,Froilán Leal,23,Spain,Goalkeeper,€50k
+Squad CE Sabadell FC,24,Sebastien Koula Tou,19,Burkina Faso,Goalkeeper,€50k
+Squad CE Sabadell FC,15,Jon Ander Amelibia,30,Spain,Centre-Back,€300k
+Squad CE Sabadell FC,5,Pau Resta,23,Spain,Centre-Back,€250k
+Squad CE Sabadell FC,4,Ricard Pujol,26,Spain,Centre-Back,€200k
+Squad CE Sabadell FC,3,Jesús Fernández,24,Spain,Centre-Back,€100k
+Squad CE Sabadell FC,16,Toni Herrero,22,Spain,Left-Back,€300k
+Squad CE Sabadell FC,6,Jordi Calavera,28,Spain,Right-Back,€300k
+Squad CE Sabadell FC,23,Pablo Monroy,25,Spain,Right-Back,€200k
+Squad CE Sabadell FC,21,Sergi Maestre,33,Spain,Central Midfield,€200k
+Squad CE Sabadell FC,8,Álex Gualda,26,Spain,Central Midfield,€150k
+Squad CE Sabadell FC,18,Carles Salvador,33,Spain,Central Midfield,€150k
+Squad CE Sabadell FC,12,Marc Doménech,21,Spain,Central Midfield,€50k
+Squad CE Sabadell FC,20,Raúl Baena,35,Spain,Central Midfield,€50k
+Squad CE Sabadell FC,26,Sander Ballero,19,Spain,Central Midfield,€50k
+Squad CE Sabadell FC,27,Marc Marruecos,22,Spain,Central Midfield,€50k
+Squad CE Sabadell FC,7,Antonio Moyano,23,Spain,Attacking Midfield,€200k
+Squad CE Sabadell FC,-,Javi Gómez,25,Spain,Left Winger,€150k
+Squad CE Sabadell FC,22,Abde Damar,24,Morocco,Left Winger,€150k
+Squad CE Sabadell FC,11,David Astals,22,Spain,Right Winger,€250k
+Squad CE Sabadell FC,19,Nando García,29,Spain,Right Winger,€200k
+Squad CE Sabadell FC,23,David Soto,31,Spain,Right Winger,€200k
+Squad CE Sabadell FC,14,Marcos Baselga,25,Spain,Centre-Forward,€250k
+Squad CE Sabadell FC,9,Manel Martínez,32,Spain,Centre-Forward,€200k
+Squad CE Sabadell FC,17,Vladyslav Kopotun,23,Ukraine,Centre-Forward,€100k
+Squad CF Fuenlabrada,13,Javier Belman,25,Spain,Goalkeeper,€300k
+Squad CF Fuenlabrada,1,Javi Díaz,26,Spain,Goalkeeper,€200k
+Squad CF Fuenlabrada,18,Álex Craninx,28,Belgium,Goalkeeper,€100k
+Squad CF Fuenlabrada,24,Lucas Giffard,26,France,Goalkeeper,€50k
+Squad CF Fuenlabrada,4,Alejandro Sotillos,26,Spain,Centre-Back,€300k
+Squad CF Fuenlabrada,5,Manu Lama,23,Spain,Centre-Back,€250k
+Squad CF Fuenlabrada,16,David Alba,24,Spain,Centre-Back,€200k
+Squad CF Fuenlabrada,6,Álvaro García,23,Spain,Centre-Back,€150k
+Squad CF Fuenlabrada,14,Álvaro Barbosa,30,Spain,Left-Back,€250k
+Squad CF Fuenlabrada,3,Juan Durán,23,Spain,Left-Back,€100k
+Squad CF Fuenlabrada,32,Samu Rodríguez,19,Spain,Left-Back,€50k
+Squad CF Fuenlabrada,2,Carlos Vigaray,29,Spain,Right-Back,€150k
+Squad CF Fuenlabrada,21,Maxim Fernández,21,Spain,Right-Back,€50k
+Squad CF Fuenlabrada,28,Bilal Ouacharaf,21,Morocco,Right-Back,€50k
+Squad CF Fuenlabrada,26,Hugo Jerome Hilt,21,France,Midfielder,€50k
+Squad CF Fuenlabrada,23,Ale Galindo,28,Spain,Central Midfield,€250k
+Squad CF Fuenlabrada,10,Álvaro Bravo,26,Spain,Central Midfield,€150k
+Squad CF Fuenlabrada,29,Carlos Benítez,21,Spain,Central Midfield,€150k
+Squad CF Fuenlabrada,8,Cristóbal Márquez,39,Spain,Central Midfield,€50k
+Squad CF Fuenlabrada,12,Stephen Buer,25,Ghana,Central Midfield,€50k
+Squad CF Fuenlabrada,15,Aarón Sánchez,21,Spain,Central Midfield,€50k
+Squad CF Fuenlabrada,40,Adal Hernando,21,Spain,Central Midfield,€50k
+Squad CF Fuenlabrada,37,Javi Currás,21,Spain,Attacking Midfield,€100k
+Squad CF Fuenlabrada,17,Fer Ruiz,32,Spain,Right Winger,€250k
+Squad CF Fuenlabrada,7,Raúl Hernández,29,Spain,Right Winger,€150k
+Squad CF Fuenlabrada,11,William de Camargo,25,Brazil,Right Winger,€100k
+Squad CF Fuenlabrada,22,Yung-Cheng Yuan,21,Chinese Taipei,Right Winger,€50k
+Squad CF Fuenlabrada,9,Diego Gómez,24,Spain,Centre-Forward,€200k
+Squad CF Fuenlabrada,20,Sergio Benito,25,Spain,Centre-Forward,€200k
+Squad CF Fuenlabrada,19,Ilies Faure,22,France,Centre-Forward,€100k
+Squad CF Rayo Majadahonda,1,Dani Martín,18,Spain,Goalkeeper,€300k
+Squad CF Rayo Majadahonda,13,Cheikh Sarr,23,Senegal,Goalkeeper,€100k
+Squad CF Rayo Majadahonda,3,Jorge Casado,34,Spain,Centre-Back,€200k
+Squad CF Rayo Majadahonda,4,Pelayo Suárez,25,Spain,Centre-Back,€200k
+Squad CF Rayo Majadahonda,15,Kike Hermoso,24,Spain,Centre-Back,€200k
+Squad CF Rayo Majadahonda,34,João Dias,22,Portugal,Centre-Back,€100k
+Squad CF Rayo Majadahonda,17,Rodrigo Abajas,20,Spain,Left-Back,€100k
+Squad CF Rayo Majadahonda,23,Sergio Camacho,21,Spain,Left-Back,€100k
+Squad CF Rayo Majadahonda,22,Guillem Rodríguez,26,Spain,Right-Back,€250k
+Squad CF Rayo Majadahonda,2,Diego Ceballos,25,Spain,Right-Back,€150k
+Squad CF Rayo Majadahonda,6,Álvaro Arnedo,27,Spain,Defensive Midfield,€150k
+Squad CF Rayo Majadahonda,36,Guille Berzal,19,Spain,Midfielder,€50k
+Squad CF Rayo Majadahonda,18,Raúl Tavares,25,Spain,Central Midfield,€200k
+Squad CF Rayo Majadahonda,20,Sergi García,25,Spain,Central Midfield,€200k
+Squad CF Rayo Majadahonda,21,Francisco Reguera,27,Spain,Central Midfield,€200k
+Squad CF Rayo Majadahonda,-,Javi Ros,34,Spain,Central Midfield,€50k
+Squad CF Rayo Majadahonda,10,Pablo Pérez,30,Spain,Attacking Midfield,€200k
+Squad CF Rayo Majadahonda,16,Pipi Nakai,20,Japan,Attacking Midfield,€100k
+Squad CF Rayo Majadahonda,37,Samu Expósito,19,Spain,Attacking Midfield,€50k
+Squad CF Rayo Majadahonda,14,Pablo Hervías,31,Spain,Right Winger,€250k
+Squad CF Rayo Majadahonda,19,Alberto Fernández,24,Spain,Right Winger,€200k
+Squad CF Rayo Majadahonda,12,Sergio Navarro,23,Spain,Right Winger,€150k
+Squad CF Rayo Majadahonda,-,Rubén Torres,21,Spain,Right Winger,€100k
+Squad CF Rayo Majadahonda,7,Rubén Enri,26,Spain,Centre-Forward,€250k
+Squad CF Rayo Majadahonda,11,Jeisson Martínez,29,Peru,Centre-Forward,€150k
+Squad CF Rayo Majadahonda,9,José Luis Cortés,22,Spain,Centre-Forward,€100k
+Squad Sestao River,1,Sergi Puig,25,Spain,Goalkeeper,€150k
+Squad Sestao River,13,Unai Ruiz,23,Spain,Goalkeeper,€50k
+Squad Sestao River,24,Pere García,22,Spain,Goalkeeper,€50k
+Squad Sestao River,5,Gaizka Martínez,27,Spain,Centre-Back,€250k
+Squad Sestao River,6,Antxón Jaso,26,Spain,Centre-Back,€200k
+Squad Sestao River,12,Diego Mirapeix,23,Spain,Centre-Back,€200k
+Squad Sestao River,4,Mario Camero,20,Spain,Centre-Back,€50k
+Squad Sestao River,3,Álvaro Mateo,27,Spain,Left-Back,€200k
+Squad Sestao River,23,Roberto Corral,26,Spain,Left-Back,€200k
+Squad Sestao River,22,Markel Etxeberria,29,Spain,Right-Back,€250k
+Squad Sestao River,2,Álex Carbonell,23,Spain,Right-Back,€150k
+Squad Sestao River,8,Gorka Garai,27,Spain,Central Midfield,€200k
+Squad Sestao River,14,Álvaro Gete,23,Spain,Central Midfield,€200k
+Squad Sestao River,19,Armando Corbalán,30,Spain,Central Midfield,€200k
+Squad Sestao River,15,Julen Azkue,28,Spain,Central Midfield,€150k
+Squad Sestao River,28,Asier Del Río,21,Spain,Central Midfield,€50k
+Squad Sestao River,11,Kepa Uriarte,22,Spain,Attacking Midfield,€100k
+Squad Sestao River,10,Leandro Martínez,29,Spain,Left Winger,€300k
+Squad Sestao River,7,Aitor Aranzabe,25,Spain,Left Winger,€200k
+Squad Sestao River,9,Jon Cabo,23,Spain,Left Winger,€200k
+Squad Sestao River,16,Josu Ozkoidi,33,Spain,Left Winger,€100k
+Squad Sestao River,21,Jon Guruzeta,24,Spain,Right Winger,€200k
+Squad Sestao River,17,Kaxe,30,Spain,Centre-Forward,€150k
+Squad Sestao River,18,Dopi,29,Spain,Centre-Forward,€150k
+Squad Sestao River,20,Ibai Sanz,20,Spain,Centre-Forward,€100k
+Squad Unionistas CF,1,Iván Martínez,22,Spain,Goalkeeper,€150k
+Squad Unionistas CF,13,Pablo Cacharrón,26,Spain,Goalkeeper,€150k
+Squad Unionistas CF,5,Erik Ruiz,29,Spain,Centre-Back,€250k
+Squad Unionistas CF,4,Ramiro Mayor,32,Spain,Centre-Back,€200k
+Squad Unionistas CF,3,Jon Rojo,27,Spain,Left-Back,€250k
+Squad Unionistas CF,15,Ekaitz Jiménez,28,Spain,Left-Back,€200k
+Squad Unionistas CF,22,Carlos Giménez,21,Spain,Right-Back,€200k
+Squad Unionistas CF,2,Sergio Camus,26,Spain,Right-Back,€100k
+Squad Unionistas CF,6,Javi Villar,21,Spain,Central Midfield,€250k
+Squad Unionistas CF,8,Héctor Nespral,31,Spain,Central Midfield,€250k
+Squad Unionistas CF,20,Jordi Tur,25,Spain,Central Midfield,€150k
+Squad Unionistas CF,16,Adrián Gómez,30,Spain,Central Midfield,€100k
+Squad Unionistas CF,23,Juan Serrano,24,Spain,Attacking Midfield,€150k
+Squad Unionistas CF,17,Jorge Rastrojo,24,Spain,Left Winger,€200k
+Squad Unionistas CF,21,Asier Teijeira,22,Spain,Left Winger,€100k
+Squad Unionistas CF,10,Dani Nieto,32,Spain,Right Winger,€200k
+Squad Unionistas CF,14,Alfred Planas,28,Spain,Right Winger,€200k
+Squad Unionistas CF,24,Hugo De Bustos,19,Spain,Right Winger,€50k
+Squad Unionistas CF,11,Álvaro Gómez,26,Spain,Second Striker,€200k
+Squad Unionistas CF,7,Mario Losada,26,Spain,Centre-Forward,€250k
+Squad Unionistas CF,9,Slavy,21,Bulgaria,Centre-Forward,€250k
+Squad Unionistas CF,19,Jon Etxaniz,33,Spain,Centre-Forward,€150k
+Squad CD Arenteiro,13,Diego García,29,Spain,Goalkeeper,€200k
+Squad CD Arenteiro,1,Pablo Brea,22,Spain,Goalkeeper,€50k
+Squad CD Arenteiro,24,Manu Figueroa,20,Spain,Goalkeeper,€50k
+Squad CD Arenteiro,4,Vitra,29,Spain,Centre-Back,€250k
+Squad CD Arenteiro,3,Germán Nóvoa,27,Spain,Centre-Back,€200k
+Squad CD Arenteiro,15,Javi Moreno,23,Spain,Centre-Back,€150k
+Squad CD Arenteiro,5,Pol Bueso,38,Spain,Centre-Back,€50k
+Squad CD Arenteiro,18,Álvaro Ramón,24,Spain,Left-Back,€300k
+Squad CD Arenteiro,20,Tomás Berardozzi,21,Argentina,Left-Back,€50k
+Squad CD Arenteiro,22,Jordan Sánchez,33,Spain,Right-Back,€100k
+Squad CD Arenteiro,2,Lucas Sena,23,Brazil,Right-Back,€50k
+Squad CD Arenteiro,6,Tiago Rodríguez,23,Spain,Central Midfield,€200k
+Squad CD Arenteiro,-,Curro Rivelott,24,Spain,Central Midfield,€150k
+Squad CD Arenteiro,14,Adrián Cruz,36,Spain,Central Midfield,€100k
+Squad CD Arenteiro,16,Vicente Esquerdo,25,Spain,Attacking Midfield,€200k
+Squad CD Arenteiro,17,Álex Cardero,20,Spain,Attacking Midfield,€200k
+Squad CD Arenteiro,21,Manuel Romay,33,Spain,Attacking Midfield,€150k
+Squad CD Arenteiro,8,Marino Illescas,23,Spain,Attacking Midfield,€100k
+Squad CD Arenteiro,23,Luis Chacón,23,Spain,Left Winger,€350k
+Squad CD Arenteiro,11,Agustín Pastoriza,28,Argentina,Left Winger,€300k
+Squad CD Arenteiro,10,Marquitos,24,Spain,Right Winger,€200k
+Squad CD Arenteiro,9,Manin Gonzaga,24,Spain,Centre-Forward,€200k
+Squad CD Arenteiro,7,Christian Santos,36,Venezuela,Centre-Forward,€150k
+Squad CD Arenteiro,19,Iván Ramos,22,Spain,Centre-Forward,€150k
+Squad CD Teruel,1,Taliby Konate,26,Spain,Goalkeeper,€200k
+Squad CD Teruel,13,Nico Rodríguez,21,Spain,Goalkeeper,€50k
+Squad CD Teruel,24,Ethan Lainez,19,Spain,Goalkeeper,€50k
+Squad CD Teruel,2,Fran Carmona,24,Spain,Centre-Back,€200k
+Squad CD Teruel,4,Eduardo Cabetas,28,Spain,Centre-Back,€200k
+Squad CD Teruel,5,Arnau Gaixas,25,Spain,Centre-Back,€200k
+Squad CD Teruel,20,Ismael Sierra,21,Spain,Centre-Back,€50k
+Squad CD Teruel,3,Julen Hualde,28,Spain,Left-Back,€200k
+Squad CD Teruel,23,Aitor Pascual,25,Spain,Right-Back,€200k
+Squad CD Teruel,15,Víctor Sanchís,23,Spain,Right-Back,€150k
+Squad CD Teruel,6,Borja Romero,31,Spain,Central Midfield,€150k
+Squad CD Teruel,8,Fran Tena,30,Spain,Central Midfield,€150k
+Squad CD Teruel,21,Facundo García,24,Argentina,Central Midfield,€150k
+Squad CD Teruel,30,Jorge Alastuey,20,Spain,Central Midfield,€50k
+Squad CD Teruel,14,Nacho Castillo,23,Spain,Attacking Midfield,€150k
+Squad CD Teruel,17,Neskes,22,Spain,Attacking Midfield,€150k
+Squad CD Teruel,11,Borja Martínez,30,Spain,Left Winger,€250k
+Squad CD Teruel,10,David Aparicio,27,Spain,Left Winger,€200k
+Squad CD Teruel,7,June-hyuk Ahn,24,"Korea, South",Right Winger,€150k
+Squad CD Teruel,18,Toni Gabarre,33,Spain,Centre-Forward,€200k
+Squad CD Teruel,19,Daniel Villanueva,26,Spain,Centre-Forward,€200k
+Squad CD Teruel,9,Guillem Naranjo,23,Spain,Centre-Forward,€150k
+Squad UE Cornellà,1,Rubén Miño,35,Spain,Goalkeeper,€100k
+Squad UE Cornellà,13,Yaroslav Meykher,24,Ukraine,Goalkeeper,€100k
+Squad UE Cornellà,24,Hao Li,20,China,Goalkeeper,€50k
+Squad UE Cornellà,4,Andreu Hernández,27,Spain,Centre-Back,€200k
+Squad UE Cornellà,5,Marc Vilaplana,21,Spain,Centre-Back,€150k
+Squad UE Cornellà,16,Sergio Ayala,31,Spain,Centre-Back,€150k
+Squad UE Cornellà,21,Kike Ríos,24,Spain,Centre-Back,€100k
+Squad UE Cornellà,20,Eudald Vergés,26,Spain,Left-Back,€300k
+Squad UE Cornellà,15,José Mas,25,Spain,Right-Back,€150k
+Squad UE Cornellà,14,Kike López,36,Spain,Right-Back,€100k
+Squad UE Cornellà,18,Antonio Caballero,30,Spain,Central Midfield,€300k
+Squad UE Cornellà,6,Toni Arranz,30,Spain,Central Midfield,€200k
+Squad UE Cornellà,8,Armando Ortiz,33,Spain,Central Midfield,€150k
+Squad UE Cornellà,46,Pedro Soma,17,United States,Central Midfield,€50k
+Squad UE Cornellà,7,Luisao Macías,19,Ecuador,Attacking Midfield,€50k
+Squad UE Cornellà,22,Álex Gonpi,24,Spain,Left Winger,€50k
+Squad UE Cornellà,9,Teddy Sutherland,24,England,Right Winger,€150k
+Squad UE Cornellà,11,Robert Simón,30,Spain,Right Winger,€150k
+Squad UE Cornellà,17,Canario,34,Spain,Right Winger,€150k
+Squad UE Cornellà,19,Adrián Bobi,19,Spain,Right Winger,€50k
+Squad UE Cornellà,10,Clau Mendes,23,Guinea-Bissau,Centre-Forward,€300k
+Squad UE Cornellà,23,Marc Tenas,22,Spain,Centre-Forward,€250k
+Squad SD Tarazona,1,Salvi Carrasco,23,Spain,Goalkeeper,€200k
+Squad SD Tarazona,13,Yoel Ramírez,22,Spain,Goalkeeper,€100k
+Squad SD Tarazona,4,Marc Trilles,32,Spain,Centre-Back,€200k
+Squad SD Tarazona,16,Isaac Amoah,23,Ghana,Centre-Back,€200k
+Squad SD Tarazona,20,Manuel Pedreño,23,Spain,Centre-Back,€150k
+Squad SD Tarazona,22,Carlos Javier,32,Spain,Centre-Back,€100k
+Squad SD Tarazona,17,Mikel Kortazar,25,Spain,Left-Back,€200k
+Squad SD Tarazona,19,Mounir Errahaly,24,Morocco,Left-Back,€100k
+Squad SD Tarazona,3,Jérémie Gnali,22,France,Left-Back,€50k
+Squad SD Tarazona,2,Borja San Emeterio,27,Spain,Right-Back,€200k
+Squad SD Tarazona,5,Boubacar Keita,24,Senegal,Central Midfield,€200k
+Squad SD Tarazona,14,Ramón Bueno,29,Spain,Central Midfield,€100k
+Squad SD Tarazona,6,Jorge Mencía,22,Spain,Central Midfield,€50k
+Squad SD Tarazona,8,Guillermo Alonso,27,Spain,Central Midfield,€50k
+Squad SD Tarazona,15,Álex Gil,21,Spain,Central Midfield,€50k
+Squad SD Tarazona,10,Fer Cano,29,Spain,Attacking Midfield,€150k
+Squad SD Tarazona,7,Dani Pichín,31,Spain,Left Winger,€150k
+Squad SD Tarazona,23,Liberto Beltrán,27,Spain,Left Winger,€150k
+Squad SD Tarazona,21,Andreu Guiu,29,Spain,Right Winger,€200k
+Squad SD Tarazona,18,Javi Areso,26,Spain,Right Winger,€50k
+Squad SD Tarazona,9,Christian Dieste,28,Spain,Centre-Forward,€150k
+Squad SD Tarazona,11,David Cubillas,33,Spain,Centre-Forward,€100k
+Squad SD Tarazona,12,Kader Drissa Ballo,22,Cote d'Ivoire,Centre-Forward,€50k
+Squad SD Logroñés,1,Ander Iru,25,Spain,Goalkeeper,€100k
+Squad SD Logroñés,13,Oriol Martí,24,Spain,Goalkeeper,€50k
+Squad SD Logroñés,2,Adrián Trespalacios,22,Spain,Centre-Back,€150k
+Squad SD Logroñés,4,Javier Murua,26,Spain,Centre-Back,€150k
+Squad SD Logroñés,16,Imanol Ezkurdia,25,Spain,Centre-Back,€100k
+Squad SD Logroñés,5,Jon Aurtenetxe,32,Spain,Centre-Back,€50k
+Squad SD Logroñés,18,Manny Rodríguez,26,Dominican Republic,Left-Back,€150k
+Squad SD Logroñés,3,Jaime Paredes,33,Spain,Left-Back,€100k
+Squad SD Logroñés,6,Gexan Elosegi,24,Spain,Right-Back,€200k
+Squad SD Logroñés,14,Adrián Cova,23,Venezuela,Right-Back,€50k
+Squad SD Logroñés,20,Damià Sabater,28,Spain,Central Midfield,€150k
+Squad SD Logroñés,23,Alessio Miceli,24,Italy,Central Midfield,€150k
+Squad SD Logroñés,8,Javi Castellano,36,Spain,Central Midfield,€100k
+Squad SD Logroñés,15,Curro Muñoz,21,Spain,Central Midfield,€50k
+Squad SD Logroñés,21,Antonio Salado,27,Spain,Attacking Midfield,€200k
+Squad SD Logroñés,22,Dani Garrido,24,Spain,Attacking Midfield,€100k
+Squad SD Logroñés,10,Ferni,26,Spain,Left Winger,€150k
+Squad SD Logroñés,7,Óscar Fernández,28,Spain,Right Winger,€100k
+Squad SD Logroñés,19,Michael Conejero,28,Spain,Right Winger,€50k
+Squad SD Logroñés,17,Jordi Escobar,22,Spain,Centre-Forward,€200k
+Squad SD Logroñés,-,Rubio,28,Spain,Centre-Forward,€150k
+Squad SD Logroñés,11,Marc Andre Schmerböck,30,Austria,Centre-Forward,€150k
+Squad SD Logroñés,9,Fabián Luzzi,19,Spain,Centre-Forward,€100k
+Squad SD Logroñés,27,Álex Jaraiz,21,Spain,Centre-Forward,€50k
+Squad Real Madrid Castilla,1,Lucas Cañizares,21,Spain,Goalkeeper,€400k
+Squad Real Madrid Castilla,24,Mario de Luis,21,Spain,Goalkeeper,€400k
+Squad Real Madrid Castilla,13,Diego Piñeiro,20,Spain,Goalkeeper,€50k
+Squad Real Madrid Castilla,5,Marvel,21,Spain,Centre-Back,€600k
+Squad Real Madrid Castilla,4,Álvaro Carrillo,22,Spain,Centre-Back,€300k
+Squad Real Madrid Castilla,15,Edgar Pujol,19,Dominican Republic,Centre-Back,€250k
+Squad Real Madrid Castilla,16,Raúl Asencio,21,Spain,Centre-Back,€200k
+Squad Real Madrid Castilla,33,Kike Ribes,20,Spain,Centre-Back,€50k
+Squad Real Madrid Castilla,39,David Cuenca,22,Spain,Centre-Back,€50k
+Squad Real Madrid Castilla,3,Rafa Obrador,20,Spain,Left-Back,€300k
+Squad Real Madrid Castilla,2,Vinícius Tobias,20,Brazil,Right-Back,€3.00m
+Squad Real Madrid Castilla,19,Lorenzo Aguado,21,Spain,Right-Back,€100k
+Squad Real Madrid Castilla,6,Mario Martín,20,Spain,Defensive Midfield,€250k
+Squad Real Madrid Castilla,20,Manuel Ángel,20,Spain,Central Midfield,€500k
+Squad Real Madrid Castilla,8,Théo Zidane,21,France,Central Midfield,€300k
+Squad Real Madrid Castilla,14,David González,21,Spain,Central Midfield,€100k
+Squad Real Madrid Castilla,10,Nico Paz,19,Argentina,Attacking Midfield,€10.00m
+Squad Real Madrid Castilla,22,César Palacios,19,Spain,Attacking Midfield,€500k
+Squad Real Madrid Castilla,23,Víctor Muñoz,20,Spain,Left Winger,€50k
+Squad Real Madrid Castilla,17,Gonzalo García,20,Spain,Right Winger,€1.00m
+Squad Real Madrid Castilla,21,Jeremy de León,20,Puerto Rico,Right Winger,€200k
+Squad Real Madrid Castilla,29,Esteban Aparicio,22,Spain,Right Winger,€50k
+Squad Real Madrid Castilla,9,Álvaro Rodríguez,19,Uruguay,Centre-Forward,€3.50m
+Squad Real Madrid Castilla,7,Noel López,21,Spain,Centre-Forward,€300k
+Squad Málaga CF,1,Alfonso Herrero,29,Spain,Goalkeeper,€400k
+Squad Málaga CF,13,Carlos López,19,Spain,Goalkeeper,€50k
+Squad Málaga CF,20,Nélson Monte,28,Portugal,Centre-Back,€500k
+Squad Málaga CF,4,Einar Galilea,29,Spain,Centre-Back,€400k
+Squad Málaga CF,5,Juande Rivas,24,Spain,Centre-Back,€400k
+Squad Málaga CF,15,Moussa Diarra,22,Mali,Centre-Back,€50k
+Squad Málaga CF,25,Diego Murillo,23,Spain,Centre-Back,€50k
+Squad Málaga CF,14,Víctor García,29,Spain,Left-Back,€350k
+Squad Málaga CF,18,Dani Sánchez,24,Spain,Left-Back,€200k
+Squad Málaga CF,2,Jokin Gabilondo,25,Spain,Right-Back,€400k
+Squad Málaga CF,3,Carlos Puga,23,Spain,Right-Back,€200k
+Squad Málaga CF,16,Genaro Rodríguez,26,Spain,Defensive Midfield,€600k
+Squad Málaga CF,29,Izan Merino,18,Spain,Defensive Midfield,€50k
+Squad Málaga CF,6,Ramón Enríquez,22,Spain,Central Midfield,€400k
+Squad Málaga CF,12,Manu Molina,32,Spain,Central Midfield,€400k
+Squad Málaga CF,22,Dani Lorenzo,21,Spain,Central Midfield,€400k
+Squad Málaga CF,8,Juanpe,28,Spain,Central Midfield,€300k
+Squad Málaga CF,23,Luca Sangalli,29,Spain,Central Midfield,€300k
+Squad Málaga CF,35,Aarón Ochoa,16,Ireland,Attacking Midfield,€50k
+Squad Málaga CF,11,Kevin Medina,23,Spain,Left Winger,€800k
+Squad Málaga CF,21,Juan Hernández,29,Spain,Left Winger,€300k
+Squad Málaga CF,7,David Ferreiro,36,Spain,Left Winger,€200k
+Squad Málaga CF,10,David Larrubia,21,Spain,Right Winger,€400k
+Squad Málaga CF,9,Javier Avilés,26,Spain,Right Winger,€300k
+Squad Málaga CF,-,Haitam Abaida,21,Morocco,Right Winger,€200k
+Squad Málaga CF,26,Antonio Cordero,17,Spain,Right Winger,€200k
+Squad Málaga CF,19,Roberto Fernández,21,Spain,Centre-Forward,€600k
+Squad Málaga CF,17,Dioni,34,Spain,Centre-Forward,€500k
+Squad UD Ibiza,13,Patrick Sequeira,25,Costa Rica,Goalkeeper,€300k
+Squad UD Ibiza,1,Baptiste Reynet,33,France,Goalkeeper,€200k
+Squad UD Ibiza,-,Fabri,36,Spain,Goalkeeper,€100k
+Squad UD Ibiza,24,Lluc Matas,20,Spain,Goalkeeper,€50k
+Squad UD Ibiza,3,Iñaki Olaortua,30,Spain,Centre-Back,€300k
+Squad UD Ibiza,23,Alberto Escassi,35,Spain,Centre-Back,€300k
+Squad UD Ibiza,12,Eric Monjonell,22,Spain,Centre-Back,€200k
+Squad UD Ibiza,22,Pepe Sánchez,24,Spain,Centre-Back,€200k
+Squad UD Ibiza,4,Pablo Bobadilla,27,Spain,Centre-Back,€150k
+Squad UD Ibiza,5,Javi Jiménez,28,Spain,Left-Back,€400k
+Squad UD Ibiza,2,David Argüelles,22,Spain,Left-Back,€50k
+Squad UD Ibiza,17,Unai Medina,34,Spain,Right-Back,€300k
+Squad UD Ibiza,15,Joseda Menargues,21,Spain,Right-Back,€150k
+Squad UD Ibiza,16,Roberto Olabe,27,Spain,Central Midfield,€400k
+Squad UD Ibiza,8,Fausto Tienza,34,Spain,Central Midfield,€300k
+Squad UD Ibiza,6,Jesús Álvarez,24,Spain,Central Midfield,€200k
+Squad UD Ibiza,21,Eugeni,29,Spain,Attacking Midfield,€600k
+Squad UD Ibiza,10,Rubén Díez,30,Spain,Attacking Midfield,€400k
+Squad UD Ibiza,11,Arturo Molina,27,Spain,Attacking Midfield,€250k
+Squad UD Ibiza,14,Álex Gallar,32,Spain,Left Winger,€700k
+Squad UD Ibiza,7,Suleiman Camara,22,Spain,Right Winger,€500k
+Squad UD Ibiza,19,Patrick Soko,26,Cameroon,Right Winger,€500k
+Squad UD Ibiza,9,Nikolay Obolskiy,27,Russia,Centre-Forward,€500k
+Squad UD Ibiza,18,Cedric Omoigui,29,Nigeria,Centre-Forward,€400k
+Squad UD Ibiza,20,Roberto Arroyo,20,Spain,Centre-Forward,€300k
+Squad CD Castellón,1,Gonzalo Crettaz,24,Argentina,Goalkeeper,€500k
+Squad CD Castellón,24,Brian Schwake,22,United States,Goalkeeper,€200k
+Squad CD Castellón,13,Jacob Carney,22,England,Goalkeeper,€50k
+Squad CD Castellón,12,Daijiro Chirino,22,Curacao,Centre-Back,€400k
+Squad CD Castellón,14,Óscar Gil,28,Spain,Centre-Back,€300k
+Squad CD Castellón,18,Iago Indias,28,Spain,Centre-Back,€250k
+Squad CD Castellón,2,Borja Granero,33,Spain,Centre-Back,€200k
+Squad CD Castellón,5,Alberto Jiménez,31,Spain,Centre-Back,€150k
+Squad CD Castellón,17,Salva Ruiz,28,Spain,Left-Back,€400k
+Squad CD Castellón,33,Jozhua Vertrouwd,19,Netherlands,Left-Back,€150k
+Squad CD Castellón,16,Manu Sánchez,28,Spain,Right-Back,€500k
+Squad CD Castellón,23,Josep Calavera,24,Spain,Central Midfield,€500k
+Squad CD Castellón,19,Dani Villahermosa,23,Spain,Central Midfield,€300k
+Squad CD Castellón,3,Albert Lottin,22,France,Central Midfield,€250k
+Squad CD Castellón,8,Julio Gracia,26,Spain,Central Midfield,€200k
+Squad CD Castellón,4,Haris Medunjanin,39,Bosnia-Herzegovina,Central Midfield,€50k
+Squad CD Castellón,11,Douglas Aurélio,25,Brazil,Attacking Midfield,€750k
+Squad CD Castellón,7,Sergio Moyita,31,Spain,Attacking Midfield,€200k
+Squad CD Castellón,22,Israel Suero,30,Spain,Attacking Midfield,€200k
+Squad CD Castellón,20,Nikita Iosifov,23,Russia,Left Winger,€500k
+Squad CD Castellón,10,Raúl Sánchez,26,Spain,Left Winger,€400k
+Squad CD Castellón,21,Gervane Kastaneer,27,Curacao,Left Winger,€200k
+Squad CD Castellón,15,Mamadou Traoré,22,Mali,Right Winger,€50k
+Squad CD Castellón,9,Jesús de Miguel,27,Spain,Centre-Forward,€500k
+Squad CD Castellón,6,Lars Veldwijk,32,South Africa,Centre-Forward,€400k
+Squad Córdoba CF,13,Carlos Marín,27,Spain,Goalkeeper,€400k
+Squad Córdoba CF,1,Lluis Tarrés,23,Spain,Goalkeeper,€50k
+Squad Córdoba CF,16,José Antonio Martínez,31,Spain,Centre-Back,€500k
+Squad Córdoba CF,4,Adrián Lapeña,28,Spain,Centre-Back,€400k
+Squad Córdoba CF,-,Dragisa Gudelj,26,Serbia,Centre-Back,€200k
+Squad Córdoba CF,18,Carlos García,23,Spain,Centre-Back,€200k
+Squad Córdoba CF,27,Matías Barboza,22,Spain,Centre-Back,€50k
+Squad Córdoba CF,3,José Calderón,24,Spain,Left-Back,€300k
+Squad Córdoba CF,5,Adrián Castellano,29,Spain,Left-Back,€150k
+Squad Córdoba CF,21,Carlos Albarrán,30,Spain,Right-Back,€250k
+Squad Córdoba CF,2,Iván Rodríguez,27,Spain,Right-Back,€200k
+Squad Córdoba CF,22,Youssouf Diarra,25,Mali,Central Midfield,€350k
+Squad Córdoba CF,6,Álex Sala,23,Spain,Central Midfield,€300k
+Squad Córdoba CF,15,Isma Ruiz,23,Spain,Central Midfield,€300k
+Squad Córdoba CF,14,Recio,33,Spain,Central Midfield,€150k
+Squad Córdoba CF,23,Cristian Carracedo,28,Spain,Left Winger,€400k
+Squad Córdoba CF,17,Adilson,27,Portugal,Left Winger,€350k
+Squad Córdoba CF,10,Simo Bouzaidi,24,Morocco,Left Winger,€300k
+Squad Córdoba CF,9,Kuki Zalazar,25,Spain,Right Winger,€200k
+Squad Córdoba CF,7,Kike Márquez,34,Spain,Second Striker,€350k
+Squad Córdoba CF,11,Álvaro Leiva,19,Spain,Second Striker,€200k
+Squad Córdoba CF,20,Antonio Casas,24,Spain,Centre-Forward,€500k
+Squad Córdoba CF,19,Alberto Toril,26,Spain,Centre-Forward,€200k
+Squad Atlético de Madrid B,13,Alejandro Iturbe,20,Spain,Goalkeeper,€500k
+Squad Atlético de Madrid B,1,Antonio Gomis,20,Spain,Goalkeeper,€150k
+Squad Atlético de Madrid B,24,Sergio Mestre,19,Spain,Goalkeeper,€50k
+Squad Atlético de Madrid B,3,Marco Moreno,23,Spain,Centre-Back,€300k
+Squad Atlético de Madrid B,4,Mariano Gómez,25,Argentina,Centre-Back,€300k
+Squad Atlético de Madrid B,5,Ilias Kostis,21,Greece,Centre-Back,€300k
+Squad Atlético de Madrid B,2,Redouane Halhal,21,Morocco,Centre-Back,€100k
+Squad Atlético de Madrid B,15,Daniel Martinez,19,Spain,Centre-Back,€100k
+Squad Atlético de Madrid B,18,Lalo Aguilar,21,Spain,Centre-Back,€100k
+Squad Atlético de Madrid B,22,Pablo Pérez,22,Spain,Left-Back,€200k
+Squad Atlético de Madrid B,14,Joel Arumí,23,Spain,Left-Back,€150k
+Squad Atlético de Madrid B,27,Javier Boñar,18,Spain,Right-Back,€500k
+Squad Atlético de Madrid B,6,Assane Ndiaye,24,Senegal,Defensive Midfield,€250k
+Squad Atlético de Madrid B,23,Aitor Gismera,20,Spain,Central Midfield,€250k
+Squad Atlético de Madrid B,8,Sergio Guerrero,25,Spain,Central Midfield,€200k
+Squad Atlético de Madrid B,20,Mario Maroto,20,Spain,Central Midfield,€200k
+Squad Atlético de Madrid B,19,Alejandro Mestanza,19,Spain,Attacking Midfield,€200k
+Squad Atlético de Madrid B,11,Salim El Jebari,20,Morocco,Left Winger,€1.00m
+Squad Atlético de Madrid B,10,Álex Calatrava,23,Spain,Right Winger,€200k
+Squad Atlético de Madrid B,7,Diego Bri,21,Spain,Centre-Forward,€300k
+Squad Atlético de Madrid B,17,Adrián Niño,19,Spain,Centre-Forward,€300k
+Squad Atlético de Madrid B,21,Abde Raihani,20,Morocco,Centre-Forward,€300k
+Squad Atlético de Madrid B,9,Nabil Touaizi,23,Morocco,Centre-Forward,€200k
+Squad AD Ceuta FC,1,Pedro López,29,Spain,Goalkeeper,€200k
+Squad AD Ceuta FC,24,Tomaz Stopajnik,23,Slovenia,Goalkeeper,€50k
+Squad AD Ceuta FC,6,Saturday Erimuya,26,Nigeria,Centre-Back,€200k
+Squad AD Ceuta FC,20,Fabrizio Danese,28,Italy,Centre-Back,€200k
+Squad AD Ceuta FC,4,Albert Caparrós,25,Spain,Centre-Back,€150k
+Squad AD Ceuta FC,16,Carlos Redru,26,Spain,Left-Back,€250k
+Squad AD Ceuta FC,2,Fran Rodríguez,28,Spain,Right-Back,€200k
+Squad AD Ceuta FC,17,Alain García,25,Spain,Right-Back,€150k
+Squad AD Ceuta FC,3,Cristian Rodríguez,28,Spain,Central Midfield,€350k
+Squad AD Ceuta FC,8,Alejandro Meléndez,24,Spain,Central Midfield,€300k
+Squad AD Ceuta FC,12,Chrisantus Uche,20,Nigeria,Central Midfield,€300k
+Squad AD Ceuta FC,5,Lolo González,32,Spain,Central Midfield,€200k
+Squad AD Ceuta FC,21,Jota López,21,Spain,Central Midfield,€150k
+Squad AD Ceuta FC,10,Julio Iglesias,23,Spain,Central Midfield,€100k
+Squad AD Ceuta FC,17,Adri Cuevas,34,Spain,Central Midfield,€100k
+Squad AD Ceuta FC,23,Ñito González,31,Spain,Attacking Midfield,€250k
+Squad AD Ceuta FC,7,Aisar Ahmed,22,Spain,Attacking Midfield,€150k
+Squad AD Ceuta FC,22,Cedric Teguia,22,Spain,Left Winger,€400k
+Squad AD Ceuta FC,15,Carlos Doncel,27,Spain,Left Winger,€300k
+Squad AD Ceuta FC,14,Manu Rico,21,Spain,Left Winger,€100k
+Squad AD Ceuta FC,9,Rodri Ríos,33,Spain,Centre-Forward,€400k
+Squad AD Ceuta FC,19,Dani Romera,28,Spain,Centre-Forward,€300k
+Squad AD Ceuta FC,11,Pablo García,25,Spain,Centre-Forward,€250k
+Squad AD Ceuta FC,18,Sofiane El Ftouhi,23,France,Centre-Forward,€100k
+Squad Real Murcia CF,1,Manu García,33,Spain,Goalkeeper,€300k
+Squad Real Murcia CF,24,Gianni Cassaro,32,Spain,Goalkeeper,€100k
+Squad Real Murcia CF,13,Iker Piedra,22,Spain,Goalkeeper,€50k
+Squad Real Murcia CF,6,Alberto González,31,Spain,Centre-Back,€250k
+Squad Real Murcia CF,4,Marcos Mauro,33,Argentina,Centre-Back,€200k
+Squad Real Murcia CF,16,Víctor Rofino,21,Spain,Centre-Back,€150k
+Squad Real Murcia CF,15,Andrés López,21,Spain,Centre-Back,€50k
+Squad Real Murcia CF,3,Marc Baró,24,Spain,Left-Back,€200k
+Squad Real Murcia CF,19,Juanmi Carrión,26,Spain,Left-Back,€200k
+Squad Real Murcia CF,2,José Ruiz,34,Spain,Right-Back,€200k
+Squad Real Murcia CF,22,Enol Coto,23,Spain,Right-Back,€100k
+Squad Real Murcia CF,26,Martin Svidersky,21,Slovakia,Central Midfield,€400k
+Squad Real Murcia CF,7,Isi Gómez,28,Spain,Central Midfield,€250k
+Squad Real Murcia CF,5,Sabit Abdulai,24,Ghana,Central Midfield,€200k
+Squad Real Murcia CF,8,Pablo Larrea,30,Spain,Central Midfield,€200k
+Squad Real Murcia CF,21,Tomás Pina,36,Spain,Central Midfield,€150k
+Squad Real Murcia CF,23,Imanol Alonso,22,Spain,Central Midfield,€100k
+Squad Real Murcia CF,17,Dani Vega,27,Spain,Left Winger,€250k
+Squad Real Murcia CF,10,Loren Burón,29,Spain,Left Winger,€200k
+Squad Real Murcia CF,14,Pedro León,37,Spain,Right Winger,€500k
+Squad Real Murcia CF,18,Carlos Rojas,21,Spain,Right Winger,€100k
+Squad Real Murcia CF,11,José Ángel Carrillo,30,Spain,Centre-Forward,€400k
+Squad Real Murcia CF,9,Amin Bouzaig,26,Morocco,Centre-Forward,€250k
+Squad Real Murcia CF,25,Álex Rubio,21,Spain,Centre-Forward,€100k
+Squad CD Atlético Baleares,13,Jero Lario,29,Spain,Goalkeeper,€200k
+Squad CD Atlético Baleares,1,Ramon Vila,22,Spain,Goalkeeper,€150k
+Squad CD Atlético Baleares,22,Félix Ofoli,23,Ghana,Centre-Back,€300k
+Squad CD Atlético Baleares,4,Álex Zalaya,25,Spain,Centre-Back,€200k
+Squad CD Atlético Baleares,12,Raúl González,31,Spain,Centre-Back,€200k
+Squad CD Atlético Baleares,15,Juanra,29,Spain,Centre-Back,€150k
+Squad CD Atlético Baleares,5,Josep Jaume,23,Spain,Centre-Back,€100k
+Squad CD Atlético Baleares,14,David Navarro,21,Spain,Centre-Back,€100k
+Squad CD Atlético Baleares,23,Leonel Ferroni,28,Argentina,Left-Back,€200k
+Squad CD Atlético Baleares,3,David Forniés,32,Spain,Left-Back,€100k
+Squad CD Atlético Baleares,2,Edu Campabadal,31,Spain,Right-Back,€250k
+Squad CD Atlético Baleares,21,Isaac Nana,30,Ghana,Defensive Midfield,€150k
+Squad CD Atlético Baleares,18,Miguel Azeez,21,England,Central Midfield,€500k
+Squad CD Atlético Baleares,19,Armando Shashoua,23,England,Central Midfield,€300k
+Squad CD Atlético Baleares,6,Alberto Villapalos,29,Spain,Central Midfield,€200k
+Squad CD Atlético Baleares,8,Toni Ramón,21,Spain,Central Midfield,€100k
+Squad CD Atlético Baleares,20,Pablo Muñoz,20,Spain,Attacking Midfield,€50k
+Squad CD Atlético Baleares,30,David Ortega,19,Spain,Attacking Midfield,€50k
+Squad CD Atlético Baleares,17,Roberto Alarcón,30,Spain,Left Winger,€250k
+Squad CD Atlético Baleares,11,Rubén Rochina,33,Spain,Right Winger,€500k
+Squad CD Atlético Baleares,10,Víctor Pastrana,27,Spain,Right Winger,€300k
+Squad CD Atlético Baleares,7,Nuha Marong,30,The Gambia,Centre-Forward,€150k
+Squad CD Atlético Baleares,16,David Rodríguez,38,Spain,Centre-Forward,€150k
+Squad CD Atlético Baleares,29,Juan Piera,19,Spain,Centre-Forward,€50k
+Squad CF Intercity,1,Pol Freixanet,32,Spain,Goalkeeper,€200k
+Squad CF Intercity,13,Gaizka Campos,26,Spain,Goalkeeper,€150k
+Squad CF Intercity,-,Manu Herrera,42,Spain,Goalkeeper,€50k
+Squad CF Intercity,15,Álvaro Pérez,28,Spain,Centre-Back,€250k
+Squad CF Intercity,16,Rafa Gálvez,30,Spain,Centre-Back,€250k
+Squad CF Intercity,14,Vadik Murria,22,Spain,Centre-Back,€200k
+Squad CF Intercity,20,Mikel Mendibe,22,Spain,Centre-Back,€150k
+Squad CF Intercity,22,Diego Cámara,25,Spain,Centre-Back,€150k
+Squad CF Intercity,3,Cristo Romero,23,Spain,Left-Back,€250k
+Squad CF Intercity,12,Leo Vázquez,20,Spain,Left-Back,€50k
+Squad CF Intercity,2,Guillem Jaime,25,Spain,Right-Back,€250k
+Squad CF Intercity,4,Eneko Undabarrena,31,Spain,Central Midfield,€300k
+Squad CF Intercity,6,Jon Ceberio,27,Spain,Central Midfield,€200k
+Squad CF Intercity,5,Martín Bellotti,22,Argentina,Central Midfield,€100k
+Squad CF Intercity,18,Franck Angong,21,Cameroon,Central Midfield,€50k
+Squad CF Intercity,21,Alessandro Burlamaqui,22,Peru,Central Midfield,€50k
+Squad CF Intercity,10,Xemi Fernández,29,Spain,Attacking Midfield,€400k
+Squad CF Intercity,7,Oriol Soldevila,23,Spain,Attacking Midfield,€300k
+Squad CF Intercity,23,Aarón Piñán,26,Spain,Left Winger,€250k
+Squad CF Intercity,9,Danny Blum,33,Germany,Left Winger,€200k
+Squad CF Intercity,11,Pol Roigé,30,Spain,Right Winger,€250k
+Squad CF Intercity,19,Moha Traoré,29,Mali,Right Winger,€100k
+Squad CF Intercity,8,Emilio Nsue,34,Equatorial Guinea,Centre-Forward,€250k
+Squad CF Intercity,17,Simón Moreno,26,Spain,Centre-Forward,€200k
+Squad Antequera CF,1,Iván Moreno,28,Spain,Goalkeeper,€150k
+Squad Antequera CF,13,Antonio Gallego,23,Spain,Goalkeeper,€50k
+Squad Antequera CF,24,Albert Holm,20,Sweden,Goalkeeper,€50k
+Squad Antequera CF,12,Franck Fomeyem,24,Cameroon,Centre-Back,€300k
+Squad Antequera CF,4,David Humanes,27,Spain,Centre-Back,€250k
+Squad Antequera CF,3,Lautaro Spatz,22,Argentina,Centre-Back,€150k
+Squad Antequera CF,6,Alejandro Pavón,24,Spain,Centre-Back,€150k
+Squad Antequera CF,22,Fermín Ruiz,26,Spain,Left-Back,€200k
+Squad Antequera CF,21,Jeremy Socorro,24,Spain,Left-Back,€150k
+Squad Antequera CF,2,David Rodríguez,23,Spain,Right-Back,€250k
+Squad Antequera CF,7,Txus Alba,21,Spain,Central Midfield,€200k
+Squad Antequera CF,-,Alejandro Marcelo,25,Spain,Central Midfield,€150k
+Squad Antequera CF,14,Nacho Pais,23,Argentina,Central Midfield,€150k
+Squad Antequera CF,19,César Sousa,23,Angola,Central Midfield,€50k
+Squad Antequera CF,23,Aitor Hidalgo,21,Spain,Central Midfield,€50k
+Squad Antequera CF,9,Luismi Redondo,26,Spain,Attacking Midfield,€400k
+Squad Antequera CF,10,Chema Núñez,26,Spain,Attacking Midfield,€250k
+Squad Antequera CF,5,Pepe Mena,25,Spain,Attacking Midfield,€200k
+Squad Antequera CF,20,Luismi Gutiérrez,28,Spain,Attacking Midfield,€200k
+Squad Antequera CF,-,Tomás Lanzini,32,Argentina,Attacking Midfield,€150k
+Squad Antequera CF,29,Topo,21,Spain,Attacking Midfield,€50k
+Squad Antequera CF,17,Ale García,21,Spain,Right Winger,€250k
+Squad Antequera CF,15,Pol Prats,24,Spain,Right Winger,€200k
+Squad Antequera CF,16,Ale Marín,24,Spain,Right Winger,€200k
+Squad Antequera CF,11,Akito Mukai,25,Japan,Right Winger,€100k
+Squad Antequera CF,18,Destiny Ilahude,20,Nigeria,Right Winger,€100k
+Squad Algeciras CF,13,Lucho García,26,Colombia,Goalkeeper,€200k
+Squad Algeciras CF,1,Marcos Lavín,27,Spain,Goalkeeper,€100k
+Squad Algeciras CF,23,Juan Rodríguez,28,Spain,Centre-Back,€250k
+Squad Algeciras CF,15,Yac Diori,26,Niger,Centre-Back,€200k
+Squad Algeciras CF,3,Admonio Vicente,30,Guinea-Bissau,Centre-Back,€150k
+Squad Algeciras CF,5,César Benavides,19,Colombia,Centre-Back,€50k
+Squad Algeciras CF,11,Tomás Sánchez,30,Spain,Left-Back,€300k
+Squad Algeciras CF,25,Dani Merchán,22,Spain,Left-Back,€50k
+Squad Algeciras CF,14,Sergio Santos,23,Spain,Right-Back,€250k
+Squad Algeciras CF,2,Rafa Roldán,23,Spain,Right-Back,€200k
+Squad Algeciras CF,6,Èric Montes,26,Spain,Central Midfield,€300k
+Squad Algeciras CF,20,Mario García,26,Spain,Central Midfield,€300k
+Squad Algeciras CF,4,Borja Fernández,28,Spain,Central Midfield,€250k
+Squad Algeciras CF,8,Iván Turrillo,34,Spain,Central Midfield,€150k
+Squad Algeciras CF,7,Zeki Díaz,27,Spain,Left Winger,€300k
+Squad Algeciras CF,10,Diego Esteban,24,Spain,Left Winger,€250k
+Squad Algeciras CF,19,Javi López,22,Spain,Left Winger,€150k
+Squad Algeciras CF,22,Adrián Sardinero,33,Spain,Left Winger,€100k
+Squad Algeciras CF,17,David Martín,31,Spain,Right Winger,€200k
+Squad Algeciras CF,21,Stefan Milosevic,27,Montenegro,Centre-Forward,€250k
+Squad Algeciras CF,9,Javi Cueto,23,Spain,Centre-Forward,€200k
+Squad Recreativo Huelva,1,Rubén Gálvez,30,Spain,Goalkeeper,€200k
+Squad Recreativo Huelva,24,Guillermo Centurión,22,Uruguay,Goalkeeper,€100k
+Squad Recreativo Huelva,4,Rubén Serrano,23,Spain,Centre-Back,€300k
+Squad Recreativo Huelva,6,Alberto Trapero,24,Spain,Centre-Back,€200k
+Squad Recreativo Huelva,3,Alejandro Gálvez,34,Spain,Centre-Back,€100k
+Squad Recreativo Huelva,17,Raúl Navas,35,Spain,Centre-Back,€100k
+Squad Recreativo Huelva,22,Rahim Alhassane,22,Niger,Left-Back,€250k
+Squad Recreativo Huelva,5,Dani Pinillos,31,Spain,Left-Back,€150k
+Squad Recreativo Huelva,2,Sergio Diez,20,Spain,Right-Back,€200k
+Squad Recreativo Huelva,21,Antoñito,36,Spain,Right-Back,€100k
+Squad Recreativo Huelva,14,David del Pozo,26,Spain,Central Midfield,€300k
+Squad Recreativo Huelva,12,Josiel Núñez,31,Panama,Central Midfield,€250k
+Squad Recreativo Huelva,20,Gorka Iturraspe,29,Spain,Central Midfield,€200k
+Squad Recreativo Huelva,23,Manuel Galán,25,Spain,Central Midfield,€100k
+Squad Recreativo Huelva,19,Antonio Domínguez,31,Spain,Attacking Midfield,€250k
+Squad Recreativo Huelva,8,Luis Alcalde,28,Spain,Attacking Midfield,€200k
+Squad Recreativo Huelva,10,Álvaro Bustos,28,Spain,Left Winger,€300k
+Squad Recreativo Huelva,15,José Antonio de la Rosa,19,Spain,Left Winger,€300k
+Squad Recreativo Huelva,7,Iago Díaz,31,Spain,Right Winger,€100k
+Squad Recreativo Huelva,9,Miguelete,22,Spain,Second Striker,€200k
+Squad Recreativo Huelva,11,Caye Quintana,30,Spain,Centre-Forward,€200k
+Squad Recreativo Huelva,16,Pablo Caballero,37,Argentina,Centre-Forward,€50k
+Squad San Fernando CD,1,Diego Fuoli,26,Spain,Goalkeeper,€200k
+Squad San Fernando CD,13,Egoitz Arana,22,Spain,Goalkeeper,€50k
+Squad San Fernando CD,4,Manuel Farrando,28,Spain,Centre-Back,€250k
+Squad San Fernando CD,23,José Carlos Ramírez,27,Spain,Centre-Back,€250k
+Squad San Fernando CD,5,Carlos Blanco,28,Spain,Centre-Back,€200k
+Squad San Fernando CD,15,Víctor Ruiz,29,Spain,Centre-Back,€200k
+Squad San Fernando CD,3,Luis Ruiz,31,Spain,Left-Back,€150k
+Squad San Fernando CD,12,Ángel López,21,Spain,Right-Back,€150k
+Squad San Fernando CD,2,Lillo Castellano,35,Spain,Right-Back,€100k
+Squad San Fernando CD,10,David Ramos,26,Spain,Central Midfield,€250k
+Squad San Fernando CD,6,Dani Molina,28,Spain,Central Midfield,€200k
+Squad San Fernando CD,8,Alfonso Martín,29,Spain,Central Midfield,€150k
+Squad San Fernando CD,14,Francesc Fullana,34,Spain,Central Midfield,€150k
+Squad San Fernando CD,18,Unai Naveira,22,Spain,Central Midfield,€100k
+Squad San Fernando CD,20,Álex Masogo,23,Spain,Central Midfield,€50k
+Squad San Fernando CD,25,Yerai Dávila,20,Spain,Central Midfield,€50k
+Squad San Fernando CD,21,Nahuel Arroyo,29,Spain,Left Winger,€150k
+Squad San Fernando CD,17,Ángel Sánchez,26,Spain,Left Winger,€100k
+Squad San Fernando CD,7,Jonathan Biabiany,35,France,Right Winger,€300k
+Squad San Fernando CD,19,Pau Martínez,23,Spain,Right Winger,€300k
+Squad San Fernando CD,16,Cristian Herrera,30,Spain,Right Winger,€250k
+Squad San Fernando CD,11,Dani Aquino,33,Spain,Second Striker,€250k
+Squad San Fernando CD,9,Marcelo dos Santos,26,Brazil,Centre-Forward,€150k
+Squad UD Melilla,1,Javi Montoya,33,Spain,Goalkeeper,€150k
+Squad UD Melilla,13,José Salcedo,33,Spain,Goalkeeper,€100k
+Squad UD Melilla,24,Adrián Victores,22,Spain,Goalkeeper,€50k
+Squad UD Melilla,16,José Antonio Caro,31,Spain,Centre-Back,€200k
+Squad UD Melilla,19,Moisés Rodríguez,27,Spain,Centre-Back,€200k
+Squad UD Melilla,-,Isma Armenteros,23,Spain,Centre-Back,€100k
+Squad UD Melilla,3,Álvaro Yuste,23,Spain,Centre-Back,€100k
+Squad UD Melilla,4,David Suárez,23,Spain,Centre-Back,€100k
+Squad UD Melilla,14,Koffi,22,Ghana,Left-Back,€150k
+Squad UD Melilla,12,Álex Macías,22,Spain,Left-Back,€100k
+Squad UD Melilla,2,Loren Fernández,25,Spain,Right-Back,€200k
+Squad UD Melilla,21,Juanjo Mateo,28,Spain,Right-Back,€100k
+Squad UD Melilla,5,Ransford Selasi,27,Ghana,Central Midfield,€200k
+Squad UD Melilla,8,Antonio Cotán,28,Spain,Central Midfield,€200k
+Squad UD Melilla,10,José Antonio González,28,Spain,Central Midfield,€200k
+Squad UD Melilla,6,Pablo Hernández,23,Spain,Central Midfield,€100k
+Squad UD Melilla,11,Abdoul Bandaogo,25,Burkina Faso,Central Midfield,€100k
+Squad UD Melilla,22,Alassan Manjam,21,Spain,Left Winger,€200k
+Squad UD Melilla,7,Víctor Morillo,27,Spain,Left Winger,€100k
+Squad UD Melilla,17,Sergio Pérez,26,Spain,Right Winger,€200k
+Squad UD Melilla,18,Ousama Siddiki,26,Morocco,Right Winger,€200k
+Squad UD Melilla,15,Beka Kavtaradze,24,Georgia,Centre-Forward,€300k
+Squad UD Melilla,20,Dani García,25,Spain,Centre-Forward,€300k
+Squad UD Melilla,9,José Enrique,28,Spain,Centre-Forward,€200k
+Squad UD Melilla,23,Mamor Niang,22,Senegal,Centre-Forward,€150k
+Squad Atlético Sanluqueño,1,Samuel Pérez,26,Spain,Goalkeeper,€150k
+Squad Atlético Sanluqueño,13,Juan Flere,25,Argentina,Goalkeeper,€100k
+Squad Atlético Sanluqueño,24,Pablo Lugo,21,Spain,Goalkeeper,€50k
+Squad Atlético Sanluqueño,20,Fernando Román,30,Spain,Centre-Back,€250k
+Squad Atlético Sanluqueño,5,Joan Rojas,24,Spain,Centre-Back,€200k
+Squad Atlético Sanluqueño,4,Álex Cortijo,27,Spain,Centre-Back,€150k
+Squad Atlético Sanluqueño,12,Antonio Sánchez,23,Spain,Centre-Back,€100k
+Squad Atlético Sanluqueño,8,Pablo Carbonell,30,Spain,Left-Back,€200k
+Squad Atlético Sanluqueño,3,Viti Díaz,33,Spain,Left-Back,€150k
+Squad Atlético Sanluqueño,23,Coke,36,Spain,Right-Back,€150k
+Squad Atlético Sanluqueño,21,Alex Rodríguez,22,Spain,Right-Back,€50k
+Squad Atlético Sanluqueño,6,Martín Calderón,25,Spain,Central Midfield,€300k
+Squad Atlético Sanluqueño,15,Álvaro Bastida,19,Spain,Central Midfield,€300k
+Squad Atlético Sanluqueño,22,Joaquín González,23,Spain,Central Midfield,€150k
+Squad Atlético Sanluqueño,-,Miguel Ángel Cordero,36,Spain,Central Midfield,€100k
+Squad Atlético Sanluqueño,14,Luis Vacas,24,Spain,Central Midfield,€100k
+Squad Atlético Sanluqueño,2,Zacarías Ghailán,21,Morocco,Left Winger,€150k
+Squad Atlético Sanluqueño,16,Zelu,28,Spain,Right Winger,€200k
+Squad Atlético Sanluqueño,18,Álex Guti,23,Spain,Right Winger,€200k
+Squad Atlético Sanluqueño,30,Juan González,20,Spain,Right Winger,€50k
+Squad Atlético Sanluqueño,10,Alex Escardó,25,Spain,Second Striker,€200k
+Squad Atlético Sanluqueño,19,Francisco Mwepu,24,Zambia,Centre-Forward,€300k
+Squad Atlético Sanluqueño,7,Nacho Ramón,25,Spain,Centre-Forward,€150k
+Squad Atlético Sanluqueño,9,Airam Cabrera,36,Spain,Centre-Forward,€100k
+Squad Atlético Sanluqueño,11,Diego Talaverón,22,Spain,Centre-Forward,€100k
+Squad CD Alcoyano,13,Jaume Valens,28,Spain,Goalkeeper,€250k
+Squad CD Alcoyano,1,José Perales,30,Spain,Goalkeeper,€200k
+Squad CD Alcoyano,2,Primi Férriz,28,Spain,Centre-Back,€300k
+Squad CD Alcoyano,4,Álvaro Vega,33,Spain,Centre-Back,€200k
+Squad CD Alcoyano,16,Farru,23,Spain,Centre-Back,€150k
+Squad CD Alcoyano,15,Javi Jiménez,27,Spain,Centre-Back,€100k
+Squad CD Alcoyano,3,Sergio Nieto,25,Spain,Left-Back,€200k
+Squad CD Alcoyano,17,Sergi López,20,Spain,Right-Back,€200k
+Squad CD Alcoyano,11,Pablo Ganet,29,Equatorial Guinea,Central Midfield,€300k
+Squad CD Alcoyano,6,Imanol García,28,Spain,Central Midfield,€200k
+Squad CD Alcoyano,8,Juanan Casanova,34,Spain,Central Midfield,€200k
+Squad CD Alcoyano,5,Haritz Albisua,31,Spain,Central Midfield,€150k
+Squad CD Alcoyano,-,Sergio Gil,27,Spain,Central Midfield,€100k
+Squad CD Alcoyano,23,Rafaël De Palmas,20,France,Attacking Midfield,€50k
+Squad CD Alcoyano,21,José Alonso Lara,24,Spain,Left Winger,€200k
+Squad CD Alcoyano,14,Kike Carrasco,26,Spain,Right Winger,€200k
+Squad CD Alcoyano,18,Javi Antón,23,Spain,Right Winger,€200k
+Squad CD Alcoyano,7,Adrián Armental,33,Spain,Right Winger,€150k
+Squad CD Alcoyano,9,Mikel Pradera,28,Spain,Centre-Forward,€250k
+Squad CD Alcoyano,10,Agüero,28,Spain,Centre-Forward,€200k
+Squad CD Alcoyano,12,Dani Selma,23,Spain,Centre-Forward,€150k
+Squad Mérida AD,1,Juanpa Palomares,23,Spain,Goalkeeper,€200k
+Squad Mérida AD,25,José Andrés Oliveira,19,Spain,Goalkeeper,€150k
+Squad Mérida AD,13,Dani Vicente,21,Spain,Goalkeeper,€50k
+Squad Mérida AD,4,Manuel Bonaque,32,Spain,Centre-Back,€250k
+Squad Mérida AD,22,Tomás Bourdal,25,Argentina,Centre-Back,€200k
+Squad Mérida AD,12,Eliseo Falcón,27,Spain,Centre-Back,€150k
+Squad Mérida AD,2,Damián Canedo,21,Spain,Centre-Back,€50k
+Squad Mérida AD,3,Raúl Prada,22,Spain,Left-Back,€200k
+Squad Mérida AD,21,Lluís Llácer,24,Spain,Left-Back,€50k
+Squad Mérida AD,19,Pipe,31,Spain,Right-Back,€250k
+Squad Mérida AD,5,Luis Acosta,29,Spain,Central Midfield,€250k
+Squad Mérida AD,14,Raúl Beneit,29,Spain,Central Midfield,€250k
+Squad Mérida AD,6,Ismael Gutiérrez,23,Spain,Central Midfield,€200k
+Squad Mérida AD,23,Busi,26,Spain,Central Midfield,€150k
+Squad Mérida AD,15,Juanjo Sánchez,24,Spain,Central Midfield,€100k
+Squad Mérida AD,8,Nassourou Ben Hamed,21,Cameroon,Central Midfield,€50k
+Squad Mérida AD,7,Daniel Sandoval,26,Spain,Left Winger,€250k
+Squad Mérida AD,16,Javi Martín,25,Spain,Left Winger,€150k
+Squad Mérida AD,10,Darío Serra,21,Spain,Left Winger,€100k
+Squad Mérida AD,26,Yacouba Dabo,21,Senegal,Left Winger,€50k
+Squad Mérida AD,17,Álvaro Juan,24,Spain,Second Striker,€150k
+Squad Mérida AD,9,Chuma,27,Spain,Centre-Forward,€200k
+Squad Mérida AD,11,Mohamed Mizzian,24,Morocco,Centre-Forward,€150k
+Squad Mérida AD,18,Jorge Padilla,22,Spain,Centre-Forward,€150k
+Squad Mérida AD,20,Iñaki Elejalde,25,Spain,Centre-Forward,€150k
+Squad Mérida AD,27,Pepe Sáinz,22,Spain,Striker,-
+Squad Recreativo Granada,1,Adri López,25,Spain,Goalkeeper,€300k
+Squad Recreativo Granada,13,Pol Tristán,22,Spain,Goalkeeper,€100k
+Squad Recreativo Granada,22,Philip Osei,24,Ghana,Centre-Back,€150k
+Squad Recreativo Granada,4,Nico Van Rijn,23,Netherlands,Centre-Back,€100k
+Squad Recreativo Granada,5,Miki Bosch,22,Spain,Centre-Back,€100k
+Squad Recreativo Granada,23,Diego López,21,Spain,Centre-Back,€100k
+Squad Recreativo Granada,34,Oscar Naasei Oppong,19,Ghana,Centre-Back,-
+Squad Recreativo Granada,3,Miguel Ángel Brau,22,Spain,Left-Back,€150k
+Squad Recreativo Granada,18,Eu Gutiérrez,22,Spain,Left-Back,€100k
+Squad Recreativo Granada,2,Raúl Castro,23,Spain,Right-Back,€200k
+Squad Recreativo Granada,17,Xavi Estacio,23,Spain,Right-Back,€150k
+Squad Recreativo Granada,6,José Masllorens,22,Spain,Central Midfield,€200k
+Squad Recreativo Granada,15,Lass Sangaré,22,Cote d'Ivoire,Central Midfield,€150k
+Squad Recreativo Granada,8,Juanma Lendínez,20,Spain,Central Midfield,€100k
+Squad Recreativo Granada,20,Dani Clavijo,20,Spain,Central Midfield,€50k
+Squad Recreativo Granada,7,Mario González,20,Spain,Attacking Midfield,€150k
+Squad Recreativo Granada,10,Carlos Pérez,24,Spain,Attacking Midfield,€100k
+Squad Recreativo Granada,-,Máximo Alonso,21,Uruguay,Left Winger,€300k
+Squad Recreativo Granada,30,Sergio Rodelas,19,Spain,Left Winger,€50k
+Squad Recreativo Granada,9,Julito Martínez,23,Spain,Right Winger,€200k
+Squad Recreativo Granada,29,Nils Mortimer,22,Spain,Right Winger,€200k
+Squad Recreativo Granada,19,Alejandro Ibarrondo,22,Spain,Right Winger,€100k
+Squad Recreativo Granada,12,Serigne Faye,20,Senegal,Centre-Forward,€250k
+Squad Recreativo Granada,16,Adam Griger,20,Slovakia,Centre-Forward,€200k
+Squad Recreativo Granada,14,Pablo Sáenz,22,Spain,Centre-Forward,€100k
+Squad Recreativo Granada,26,Paco Cantal,21,Spain,Centre-Forward,€50k
+Squad Recreativo Granada,36,Eghosa Bello,20,Nigeria,Centre-Forward,€50k
+Squad Linares Deportivo,1,Ernestas Juskevicius,25,Lithuania,Goalkeeper,€200k
+Squad Linares Deportivo,13,Samuel Casado,27,Spain,Goalkeeper,€200k
+Squad Linares Deportivo,17,Ángel Martínez,32,Spain,Centre-Back,€150k
+Squad Linares Deportivo,2,Fran González,25,Spain,Centre-Back,€100k
+Squad Linares Deportivo,3,Fran Varela,29,Spain,Left-Back,€300k
+Squad Linares Deportivo,4,Manolo Molina,28,Spain,Left-Back,€150k
+Squad Linares Deportivo,18,Dani Perejón,24,Spain,Right-Back,€200k
+Squad Linares Deportivo,12,Antonio Marín,27,Spain,Right-Back,€100k
+Squad Linares Deportivo,20,Jannick Buyla,25,Equatorial Guinea,Central Midfield,€250k
+Squad Linares Deportivo,5,Javier Rentero,23,Spain,Central Midfield,€200k
+Squad Linares Deportivo,8,Rodri,35,Spain,Central Midfield,€200k
+Squad Linares Deportivo,15,Javi Duarte,26,Spain,Central Midfield,€200k
+Squad Linares Deportivo,6,Alberto Moreno,21,Spain,Central Midfield,€150k
+Squad Linares Deportivo,28,Gonzalo Guzmán,20,Spain,Attacking Midfield,€50k
+Squad Linares Deportivo,30,Miguel Carrillo,19,Spain,Attacking Midfield,€50k
+Squad Linares Deportivo,10,Fran Carnicer,33,Spain,Left Winger,€200k
+Squad Linares Deportivo,21,Rafa Llorente,21,Spain,Left Winger,€200k
+Squad Linares Deportivo,23,Gaspar Panadero,26,Spain,Left Winger,€100k
+Squad Linares Deportivo,11,Miguel Berlanga,23,Spain,Right Winger,€100k
+Squad Linares Deportivo,27,Inach Fernández,21,Spain,Right Winger,€50k
+Squad Linares Deportivo,7,Hugo Díaz,36,Spain,Centre-Forward,€200k
+Squad Linares Deportivo,9,Álvaro Vázquez,32,Spain,Centre-Forward,€150k
+Squad Linares Deportivo,14,Samuel Corral,32,Spain,Centre-Forward,€150k
+Squad Linares Deportivo,29,Zaki,21,Spain,Centre-Forward,€50k
+Squad Zamora CF,13,Fermín Sobrón,28,Spain,Goalkeeper,€200k
+Squad Zamora CF,1,David Troya,23,Spain,Goalkeeper,€100k
+Squad Zamora CF,3,Luismi Luengo,23,Spain,Centre-Back,€250k
+Squad Zamora CF,5,Bolo,22,Spain,Centre-Back,€150k
+Squad Zamora CF,15,Jesús Muñoz,32,Spain,Centre-Back,€100k
+Squad Zamora CF,19,Nicolás Delmonte,34,Argentina,Centre-Back,€100k
+Squad Zamora CF,14,Diego Aguirre,33,Spain,Left-Back,€200k
+Squad Zamora CF,20,Roger Marcè,26,Spain,Left-Back,€200k
+Squad Zamora CF,22,Julen Castañeda,33,Spain,Left-Back,€200k
+Squad Zamora CF,17,Víctor López,26,Spain,Right-Back,€200k
+Squad Zamora CF,2,Carlos Parra,28,Spain,Right-Back,€150k
+Squad Zamora CF,10,Carlos Ramos,29,Spain,Central Midfield,€250k
+Squad Zamora CF,8,Juanan del Álamo,30,Spain,Central Midfield,€150k
+Squad Zamora CF,16,Asier Etxaburu,30,Spain,Attacking Midfield,€150k
+Squad Zamora CF,12,Ale Morales,20,Spain,Attacking Midfield,€25k
+Squad Zamora CF,21,Joel Priego,25,Spain,Left Winger,€200k
+Squad Zamora CF,24,Luis Rivas,20,Colombia,Left Winger,€50k
+Squad Zamora CF,11,Adrián Mancebo,28,Spain,Right Winger,€250k
+Squad Zamora CF,7,Dani Hernández,31,Spain,Second Striker,€100k
+Squad Zamora CF,4,Alejandro Cañizo,24,Spain,Centre-Forward,€150k
+Squad Zamora CF,9,Pito Camacho,34,Spain,Centre-Forward,€150k
+Squad Zamora CF,18,Sergi Baldrich,20,Spain,Centre-Forward,€100k
+Squad Real Valladolid Promesas,-,Pablo Picón,24,Spain,Goalkeeper,€150k
+Squad Real Valladolid Promesas,13,Arnau Rafús,20,Spain,Goalkeeper,€100k
+Squad Real Valladolid Promesas,1,Fer Pérez,19,Spain,Goalkeeper,€25k
+Squad Real Valladolid Promesas,-,Adrián Gómez,21,Spain,Centre-Back,€100k
+Squad Real Valladolid Promesas,12,Fernando Peralta,22,Spain,Centre-Back,€100k
+Squad Real Valladolid Promesas,22,Fran Ortuño,21,Spain,Centre-Back,€50k
+Squad Real Valladolid Promesas,24,Iago Parente,18,Spain,Centre-Back,€25k
+Squad Real Valladolid Promesas,18,Iván Garriel,19,Spain,Left-Back,€200k
+Squad Real Valladolid Promesas,21,Xavi Moreno,19,Spain,Left-Back,€150k
+Squad Real Valladolid Promesas,3,Raúl Chasco,20,Spain,Left-Back,€100k
+Squad Real Valladolid Promesas,14,Koke Iglesias,19,Spain,Right-Back,€150k
+Squad Real Valladolid Promesas,2,Iker Pérez,21,Spain,Right-Back,€50k
+Squad Real Valladolid Promesas,28,Yago Rodríguez,18,Spain,Right-Back,€25k
+Squad Real Valladolid Promesas,6,Alberto Quintana,22,Spain,Central Midfield,€200k
+Squad Real Valladolid Promesas,5,Adrián Verde,21,Spain,Central Midfield,€100k
+Squad Real Valladolid Promesas,8,Eugene Frimpong,21,Ghana,Central Midfield,€50k
+Squad Real Valladolid Promesas,16,Jesús Martínez,20,Spain,Central Midfield,€50k
+Squad Real Valladolid Promesas,20,Sergio Esteban,20,Spain,Central Midfield,€25k
+Squad Real Valladolid Promesas,10,Chuki,19,Spain,Attacking Midfield,€300k
+Squad Real Valladolid Promesas,15,Fionn Mooney,20,England,Attacking Midfield,€25k
+Squad Real Valladolid Promesas,11,Manuel Pozo,22,Spain,Right Winger,€300k
+Squad Real Valladolid Promesas,9,Iván Cédric,22,Cameroon,Centre-Forward,€400k
+Squad Real Valladolid Promesas,7,Israel Salazar,20,Spain,Centre-Forward,€200k
+Squad Real Valladolid Promesas,17,Dani Fernández,22,Spain,Centre-Forward,€200k
+Squad Real Valladolid Promesas,29,Adrián Arnu,17,Spain,Centre-Forward,€200k
+Squad Real Valladolid Promesas,19,Yago Paredes,19,Spain,Centre-Forward,€100k
+Squad Pontevedra CF,1,Edu Sousa,32,Spain,Goalkeeper,€200k
+Squad Pontevedra CF,13,Manu Vizoso,21,Spain,Goalkeeper,€25k
+Squad Pontevedra CF,4,Víctor Vázquez,34,Spain,Centre-Back,€200k
+Squad Pontevedra CF,5,Mario Gómez,29,Spain,Centre-Back,€200k
+Squad Pontevedra CF,19,Benjamín Garay,23,Argentina,Centre-Back,€150k
+Squad Pontevedra CF,20,Eneko Zabaleta,32,Spain,Left-Back,€200k
+Squad Pontevedra CF,3,Javier Hermelo,23,Spain,Left-Back,€100k
+Squad Pontevedra CF,2,Ángel Bastos,31,Spain,Right-Back,€200k
+Squad Pontevedra CF,10,Yelko Pino,27,Spain,Central Midfield,€250k
+Squad Pontevedra CF,6,Toño Calvo,26,Spain,Central Midfield,€150k
+Squad Pontevedra CF,8,Borja Domínguez,31,Spain,Central Midfield,€150k
+Squad Pontevedra CF,14,Samu Mayo,23,Spain,Central Midfield,€150k
+Squad Pontevedra CF,16,Azael García,20,Spain,Attacking Midfield,€25k
+Squad Pontevedra CF,7,Álex González,34,Spain,Left Winger,€200k
+Squad Pontevedra CF,11,Chiqui,26,Spain,Left Winger,€200k
+Squad Pontevedra CF,24,Libasse Gueye,20,Senegal,Left Winger,€50k
+Squad Pontevedra CF,18,Dalisson de Almeida,24,Spain,Right Winger,€200k
+Squad Pontevedra CF,17,Marcos Barbeiro,28,Sao Tome and Principe,Right Winger,€25k
+Squad Pontevedra CF,26,Valen Jaichenko,22,Argentina,Right Winger,€25k
+Squad Pontevedra CF,21,Carlos López,28,Spain,Centre-Forward,€250k
+Squad Pontevedra CF,9,Rufo Sánchez,37,Spain,Centre-Forward,€100k
+Squad SD Compostela,1,Pato Guillén,39,Uruguay,Goalkeeper,€25k
+Squad SD Compostela,25,Brais Rodríguez,21,Spain,Goalkeeper,€25k
+Squad SD Compostela,4,Álvaro Casas,29,Spain,Centre-Back,€200k
+Squad SD Compostela,6,David Soto,30,Spain,Centre-Back,€200k
+Squad SD Compostela,16,Euse Monzó,23,Spain,Centre-Back,€200k
+Squad SD Compostela,5,Pablo Crespo,29,Spain,Centre-Back,€150k
+Squad SD Compostela,15,Kike Vidal,21,Spain,Centre-Back,€25k
+Squad SD Compostela,3,Samu Araújo,28,Spain,Left-Back,€150k
+Squad SD Compostela,17,Roger Escoruela,28,Spain,Left-Back,€150k
+Squad SD Compostela,2,Roque González,21,Spain,Right-Back,€150k
+Squad SD Compostela,19,Antón de Vicente,34,Spain,Central Midfield,€200k
+Squad SD Compostela,8,Jordan Domínguez,29,Spain,Central Midfield,€150k
+Squad SD Compostela,21,Pablo Antas,33,Spain,Central Midfield,€150k
+Squad SD Compostela,14,Samuel Rodríguez,28,Spain,Central Midfield,€100k
+Squad SD Compostela,11,Jaime Santos,28,Spain,Attacking Midfield,€250k
+Squad SD Compostela,22,Manu Ramírez,28,Spain,Attacking Midfield,€200k
+Squad SD Compostela,7,Juampa Barros,30,Argentina,Left Winger,€200k
+Squad SD Compostela,10,Juan Manuel Parapar,32,Spain,Right Winger,€100k
+Squad SD Compostela,20,Pep Caballé,33,Spain,Right Winger,€100k
+Squad SD Compostela,9,Manu Barreiro,37,Spain,Centre-Forward,€100k
+Squad SD Compostela,12,David Grande,33,Spain,Centre-Forward,€100k
+Squad SD Compostela,18,Hugo Matos,20,Spain,Centre-Forward,€25k
+Squad Gimnástica de Torrelavega,13,Dani Sotres,30,Spain,Goalkeeper,€200k
+Squad Gimnástica de Torrelavega,1,Jorge Mediavilla,30,Spain,Goalkeeper,€100k
+Squad Gimnástica de Torrelavega,14,Miguel Gándara,27,Spain,Centre-Back,€150k
+Squad Gimnástica de Torrelavega,3,Varo Álvarez,23,Spain,Centre-Back,€100k
+Squad Gimnástica de Torrelavega,4,Miguel Goñi,26,Spain,Centre-Back,€100k
+Squad Gimnástica de Torrelavega,5,Raúl Chamorro,27,Spain,Centre-Back,€25k
+Squad Gimnástica de Torrelavega,16,Pol Bassa,21,Spain,Left-Back,€150k
+Squad Gimnástica de Torrelavega,-,Chus Puras,28,Spain,Left-Back,€100k
+Squad Gimnástica de Torrelavega,21,Alberto Delgado,32,Spain,Left-Back,€25k
+Squad Gimnástica de Torrelavega,2,Álex Rasines,27,Spain,Right-Back,€150k
+Squad Gimnástica de Torrelavega,6,Alberto Gómez,28,Spain,Central Midfield,€200k
+Squad Gimnástica de Torrelavega,8,Josemi Castañeda,26,Spain,Central Midfield,€150k
+Squad Gimnástica de Torrelavega,12,Ernesten Lavsamba,26,Cameroon,Central Midfield,€150k
+Squad Gimnástica de Torrelavega,20,Edu Bedia,35,Spain,Central Midfield,€150k
+Squad Gimnástica de Torrelavega,18,Marcos Fernández,21,Spain,Central Midfield,€50k
+Squad Gimnástica de Torrelavega,10,Alex Basurto,23,Spain,Attacking Midfield,€200k
+Squad Gimnástica de Torrelavega,15,Chus Ruiz,23,Spain,Attacking Midfield,€100k
+Squad Gimnástica de Torrelavega,19,Miguel Gómez,20,Spain,Attacking Midfield,€25k
+Squad Gimnástica de Torrelavega,7,Unai Hernández,28,Spain,Left Winger,€150k
+Squad Gimnástica de Torrelavega,11,Saúl García,24,Spain,Left Winger,€150k
+Squad Gimnástica de Torrelavega,17,Javi Delgado,28,Spain,Centre-Forward,€200k
+Squad Gimnástica de Torrelavega,9,Carlos Tobar,30,Spain,Centre-Forward,€100k
+Squad Rayo Cantabria,1,Germán Fernández,23,Spain,Goalkeeper,€150k
+Squad Rayo Cantabria,13,Álvaro Jiménez,21,Spain,Goalkeeper,€50k
+Squad Rayo Cantabria,22,Dani Atanes,22,Netherlands,Goalkeeper,€50k
+Squad Rayo Cantabria,5,Marco Carrascal,21,Spain,Centre-Back,€150k
+Squad Rayo Cantabria,18,Iñigo Gomeza,22,Spain,Centre-Back,€150k
+Squad Rayo Cantabria,4,Javier Entreca,21,Spain,Centre-Back,€50k
+Squad Rayo Cantabria,14,Adrián Corral,21,Spain,Left-Back,€100k
+Squad Rayo Cantabria,16,Samuel Calera,19,Spain,Left-Back,€25k
+Squad Rayo Cantabria,2,Mario Jorrín,21,Spain,Right-Back,€200k
+Squad Rayo Cantabria,8,Diego Campo,22,Spain,Central Midfield,€200k
+Squad Rayo Cantabria,10,Dani González,22,Spain,Central Midfield,€200k
+Squad Rayo Cantabria,6,Markel Goñi,22,Spain,Central Midfield,€50k
+Squad Rayo Cantabria,11,Neco Celorio,20,Spain,Attacking Midfield,€250k
+Squad Rayo Cantabria,15,Marcos Bustillo,23,Spain,Attacking Midfield,€200k
+Squad Rayo Cantabria,17,Diego Fuentes,20,Spain,Attacking Midfield,€50k
+Squad Rayo Cantabria,28,Jeremy Arévalo,19,Spain,Right Winger,€200k
+Squad Rayo Cantabria,21,Mateo Gandarillas,23,Spain,Right Winger,€100k
+Squad Rayo Cantabria,7,Izan Yurrieta,21,Spain,Right Winger,€50k
+Squad Rayo Cantabria,12,Quicala Bari,22,Guinea-Bissau,Right Winger,€50k
+Squad Rayo Cantabria,20,Isaac Obeng,20,Ghana,Right Winger,€50k
+Squad Rayo Cantabria,19,Álvaro Santamaría,22,Spain,Centre-Forward,€200k
+Squad Rayo Cantabria,9,Jorge Delgado,21,Spain,Centre-Forward,€150k
+Squad Real Avilés Industrial,13,Álvaro Fernández,24,Spain,Goalkeeper,€100k
+Squad Real Avilés Industrial,1,David Armengol,37,Spain,Goalkeeper,€50k
+Squad Real Avilés Industrial,4,Julio Rodríguez,28,Spain,Centre-Back,€200k
+Squad Real Avilés Industrial,14,Iñigo Zubiri,29,Spain,Centre-Back,€200k
+Squad Real Avilés Industrial,5,Jesús del Amo,24,Spain,Centre-Back,€100k
+Squad Real Avilés Industrial,15,Pedro Orfila,36,Spain,Centre-Back,€100k
+Squad Real Avilés Industrial,3,Mauro dos Santos,34,Argentina,Centre-Back,€50k
+Squad Real Avilés Industrial,11,Iván Serrano,23,Spain,Left-Back,€200k
+Squad Real Avilés Industrial,20,Marcos Trabanco,23,Spain,Right-Back,€150k
+Squad Real Avilés Industrial,2,Néstor Senra,22,Equatorial Guinea,Right-Back,€50k
+Squad Real Avilés Industrial,8,Javi Mecerreyes,23,Spain,Central Midfield,€200k
+Squad Real Avilés Industrial,6,Edu Cortina,27,Spain,Central Midfield,€150k
+Squad Real Avilés Industrial,10,Alberto Martín,35,Spain,Central Midfield,€100k
+Squad Real Avilés Industrial,7,Jorge Fernández,34,Spain,Attacking Midfield,€150k
+Squad Real Avilés Industrial,21,Joel del Pino,26,Spain,Left Winger,€200k
+Squad Real Avilés Industrial,9,Raúl Rojas,22,Spain,Left Winger,€50k
+Squad Real Avilés Industrial,17,Davo Fernández,24,Spain,Right Winger,€100k
+Squad Real Avilés Industrial,22,Isma Cerro,28,Spain,Right Winger,€100k
+Squad Real Avilés Industrial,16,Miguel Ángel Sierra,19,Spain,Right Winger,€25k
+Squad Real Avilés Industrial,18,Claudio Medina,30,Spain,Centre-Forward,€200k
+Squad Real Avilés Industrial,19,Natalio,39,Spain,Centre-Forward,€100k
+Squad Real Oviedo Vetusta,13,Marco Coronas,20,Spain,Goalkeeper,€100k
+Squad Real Oviedo Vetusta,22,Victor Egboh,21,Nigeria,Goalkeeper,€25k
+Squad Real Oviedo Vetusta,12,Marco Esteban,18,Spain,Centre-Back,€200k
+Squad Real Oviedo Vetusta,15,Aimar Collante,22,Spain,Centre-Back,€150k
+Squad Real Oviedo Vetusta,32,Jaime Vázquez,18,Spain,Centre-Back,€150k
+Squad Real Oviedo Vetusta,5,Miguel Berlanga,21,Spain,Centre-Back,€50k
+Squad Real Oviedo Vetusta,16,Lucas Laso,21,Spain,Centre-Back,€50k
+Squad Real Oviedo Vetusta,3,Osky Menéndez,20,Spain,Left-Back,€200k
+Squad Real Oviedo Vetusta,21,Omar Falah,20,Spain,Left-Back,€50k
+Squad Real Oviedo Vetusta,20,Charbel Wehbe,19,Dominican Republic,Right-Back,€100k
+Squad Real Oviedo Vetusta,6,Yayo González,19,Spain,Central Midfield,€250k
+Squad Real Oviedo Vetusta,30,Diego Menéndez,18,Spain,Central Midfield,€150k
+Squad Real Oviedo Vetusta,8,Víctor Blanco,21,Spain,Central Midfield,€50k
+Squad Real Oviedo Vetusta,18,Iván González,21,Spain,Central Midfield,€50k
+Squad Real Oviedo Vetusta,25,Cheli,18,Spain,Central Midfield,-
+Squad Real Oviedo Vetusta,7,Izan Gutiérrez,22,Spain,Attacking Midfield,€50k
+Squad Real Oviedo Vetusta,11,Mario Sesè,21,Spain,Right Winger,€200k
+Squad Real Oviedo Vetusta,17,Darío Hidalgo,22,Spain,Right Winger,€100k
+Squad Real Oviedo Vetusta,2,Lamine Gueye,19,Senegal,Right Winger,€25k
+Squad Real Oviedo Vetusta,14,Nacho Estrada,20,Spain,Right Winger,€25k
+Squad Real Oviedo Vetusta,10,Santi Miguélez,22,Spain,Centre-Forward,€200k
+Squad Real Oviedo Vetusta,9,Enol Rodríguez,22,Spain,Centre-Forward,€150k
+Squad Real Oviedo Vetusta,19,Xabier Sola,21,Spain,Centre-Forward,€100k
+Squad Ourense CF,1,Raúl Marqueta,29,Spain,Goalkeeper,€150k
+Squad Ourense CF,13,Bruno Rielo,20,Spain,Goalkeeper,€25k
+Squad Ourense CF,5,Miguel Prado,25,Spain,Centre-Back,€200k
+Squad Ourense CF,20,Cristian Moreno,28,Spain,Centre-Back,€150k
+Squad Ourense CF,4,Daniel Portela,37,Spain,Centre-Back,€25k
+Squad Ourense CF,17,Hugo Sanz,21,Spain,Left-Back,€150k
+Squad Ourense CF,15,Pedro García,24,Spain,Left-Back,€50k
+Squad Ourense CF,3,Manu,39,Spain,Left-Back,€25k
+Squad Ourense CF,2,Fernando Andrada,28,Spain,Right-Back,€150k
+Squad Ourense CF,12,Riki Mangana,24,Venezuela,Right-Back,€100k
+Squad Ourense CF,6,Facundo Ballardo,28,Argentina,Central Midfield,€200k
+Squad Ourense CF,8,Jerin Ramos,28,Cape Verde,Central Midfield,€150k
+Squad Ourense CF,14,Nacho Fariña,25,Spain,Central Midfield,€50k
+Squad Ourense CF,21,Sergio Bernárdez,19,Spain,Central Midfield,€25k
+Squad Ourense CF,18,Alejandro Fidalgo,22,Spain,Attacking Midfield,€200k
+Squad Ourense CF,11,Álex Gil,26,Spain,Left Winger,€200k
+Squad Ourense CF,7,Moha Sanhaji,25,Morocco,Left Winger,€150k
+Squad Ourense CF,10,Alberto Gil,26,Spain,Right Winger,€200k
+Squad Ourense CF,22,Brais Penela,21,Spain,Right Winger,€25k
+Squad Ourense CF,9,Gonzalo Di Renzo,28,Argentina,Centre-Forward,€100k
+Squad Ourense CF,19,Gabri Palmás,25,Spain,Centre-Forward,€50k
+Squad Ourense CF,16,Diego Rodríguez,20,Spain,Centre-Forward,€25k
+Squad CD Guijuelo,1,Javier Rabanillo,28,Spain,Goalkeeper,€150k
+Squad CD Guijuelo,13,Jorge Jiménez,23,Spain,Goalkeeper,€25k
+Squad CD Guijuelo,3,Iago Parga,25,Spain,Centre-Back,€150k
+Squad CD Guijuelo,4,Adrián Pica,21,Spain,Centre-Back,€150k
+Squad CD Guijuelo,5,Carlos Quintana,25,Spain,Centre-Back,€100k
+Squad CD Guijuelo,15,Asiel Mateo,33,Spain,Centre-Back,€100k
+Squad CD Guijuelo,12,Jesús Cedenilla,26,Spain,Left-Back,€150k
+Squad CD Guijuelo,22,Álvaro Coque,33,Spain,Left-Back,€100k
+Squad CD Guijuelo,2,Sergio Montes,27,Spain,Right-Back,€100k
+Squad CD Guijuelo,17,Jesús Boigues,23,Spain,Right-Back,€50k
+Squad CD Guijuelo,10,Cristóbal Gil,32,Spain,Central Midfield,€150k
+Squad CD Guijuelo,6,Willy Ibáñez,24,Spain,Central Midfield,€100k
+Squad CD Guijuelo,11,Jesús Cambil,25,Spain,Central Midfield,€100k
+Squad CD Guijuelo,8,Diego González,24,Spain,Attacking Midfield,€200k
+Squad CD Guijuelo,20,Toti,36,Spain,Attacking Midfield,€100k
+Squad CD Guijuelo,18,Alonso García,19,Spain,Attacking Midfield,€25k
+Squad CD Guijuelo,7,Xabi Dominguez,21,Spain,Left Winger,€25k
+Squad CD Guijuelo,14,Sergio Garban,35,Spain,Right Winger,€50k
+Squad CD Guijuelo,21,Alberto Bernardo,25,Spain,Second Striker,€100k
+Squad CD Guijuelo,19,Francisco Panadero,26,Spain,Centre-Forward,€150k
+Squad CD Guijuelo,9,Juan Antonio Sánchez,33,Spain,Centre-Forward,€100k
+Squad RC Deportivo Fabril,1,Brais Suárez,20,Spain,Goalkeeper,€50k
+Squad RC Deportivo Fabril,13,Hugo Rios,20,Spain,Goalkeeper,€50k
+Squad RC Deportivo Fabril,15,Oscar Marotías,22,Spain,Centre-Back,€150k
+Squad RC Deportivo Fabril,5,Ángel Puerto,21,Spain,Centre-Back,€50k
+Squad RC Deportivo Fabril,3,Fernando Somolinos,22,Spain,Centre-Back,€25k
+Squad RC Deportivo Fabril,4,Alejandro Pereira,22,Spain,Centre-Back,€25k
+Squad RC Deportivo Fabril,21,Álvaro Baladía,21,Spain,Left-Back,€25k
+Squad RC Deportivo Fabril,24,Manu Berrocal,19,Spain,Left-Back,€25k
+Squad RC Deportivo Fabril,2,Marc Lachèvre,21,Spain,Right-Back,€100k
+Squad RC Deportivo Fabril,19,Rubén López,19,Spain,Central Midfield,€200k
+Squad RC Deportivo Fabril,6,Brais Val,21,Spain,Central Midfield,€100k
+Squad RC Deportivo Fabril,12,Alejandro Alfaro,21,Spain,Central Midfield,€100k
+Squad RC Deportivo Fabril,10,Jairo Noriega,20,Spain,Attacking Midfield,€200k
+Squad RC Deportivo Fabril,7,Mario Nájera,21,Spain,Attacking Midfield,€100k
+Squad RC Deportivo Fabril,14,Álex Barba,22,Spain,Attacking Midfield,€50k
+Squad RC Deportivo Fabril,8,Diego Gómez,19,Spain,Right Winger,€100k
+Squad RC Deportivo Fabril,16,David Vilán,21,Spain,Right Winger,€100k
+Squad RC Deportivo Fabril,17,Tim Caroutas,21,Australia,Right Winger,€25k
+Squad RC Deportivo Fabril,9,Martín Ochoa,19,Spain,Centre-Forward,€200k
+Squad RC Deportivo Fabril,23,Kevin Sánchez,19,Spain,Centre-Forward,€200k
+Squad RC Deportivo Fabril,20,Jorge Martínez,25,Spain,Centre-Forward,€150k
+Squad RC Deportivo Fabril,22,Mati Castillo,22,Spain,Centre-Forward,€150k
+Squad Marino Luanco,1,Dennis Díaz,31,Spain,Goalkeeper,€50k
+Squad Marino Luanco,13,Gonzalo Ardura,22,Spain,Goalkeeper,€25k
+Squad Marino Luanco,3,Juan Aspra,21,Spain,Centre-Back,€150k
+Squad Marino Luanco,5,Ousmane Traoré,23,Cote d'Ivoire,Centre-Back,€100k
+Squad Marino Luanco,12,Jesús Palomeque,22,Spain,Centre-Back,€100k
+Squad Marino Luanco,4,Denilson Mena,20,Colombia,Centre-Back,€25k
+Squad Marino Luanco,16,Álvaro Merayo,22,Spain,Centre-Back,-
+Squad Marino Luanco,15,Guaya,38,Spain,Left-Back,€25k
+Squad Marino Luanco,2,Borja Álvarez,30,Spain,Right-Back,€100k
+Squad Marino Luanco,21,Adolfo González,21,Spain,Right-Back,€100k
+Squad Marino Luanco,11,Alberto Lora,37,Spain,Central Midfield,€100k
+Squad Marino Luanco,14,Guille Pinín,26,Spain,Central Midfield,€100k
+Squad Marino Luanco,6,Nacho Matador,37,Spain,Central Midfield,€50k
+Squad Marino Luanco,17,Iván Elena,24,Spain,Attacking Midfield,€100k
+Squad Marino Luanco,10,Miguel Cuesta,23,Spain,Left Winger,€200k
+Squad Marino Luanco,22,César García,24,Spain,Right Winger,€200k
+Squad Marino Luanco,19,Alejandro Blanco,33,Spain,Right Winger,€100k
+Squad Marino Luanco,20,Aitor Lorea,26,Spain,Right Winger,€100k
+Squad Marino Luanco,7,Diego Díaz,25,Spain,Second Striker,€50k
+Squad Marino Luanco,9,Sergio Mendigutxia,30,Spain,Centre-Forward,€200k
+Squad Marino Luanco,18,Abraham Nobrega,20,Spain,Centre-Forward,€50k
+Squad Marino Luanco,8,Dani Sandoval,24,Spain,Centre-Forward,€25k
+Squad Marino Luanco,23,Hugo Salinas,19,Spain,Striker,€25k
+Squad Coruxo FC,1,Alberto Domínguez,36,Spain,Goalkeeper,€100k
+Squad Coruxo FC,13,Andriy Chekotun,21,Ukraine,Goalkeeper,€50k
+Squad Coruxo FC,5,Andriu,33,Spain,Centre-Back,€150k
+Squad Coruxo FC,3,Dani Pereiro,23,Spain,Centre-Back,€100k
+Squad Coruxo FC,2,Borja Marchante,22,Spain,Centre-Back,€50k
+Squad Coruxo FC,6,Guido Fernández,20,Spain,Centre-Back,€50k
+Squad Coruxo FC,14,Mario García,24,Spain,Centre-Back,€25k
+Squad Coruxo FC,18,Álvaro Naveira,26,Spain,Left-Back,€100k
+Squad Coruxo FC,22,Johan Terranova,25,Colombia,Right-Back,€200k
+Squad Coruxo FC,4,Dani Vidal,23,Spain,Central Midfield,€150k
+Squad Coruxo FC,15,Mikel Carro,25,Spain,Central Midfield,€150k
+Squad Coruxo FC,17,Álex Barrera,32,Spain,Central Midfield,€100k
+Squad Coruxo FC,8,Pietro Tomaselli,19,Belgium,Central Midfield,€25k
+Squad Coruxo FC,19,Pitu Doncel,26,Spain,Attacking Midfield,€200k
+Squad Coruxo FC,10,Mateo Míguez,36,Spain,Attacking Midfield,€50k
+Squad Coruxo FC,16,Yago Insua,20,Spain,Left Winger,€25k
+Squad Coruxo FC,7,Youssef Al Watani,29,Morocco,Left Winger,-
+Squad Coruxo FC,11,David Añón,35,Spain,Right Winger,€100k
+Squad Coruxo FC,20,Vander,25,Brazil,Right Winger,€100k
+Squad Coruxo FC,12,Álex Rey,31,Spain,Right Winger,€25k
+Squad Coruxo FC,9,Davo,23,Spain,Centre-Forward,€150k
+Squad Coruxo FC,21,Erik Bugarín,20,Spain,Centre-Forward,€25k
+Squad UP Langreo,1,Adrián Torre,34,Spain,Goalkeeper,€100k
+Squad UP Langreo,13,Guillermo Fernández,28,Spain,Goalkeeper,€25k
+Squad UP Langreo,5,Alain Álvarez,34,Spain,Centre-Back,€50k
+Squad UP Langreo,16,David Fernández,23,Spain,Centre-Back,€50k
+Squad UP Langreo,21,Keko Hevia,26,Spain,Centre-Back,€50k
+Squad UP Langreo,4,Gonzalo de la Fuente,40,Spain,Centre-Back,€25k
+Squad UP Langreo,3,Dani Hernández,27,Spain,Left-Back,€100k
+Squad UP Langreo,20,Gabriel Rabanillo,20,Spain,Left-Back,€50k
+Squad UP Langreo,2,Nacho López,36,Spain,Right-Back,€50k
+Squad UP Langreo,22,Sergio Ordóñez,23,Spain,Right-Back,€25k
+Squad UP Langreo,8,Joselu Guerra,23,Spain,Central Midfield,€150k
+Squad UP Langreo,11,Luis Sánchez,22,Spain,Central Midfield,€150k
+Squad UP Langreo,6,Mateo Arellano,26,Spain,Central Midfield,€25k
+Squad UP Langreo,12,Pablo Álvarez,21,Spain,Central Midfield,€25k
+Squad UP Langreo,14,Iago Novo,25,Spain,Attacking Midfield,€200k
+Squad UP Langreo,10,Juan López,28,Spain,Attacking Midfield,€150k
+Squad UP Langreo,19,Imad Salhi,20,Spain,Attacking Midfield,€25k
+Squad UP Langreo,9,Javi Serra,30,Spain,Right Winger,€100k
+Squad UP Langreo,7,Carlos Cid,24,Spain,Right Winger,€50k
+Squad UP Langreo,18,Nané García,28,Spain,Centre-Forward,€150k
+Squad UP Langreo,17,Steven Prieto,26,Spain,Centre-Forward,€50k
+Squad UP Langreo,24,Pablo Ares,20,Spain,Centre-Forward,€25k
+Squad Arandina CF,13,Roberto Jara,25,Spain,Goalkeeper,€50k
+Squad Arandina CF,1,Mohamed Boukili,23,Morocco,Goalkeeper,€25k
+Squad Arandina CF,4,Jorge Pesca,31,Spain,Centre-Back,€50k
+Squad Arandina CF,5,Fer Bajo,23,Spain,Centre-Back,€50k
+Squad Arandina CF,2,Joaquín Moisello,22,Argentina,Centre-Back,€25k
+Squad Arandina CF,22,Haji Ceesay,25,Spain,Left-Back,€100k
+Squad Arandina CF,11,Zazu,36,Spain,Left-Back,€25k
+Squad Arandina CF,3,Javier Varona,26,Spain,Right-Back,€100k
+Squad Arandina CF,19,Deiby Ochoa,24,Colombia,Right-Back,€50k
+Squad Arandina CF,-,Dieguito Pérez,24,Spain,Right-Back,€25k
+Squad Arandina CF,16,Javi Bueno,28,Spain,Central Midfield,€150k
+Squad Arandina CF,6,Vitolo,26,Spain,Central Midfield,€25k
+Squad Arandina CF,8,Nico Arce,22,Spain,Central Midfield,€25k
+Squad Arandina CF,10,Sergio Santa,27,Spain,Central Midfield,€25k
+Squad Arandina CF,20,Kevin Manzano,25,Spain,Left Winger,€50k
+Squad Arandina CF,7,Ayoub El Battioui,23,Spain,Left Winger,€25k
+Squad Arandina CF,15,Pepe Otu,25,Ghana,Right Winger,€100k
+Squad Arandina CF,17,Raly Cabral,26,Cape Verde,Right Winger,€100k
+Squad Arandina CF,12,Átomo,29,Spain,Right Winger,€25k
+Squad Arandina CF,14,Adrián Pérez,28,Spain,Second Striker,€100k
+Squad Arandina CF,9,Alfredo Sualdea,25,Spain,Centre-Forward,€200k
+Squad Arandina CF,21,Gonzalo Serrano,21,Spain,Centre-Forward,€100k
+Squad Racing Villalbés,1,Alejandro Santomé,26,Spain,Goalkeeper,€50k
+Squad Racing Villalbés,13,Arturo Ramírez,21,Spain,Goalkeeper,€25k
+Squad Racing Villalbés,15,Nathaniel Nicholas,23,Nigeria,Centre-Back,€100k
+Squad Racing Villalbés,5,Kiko González,31,Spain,Centre-Back,€50k
+Squad Racing Villalbés,4,David Vérez,26,Spain,Centre-Back,€25k
+Squad Racing Villalbés,16,Fito,21,Spain,Centre-Back,€25k
+Squad Racing Villalbés,18,Luis Castro,22,Spain,Left-Back,€50k
+Squad Racing Villalbés,3,David Buyo,32,Spain,Left-Back,€25k
+Squad Racing Villalbés,17,Carlos Torrado,25,Spain,Right-Back,€50k
+Squad Racing Villalbés,2,Diego López,34,Spain,Right-Back,€25k
+Squad Racing Villalbés,22,Diego Uzal,32,Spain,Central Midfield,€100k
+Squad Racing Villalbés,6,Javi Varela,30,Spain,Central Midfield,€50k
+Squad Racing Villalbés,8,Alberto Lamas,33,Spain,Central Midfield,€25k
+Squad Racing Villalbés,11,Rareș Mezdrea,22,Romania,Attacking Midfield,€25k
+Squad Racing Villalbés,14,Pablo Rey,39,Spain,Attacking Midfield,€25k
+Squad Racing Villalbés,20,Álex Pérez,24,Spain,Left Winger,€100k
+Squad Racing Villalbés,19,Adri Carrión,22,Spain,Right Winger,€100k
+Squad Racing Villalbés,7,José Varela,30,Spain,Right Winger,€50k
+Squad Racing Villalbés,-,Miguel Duque,26,Spain,Right Winger,€25k
+Squad Racing Villalbés,10,Javi Rey,29,Spain,Right Winger,€25k
+Squad Racing Villalbés,21,Isaac González,20,Spain,Right Winger,€25k
+Squad Racing Villalbés,12,Ibrahima Dieng,26,Senegal,Centre-Forward,€100k
+Squad Racing Villalbés,9,Izan Fernández,20,Spain,Centre-Forward,€25k
+Squad CD Covadonga,13,Carlos Aramburu,24,Spain,Goalkeeper,€50k
+Squad CD Covadonga,1,Björn Bussmann,33,Germany,Goalkeeper,€25k
+Squad CD Covadonga,18,Adrián Trabanco,33,Spain,Centre-Back,€100k
+Squad CD Covadonga,6,Emilio Morilla,28,Spain,Centre-Back,€50k
+Squad CD Covadonga,4,Carlos Figar,21,Spain,Centre-Back,€25k
+Squad CD Covadonga,14,Aitor Elena,27,Spain,Centre-Back,€25k
+Squad CD Covadonga,3,Álvaro García,26,Spain,Left-Back,€50k
+Squad CD Covadonga,5,Álex Menéndez,32,Spain,Left-Back,€50k
+Squad CD Covadonga,2,Berto González,22,Spain,Right-Back,€25k
+Squad CD Covadonga,8,Pablo Tineo,26,Spain,Central Midfield,€50k
+Squad CD Covadonga,12,Lucas Suárez,22,Spain,Central Midfield,€50k
+Squad CD Covadonga,17,José Álvarez,24,Spain,Central Midfield,€25k
+Squad CD Covadonga,20,Dani González,22,Spain,Central Midfield,€25k
+Squad CD Covadonga,21,Pelayo Avanzini,22,Spain,Central Midfield,€25k
+Squad CD Covadonga,7,Omar Álvarez,33,Spain,Attacking Midfield,€25k
+Squad CD Covadonga,10,Asier Gomes,26,Spain,Left Winger,€50k
+Squad CD Covadonga,19,Vicente Álvarez,28,Spain,Left Winger,€25k
+Squad CD Covadonga,22,Iván Fernández,30,Spain,Right Winger,€100k
+Squad CD Covadonga,9,Ariel Herrero,24,Spain,Centre-Forward,€150k
+Squad CD Covadonga,11,Samu Pérez,22,Spain,Centre-Forward,€100k
+Squad CD Covadonga,15,Adrián Turmo,23,Spain,Centre-Forward,€50k
+Squad CD Cayón,1,Pablo Galnares,26,Spain,Goalkeeper,€25k
+Squad CD Cayón,13,Mario Canales,21,Spain,Goalkeeper,€25k
+Squad CD Cayón,22,Rafa Pedrero,31,Spain,Goalkeeper,€25k
+Squad CD Cayón,4,Álvaro Mier,31,Spain,Centre-Back,€25k
+Squad CD Cayón,19,Alberto Montiel,29,Spain,Left-Back,€50k
+Squad CD Cayón,3,Álvaro Díez,21,Spain,Left-Back,€25k
+Squad CD Cayón,15,Riki Fernández,23,Spain,Right-Back,€100k
+Squad CD Cayón,2,Gabi Fernández,24,Spain,Right-Back,€50k
+Squad CD Cayón,17,Álvaro Santamaría,19,Spain,Right-Back,€25k
+Squad CD Cayón,21,Fernando Resines,32,Spain,Right-Back,€25k
+Squad CD Cayón,16,Edu Martínez,25,Spain,Central Midfield,€50k
+Squad CD Cayón,5,Hitoshi Ishida,27,Japan,Central Midfield,€25k
+Squad CD Cayón,6,David Sanz,27,Spain,Central Midfield,€25k
+Squad CD Cayón,8,Chili,37,Spain,Central Midfield,€25k
+Squad CD Cayón,14,Javier Turrado,28,Spain,Central Midfield,€25k
+Squad CD Cayón,7,Carlos Cagigas,33,Spain,Attacking Midfield,€25k
+Squad CD Cayón,10,Marcos Sáez,34,Spain,Attacking Midfield,€25k
+Squad CD Cayón,11,Jesús Villar,22,Spain,Right Winger,€100k
+Squad CD Cayón,18,Héctor Alonso,30,Spain,Right Winger,€25k
+Squad CD Cayón,20,Dani Salas,24,Spain,Centre-Forward,€100k
+Squad CD Cayón,9,Pedro Méndez,19,Spain,Centre-Forward,€25k
