@@ -21,7 +21,7 @@ b = st.image("./useData/convention.png", use_column_width=True)
 st.markdown("-----")
 #팀 정보
 st.subheader(":three: 수행팀원 및 역할") 
-st.text("(1)팀명 : Adios(총 6명)")
+st.text("(1)팀명 : Adios(총 7명)")
 st.text("(2)프로젝트 R&R(Role and Responsibilities)")
 team_df = st.dataframe({
     "이름" : ["김동휘","김성일","정현수","오지영","임경란","서한울","신대근"],
