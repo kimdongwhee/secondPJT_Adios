@@ -2,3 +2,4 @@ streamlit-chat
 matplotlib
 seaborn
 langchain-experimental
+langchain-openai
