@@ -11,7 +11,7 @@ openai
 pandas
 prompt-toolkit==
 python-dotenv
-seaborn==0.13.2
+seaborn
 streamlit
 streamlit-chat
 tabulate
