@@ -9,7 +9,6 @@ matplotlib-inline
 numpy
 openai
 pandas
-prompt-toolkit==
 python-dotenv
 seaborn
 streamlit
