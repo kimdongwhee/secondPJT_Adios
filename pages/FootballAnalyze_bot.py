@@ -13,11 +13,11 @@ from langchain_core.messages import ChatMessage
 from langchain_core.prompts import ChatPromptTemplate
 import openai
 #환경변수 라이브러리 및 세팅
-#from dotenv import load_dotenv
+from dotenv import load_dotenv
 import os
-#load_dotenv()
+load_dotenv()
 #API 활용별 키
-myOpenAI_key = st.secrets("myOpenAI")
+myOpenAI_key = os.getenv("myOpenAI")
 
 #데이터 로드 및 변수
 all_player = pd.read_csv("./useData/total_all_position.csv", encoding="utf-16", index_col=0) #첫열 삭제를 위해 index_col 사용
