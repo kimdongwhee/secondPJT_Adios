@@ -78,13 +78,13 @@ if user_input := st.chat_input("분석할 내용을 입력해주세요."):
     
             visual_query = response['intermediate_steps'][0][0].tool_input['query']
             if "plt." in visual_query:
-                save_img = visual_query + "\nplt.savefig('save_fig_default.png')"
+                save_img = visual_query + "\nplt.savefig('./useData/save_fig_default.png')"
                 df = all_player.copy()
                 finish_img = exec(save_img)
             # AI 답변
             with st.chat_message("assistant"):
                 st.write(AIresponse)
-                st.image("save_fig_default.png")
+                st.image("./useData/save_fig_default.png")
                 st.session_state["messages"].append(ChatMessage(role="assistant", content=AIresponse))
 
     #예외처리
