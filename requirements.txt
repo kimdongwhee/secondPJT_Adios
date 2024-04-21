@@ -1,3 +1,16 @@
 pandas
 streamlit
 bs4
+requests
+pandas
+streamlit_chat
+message
+matplotlib
+seaborn
+numpy
+create_pandas_dataframe_agent
+ChatOpenAI
+ChatMessage
+openai
+load_dotenv
+os
