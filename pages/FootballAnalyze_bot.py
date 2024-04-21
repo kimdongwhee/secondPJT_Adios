@@ -16,7 +16,7 @@ import openai
 import os
 #API 활용별 키
 #myOpenAI_key = st.secrets("myOpenAI")
-openai.api_key = st.secrets["myOpenAI"]
+openai.api_key = st.secrets("myOpenAI")
 
 #데이터 로드 및 변수
 all_player = pd.read_csv("./useData/total_all_position.csv", encoding="utf-16", index_col=0) #첫열 삭제를 위해 index_col 사용
