@@ -1,4 +1,4 @@
 streamlit-chat
 matplotlib
 seaborn
-create-pandas-dataframe-agent
+langchain-experimental
