@@ -1,3 +1,4 @@
 streamlit-chat
 matplotlib
 seaborn
+create-pandas-dataframe-agent
