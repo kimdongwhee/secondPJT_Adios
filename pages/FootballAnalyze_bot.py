@@ -1,5 +1,5 @@
 #라이브러리
-from win32com.client import Dispatch #pywin
+#from win32com.client import Dispatch #pywin
 import streamlit as st
 from streamlit_chat import message
 import requests
