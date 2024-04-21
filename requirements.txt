@@ -1,2 +1,3 @@
 streamlit-chat
 matplotlib
+seaborn
