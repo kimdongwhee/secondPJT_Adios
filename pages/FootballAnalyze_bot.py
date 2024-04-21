@@ -15,7 +15,7 @@ import openai
 #환경변수 라이브러리 및 세팅
 import os
 #API 활용별 키
-myOpenAI_key = st.secrets("myOpenAI")
+#myOpenAI_key = st.secrets("myOpenAI")
 openai.api_key = st.secrets["myOpenAI"]
 
 #데이터 로드 및 변수
