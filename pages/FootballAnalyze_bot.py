@@ -86,7 +86,7 @@ with tab_1:
         st.text("📊 선수 능력치 조회")
         col_3, col_4 = st.columns(2)
         with col_3:
-            st.text("✏️ 조회방식 1 : 선수명 입력")
+            st.text("✏️선수명 직접입력")
             input_value_1 = st.text_input(label="Enter player name 👇", key="input_1")
             # 해당 선수의 데이터 찾기
             player_data = new_ungk_Technical[new_ungk_Technical['선수명'] == input_value_1]            
@@ -196,7 +196,7 @@ with tab_1:
                 st.pyplot(a)                
 
         with col_4:
-            st.text("✏️ 조회방식 2 : 선수명 선택")
+            st.text("✏️선수명 직접선택")
             ungk_player_name_list = tuple(new_ungk_Technical['선수명'])
             input_value_2 = st.selectbox("Select player name 👇" , ungk_player_name_list, placeholder="Select", key="select_1", index= None)
             # 해당 선수의 데이터 찾기
@@ -316,7 +316,7 @@ with tab_1:
         st.text("📊 선수 능력치 조회")
         col_5, col_6 = st.columns(2)
         with col_5:
-            st.text("✏️ 조회방식 1 : 선수명 입력")
+            st.text("✏️선수명 직접입력")
             input_value_3 = st.text_input(label="Enter player name 👇", key="input_2")
             # 해당 선수의 데이터 찾기
             player_data_avg = new_gk_Goalkeeping[new_gk_Goalkeeping['선수명'] == input_value_3]          
@@ -445,7 +445,7 @@ with tab_1:
                 st.pyplot(c)                    
 
         with col_6:
-            st.text("✏️ 조회방식 2 : 선수명 선택")
+            st.text("✏️선수명 직접선택")
             ungk_player_name_list = tuple(new_gk_Goalkeeping['선수명'])
             input_value_4 = st.selectbox("Select player name 👇" , ungk_player_name_list, key="select_2", placeholder="Choose an option", index=None)
             # 해당 선수의 데이터 찾기
