@@ -3,3 +3,4 @@ matplotlib
 seaborn
 langchain-experimental
 langchain-openai
+tabulate
