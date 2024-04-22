@@ -86,7 +86,6 @@ with tab_1:
         st.text("📊 선수 능력치 조회")
         col_3, col_4 = st.columns(2)
         with col_3:
-            st.text("✏️선수명 직접입력")
             input_value_1 = st.text_input(label="Enter player name 👇", key="input_1")
             # 해당 선수의 데이터 찾기
             player_data = new_ungk_Technical[new_ungk_Technical['선수명'] == input_value_1]            
