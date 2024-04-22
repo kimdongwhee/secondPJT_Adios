@@ -6,11 +6,6 @@ import pandas as pd
 import matplotlib
 import matplotlib.pyplot as plt
 plt.rcParams['axes.unicode_minus'] = False
-from matplotlib import font_manager, rc #한글깨짐 방지
-#f_path = "/Library/Fonts/AppleGothic.ttf"
-f_path = "./useData/OTF_BOLD.OTF"
-font_name = font_manager.FontProperties(fname=f_path).get_name()
-rc('font', family=font_name)
 
 import seaborn
 import numpy as np
