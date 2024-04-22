@@ -7,13 +7,13 @@ import matplotlib
 import matplotlib.pyplot as plt
 import seaborn
 import numpy as np
-from math import pi #각도 조정을 위해서 필요함
-from matplotlib.spines import Spine
-from matplotlib.transforms import Affine2D
+#from math import pi #각도 조정을 위해서 필요함
+#from matplotlib.spines import Spine
+#from matplotlib.transforms import Affine2D
 from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe_agent #랭체인 : 판다스 호환 라이브러리
 from langchain_openai import ChatOpenAI #랭체인 : 챗오픈애이아이 라이브러리
 from langchain_core.messages import ChatMessage
-from langchain_core.prompts import ChatPromptTemplate
+#from langchain_core.prompts import ChatPromptTemplate
 import openai
 #환경변수 라이브러리 및 세팅
 #from dotenv import load_dotenv
