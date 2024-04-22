@@ -4,5 +4,3 @@ seaborn
 langchain-experimental
 langchain-openai
 tabulate
-font-manager
-rc
