@@ -5,8 +5,6 @@ import requests
 import pandas as pd
 import matplotlib
 import matplotlib.pyplot as plt
-plt.rcParams['axes.unicode_minus'] = False
-
 import seaborn
 import numpy as np
 from math import pi #각도 조정을 위해서 필요함
