@@ -9,8 +9,9 @@ a = st.image("./useData/Oracle.jpg", use_column_width=True)
 st.markdown("-----")
 #개요>표1
 service_df = st.dataframe({
-    "제공 서비스" : ["유망주 예측", "선수별 잠재력 예측", "포지션별 유사 선수 클러스터링", "승부 예측(팀/포지션별 속성 수치 기반)", "랭체인 기반 Foot-Ball RSS(Rich Site Summary)", "랭체인 기반 챗봇(선수정보 등)"],
-    "사용자" : ["FM, FiFA, FC 등의 축구게임 유저", "축구팀 스카우터", "축구팀 스카우터", "공식 스포츠 토토 유저, 해외축구 팬", "해외축구 팬", "FM, FiFA, FC 등의 축구게임 유저"]
+    "제공 서비스" : ["유망주 예측", "포지션별 유사 선수 분류", "승부 예측(팀/포지션별 속성 수치 기반)", "랭체인 기반 Foot-Ball RSS(Rich Site Summary)", "랭체인 기반 챗봇(선수정보 등)"],
+    "사용자" : ["축구팀 스카우터", "축구팀 스카우터", "공식 스포츠 토토 유저, 해외축구 팬", "해외축구 팬", "FM, FiFA, FC 등의 축구게임 유저"],
+    "진행여부" : ["완료 및 배포전", "완료 및 배포전", "진행중", "진행중", "완료 및 디버깅 중"]
     }, hide_index = True, use_container_width=True)
 st.markdown("-----")
 
