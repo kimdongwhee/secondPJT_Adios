@@ -260,3 +260,11 @@ with tab_4:
         summary_news(ita_newsList_url)
         for v in range(len(summary_results_list)):
             st.markdown(summary_results_list[v]["output_text"])
+
+#코드 실행 주기 설정
+# 1초에 한번씩 함수 실행 schedule.every(1).seconds.do(함수)
+# 1분에 한번씩 함수 실행 schedule.every(1).minutes.do(함수)
+# 1시간에 한번씩 함수 실행 schedule.every(1).hours.do(함수)
+schedule.every(1).minutes.do(main)
+while True:
+    schedule.run_pending()  # 함수 실행 메서드 .run_pending()
