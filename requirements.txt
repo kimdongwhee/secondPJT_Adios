@@ -7,3 +7,5 @@ tabulate
 bs4
 schedule
 streamlit_autorefresh
+unidecode
+plotly
