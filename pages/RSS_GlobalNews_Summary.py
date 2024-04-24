@@ -178,9 +178,9 @@ def summary_news(x):
         final_contents = chain.invoke(docs)
         summary_results_list.append(final_contents)
 
-for seconds in range(10):
+for seconds in range(600):
     main()
-    time.sleep(2)
+    time.sleep(10)
 
 #Streamlit 헤더
 st.set_page_config(layout="wide")
