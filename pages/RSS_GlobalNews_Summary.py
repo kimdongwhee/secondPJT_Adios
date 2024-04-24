@@ -127,7 +127,7 @@ def main():
 # 1초에 한번씩 함수 실행 schedule.every(1).seconds.do(함수)
 # 1분에 한번씩 함수 실행 schedule.every(1).minutes.do(함수)
 # 1시간에 한번씩 함수 실행 schedule.every(1).hours.do(함수)
-schedule.every(1).minutes.do(main())
+schedule.every(1).minutes.do(main)
 while True:
     schedule.run_pending()  # 함수 실행 메서드 .run_pending()
     
