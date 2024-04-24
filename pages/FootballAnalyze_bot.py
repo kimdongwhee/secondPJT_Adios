@@ -7,6 +7,9 @@ import matplotlib
 import matplotlib.pyplot as plt
 import seaborn
 import numpy as np
+from unidecode import unidecode as ucd  # 선수 이름 영어로 변환을 위해 사용
+import json     # json으로 저장한 딕셔너리 파일을 불러오기 위해 사용
+import plotly.graph_objects as go   # 스탯 시각화를 위해 사용 : plotly
 #from math import pi #각도 조정을 위해서 필요함
 #from matplotlib.spines import Spine
 #from matplotlib.transforms import Affine2D
@@ -25,552 +28,17 @@ myOpenAI_key = st.secrets["myOpenAI"]
 # └ 챗봇 데이터
 all_player = pd.read_csv("./useData/total_all_position.csv", encoding="utf-16", index_col=0) #첫열 삭제를 위해 index_col 사용
 # └ 선수비교 데이터
-new_gk = pd.read_csv('./useData/GK_average.csv')
-new_ungk = pd.read_csv('./useData/UNGK_average.csv')
-#---골키퍼 Goalkeeping 데이터 프레임 형성
-new_gk_Goalkeeping = pd.DataFrame({
-    '선수명': new_gk['player_nm'],
-    '포지션': new_gk['player_position'],
-    '소속': new_gk['player_team'],
-    'aerial-reach' : new_gk['aerial-reach'],
-    'command-of-area': new_gk['command-of-area'],
-    'communication': new_gk['communication'],
-    'eccentricity':new_gk['eccentricity'],
-    'first-touch':new_gk['first-touch'],
-    'handling': new_gk['handling'],
-    'kicking': new_gk['kicking'],
-    'one-on-ones' : new_gk['one-on-ones'],
-    'passing': new_gk['passing'],
-    'punching-tendency': new_gk['punching-tendency'],
-    'reflexes': new_gk['reflexes'],
-    'rushing-out-tendency': new_gk['rushing-out-tendency'],
-    'throwing': new_gk['throwing']
-})
-#---NON 골키퍼 Technical 데이터 프레임 형성
-new_ungk_Technical = pd.DataFrame({
-    '선수명': new_ungk['player_nm'],
-    '포지션': new_ungk['player_position'],
-    '소속': new_ungk['player_team'],
-    'corners' : new_ungk['corners'],
-    'crossing': new_ungk['crossing'],
-    'dribbling': new_ungk['dribbling'],
-    'finishing':new_ungk['finishing'],
-    'first-touch':new_ungk['first-touch'],
-    'free-kick-taking': new_ungk['free-kick-taking'],
-    'heading': new_ungk['heading'],
-    'long-shots' : new_ungk['long-shots'],
-    'long-throws': new_ungk['long-throws'],
-    'marking': new_ungk['marking'],
-    'passing': new_ungk['passing'],
-    'penalty-taking': new_ungk['penalty-taking'],
-    'tackling': new_ungk['tackling'],
-    'technique': new_ungk['technique']
-})
 #=======================================================================================================================
 #streamlit 페이지 활용범위 설정
 st.set_page_config(layout="wide")
 #streamlit페이지 제목
 st.header("Data Analyze with Javis🤖")
 #streamlit 텝메뉴
-tab_1, tab_2 = st.tabs(["Searching and Compare Player", "Talk with Chat-bot"])
-#=======================================================================================================================
-#streamlit 비교영역
-with tab_1:
-    #streamlit 비교 GK, Non GK
-    st.subheader(":one: Searching Player")
-    col_1, col_2 = st.columns(2)
-    #NonGK
-    with col_1:
-        st.text("(1) Compare all Non-GK Players")
-        st.dataframe(new_ungk_Technical, hide_index=True)
-        st.text("📊 선수 능력치 조회")
-        col_3, col_4 = st.columns(2)
-        with col_3:
-            input_value_1 = st.text_input(label="Enter player name 👇", key="input_1", placeholder="Insert player name")
-            # 해당 선수의 데이터 찾기
-            player_data = new_ungk_Technical[new_ungk_Technical['선수명'] == input_value_1]            
-                        # 해당 선수의 데이터 찾기
-            if len(input_value_1) == 0 :
-                st.text("검색된 데이터가 없습니다.")
-            else:
-                # 평균치 시각화
-                labels_avg = player_data.columns[3:]  # 능력치 칼럼 이름을 labels에 담음
-                values_avg = player_data.iloc[0].drop(['선수명', '포지션', '소속'], errors='ignore').tolist()  # 선수명, 포지션, 소속 항목 제외 data 적용
-                values_avg += values_avg[:1]  # 데이터 길이를 각도 리스트의 길이와 같도록 하기 위해 마지막 값을 처음에 추가합니다.
-                num_vars_avg = len(labels_avg)
-                angles_avg = [x / float(num_vars_avg) * (2 * np.pi) for x in range(num_vars_avg)]
-                angles_avg += angles_avg[:1]  # 시작점으로 다시 돌아와야 하므로 마지막 각도를 추가합니다.
-                # 그래프 설정
-                fig, axs = plt.subplots(2, 2, figsize=(15, 20), subplot_kw=dict(polar=True))
-                # 평균 능력치 그래프
-                axs[0, 0].plot(angles_avg, values_avg, color='green', linewidth=1, linestyle='solid')
-                axs[0, 0].fill(angles_avg, values_avg, color='green', alpha=0.2)
-                axs[0, 0].set_yticklabels(['0', '4', '8', '12', '16', '20'], fontsize=10)
-                axs[0, 0].set_yticks([0, 4, 8, 12, 16, 20])
-                axs[0, 0].set_ylim(0, 20)
-                axs[0, 0].set_xticks(angles_avg[:-1])
-                axs[0, 0].set_xticklabels(labels_avg, fontsize=12)
-                axs[0, 0].set_title(f"{input_value_1} 선수의 평균 능력치", size=15, color='black', y=1.1)
-                # 각각의 능력치에 해당하는 데이터프레임 생성
-                # NON 골키퍼 Technical 데이터 프레임 형성
-                new_ungk_Technical = pd.DataFrame({
-                    '선수명': new_ungk['player_nm'],
-                    '포지션': new_ungk['player_position'],
-                    '소속': new_ungk['player_team'],
-                    'corners' : new_ungk['corners'],
-                    'crossing': new_ungk['crossing'],
-                    'dribbling': new_ungk['dribbling'],
-                    'finishing':new_ungk['finishing'],
-                    'first-touch':new_ungk['first-touch'],
-                    'free-kick-taking': new_ungk['free-kick-taking'],
-                    'heading': new_ungk['heading'],
-                    'long-shots' : new_ungk['long-shots'],
-                    'long-throws': new_ungk['long-throws'],
-                    'marking': new_ungk['marking'],
-                    'passing': new_ungk['passing'],
-                    'penalty-taking': new_ungk['penalty-taking'],
-                    'tackling': new_ungk['tackling'],
-                    'technique': new_ungk['technique']
-                })
-                new_ungk_Mental = pd.DataFrame({
-                    '선수명': new_ungk['player_nm'],
-                    '포지션': new_ungk['player_position'],
-                    '소속': new_ungk['player_team'],
-                    'aggression' : new_ungk['aggression'],
-                    'anticipation': new_ungk['anticipation'],
-                    'bravery': new_ungk['bravery'],
-                    'composure':new_ungk['composure'],
-                    'concentration':new_ungk['concentration'],
-                    'decisions': new_ungk['decisions'],
-                    'determination': new_ungk['determination'],
-                    'flair': new_ungk['flair'],
-                    'leadership': new_ungk['leadership'],
-                    'off-the-ball': new_ungk['off-the-ball'],
-                    'positioning': new_ungk['positioning'],
-                    'teamwork': new_ungk['teamwork'],
-                    'vision': new_ungk['vision'],
-                    'work-rate': new_ungk['work-rate']
-                })
-                new_ungk_Physical = pd.DataFrame({
-                    '선수명': new_ungk['player_nm'],
-                    '포지션': new_ungk['player_position'],
-                    '소속': new_ungk['player_team'],
-                    'acceleration' : new_ungk['acceleration'],
-                    'agility': new_ungk['agility'],
-                    'balance': new_ungk['balance'],
-                    'jumping-reach':new_ungk['jumping-reach'],
-                    'natural-fitness':new_ungk['natural-fitness'],
-                    'pace': new_ungk['pace'],
-                    'stamina': new_ungk['stamina'],
-                    'strength': new_ungk['strength']
-                })
-                dfs = [new_ungk_Technical, new_ungk_Mental, new_ungk_Physical]
-                colors = ['magenta', 'dodgerblue', 'chocolate']
-                titles = ['Technical', 'Mental', 'Physical']
-                linestyles = ['dotted','dashdot','solid']
-
-                for i, df in enumerate(dfs):
-                    player_data = df[df['선수명'] == input_value_1]
-                    if not player_data.empty:
-                        labels = player_data.columns[3:]  # 능력치 칼럼 이름을 labels에 담음
-                        values = player_data.iloc[0].drop(['선수명', '포지션', '소속'], errors='ignore').tolist()  # 선수명, 포지션, 소속 항목 제외 data 적용
-                        values += values[:1]  # 데이터 각도 값을 포함하는 리스트의 길이와 같아야하고 그래프 선이 시작점으로 돌아올수 있도록 설정
-                        num_vars = len(labels)
-                        angles = [x / float(num_vars) * (2 * np.pi) for x in range(num_vars)]
-                        angles += angles[:1]  # 시작점으로 다시 돌아와야 하므로 마지막 각도를 추가합니다.
-
-                        # 그래프 설정
-                        axs[(i+1) // 2, (i+1) % 2].plot(angles, values, color=colors[i], linewidth=1, linestyle=linestyles[i])  # 레이더 차트 출력
-                        axs[(i+1) // 2, (i+1) % 2].fill(angles, values, color=colors[i], alpha=0.2)  # 도형 안쪽에 색을 채워줍니다.
-                        axs[(i+1) // 2, (i+1) % 2].set_yticklabels(['0', '4', '8', '12', '16', '20'], fontsize=10)
-                        axs[(i+1) // 2, (i+1) % 2].set_yticks([0, 4, 8, 12, 16, 20])
-                        axs[(i+1) // 2, (i+1) % 2].set_ylim(0, 20)
-                        axs[(i+1) // 2, (i+1) % 2].set_xticks(angles[:-1])
-                        axs[(i+1) // 2, (i+1) % 2].set_xticklabels(labels, fontsize=12)
-                        axs[(i+1) // 2, (i+1) % 2].set_title(f"{input_value_1} 선수의 {titles[i]} 능력치", size=15, color='black', y=1.1, ha='left')
-
-                plt.tight_layout()
-                plt.style.use('seaborn-v0_8-white')
-                a = fig
-                st.pyplot(a)                
-
-        with col_4:
-            ungk_player_name_list = tuple(new_ungk_Technical['선수명'])
-            input_value_2 = st.selectbox("Select player name 👇" , ungk_player_name_list, placeholder="Select", key="select_1", index= None)
-            # 해당 선수의 데이터 찾기
-            player_data = new_ungk_Technical[new_ungk_Technical['선수명'] == input_value_2]            
-                        # 해당 선수의 데이터 찾기
-            if input_value_2 == None :
-                st.text("선택된 데이터가 없습니다.")
-            else:
-                # 평균치 시각화
-                labels_avg = player_data.columns[3:]  # 능력치 칼럼 이름을 labels에 담음
-                values_avg = player_data.iloc[0].drop(['선수명', '포지션', '소속'], errors='ignore').tolist()  # 선수명, 포지션, 소속 항목 제외 data 적용
-                values_avg += values_avg[:1]  # 데이터 길이를 각도 리스트의 길이와 같도록 하기 위해 마지막 값을 처음에 추가합니다.
-                num_vars_avg = len(labels_avg)
-                angles_avg = [x / float(num_vars_avg) * (2 * np.pi) for x in range(num_vars_avg)]
-                angles_avg += angles_avg[:1]  # 시작점으로 다시 돌아와야 하므로 마지막 각도를 추가합니다.
-                # 그래프 설정
-                fig, axs = plt.subplots(2, 2, figsize=(15, 20), subplot_kw=dict(polar=True))
-                # 평균 능력치 그래프
-                axs[0, 0].plot(angles_avg, values_avg, color='green', linewidth=1, linestyle='solid')
-                axs[0, 0].fill(angles_avg, values_avg, color='green', alpha=0.2)
-                axs[0, 0].set_yticklabels(['0', '4', '8', '12', '16', '20'], fontsize=10)
-                axs[0, 0].set_yticks([0, 4, 8, 12, 16, 20])
-                axs[0, 0].set_ylim(0, 20)
-                axs[0, 0].set_xticks(angles_avg[:-1])
-                axs[0, 0].set_xticklabels(labels_avg, fontsize=12)
-                axs[0, 0].set_title(f"{input_value_2} 선수의 평균 능력치", size=15, color='black', y=1.1)
-
-                # 각각의 능력치에 해당하는 데이터프레임 생성
-                #NON 골키퍼 Technical 데이터 프레임 형성
-                new_ungk_Technical = pd.DataFrame({
-                    '선수명': new_ungk['player_nm'],
-                    '포지션': new_ungk['player_position'],
-                    '소속': new_ungk['player_team'],
-                    'corners' : new_ungk['corners'],
-                    'crossing': new_ungk['crossing'],
-                    'dribbling': new_ungk['dribbling'],
-                    'finishing':new_ungk['finishing'],
-                    'first-touch':new_ungk['first-touch'],
-                    'free-kick-taking': new_ungk['free-kick-taking'],
-                    'heading': new_ungk['heading'],
-                    'long-shots' : new_ungk['long-shots'],
-                    'long-throws': new_ungk['long-throws'],
-                    'marking': new_ungk['marking'],
-                    'passing': new_ungk['passing'],
-                    'penalty-taking': new_ungk['penalty-taking'],
-                    'tackling': new_ungk['tackling'],
-                    'technique': new_ungk['technique']
-                })
-
-                new_ungk_Mental = pd.DataFrame({
-                    '선수명': new_ungk['player_nm'],
-                    '포지션': new_ungk['player_position'],
-                    '소속': new_ungk['player_team'],
-                    'aggression' : new_ungk['aggression'],
-                    'anticipation': new_ungk['anticipation'],
-                    'bravery': new_ungk['bravery'],
-                    'composure':new_ungk['composure'],
-                    'concentration':new_ungk['concentration'],
-                    'decisions': new_ungk['decisions'],
-                    'determination': new_ungk['determination'],
-                    'flair': new_ungk['flair'],
-                    'leadership': new_ungk['leadership'],
-                    'off-the-ball': new_ungk['off-the-ball'],
-                    'positioning': new_ungk['positioning'],
-                    'teamwork': new_ungk['teamwork'],
-                    'vision': new_ungk['vision'],
-                    'work-rate': new_ungk['work-rate']
-                })
-
-                new_ungk_Physical = pd.DataFrame({
-                    '선수명': new_ungk['player_nm'],
-                    '포지션': new_ungk['player_position'],
-                    '소속': new_ungk['player_team'],
-                    'acceleration' : new_ungk['acceleration'],
-                    'agility': new_ungk['agility'],
-                    'balance': new_ungk['balance'],
-                    'jumping-reach':new_ungk['jumping-reach'],
-                    'natural-fitness':new_ungk['natural-fitness'],
-                    'pace': new_ungk['pace'],
-                    'stamina': new_ungk['stamina'],
-                    'strength': new_ungk['strength']
-                })
-
-                dfs = [new_ungk_Technical, new_ungk_Mental, new_ungk_Physical]
-                colors = ['magenta', 'dodgerblue', 'chocolate']
-                titles = ['Technical', 'Mental', 'Physical']
-                linestyles = ['dotted','dashdot','solid']
-
-                for i, df in enumerate(dfs):
-                    player_data = df[df['선수명'] == input_value_2]
-                    if not player_data.empty:
-                        labels = player_data.columns[3:]  # 능력치 칼럼 이름을 labels에 담음
-                        values = player_data.iloc[0].drop(['선수명', '포지션', '소속'], errors='ignore').tolist()  # 선수명, 포지션, 소속 항목 제외 data 적용
-                        values += values[:1]  # 데이터 각도 값을 포함하는 리스트의 길이와 같아야하고 그래프 선이 시작점으로 돌아올수 있도록 설정
-                        num_vars = len(labels)
-                        angles = [x / float(num_vars) * (2 * np.pi) for x in range(num_vars)]
-                        angles += angles[:1]  # 시작점으로 다시 돌아와야 하므로 마지막 각도를 추가합니다.
-
-                        # 그래프 설정
-                        axs[(i+1) // 2, (i+1) % 2].plot(angles, values, color=colors[i], linewidth=1, linestyle=linestyles[i])  # 레이더 차트 출력
-                        axs[(i+1) // 2, (i+1) % 2].fill(angles, values, color=colors[i], alpha=0.2)  # 도형 안쪽에 색을 채워줍니다.
-                        axs[(i+1) // 2, (i+1) % 2].set_yticklabels(['0', '4', '8', '12', '16', '20'], fontsize=10)
-                        axs[(i+1) // 2, (i+1) % 2].set_yticks([0, 4, 8, 12, 16, 20])
-                        axs[(i+1) // 2, (i+1) % 2].set_ylim(0, 20)
-                        axs[(i+1) // 2, (i+1) % 2].set_xticks(angles[:-1])
-                        axs[(i+1) // 2, (i+1) % 2].set_xticklabels(labels, fontsize=12)
-                        axs[(i+1) // 2, (i+1) % 2].set_title(f"{input_value_1} 선수의 {titles[i]} 능력치", size=15, color='black', y=1.1, ha='left')
-                plt.tight_layout()
-                plt.style.use('seaborn-v0_8-white')
-                b = fig
-                st.pyplot(b)       
-            
-    #GK
-    with col_2:
-        st.text("(2) Compare all GK Players")
-        st.dataframe(new_gk_Goalkeeping, hide_index=True)
-        st.text("📊 선수 능력치 조회")
-        col_5, col_6 = st.columns(2)
-        with col_5:
-            input_value_3 = st.text_input(label="Enter player name 👇", key="input_2", placeholder="Insert player name")
-            # 해당 선수의 데이터 찾기
-            player_data_avg = new_gk_Goalkeeping[new_gk_Goalkeeping['선수명'] == input_value_3]          
-                        # 해당 선수의 데이터 찾기
-
-            # 해당 선수의 데이터가 없는 경우 오류 메시지 출력
-            if len(input_value_3) == 0 :
-                st.text("검색된 데이터가 없습니다.")
-            else:
-                # 평균치 시각화
-                labels_avg = player_data_avg.columns[3:]  # 능력치 칼럼 이름을 labels에 담음
-                values_avg = player_data_avg.iloc[0].drop(['선수명', '포지션', '소속'], errors='ignore').tolist()  # 선수명, 포지션, 소속 항목 제외 data 적용
-                num_vars_avg = len(labels_avg) #라벨의 범위수 기준
-                angles_avg = [x / float(num_vars_avg) * (2 * np.pi) for x in range(num_vars_avg)] # 극좌표계 생성을 위한 필요한 코드 
-                angles_avg += angles_avg[:1]  # 시작점으로 다시 돌아와야 하므로 마지막 각도를 추가합니다.
-
-                # 데이터 길이를 각도 리스트의 길이와 같도록 조정
-                values_avg += values_avg[:1]  # 데이터 길이를 각도 리스트의 길이와 같도록 하기 위해 마지막 값을 처음에 추가합니다.
-
-                # 그래프 설정
-                fig, axs = plt.subplots(5, 1, figsize=(10, 25), subplot_kw=dict(polar=True)) #(3,2 또는 2,3으로 할 경우 빈슬롯의 그래프 생성으로 5,1로 지정)
-                #polar=True는 축 행성
-                # 평균 능력치 그래프
-                axs[0].plot(angles_avg, values_avg, color='palegreen', linewidth=1, linestyle='solid')
-                axs[0].fill(angles_avg, values_avg, color='palegreen', alpha=0.2) #alpha = 투명도
-                axs[0].set_yticklabels(['0', '4', '8', '12', '16', '20'], fontsize=10) #y축 숫자 표시
-                axs[0].set_yticks([0, 4, 8, 12, 16, 20]) #y축의 범위 
-                axs[0].set_ylim(0, 20) # y축의 데이터값 범위 최소값 최대값 지정
-                axs[0].set_xticks(angles_avg[:-1])  # 마지막 각도는 시작 각도와 동일하므로 제외합니다.
-                axs[0].set_xticklabels(labels_avg, fontsize=10) #x축 값 데이터 
-                axs[0].set_title(f"{input_value_3} 골키퍼의 평균 능력치", size=15, color='black', y=1.1) #y=1.1 축제목 상향 조절
-
-                # 각각의 능력치에 해당하는 데이터프레임 생성
-                # 데이터프레임을 나눠야하는 이유 : 전체 데이터로 시험해본 결과, 데이터의 양이 많을수록, 시각화 구현이 어려움
-                new_gk_Goalkeeping = pd.DataFrame({
-                    '선수명': new_gk['player_nm'],
-                    '포지션': new_gk['player_position'],
-                    '소속': new_gk['player_team'],
-                    'aerial-reach' : new_gk['aerial-reach'],
-                    'command-of-area': new_gk['command-of-area'],
-                    'communication': new_gk['communication'],
-                    'eccentricity':new_gk['eccentricity'],
-                    'first-touch':new_gk['first-touch'],
-                    'handling': new_gk['handling'],
-                    'kicking': new_gk['kicking'],
-                    'one-on-ones' : new_gk['one-on-ones'],
-                    'passing': new_gk['passing'],
-                    'punching-tendency': new_gk['punching-tendency'],
-                    'reflexes': new_gk['reflexes'],
-                    'rushing-out-tendency': new_gk['rushing-out-tendency'],
-                    'throwing': new_gk['throwing']
-                })
-
-                new_gk_Mental = pd.DataFrame({
-                    '선수명': new_gk['player_nm'],
-                    '포지션': new_gk['player_position'],
-                    '소속': new_gk['player_team'],
-                    'aggression' : new_gk['aggression'],
-                    'anticipation': new_gk['anticipation'],
-                    'bravery': new_gk['bravery'],
-                    'composure':new_gk['composure'],
-                    'concentration':new_gk['concentration'],
-                    'decisions': new_gk['decisions'],
-                    'determination': new_gk['determination'],
-                    'flair': new_gk['flair'],
-                    'leadership': new_gk['leadership'],
-                    'off-the-ball': new_gk['off-the-ball'],
-                    'positioning': new_gk['positioning'],
-                    'teamwork': new_gk['teamwork'],
-                    'vision': new_gk['vision'],
-                    'work-rate': new_gk['work-rate']
-                })
-
-                new_gk_Physical = pd.DataFrame({
-                    '선수명': new_gk['player_nm'],
-                    '포지션': new_gk['player_position'],
-                    '소속': new_gk['player_team'],
-                    'acceleration' : new_gk['acceleration'],
-                    'agility': new_gk['agility'],
-                    'balance': new_gk['balance'],
-                    'jumping-reach':new_gk['jumping-reach'],
-                    'natural-fitness':new_gk['natural-fitness'],
-                    'pace': new_gk['pace'],
-                    'stamina': new_gk['stamina'],
-                    'strength': new_gk['strength']
-                })
-
-                new_gk_Technical = pd.DataFrame({
-                    '선수명': new_gk['player_nm'],
-                    '포지션': new_gk['player_position'],
-                    '소속': new_gk['player_team'],
-                    'free-kick-taking' : new_gk['free-kick-taking'],
-                    'penalty-taking': new_gk['penalty-taking'],
-                    'technique': new_gk['technique']
-                })
-
-                dfs = [new_gk_Goalkeeping, new_gk_Mental, new_gk_Physical, new_gk_Technical]
-                colors = ['coral', 'aquamarine', 'chocolate', 'magenta']
-                titles = ['Goalkeeping', 'Mental', 'Physical', 'Technical']
-                linestyles = ['dashed','dashdot','solid', 'dotted' ] #dfs 기준으로 index 지정
-                
-                for i, df in enumerate(dfs):
-                    player_data = df[df['선수명'] == input_value_3] #해당 코드 df는 위 속성 프레임들이므로 df 그대로 놔두어야합니다.
-                    #df를 설정하신 원본 데이터 프레임으로 변경하면 안됩니다.
-                    if not player_data.empty:
-                        labels = player_data.columns[3:]  # 능력치 칼럼 이름을 labels에 담음
-                        values = player_data.iloc[0].drop(['선수명', '포지션', '소속'], errors='ignore').tolist()  # 선수명, 포지션, 소속 항목 제외 data 적용
-                        values += values[:1]  # 데이터 각도 값을 포함하는 리스트의 길이와 같아야하고 그래프 선이 시작점으로 돌아올수 있도록 설정
-                        num_vars = len(labels)
-                        angles = [x / float(num_vars) * (2 * np.pi) for x in range(num_vars)]
-                        angles += angles[:1]  
-
-                        # 그래프 설정
-                        axs[i+1].plot(angles, values, color=colors[i], linewidth=1, linestyle=linestyles[i])  # 레이더 차트 출력 [i : 인덱스 순서]
-                        axs[i+1].fill(angles, values, color=colors[i], alpha=0.4)  # 도형 안쪽에 색을 채워줍니다.
-                        axs[i+1].set_yticklabels(['0', '4', '8', '12', '16', '20'], fontsize=10)
-                        axs[i+1].set_yticks([0, 4, 8, 12, 16, 20])
-                        axs[i+1].set_ylim(0, 20)
-                        axs[i+1].set_xticks(angles[:-1]) #각도 기준으로 마지막 값 이전으로 지정해야되서 -1로 지정
-                        axs[i+1].set_xticklabels(labels, fontsize=12)
-                        axs[i+1].set_title(f"{input_value_3} 선수의 {titles[i]} 능력치", size=15, color='black', y=1.1)
-                        
-                plt.tight_layout() #서브플롯간의 간격을 최적화해주는 함수
-                plt.style.use('seaborn-v0_8-white')  #그래프 배경 지정
-                c = fig
-                st.pyplot(c)                    
-
-        with col_6:
-            ungk_player_name_list = tuple(new_gk_Goalkeeping['선수명'])
-            input_value_4 = st.selectbox("Select player name 👇" , ungk_player_name_list, key="select_2", placeholder="Select", index=None)
-            # 해당 선수의 데이터 찾기
-            # 해당 선수의 데이터 찾기
-            player_data_avg = new_gk_Goalkeeping[new_gk_Goalkeeping['선수명'] == input_value_4]          
-            if input_value_2 == None :
-                st.text("선택된 데이터가 없습니다.")
-            else:
-                # 평균치 시각화
-                labels_avg = player_data_avg.columns[3:]  # 능력치 칼럼 이름을 labels에 담음
-                values_avg = player_data_avg.iloc[0].drop(['선수명', '포지션', '소속'], errors='ignore').tolist()  # 선수명, 포지션, 소속 항목 제외 data 적용
-                num_vars_avg = len(labels_avg) #라벨의 범위수 기준
-                angles_avg = [x / float(num_vars_avg) * (2 * np.pi) for x in range(num_vars_avg)] # 극좌표계 생성을 위한 필요한 코드 
-                angles_avg += angles_avg[:1]  # 시작점으로 다시 돌아와야 하므로 마지막 각도를 추가합니다.
-
-                # 데이터 길이를 각도 리스트의 길이와 같도록 조정
-                values_avg += values_avg[:1]  # 데이터 길이를 각도 리스트의 길이와 같도록 하기 위해 마지막 값을 처음에 추가합니다.
-
-                # 그래프 설정
-                fig, axs = plt.subplots(5, 1, figsize=(10, 25), subplot_kw=dict(polar=True)) #(3,2 또는 2,3으로 할 경우 빈슬롯의 그래프 생성으로 5,1로 지정)
-                #polar=True는 축 행성
-                # 평균 능력치 그래프
-                axs[0].plot(angles_avg, values_avg, color='palegreen', linewidth=1, linestyle='solid')
-                axs[0].fill(angles_avg, values_avg, color='palegreen', alpha=0.2) #alpha = 투명도
-                axs[0].set_yticklabels(['0', '4', '8', '12', '16', '20'], fontsize=10) #y축 숫자 표시
-                axs[0].set_yticks([0, 4, 8, 12, 16, 20]) #y축의 범위 
-                axs[0].set_ylim(0, 20) # y축의 데이터값 범위 최소값 최대값 지정
-                axs[0].set_xticks(angles_avg[:-1])  # 마지막 각도는 시작 각도와 동일하므로 제외합니다.
-                axs[0].set_xticklabels(labels_avg, fontsize=10) #x축 값 데이터 
-                axs[0].set_title(f"{input_value_4} 골키퍼의 평균 능력치", size=15, color='black', y=1.1) #y=1.1 축제목 상향 조절
-
-                # 각각의 능력치에 해당하는 데이터프레임 생성
-                # 데이터프레임을 나눠야하는 이유 : 전체 데이터로 시험해본 결과, 데이터의 양이 많을수록, 시각화 구현이 어려움
-                new_gk_Goalkeeping = pd.DataFrame({
-                    '선수명': new_gk['player_nm'],
-                    '포지션': new_gk['player_position'],
-                    '소속': new_gk['player_team'],
-                    'aerial-reach' : new_gk['aerial-reach'],
-                    'command-of-area': new_gk['command-of-area'],
-                    'communication': new_gk['communication'],
-                    'eccentricity':new_gk['eccentricity'],
-                    'first-touch':new_gk['first-touch'],
-                    'handling': new_gk['handling'],
-                    'kicking': new_gk['kicking'],
-                    'one-on-ones' : new_gk['one-on-ones'],
-                    'passing': new_gk['passing'],
-                    'punching-tendency': new_gk['punching-tendency'],
-                    'reflexes': new_gk['reflexes'],
-                    'rushing-out-tendency': new_gk['rushing-out-tendency'],
-                    'throwing': new_gk['throwing']
-                })
-
-                new_gk_Mental = pd.DataFrame({
-                    '선수명': new_gk['player_nm'],
-                    '포지션': new_gk['player_position'],
-                    '소속': new_gk['player_team'],
-                    'aggression' : new_gk['aggression'],
-                    'anticipation': new_gk['anticipation'],
-                    'bravery': new_gk['bravery'],
-                    'composure':new_gk['composure'],
-                    'concentration':new_gk['concentration'],
-                    'decisions': new_gk['decisions'],
-                    'determination': new_gk['determination'],
-                    'flair': new_gk['flair'],
-                    'leadership': new_gk['leadership'],
-                    'off-the-ball': new_gk['off-the-ball'],
-                    'positioning': new_gk['positioning'],
-                    'teamwork': new_gk['teamwork'],
-                    'vision': new_gk['vision'],
-                    'work-rate': new_gk['work-rate']
-                })
-
-                new_gk_Physical = pd.DataFrame({
-                    '선수명': new_gk['player_nm'],
-                    '포지션': new_gk['player_position'],
-                    '소속': new_gk['player_team'],
-                    'acceleration' : new_gk['acceleration'],
-                    'agility': new_gk['agility'],
-                    'balance': new_gk['balance'],
-                    'jumping-reach':new_gk['jumping-reach'],
-                    'natural-fitness':new_gk['natural-fitness'],
-                    'pace': new_gk['pace'],
-                    'stamina': new_gk['stamina'],
-                    'strength': new_gk['strength']
-                })
-
-                new_gk_Technical = pd.DataFrame({
-                    '선수명': new_gk['player_nm'],
-                    '포지션': new_gk['player_position'],
-                    '소속': new_gk['player_team'],
-                    'free-kick-taking' : new_gk['free-kick-taking'],
-                    'penalty-taking': new_gk['penalty-taking'],
-                    'technique': new_gk['technique']
-                })
-
-                dfs = [new_gk_Goalkeeping, new_gk_Mental, new_gk_Physical, new_gk_Technical]
-                colors = ['coral', 'aquamarine', 'chocolate', 'magenta']
-                titles = ['Goalkeeping', 'Mental', 'Physical', 'Technical']
-                linestyles = ['dashed','dashdot','solid', 'dotted' ] #dfs 기준으로 index 지정
-                
-                for i, df in enumerate(dfs):
-                    player_data = df[df['선수명'] == input_value_4] #해당 코드 df는 위 속성 프레임들이므로 df 그대로 놔두어야합니다.
-                    #df를 설정하신 원본 데이터 프레임으로 변경하면 안됩니다.
-                    if not player_data.empty:
-                        labels = player_data.columns[3:]  # 능력치 칼럼 이름을 labels에 담음
-                        values = player_data.iloc[0].drop(['선수명', '포지션', '소속'], errors='ignore').tolist()  # 선수명, 포지션, 소속 항목 제외 data 적용
-                        values += values[:1]  # 데이터 각도 값을 포함하는 리스트의 길이와 같아야하고 그래프 선이 시작점으로 돌아올수 있도록 설정
-                        num_vars = len(labels)
-                        angles = [x / float(num_vars) * (2 * np.pi) for x in range(num_vars)]
-                        angles += angles[:1]  
-
-                        # 그래프 설정
-                        axs[i+1].plot(angles, values, color=colors[i], linewidth=1, linestyle=linestyles[i])  # 레이더 차트 출력 [i : 인덱스 순서]
-                        axs[i+1].fill(angles, values, color=colors[i], alpha=0.4)  # 도형 안쪽에 색을 채워줍니다.
-                        axs[i+1].set_yticklabels(['0', '4', '8', '12', '16', '20'], fontsize=10)
-                        axs[i+1].set_yticks([0, 4, 8, 12, 16, 20])
-                        axs[i+1].set_ylim(0, 20)
-                        axs[i+1].set_xticks(angles[:-1]) #각도 기준으로 마지막 값 이전으로 지정해야되서 -1로 지정
-                        axs[i+1].set_xticklabels(labels, fontsize=12)
-                        axs[i+1].set_title(f"{input_value_4} 선수의 {titles[i]} 능력치", size=15, color='black', y=1.1)
-                        
-                plt.tight_layout() #서브플롯간의 간격을 최적화해주는 함수
-                plt.style.use('seaborn-v0_8-white')  #그래프 배경 지정
-                d = fig
-                st.pyplot(d)             
+tab_1, tab_2 = st.tabs(["Talk with Chat-bot","Searching and Compare Player"])
 #=======================================================================================================================
 #streamlit 챗봇영역
-with tab_2:
-    st.subheader(":two: Talking with JAVIS")
+with tab_1:
+    st.subheader(":one: Talking with JAVIS")
     st.dataframe(all_player, use_container_width=True, hide_index=True)
     #대화 히스토리 저장 영역
     if "messages" not in st.session_state:
@@ -637,3 +105,388 @@ with tab_2:
 
     with st.container():
         st.write(st.session_state["messages"])
+#=======================================================================================================================
+#streamlit 비교영역
+with tab_2:
+    st.subheader(":two: Searching and Compare Player")
+    # 골키퍼 데이터프레임
+    gkStatsDf=pd.read_csv('./useData/GK.csv',index_col=0,encoding='utf-16').\
+        drop(['player_position','player_overall','player_potential'],axis=1)
+
+    # 선수이름 모두 영어로 변환
+    gkPlayer=[]
+    for idx,rows in gkStatsDf.iterrows():
+        gkPlayer.append(ucd(rows['player_nm']))
+    gkStatsDf['player_nm']=gkPlayer
+
+    # 필드플레이어 데이터프레임
+    ngkStatsDf=pd.read_csv('./useData/UNGK.csv',index_col=0,encoding='utf-16').\
+        drop(['player_overall','player_potential'],axis=1)
+
+    # 선수이름 모두 영어로 변환
+    ngkPlayer=[]
+    for idx,rows in ngkStatsDf.iterrows():
+        ngkPlayer.append(ucd(rows['player_nm']))
+
+    file_path='./useData/stat_column_dict.json'      # 스탯 딕셔너리 로드 
+    with open(file_path,'r') as json_file:      # {GK:{상위컬럼:[스탯 이름]},nGK:{상위컬럼:[스탯 이름]}}
+        columnDict=json.load(json_file)
+
+    tab2_1,tab2_2=st.tabs(['Gk','Non-Gk'])      # GK, Non-GK 탭 구분
+    with tab2_1:      # 키퍼 탭
+        st.subheader('키퍼')
+        
+        # 키퍼 데이터프레임 컨테이너
+        # boder=True -> 컨테이너 경계선
+        with st.container(border=True):
+            st.dataframe(gkStatsDf,use_container_width=True,hide_index=True)
+        
+        # 키퍼 스탯 시각화 컨테이너
+        # try - except : 키퍼를 선택하지 않았을 때 차트를 그리지 못하는 오류 해결을 위해 사용
+        with st.container(border=True):
+            try:
+                # 키퍼 스탯 상위 속성별로 데이터프레임 구분
+                # columnsDict 활용
+                gk_Goalkeeping=gkStatsDf[['player_nm','player_team','player_country','player_age','player_foot','player_height','player_Weight']+
+                                            columnDict['GK']['GoalKeeping']]
+                gk_Mental=gkStatsDf[['player_nm','player_team','player_country','player_age','player_foot','player_height','player_Weight']+
+                                        columnDict['GK']['Mental']]
+                gk_Physical=gkStatsDf[['player_nm','player_team','player_country','player_age','player_foot','player_height','player_Weight']+
+                                        columnDict['GK']['Physical']]
+                gk_Technical=gkStatsDf[['player_nm','player_team','player_country','player_age','player_foot','player_height','player_Weight']+
+                                        columnDict['GK']['Technical']]
+                
+                # 키퍼 select box
+                keeperName=st.selectbox('Search player name 👇',gkStatsDf['player_nm'],placeholder='Search',index=None)
+                st.subheader(f"{keeperName} vs Mean")
+                gkNameSelectedDf=gkStatsDf.query(f"player_nm=='{keeperName}'")
+                
+                # 골키핑 스탯 컨테이너
+                # 스탯 종류가 많아서 두 개 컬럼으로 나눠서 시각화
+                with st.container(border=True):
+                    st.markdown('''##### **Goalkeeping Stats**''')
+                    gk_categoryGoalkeeping=columnDict['GK']['GoalKeeping']
+                    col1_1,col2_1=st.columns(2)
+                    with col1_1:
+                        gk_categoryGoalkeeping_1=gk_categoryGoalkeeping[:7]
+                        gk_Goalkeeping_1=gkNameSelectedDf[gk_categoryGoalkeeping_1].reset_index().drop('index',axis=1)
+                        gk_Goalkeeping_1_mean=pd.DataFrame(gkStatsDf[gk_categoryGoalkeeping_1].mean()).transpose()
+                        
+                        # 선택한 선수 스탯 레이더 차트
+                        fig_gk_goalkeeping_1=go.Figure()
+                        fig_gk_goalkeeping_1.add_trace(go.Scatterpolar(
+                            r=list(gk_Goalkeeping_1.iloc[0]),
+                            theta=gk_categoryGoalkeeping_1,
+                            fill='tonext',
+                            name=gkNameSelectedDf['player_nm'].tolist()[0]))
+                        
+                        # 평균 스탯 레이더 차트
+                        fig_gk_goalkeeping_1.add_trace(go.Scatterpolar(
+                            r=list(gk_Goalkeeping_1_mean.iloc[0]),
+                            theta=gk_categoryGoalkeeping_1,
+                            fill='toself',
+                            name='Average'))
+                        
+                        # 차트 레이아웃 업데이트
+                        fig_gk_goalkeeping_1.update_layout(
+                            polar=dict(
+                                radialaxis=dict(
+                                    visible=True,
+                                    range=[0,20])),
+                            showlegend=True,
+                            width=600,height=600
+                        )
+
+                        # 스트림릿에서 plotly 차트 표시
+                        st.plotly_chart(fig_gk_goalkeeping_1,use_container_width=True)
+                    with col2_1:
+                        gk_categoryGoalkeeping_2=gk_categoryGoalkeeping[7:]
+                        gk_Goalkeeping_2=gkNameSelectedDf[gk_categoryGoalkeeping_2].reset_index().drop('index',axis=1)
+                        gk_Goalkeeping_2_mean=pd.DataFrame(gkStatsDf[gk_categoryGoalkeeping_2].mean()).transpose()
+                        fig_gk_goalkeeping_2=go.Figure()
+                        fig_gk_goalkeeping_2.add_trace(go.Scatterpolar(
+                            r=gk_Goalkeeping_2.iloc[0].tolist(),
+                            theta=[i for i in gk_categoryGoalkeeping_2],
+                            fill='tonext',
+                            name=gkNameSelectedDf['player_nm'].tolist()[0]))
+                        fig_gk_goalkeeping_2.add_trace(go.Scatterpolar(
+                            r=list(gk_Goalkeeping_2_mean.iloc[0]),
+                            theta=gk_categoryGoalkeeping_2,
+                            fill='toself',
+                            name='Average'))
+                        fig_gk_goalkeeping_2.update_layout(
+                            polar=dict(
+                                radialaxis=dict(
+                                    visible=True,
+                                    range=[0,20])),
+                            showlegend=True,
+                            width=600,height=600
+                        )            
+                        st.plotly_chart(fig_gk_goalkeeping_2,use_container_width=True)
+                st.divider()
+                
+                # 멘탈 스탯 컨테이너
+                # 골키핑 스탯과 같은 이유로 두 개 컬럼으로 나눠서 시각화
+                with st.container(border=True):
+                    st.markdown('''##### **Mental Stats**''')
+                    gk_categoryMental=columnDict['GK']['Mental']
+                    col1_2,col2_2=st.columns(2)
+                    with col1_2:
+                        gk_categoryMental_1=gk_categoryMental[:7]
+                        gk_Mental_1=gkNameSelectedDf[[i for i in gk_categoryMental_1]].reset_index().drop('index',axis=1)
+                        gk_Mental_1_mean=pd.DataFrame(gkStatsDf[gk_categoryMental_1].mean()).transpose()
+                        fig_gk_mental_1=go.Figure()
+                        fig_gk_mental_1.add_trace(go.Scatterpolar(
+                            r=list(gk_Mental_1.iloc[0]),
+                            theta=gk_categoryMental_1,
+                            fill='tonext',
+                            name=gkNameSelectedDf['player_nm'].tolist()[0]))
+                        fig_gk_mental_1.add_trace(go.Scatterpolar(
+                            r=list(gk_Mental_1_mean.iloc[0]),
+                            theta=gk_categoryMental_1,
+                            fill='toself',
+                            name='Average'))
+                        fig_gk_mental_1.update_layout(
+                            polar=dict(
+                                radialaxis=dict(
+                                    visible=True,
+                                    range=[0,20])),
+                            showlegend=True,
+                            width=600,height=600
+                        )
+                        st.plotly_chart(fig_gk_mental_1,use_container_width=True)
+                    with col2_2:
+                        gk_categoryMental_2=gk_categoryMental[7:]
+                        gk_Mental_2=gkNameSelectedDf[gk_categoryMental_2].reset_index().drop('index',axis=1)
+                        gk_Mental_2_mean=pd.DataFrame(gkStatsDf[gk_categoryMental_2].mean()).transpose()
+                        fig_gk_mental_2=go.Figure()
+                        fig_gk_mental_2.add_trace(go.Scatterpolar(
+                            r=gk_Mental_2.iloc[0].tolist(),
+                            theta=[i for i in gk_categoryMental_2],
+                            fill='tonext',
+                            name=gkNameSelectedDf['player_nm'].tolist()[0]))
+                        fig_gk_mental_2.add_trace(go.Scatterpolar(
+                            r=list(gk_Mental_2_mean.iloc[0]),
+                            theta=gk_categoryMental_2,
+                            fill='toself',
+                            name='Average'))
+                        fig_gk_mental_2.update_layout(
+                            polar=dict(
+                                radialaxis=dict(
+                                    visible=True,
+                                    range=[0,20])),
+                            showlegend=True,
+                            width=600,height=600
+                        )            
+                        st.plotly_chart(fig_gk_mental_2,use_container_width=True)
+                st.divider()
+
+                # 피지컬 & 테크니컬 스탯 컨테이너
+                # 스탯 종류가 적어서 하나의 컨테이너에 한꺼번에 표시
+                with st.container(border=True):
+                    gk_categoryPhysical=columnDict['GK']['Physical']
+                    gk_categoryTechnical=columnDict['GK']['Technical']
+                    col1_3,col2_3=st.columns(2)
+                    with col1_3:    # 피지컬 스탯 컬럼
+                        st.markdown('''##### **Physical Stats**''')
+                        gk_Physical_1=gkNameSelectedDf[[i for i in gk_categoryPhysical]].reset_index().drop('index',axis=1)
+                        gk_Physical_1_mean=pd.DataFrame(gkStatsDf[gk_categoryPhysical].mean()).transpose()
+                        fig_gk_physical_1=go.Figure()
+                        fig_gk_physical_1.add_trace(go.Scatterpolar(
+                            r=list(gk_Physical_1.iloc[0]),
+                            theta=gk_categoryPhysical,
+                            fill='tonext',
+                            name=gkNameSelectedDf['player_nm'].tolist()[0]))
+                        fig_gk_physical_1.add_trace(go.Scatterpolar(
+                            r=list(gk_Physical_1_mean.iloc[0]),
+                            theta=gk_categoryPhysical,
+                            fill='toself',
+                            name='Average'))
+                        fig_gk_physical_1.update_layout(
+                            polar=dict(
+                                radialaxis=dict(
+                                    visible=True,
+                                    range=[0,20])),
+                            showlegend=True,
+                            width=600,height=600
+                        )
+                        st.plotly_chart(fig_gk_physical_1,use_container_width=True)
+                    with col2_3:    # 테크니컬 스탯 컬럼
+                        st.markdown('''##### **Technical Stats**''')
+                        gk_Technical_1=gkNameSelectedDf[[i for i in gk_categoryTechnical]].reset_index().drop('index',axis=1)
+                        gk_Technical_1_mean=pd.DataFrame(gkStatsDf[gk_categoryTechnical].mean()).transpose()
+                        fig_gk_technical_1=go.Figure()
+                        fig_gk_technical_1.add_trace(go.Scatterpolar(
+                            r=list(gk_Technical_1.iloc[0]),
+                            theta=gk_categoryTechnical,
+                            fill='tonext',
+                            name=gkNameSelectedDf['player_nm'].tolist()[0]))
+                        fig_gk_technical_1.add_trace(go.Scatterpolar(
+                            r=list(gk_Technical_1_mean.iloc[0]),
+                            theta=gk_categoryTechnical,
+                            fill='toself',
+                            name='Average'))
+                        fig_gk_technical_1.update_layout(
+                            polar=dict(
+                                radialaxis=dict(
+                                    visible=True,
+                                    range=[0,20])),
+                            showlegend=True,
+                            width=600,height=600
+                        )
+                        st.plotly_chart(fig_gk_physical_1,use_container_width=True)
+            except:
+                pass
+
+    with tab2_2:      # 필드플레이어 탭
+        st.subheader('필드 플레이어')
+        with st.container(border=True):
+            st.dataframe(ngkStatsDf,use_container_width=True,hide_index=True)
+        with st.container(border=True):
+            try:
+                ngk_Technical=ngkStatsDf[['player_nm','player_team','player_country','player_age','player_foot','player_height','player_Weight']+
+                                            columnDict['GK']['Technical']]
+                ngk_Mental=gkStatsDf[['player_nm','player_team','player_country','player_age','player_foot','player_height','player_Weight']+
+                                        columnDict['GK']['Mental']]
+                ngk_Physical=gkStatsDf[['player_nm','player_team','player_country','player_age','player_foot','player_height','player_Weight']+
+                                        columnDict['GK']['Physical']]
+                nkeeperName=st.selectbox('Search player name 👇',ngkStatsDf['player_nm'],placeholder='Search',index=None)
+                ngkNameSelectedDf=ngkStatsDf.query(f"player_nm=='{nkeeperName}'")
+                st.subheader(f"{nkeeperName} vs Mean")
+                # 테크니컬 스탯 컨테이너
+                with st.container(border=True):
+                    st.markdown('''##### **Technical Stats**''')
+                    ngk_categoryTechnical=columnDict['nGK']['Technical']
+                    col3_1,col4_1=st.columns(2)
+                    with col3_1:
+                        ngk_categoryTechnical_1=ngk_categoryTechnical[:7]
+                        ngk_Technical_1=ngkNameSelectedDf[ngk_categoryTechnical_1].reset_index().drop('index',axis=1)
+                        ngk_Technical_1_mean=pd.DataFrame(ngkStatsDf[ngk_categoryTechnical_1].mean()).transpose()
+                        fig_ngk_technical_1=go.Figure()
+                        fig_ngk_technical_1.add_trace(go.Scatterpolar(
+                            r=list(ngk_Technical_1.iloc[0]),
+                            theta=ngk_categoryTechnical_1,
+                            fill='tonext',
+                            name=ngkNameSelectedDf['player_nm'].tolist()[0]))
+                        fig_ngk_technical_1.add_trace(go.Scatterpolar(
+                            r=list(ngk_Technical_1_mean.iloc[0]),
+                            theta=ngk_categoryTechnical_1,
+                            fill='toself',
+                            name='Average'))
+                        fig_ngk_technical_1.update_layout(
+                            polar=dict(
+                                radialaxis=dict(
+                                    visible=True,
+                                    range=[0,20])),
+                            showlegend=True,
+                            width=600,height=600
+                        )
+                        st.plotly_chart(fig_ngk_technical_1,use_container_width=True)
+                    with col4_1:
+                        ngk_categoryTechnical_2=ngk_categoryTechnical[7:]
+                        ngk_Technical_2=ngkNameSelectedDf[ngk_categoryTechnical_2].reset_index().drop('index',axis=1)
+                        ngk_Technical_2_mean=pd.DataFrame(ngkStatsDf[ngk_categoryTechnical_2].mean()).transpose()
+                        fig_ngk_technical_2=go.Figure()
+                        fig_ngk_technical_2.add_trace(go.Scatterpolar(
+                            r=list(ngk_Technical_2.iloc[0]),
+                            theta=ngk_categoryTechnical_2,
+                            fill='tonext',
+                            name=ngkNameSelectedDf['player_nm'].tolist()[0]))
+                        fig_ngk_technical_2.add_trace(go.Scatterpolar(
+                            r=list(ngk_Technical_2_mean.iloc[0]),
+                            theta=ngk_categoryTechnical_2,
+                            fill='toself',
+                            name='Average'))
+                        fig_ngk_technical_2.update_layout(
+                            polar=dict(
+                                radialaxis=dict(
+                                    visible=True,
+                                    range=[0,20])),
+                            showlegend=True,
+                            width=600,height=600
+                        )
+                        st.plotly_chart(fig_ngk_technical_2,use_container_width=True)
+                st.divider()
+                
+                # 멘탈 스탯 컨테이너
+                with st.container(border=True):
+                    st.markdown('''##### **Mental Stats**''')
+                    ngk_categoryMental=columnDict['nGK']['Mental']
+                    col3_2,col4_2=st.columns(2)
+                    with col3_2:
+                        ngk_categoryMental_1=ngk_categoryMental[:7]
+                        ngk_Mental_1=ngkNameSelectedDf[[i for i in ngk_categoryMental_1]].reset_index().drop('index',axis=1)
+                        ngk_Mental_1_mean=pd.DataFrame(ngkStatsDf[ngk_categoryMental_1].mean()).transpose()
+                        fig_ngk_mental_1=go.Figure()
+                        fig_ngk_mental_1.add_trace(go.Scatterpolar(
+                            r=list(ngk_Mental_1.iloc[0]),
+                            theta=ngk_categoryMental_1,
+                            fill='tonext',
+                            name=ngkNameSelectedDf['player_nm'].tolist()[0]))
+                        fig_ngk_mental_1.add_trace(go.Scatterpolar(
+                            r=list(ngk_Mental_1_mean.iloc[0]),
+                            theta=ngk_categoryMental_1,
+                            fill='toself',
+                            name='Average'))
+                        fig_ngk_mental_1.update_layout(
+                            polar=dict(
+                                radialaxis=dict(
+                                    visible=True,
+                                    range=[0,20])),
+                            showlegend=True,
+                            width=600,height=600
+                        )
+                        st.plotly_chart(fig_ngk_mental_1,use_container_width=True)
+                    with col4_2:
+                        ngk_categoryMental_2=ngk_categoryMental[7:]
+                        ngk_Mental_2=ngkNameSelectedDf[ngk_categoryMental_2].reset_index().drop('index',axis=1)
+                        ngk_Mental_2_mean=pd.DataFrame(ngkStatsDf[ngk_categoryMental_2].mean()).transpose()
+                        fig_ngk_mental_2=go.Figure()
+                        fig_ngk_mental_2.add_trace(go.Scatterpolar(
+                            r=ngk_Mental_2.iloc[0].tolist(),
+                            theta=[i for i in ngk_categoryMental_2],
+                            fill='tonext',
+                            name=ngkNameSelectedDf['player_nm'].tolist()[0]))
+                        fig_ngk_mental_2.add_trace(go.Scatterpolar(
+                            r=list(ngk_Mental_2_mean.iloc[0]),
+                            theta=ngk_categoryMental_2,
+                            fill='toself',
+                            name='Average'))
+                        fig_ngk_mental_2.update_layout(
+                            polar=dict(
+                                radialaxis=dict(
+                                    visible=True,
+                                    range=[0,20])),
+                            showlegend=True,
+                            width=600,height=600
+                        )            
+                        st.plotly_chart(fig_ngk_mental_2,use_container_width=True)
+                st.divider()
+
+                # 피지컬 스탯 컨테이너
+                with st.container(border=True):
+                    ngk_categoryPhysical=columnDict['nGK']['Physical']
+                    st.markdown('''##### **Physical Stats**''')
+                    ngk_Physical_1=ngkNameSelectedDf[[i for i in ngk_categoryPhysical]].reset_index().drop('index',axis=1)
+                    ngk_Physical_1_mean=pd.DataFrame(ngkStatsDf[ngk_categoryPhysical].mean()).transpose()
+                    fig_ngk_physical_1=go.Figure()
+                    fig_ngk_physical_1.add_trace(go.Scatterpolar(
+                        r=list(ngk_Physical_1.iloc[0]),
+                        theta=ngk_categoryPhysical,
+                        fill='tonext',
+                        name=ngkNameSelectedDf['player_nm'].tolist()[0]))
+                    fig_ngk_physical_1.add_trace(go.Scatterpolar(
+                        r=list(ngk_Physical_1_mean.iloc[0]),
+                        theta=ngk_categoryPhysical,
+                        fill='toself',
+                        name='Average'))
+                    fig_ngk_physical_1.update_layout(
+                        polar=dict(
+                            radialaxis=dict(
+                                visible=True,
+                                range=[0,20])),
+                        showlegend=True,
+                        width=600,height=600)
+                    st.plotly_chart(fig_ngk_physical_1,use_container_width=True)
+            except:
+                pass
