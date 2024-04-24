@@ -210,10 +210,11 @@ with tab_1:
     })
     st.dataframe(eng_area, use_container_width=True, hide_index=True)
 
-    if st.button("기사 요약", use_container_width=True, key="sm_1"):
-        summary_news(eng_newsList_url)
-        for v in range(len(summary_results_list)):
-            st.markdown(summary_results_list[v]["output_text"])
+    with st.container(border=True):
+        if st.button("기사 요약", use_container_width=True, key="sm_1"):
+            summary_news(eng_newsList_url)
+            for v in range(len(summary_results_list)):
+                st.markdown(summary_results_list[v]["output_text"])
 # └ 독일뉴스
 with tab_2:
     ger_title= ger_newsList
@@ -224,10 +225,11 @@ with tab_2:
     })
     st.dataframe(ger_area, use_container_width=True, hide_index=True)
 
-    if st.button("기사 요약", use_container_width=True, key="sm_2"):
-        summary_news(ger_newsList_url)
-        for v in range(len(summary_results_list)):
-            st.markdown(summary_results_list[v]["output_text"])
+    with st.container(border=True):
+        if st.button("기사 요약", use_container_width=True, key="sm_2"):
+            summary_news(ger_newsList_url)
+            for v in range(len(summary_results_list)):
+                st.markdown(summary_results_list[v]["output_text"])
 # └ 스페인뉴스
 with tab_3:
     spa_title= spa_newsList
@@ -238,10 +240,11 @@ with tab_3:
     })
     st.dataframe(spa_area, use_container_width=True, hide_index=True)
 
-    if st.button("기사 요약", use_container_width=True, key="sm_3"):
-        summary_news(spa_newsList_url)
-        for v in range(len(summary_results_list)):
-            st.markdown(summary_results_list[v]["output_text"])
+    with st.container(border=True):
+        if st.button("기사 요약", use_container_width=True, key="sm_3"):
+            summary_news(spa_newsList_url)
+            for v in range(len(summary_results_list)):
+                st.markdown(summary_results_list[v]["output_text"])
 # └ 이탈리아 뉴스
 with tab_4:
     ita_title= ita_newsList
@@ -252,7 +255,8 @@ with tab_4:
     })
     st.dataframe(ita_area, use_container_width=True, hide_index=True)
 
-    if st.button("기사 요약", use_container_width=True, key="sm_4"):
-        summary_news(ita_newsList_url)
-        for v in range(len(summary_results_list)):
-            st.markdown(summary_results_list[v]["output_text"])
+    with st.container(border=True):
+        if st.button("기사 요약", use_container_width=True, key="sm_4"):
+            summary_news(ita_newsList_url)
+            for v in range(len(summary_results_list)):
+                st.markdown(summary_results_list[v]["output_text"])
