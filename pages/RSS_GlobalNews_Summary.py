@@ -179,12 +179,17 @@ def summary_news(x):
         final_contents = chain.invoke(docs)
         summary_results_list.append(final_contents)
 
-for seconds in range(600):
+#기본함수실행
+if __name__ == '__main__' :
     main()
-    time.sleep(10)
 
 #Streamlit 헤더
 st.set_page_config(layout="wide")
+# interval: 정수 값. 밀리초 단위로 지정된 시간 간격마다 새로 고쳐질 시간 간격을 나타냅니다.
+# limit: 정수 값 또는 None. 새로 고침 횟수를 제한하는데 사용됩니다. None인 경우 무한히 새로 고침합니다. 무한 새로 고침은 컴퓨팅 리소스를 계속 사용하므로 사용에 주의해야 합니다.
+# debounce: 불리언 값. 사용자 상호 작용이 발생할 때 자동 새로 고침을 지연시킬지 여부를 결정합니다. 기본값은 True이며, 이는 스크립트에서 상호 작용 효과에 새로 고침이 간섭하는 것을 방지하기 위해 지연됩니다.
+# key: 문자열 또는 None. 이 구성 요소를 고유하게 식별하는 선택적 키입니다. 이 값이 None이고 구성 요소의 인수가 변경되면, 구성 요소는 Streamlit 프론트엔드에서 다시 마운트되어 현재 상태를 잃게 됩니다.
+st_autorefresh(interval=3600000, limit=None, key=None)
 
 st.header("유럽 4개국 축구기사 RSS(Rich Site Summary) 서비스 🌎")
 st.markdown("Open AI 기반의 영국, 독일, 스페인, 이탈리아 축구리그 실시간 기사를 번역/요약할 수 있는 페이지임(**기사는 1시간 주기로 갱신됨**).")
