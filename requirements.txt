@@ -4,3 +4,4 @@ seaborn
 langchain-experimental
 langchain-openai
 tabulate
+bs4
