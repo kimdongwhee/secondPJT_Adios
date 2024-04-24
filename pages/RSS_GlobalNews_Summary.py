@@ -12,7 +12,7 @@ from langchain.chains.summarize import load_summarize_chain
 from langchain.prompts import PromptTemplate
 
 #환경변수 라이브러리 및 환경세팅
-#import os
+import os
 #from dotenv import load_dotenv
 #load_dotenv()
 global myOpenAI_key
