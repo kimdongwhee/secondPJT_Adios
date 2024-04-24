@@ -16,7 +16,7 @@ import streamlit as st
 import openai
 #환경변수 라이브러리 및 세팅
 #from dotenv import load_dotenv
-import os
+#import os
 #API 활용별 키
 myOpenAI_key = st.secrets["myOpenAI"]
 #load_dotenv()
