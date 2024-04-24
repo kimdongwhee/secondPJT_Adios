@@ -18,7 +18,7 @@ import os
 global myOpenAI_key
 #global myZenrows
 myOpenAI_key=st.secrets["myOpenAI"]
-#myZenrows=st.secrets["myZenrows"]
+myZenrows=st.secrets["myZenrows"]
 
 # OPENAI_API_KEY = os.getenv("myOpenAI")
 
@@ -86,7 +86,7 @@ def main():
     apikey = myZenrows
     params = {
         'url': url,
-        'apikey': "72c79f64253f0decea0e634238e4177b9c00bf46",
+        'apikey': myZenrows,
     }
     spain_new = requests.get('https://api.zenrows.com/v1/', params=params)
     spain_all_data = spain_new.text
