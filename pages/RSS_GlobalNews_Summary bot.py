@@ -5,6 +5,7 @@ from streamlit_autorefresh import st_autorefresh
 from bs4 import BeautifulSoup 
 import requests
 from datetime import datetime
+from pytz import timezone
 from langchain_openai import ChatOpenAI
 from langchain_community.document_loaders import WebBaseLoader
 from langchain.text_splitter import CharacterTextSplitter
@@ -114,7 +115,7 @@ def main():
         ita_newsList_url.append(italy_full_link)
         ita_newsList_url = ita_newsList_url[:10]
 
-    now = datetime.now()
+    now = datetime.now(timezone('Asia/Seoul'))
     global update_time
     update_time = now.strftime('%Y-%m-%d %H:%M:%S')
     
