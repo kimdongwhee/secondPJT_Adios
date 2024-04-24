@@ -4,6 +4,7 @@ import pandas as pd
 from bs4 import BeautifulSoup 
 import schedule
 import requests
+import time
 from datetime import datetime
 from langchain_openai import ChatOpenAI
 from langchain_community.document_loaders import WebBaseLoader
