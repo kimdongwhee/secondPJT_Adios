@@ -164,7 +164,7 @@ def summary_news(x):
         # llm 모델 객체 생성
         llm = ChatOpenAI(temperature = 0,
                         model_name = "gpt-3.5-turbo-0125",
-                        api_key = OPENAI_API_KEY)
+                        api_key = myOpenAI_key)
         
         # 요약정의
         chain = load_summarize_chain(
