@@ -5,11 +5,11 @@ from bs4 import BeautifulSoup
 import schedule
 import requests
 from datetime import datetime
-#from langchain_openai import ChatOpenAI
+from langchain_openai import ChatOpenAI
 #from langchain_community.document_loaders import WebBaseLoader
-#from langchain.text_splitter import CharacterTextSplitter
-#from langchain.chains.summarize import load_summarize_chain
-#from langchain.prompts import PromptTemplate
+from langchain.text_splitter import CharacterTextSplitter
+from langchain.chains.summarize import load_summarize_chain
+from langchain.prompts import PromptTemplate
 
 #환경변수 라이브러리 및 환경세팅
 import os
