@@ -51,6 +51,7 @@ if user_input := st.chat_input("분석할 내용을 입력해주세요."):
                                                 chunk_overlap=0) # 겹치는 부분 없게
     matchPrediction = text_splitter.split_documents(matchResult)
     # Chroma에 저장
+    #vectorstore = Chroma.from_documents(documents = matchPrediction, embedding=OpenAIEmbeddings())
     vectorstore = Chroma.from_documents(documents = matchPrediction, embedding=OpenAIEmbeddings())
     # 검색 설정
     retriever = vectorstore.as_retriever()
