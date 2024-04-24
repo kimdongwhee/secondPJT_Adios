@@ -120,8 +120,8 @@ def main():
     
     return eng_newsList, ger_newsList, spa_newsList, ita_newsList, eng_newsList_url, ger_newsList_url, spa_newsList_url, ita_newsList_url, update_time
 
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()
 
 #코드 실행 주기 설정
 # 1초에 한번씩 함수 실행 schedule.every(1).seconds.do(함수)
