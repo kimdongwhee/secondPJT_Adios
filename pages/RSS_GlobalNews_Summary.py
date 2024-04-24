@@ -86,7 +86,7 @@ def main():
     apikey = myZenrows
     params = {
         'url': url,
-        'apikey': apikey,
+        'apikey': myZenrows,
     }
     spain_new = requests.get('https://api.zenrows.com/v1/', params=params)
     spain_all_data = spain_new.text
