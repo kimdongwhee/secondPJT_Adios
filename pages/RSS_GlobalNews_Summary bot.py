@@ -194,7 +194,7 @@ st.set_page_config(layout="wide")
 st_autorefresh(interval=3600000, limit=None, key=None)
 
 st.header("유럽 4개국 축구기사 RSS(Rich Site Summary) 서비스 🌎")
-st.markdown("Open AI 기반의 영국, 독일, 스페인, 이탈리아 축구리그 실시간 기사를 번역/요약할 수 있는 페이지임(**기사는 1시간 주기로 갱신됨**).")
+st.markdown("Open AI 기반의 영국, 독일, 스페인, 이탈리아 축구리그 실시간 기사를 번역/요약할 수 있는 페이지(**기사는 1시간 주기로 갱신됨**)")
 
 #Streamlit 바디
 st.markdown(f"업데이트 시간 : {update_time}")
