@@ -1,0 +1,1439 @@
+game_id,formatted_dates,homeTeam,awayTeam,home_gk_overall,home_dc_overall,home_mid_overall,home_st_overall,away_gk_overall,away_dc_overall,away_mid_overall,away_st_overall,homeScore,awayScore,matchResult
+3a6836b4,August 11 2023,Burnley,Manchester City,67,64.4,66.75,67,90,77.25,86.8,85.5,0,3,Away
+26a7f90c,August 12 2023,Arsenal,Nottingham Forest,74,78,82.25,80.33333333,69,67,65.75,65.5,2,1,Home
+d6bbf293,August 12 2023,Bournemouth,West Ham United,72,66.25,63.4,68,70,70.75,70.25,71.33333333,1,1,Draw
+56a137f7,August 12 2023,Brighton & Hove Al..,Luton Town,73,73.25,64,64.5,65,61.33333333,63.33333333,63.5,4,1,Home
+15addfc7,August 12 2023,Everton,Fulham,75,66.5,69.5,64,73,68.5,67.66666667,66.75,0,1,Away
+8ff2f8fe,August 12 2023,Newcastle United,Aston Villa,79,72,72.8,75,74,75.5,79.66666667,74,5,1,Home
+55fd92c7,August 12 2023,Sheff Utd,Crystal Palace,69,70.75,70,67.5,63,63.5,61.5,58.5,0,1,Away
+67ed3ba2,August 13 2023,Brentford,Tottenham Hotspur,69,70.2,70.66666667,70.5,78,76,76.75,71.66666667,2,2,Draw
+c18d3207,August 13 2023,Chelsea,Liverpool F.C.,71,73.5,72.33333333,69.66666667,69.5,76,68.5,81.75,1,1,Draw
+f1ecda2c,August 14 2023,Manchester United,Wolverhampton,74,77.75,78.5,71.33333333,66.5,69,65.8,72.5,1,0,Home
+a0a93f71,August 18 2023,Nottingham Forest,Sheff Utd,69,66.85714286,66,66,63,63.75,63.25,58.5,2,1,Home
+46be83af,August 19 2023,Fulham,Brentford,69,70.25,70.66666667,70,73,68.5,68.66666667,68.33333333,0,3,Away
+80bebdbb,August 19 2023,Liverpool F.C.,Bournemouth,72,66.25,63,67.33333333,69.5,76,68.5,81.75,3,1,Home
+0b8f50a5,August 19 2023,Manchester City,Newcastle United,90,80.25,81.6,85.5,74,75.5,79.66666667,74,1,0,Home
+4bb62251,August 19 2023,Tottenham Hotspur,Manchester United,74,77.75,78.5,71.33333333,78,76.25,78.25,79,2,0,Home
+d7c606ec,August 19 2023,Wolverhampton,Brighton & Hove Al..,73,75.33333333,72.66666667,73,66.5,69,65.8,66.5,1,4,Away
+959b558d,August 20 2023,Aston Villa,Everton,66,73.25,72.8,75,75,66.5,69.5,75,4,0,Home
+44b9a07c,August 20 2023,West Ham United,Chelsea,71,74,72.33333333,69.66666667,70,70.75,73.33333333,71.33333333,3,1,Home
+3b5ecd36,August 21 2023,Crystal Palace,Arsenal,74,78.33333333,82.25,80.33333333,69,70.75,70,67.5,0,1,Away
+6bfb9dc0,August 25 2023,Chelsea,Luton Town,71,74,77.33333333,69.66666667,65,61.33333333,66.66666667,63.5,3,0,Home
+d8f8f8ad,August 26 2023,Arsenal,Fulham,74,77.33333333,82.25,81.33333333,73,68.75,72,68.33333333,2,2,Draw
+f49c4ad2,August 26 2023,Bournemouth,Tottenham Hotspur,72,66,63,69,78,76.25,78.25,79,0,2,Away
+537b2b0b,August 26 2023,Brentford,Crystal Palace,69,70.25,70.66666667,70,69,70.75,70,67.5,1,1,Draw
+ba68d60c,August 26 2023,Brighton & Hove Al..,West Ham United,66,75.33333333,72.66666667,72.75,70,71.4,73.33333333,73,1,3,Away
+18dfee28,August 26 2023,Everton,Wolverhampton,75,67.5,69.25,66.66666667,66.5,67,68,67,0,1,Away
+70d9b1ab,August 26 2023,Manchester United,Nottingham Forest,74,75.75,77.25,70,69,67,66.33333333,66,3,2,Home
+b66a7def,August 27 2023,Burnley,Aston Villa,58.5,73.4,75.33333333,75,67,63,66.4,67,1,3,Away
+b31156ab,August 27 2023,Newcastle United,Liverpool F.C.,69.5,75.6,69.2,83,74,75.5,79.66666667,74,1,2,Away
+0844ff10,August 27 2023,Sheff Utd,Manchester City,90,80.5,82.4,85.5,63,64,63.25,58.5,1,2,Away
+e929e225,September 1 2023,Luton Town,West Ham United,65,60.8,66.66666667,63.5,70,71.8,75,71.33333333,1,2,Away
+e2946b10,September 2 2023,Brentford,Bournemouth,72,66.25,63.5,69,69,70.75,70.66666667,70,2,2,Draw
+4f754e0a,September 2 2023,Brighton & Hove Al..,Newcastle United,66,73.2,63.5,63.875,74,72.75,79.66666667,74,3,1,Home
+f1786fb8,September 2 2023,Burnley,Tottenham Hotspur,67,64.25,66,67,78,76.25,78.25,76.5,2,5,Away
+44e89d37,September 2 2023,Chelsea,Nottingham Forest,71,74,77.33333333,69.66666667,69,67,65.75,62,0,1,Away
+88066bdf,September 2 2023,Manchester City,Fulham,73,68.5,68.33333333,68.33333333,90,81,81.5,82.66666667,5,1,Home
+87b46bb9,September 2 2023,Sheff Utd,Everton,75,67.5,69.25,71.33333333,63,63,64,63.5,2,2,Draw
+74125d47,September 3 2023,Arsenal,Manchester United,74,79,83.66666667,80.33333333,74,73.25,77.25,70,3,1,Home
+f9436d32,September 3 2023,Crystal Palace,Wolverhampton,69,70.75,70,67.5,66.5,69,68,69.66666667,3,2,Home
+bdbc722e,September 3 2023,Liverpool F.C.,Aston Villa,66,73.4,72.75,75,69.5,73,69.8,83.33333333,3,0,Home
+bc77340e,September 16 2023,Aston Villa,Crystal Palace,66,73.25,72.75,74,69,68.5,69,67.5,3,1,Home
+48b1bdc7,September 16 2023,Fulham,Luton Town,73,68.5,72,66.75,65,60.83333333,66.75,62.5,1,0,Home
+ddcf2857,September 16 2023,Manchester United,Brighton & Hove Al..,73,73.25,71.66666667,72.33333333,74,72.2,77.25,75,1,3,Away
+71b7e5e2,September 16 2023,Newcastle United,Brentford,69,70.2,70.66666667,70.5,74,75.5,71.75,75,1,0,Home
+e56e96e1,September 16 2023,Tottenham Hotspur,Sheff Utd,63,63,64.66666667,59,78,76.25,78.25,76.5,2,1,Home
+64c0a6e2,September 16 2023,West Ham United,Manchester City,90,80.25,84.75,82.66666667,70,71.8,73.33333333,73,1,3,Away
+38daebd2,September 16 2023,Wolverhampton,Liverpool F.C.,69.5,69,73.5,82,66.5,69,67.75,68.5,1,3,Away
+be0cbf88,September 17 2023,Bournemouth,Chelsea,72,66,63.5,68,71,73,70.33333333,69.75,0,0,Draw
+b1278924,September 17 2023,Everton,Arsenal,76,79,83,80.33333333,75,67.5,69,71.33333333,0,1,Away
+ad7ecfad,September 18 2023,Nottingham Forest,Burnley,67,64.75,66,67,69,66.2,67,69,1,1,Draw
+96681b93,September 23 2023,Brentford,Everton,69,69,70.66666667,69,75,67.5,69,70,1,3,Away
+8e26793d,September 23 2023,Burnley,Manchester United,69,70.75,69,empty,74,70.6,75,75,0,1,Away
+cf0b2b19,September 23 2023,Crystal Palace,Fulham,65,61.71428571,68.33333333,67.5,73,68.5,72,66.5,0,0,Draw
+76a1421e,September 23 2023,Luton Town,Wolverhampton,90,80.25,75,62.5,66.5,69,67.75,68.5,1,1,Draw
+5dc7e234,September 23 2023,Manchester City,Nottingham Forest,76,79,83,82.66666667,69,67,68.5,68,2,0,Home
+08947a10,September 24 2023,Arsenal,Tottenham Hotspur,72,66,63.5,81.33333333,78,76.25,78.25,76.33333333,2,2,Draw
+5593f16c,September 24 2023,Brighton & Hove Al..,Bournemouth,66,73.25,72.75,69.66666667,66,74.75,69.5,69.25,3,1,Home
+7d2c5e05,September 24 2023,Chelsea,Aston Villa,69.5,74.6,69.8,74,71,73,77.33333333,69.75,0,1,Away
+90adf8b3,September 24 2023,Liverpool F.C.,West Ham United,74,75.5,71.75,83.33333333,70,71.8,73.33333333,73,3,1,Home
+cf4fef85,September 24 2023,Sheff Utd,Newcastle United,66,73.25,72.75,73,63,63.6,64,57,0,8,Away
+2df9a3a1,September 30 2023,Aston Villa,Brighton & Hove Al..,76,79,83.66666667,74,73,74.75,67,72.75,6,1,Home
+8de4aca0,September 30 2023,Bournemouth,Arsenal,75,67.5,69,81.33333333,72,66.25,63.5,69.66666667,0,4,Away
+921d5f17,September 30 2023,Everton,Luton Town,69,70.75,69,75,65,61.71428571,64,62.5,1,2,Away
+ef2b7ab9,September 30 2023,Manchester United,Crystal Palace,69.5,74.6,69.8,66,74,74.66666667,78.75,71,0,1,Away
+a79ff136,September 30 2023,Newcastle United,Burnley,63,63.6,64.66666667,empty,74,72.25,72.33333333,74,2,0,Home
+ec4145b4,September 30 2023,Tottenham Hotspur,Liverpool F.C.,90,81,72.2,83,78,76.25,78.25,79,2,1,Home
+b82be6d7,September 30 2023,West Ham United,Sheff Utd,69,69.5,70.66666667,59,70,71.8,73.33333333,73,2,0,Home
+60ce29cd,September 30 2023,Wolverhampton,Manchester City,71,74,77.33333333,82.66666667,66.5,67.8,68,68.5,2,1,Home
+923467c5,October 1 2023,Nottingham Forest,Brentford,67,64.75,67,69,69,66.2,67.75,69,1,1,Draw
+c9787e60,October 2 2023,Fulham,Chelsea,67,63.5,66,65.5,73,68.5,72,66.75,0,2,Away
+4f7b3f27,October 3 2023,Luton Town,Burnley,69,70.5,63.33333333,67,65,61.85714286,64,62.5,1,2,Away
+cfd83ca3,October 7 2023,Burnley,Chelsea,72,66.25,63.5,67,71,74,77.33333333,68.25,1,4,Away
+1828106c,October 7 2023,Crystal Palace,Nottingham Forest,73,68.5,72,66.66666667,69,64.8,68.5,67.5,0,0,Draw
+497b9558,October 7 2023,Everton,Bournemouth,65,61.2,64,68,75,67.5,68.5,70.33333333,3,0,Home
+ffc59ea8,October 7 2023,Fulham,Sheff Utd,67,69.2,70.66666667,66,63,63,64,59,3,1,Home
+d021f28f,October 7 2023,Luton Town,Tottenham Hotspur,76,79,77.5,63,78,76.25,78.25,79,0,1,Away
+5006142a,October 7 2023,Manchester United,Brentford,66,71.5,62.25,70.5,74,71.5,78.75,75,2,1,Home
+59cd18ae,October 8 2023,Arsenal,Manchester City,74,72.25,74,71.25,90,78.8,81.25,85.5,1,0,Home
+3b1ec657,October 8 2023,Brighton & Hove Al..,Liverpool F.C.,66,73.4,72.75,64.44444444,69.5,75.6,69.6,83.33333333,2,2,Draw
+017c9ca5,October 8 2023,West Ham United,Newcastle United,72,66,63.4,74,70,71.8,73.33333333,73,2,2,Draw
+3292ed35,October 8 2023,Wolverhampton,Aston Villa,69,69.33333333,69,75,66.5,67.8,68,68.5,1,1,Draw
+007b352e,October 21 2023,Bournemouth,Wolverhampton,76,79,77.5,69.5,66.5,67,65.66666667,64.66666667,1,2,Away
+52781f37,October 21 2023,Brentford,Burnley,75,67.5,68.5,68.33333333,67,64,66,67,3,0,Home
+a1c336e2,October 21 2023,Chelsea,Arsenal,73,71,64,75.25,71,72.75,77.33333333,68.75,2,2,Draw
+e747ddb3,October 21 2023,Liverpool F.C.,Everton,69,70.75,68.66666667,70.33333333,69.5,75.2,69,83.33333333,2,0,Home
+b782a834,October 21 2023,Manchester City,Brighton & Hove Al..,65,61.4,63.33333333,65,68,79.25,88,82.66666667,2,1,Home
+21625dde,October 21 2023,Newcastle United,Crystal Palace,74,71.5,75,66.66666667,74,72.25,76.33333333,72.66666667,4,0,Home
+d1671efa,October 21 2023,Nottingham Forest,Luton Town,66,73.25,72.75,62.5,69,64.8,67.6,65,2,2,Draw
+d95b42eb,October 21 2023,Sheff Utd,Manchester United,73,68.75,72,70.66666667,63,63,64,59,1,2,Away
+7efcc598,October 22 2023,Aston Villa,West Ham United,69,70.75,67.75,74,70,71.8,73.33333333,73,4,1,Home
+8c6293a3,October 23 2023,Tottenham Hotspur,Fulham,76,77.5,79.33333333,66,78,76.25,75.75,79,2,0,Home
+6b0aa474,October 27 2023,Crystal Palace,Tottenham Hotspur,63,66,67.33333333,67.5,78,72.8,78.25,79,1,2,Away
+d498f918,October 28 2023,Arsenal,Sheff Utd,69,69.2,70.66666667,80.33333333,63,63,63,56,5,0,Home
+c4c42d3e,October 28 2023,Bournemouth,Burnley,74,72.25,76.33333333,68.33333333,67,64,66,64,2,1,Home
+91e3b922,October 28 2023,Chelsea,Brentford,66,73.25,72.75,70.5,71,74,74.33333333,75,0,2,Away
+b84d060a,October 28 2023,Wolverhampton,Newcastle United,73,73.33333333,70.5,73.33333333,66.5,67.8,65.66666667,64.66666667,2,2,Draw
+ee677172,October 29 2023,Aston Villa,Luton Town,69.5,75.2,72.5,74,65,61.85714286,69,62.5,3,1,Home
+a0c422e9,October 29 2023,Brighton & Hove Al..,Fulham,90,81.75,84.2,70.66666667,73,68.75,71.5,66.5,1,1,Draw
+79bf0c7f,October 29 2023,Liverpool F.C.,Nottingham Forest,75,68,68.5,82.33333333,74,71.5,75.5,empty,3,0,Home
+f6bfec82,October 29 2023,Manchester United,Manchester City,69,69.33333333,69,85.5,70,71,75,75,0,3,Away
+868a89be,October 29 2023,West Ham United,Everton,67,65.5,66.6,70.33333333,70,69.5,73.33333333,73,0,1,Away
+3235dd6e,November 4 2023,Brentford,West Ham United,66,74.66666667,72.75,68.33333333,69,70.75,67.75,71.33333333,3,2,Home
+8797f9a9,November 4 2023,Burnley,Crystal Palace,73,68.75,72,62,75,67.5,69,67.5,0,2,Away
+6ecb53ac,November 4 2023,Everton,Brighton & Hove Al..,63,65.8,67.33333333,70.66666667,74,71.75,75.25,70.33333333,1,1,Draw
+31273be0,November 4 2023,Fulham,Manchester United,76,78.25,74.75,65,90,80,82.5,68,0,1,Away
+e75a870b,November 4 2023,Manchester City,Bournemouth,63,63.2,64,69.5,74,72.25,76.33333333,82.66666667,6,1,Home
+6096abaa,November 4 2023,Newcastle United,Arsenal,69.5,75.4,72.5,73,66.5,67.8,67,73.33333333,1,0,Home
+e841bbac,November 4 2023,Sheff Utd,Wolverhampton,66,73.25,72.75,58.66666667,65,61.85714286,67.66666667,67.5,2,1,Home
+a62b97ba,November 5 2023,Luton Town,Liverpool F.C.,71,72.6,77.33333333,82.33333333,69,64.25,67.6,63,1,1,Draw
+ac18f108,November 5 2023,Nottingham Forest,Aston Villa,76,78.25,74.75,74,78,76.25,78.25,68,2,0,Home
+478e4eb3,November 6 2023,Tottenham Hotspur,Chelsea,72,66.75,62,69.75,67,65.5,66.6,76.33333333,1,4,Away
+2cb4e4dc,November 11 2023,Arsenal,Burnley,69,70.75,68.25,73.75,74,69,71,62,3,1,Home
+641024cf,November 11 2023,Bournemouth,Newcastle United,65,61.85714286,67.66666667,68.75,75,67.5,68.5,72,2,0,Home
+a4795b68,November 11 2023,Crystal Palace,Everton,78,69,75.5,67.5,74,71.2,76.66666667,70.33333333,2,3,Away
+4b9f3f25,November 11 2023,Manchester United,Luton Town,66,73.25,73,63,66.5,67.8,67.75,74,1,0,Home
+1634f066,November 11 2023,Wolverhampton,Tottenham Hotspur,73,72.33333333,71.75,71.5,73,68.75,72,68,2,1,Home
+d6a70a44,November 12 2023,Aston Villa,Fulham,71,73,77.33333333,75,63,63.2,64,66.5,3,1,Home
+ebf41e41,November 12 2023,Brighton & Hove Al..,Sheff Utd,69,69.2,70.66666667,72.5,90,80.25,84.75,57,1,1,Draw
+53bb8f30,November 12 2023,Chelsea,Manchester City,69,64.25,67.6,69.75,69.5,74.8,70.66666667,82.66666667,4,4,Draw
+996ee990,November 12 2023,Liverpool F.C.,Brentford,74,78.25,87.5,70.5,70,71.8,73.75,81,3,0,Home
+76b8e568,November 12 2023,West Ham United,Nottingham Forest,67,65.5,66.6,68,69,70,66.25,78,3,2,Home
+626c6561,November 25 2023,Brentford,Arsenal,69,70.75,70,81.75,70,71.8,73.75,67.66666667,0,1,Away
+36a64522,November 25 2023,Burnley,West Ham United,69.5,74.8,73.5,62,65,61.66666667,65.66666667,68,1,2,Away
+f4805536,November 25 2023,Luton Town,Crystal Palace,71,73,70.33333333,71.5,90,81,84.75,63,2,1,Home
+5d4a5006,November 25 2023,Manchester City,Liverpool F.C.,66,73.25,73.33333333,82.33333333,74,72.25,75,82.66666667,1,1,Draw
+8c8f48f4,November 25 2023,Newcastle United,Chelsea,72,66.75,62,69.75,69,66.6,66.4,74,4,1,Home
+36be5cee,November 25 2023,Nottingham Forest,Brighton & Hove Al..,75,67.5,69,72.75,63,63.2,64,61,2,3,Away
+799a2c04,November 25 2023,Sheff Utd,Bournemouth,66,73.4,72.75,68.75,74,74,75,57,1,3,Away
+f82a83dd,November 26 2023,Everton,Manchester United,73,68.75,69,70.33333333,78,70.5,74,73.33333333,0,3,Away
+83db7754,November 26 2023,Tottenham Hotspur,Aston Villa,76,78.25,87.5,75,66.5,66.8,67.75,71.5,1,2,Away
+b19cc422,November 27 2023,Fulham,Wolverhampton,69,70,66.25,66,66.5,66.2,65.25,68,3,2,Home
+6e65df8e,December 2 2023,Arsenal,Wolverhampton,67,65.5,67,81.75,65,61.57142857,64.66666667,62.5,2,1,Home
+0f71f535,December 2 2023,Brentford,Luton Town,74,74.25,75,66.75,63,63.2,63,63,3,1,Home
+e2c53b0a,December 2 2023,Burnley,Sheff Utd,75,67.5,69,62,74,72.25,75,59,5,0,Home
+66a1f3ac,December 2 2023,Newcastle United,Manchester United,66,74.25,72.8,73.33333333,69,64.8,66.6,74,1,0,Home
+0486198b,December 2 2023,Nottingham Forest,Everton,73,73,68.5,68.66666667,72,66.25,62,65,0,1,Away
+19533403,December 3 2023,Bournemouth,Aston Villa,73,68.75,71.2,73,71,74.25,77.33333333,68.75,2,2,Draw
+86b7d24f,December 3 2023,Chelsea,Brighton & Hove Al..,90,80.25,84.75,68,70,80.25,70.5,69.75,3,2,Home
+4b7e6f44,December 3 2023,Liverpool F.C.,Fulham,69,70,67,68.5,78,70.5,74.25,83.33333333,4,3,Home
+0e39f016,December 3 2023,Manchester City,Tottenham Hotspur,76,77.5,83.66666667,82.66666667,70,70.8,73.75,71.5,3,3,Draw
+f7fb8049,December 3 2023,West Ham United,Crystal Palace,67,64.25,67,70,65,61.5,65.66666667,78,1,1,Draw
+dd3a5afc,December 5 2023,Luton Town,Arsenal,66,74.25,73,83.33333333,60.5,66.2,68,63,3,4,Away
+a52ffb27,December 5 2023,Wolverhampton,Burnley,69,69.33333333,64.5,62,90,79.33333333,83,72,1,0,Home
+0ad90506,December 6 2023,Aston Villa,Manchester City,72,66.25,62,73,73,70,63.83333333,85.5,1,0,Home
+75d21da8,December 6 2023,Brighton & Hove Al..,Brentford,73,69,71,66,69,70,67,63,2,1,Home
+09909bf8,December 6 2023,Crystal Palace,Bournemouth,71,74,78.5,69.25,59.5,64.75,65.16666667,70,0,2,Away
+fd5606da,December 6 2023,Fulham,Nottingham Forest,70,81,70.75,66,74,74,75,69.33333333,5,0,Home
+49f486f6,December 6 2023,Manchester United,Chelsea,75,66.8,69,69.8,63,63.5,63,68,2,1,Home
+01aca132,December 6 2023,Sheff Utd,Liverpool F.C.,78,72.6,74.5,83,68,72.25,75,61,0,2,Away
+2fe9d766,December 7 2023,Everton,Newcastle United,76,79,83.66666667,70.33333333,68,71.8,73.75,74,3,0,Home
+200af033,December 7 2023,Tottenham Hotspur,West Ham United,66,71.66666667,65.71428571,76.33333333,66,74.25,73,78,1,2,Away
+8cf29e50,December 9 2023,Aston Villa,Arsenal,69,68.8,66.33333333,83.33333333,67,65.5,66.4,73,1,0,Home
+ab18fa97,December 9 2023,Brighton & Hove Al..,Burnley,72,66.25,62,61.42857143,69.5,71.8,67.6,62,1,1,Draw
+a1b18af3,December 9 2023,Crystal Palace,Liverpool F.C.,69,70,67.5,67.5,74,73,75,83.33333333,1,2,Away
+0760a568,December 9 2023,Manchester United,Bournemouth,71,72.2,77.33333333,68.75,63,63.5,63,67.33333333,0,3,Away
+e268f518,December 9 2023,Sheff Utd,Brentford,73,69,71,65.25,66.5,66.2,68,61,1,0,Home
+8c8fdba5,December 9 2023,Wolverhampton,Nottingham Forest,65,61.6,67.66666667,empty,75,67.5,69,72,1,1,Draw
+953b5f9b,December 10 2023,Everton,Chelsea,68,72.25,75,65.5,68,69.75,71.83333333,70.33333333,2,0,Home
+d3dd23fb,December 10 2023,Fulham,West Ham United,67,64.5,66.8,66,90,80.5,82.83333333,78,5,0,Home
+f6155857,December 10 2023,Luton Town,Manchester City,71,74.25,76.5,63,78,72.6,77.66666667,77,1,2,Away
+be6d1aac,December 10 2023,Tottenham Hotspur,Newcastle United,69,68.83333333,62.5,74,78,72.6,77.66666667,75.5,4,1,Home
+4d9f1a71,December 15 2023,Nottingham Forest,Tottenham Hotspur,73,68.75,71,empty,75,66.75,68.5,75.5,0,2,Away
+01904d1d,December 16 2023,Burnley,Everton,76,79,83.66666667,62,63,63.5,63,70.33333333,0,2,Away
+3bbbaf15,December 16 2023,Chelsea,Sheff Utd,66,74.4,71.75,73.75,90,78.8,84.2,63.5,2,0,Home
+30f3e1ee,December 16 2023,Manchester City,Crystal Palace,69.5,75.2,67.6,70,68,69.75,76.33333333,77,2,2,Draw
+5db0f25b,December 16 2023,Newcastle United,Fulham,68,71.8,73.75,68.5,66,74.66666667,72.75,73.33333333,3,0,Home
+e3a46a4e,December 17 2023,Arsenal,Brighton & Hove Al..,66,71.75,63.83333333,83.33333333,69,67.75,70.5,70.66666667,2,0,Home
+4a3af0ab,December 17 2023,Brentford,Aston Villa,79,71,72.2,75,74,75.75,70.5,66.25,1,2,Away
+18e98d77,December 17 2023,Liverpool F.C.,Manchester United,67,65.5,66.8,83.33333333,60.5,68,67.75,68,0,0,Draw
+5f5bc7b3,December 17 2023,West Ham United,Wolverhampton,76,79,83.66666667,78,69,69.8,67,72,3,0,Home
+7340be7a,December 21 2023,Crystal Palace,Brighton & Hove Al..,65,61.5,68.5,62.42857143,63,62.66666667,60.5,69,1,1,Draw
+37916998,December 22 2023,Aston Villa,Sheff Utd,72,66.66666667,63.5,75,73,69,71,64,1,1,Draw
+7dd3c51a,December 23 2023,Fulham,Burnley,75,68,69.25,67,69.5,75.2,68.4,65,0,2,Away
+bfbfbbe8,December 23 2023,Liverpool F.C.,Arsenal,74,74,74,83.33333333,68,72.25,72.33333333,83,1,1,Draw
+46bfb645,December 23 2023,Luton Town,Newcastle United,71,73,66,63,69,63.5,65,73.33333333,1,0,Home
+c5548935,December 23 2023,Nottingham Forest,Bournemouth,72,66.66666667,61.66666667,67.5,78,72.5,74,67.66666667,2,3,Away
+849071fe,December 23 2023,Tottenham Hotspur,Everton,67,65.5,66.6,70.33333333,70,71.8,73.75,71.8,2,1,Home
+328777ed,December 23 2023,West Ham United,Manchester United,79,71.8,71.33333333,68,66.5,67.8,68,78,2,0,Home
+8c0b314c,December 24 2023,Wolverhampton,Chelsea,68,75.5,72.33333333,73.25,73,69,71,72,2,1,Home
+331c942d,December 26 2023,Bournemouth,Fulham,65,61.4,68.5,68,69.5,72,70,64.5,3,0,Home
+c0904954,December 26 2023,Burnley,Liverpool F.C.,69,68.66666667,67,67,74,73.75,75.66666667,82,0,2,Away
+83709fdf,December 26 2023,Manchester United,Aston Villa,71,71,78,73,69,68.33333333,67.75,74,3,2,Home
+f22a20f0,December 26 2023,Newcastle United,Nottingham Forest,75,68,67.75,74,63,63.5,63,63.25,1,3,Away
+6269b2e3,December 26 2023,Sheff Utd,Luton Town,76,79,87.5,63,66.5,66.8,68,63.5,2,3,Away
+ea28d527,December 27 2023,Brentford,Wolverhampton,73,71.75,64.5,65.25,69,69.8,71.5,72,1,4,Away
+2bfb6552,December 27 2023,Chelsea,Crystal Palace,79,72.8,72.2,72,90,80,78,69,2,1,Home
+b9f69f01,December 27 2023,Everton,Manchester City,69,67.25,70.66666667,68.66666667,70,70.4,73.75,77,1,3,Away
+ba570015,December 28 2023,Arsenal,West Ham United,71,73,74.33333333,81.75,78,70.5,74.33333333,78,0,2,Away
+3e2e9248,December 28 2023,Brighton & Hove Al..,Tottenham Hotspur,90,78,82.83333333,61.85714286,67,65.5,66.4,71.8,4,2,Home
+2828c5bc,December 30 2023,Aston Villa,Burnley,74,73.75,74.5,75,69,69.8,71.5,67,3,2,Home
+e9d5dd9b,December 30 2023,Crystal Palace,Brentford,75,67.2,68.66666667,65.66666667,65,61.5,68.5,69,3,1,Home
+8e04572c,December 30 2023,Luton Town,Chelsea,76,77.5,83.66666667,70.66666667,63,63.2,60.5,63,2,3,Away
+aefd7405,December 30 2023,Manchester City,Sheff Utd,72,66.66666667,62,77,69,68.33333333,66.6,54,2,0,Home
+1aa68cba,December 30 2023,Nottingham Forest,Manchester United,69.5,75.4,68.4,71.33333333,66.5,67.8,67,61,2,1,Home
+7dfc59ca,December 30 2023,Wolverhampton,Everton,73,71.75,64.5,70.33333333,73,69,71.25,72,3,0,Home
+6c1b6ffc,December 31 2023,Fulham,Arsenal,67,63,65.8,80.33333333,78,70.5,74,66.5,2,1,Home
+3ab71352,December 31 2023,Tottenham Hotspur,Bournemouth,71,73,77.33333333,68.8,68,73,73.5,71.8,3,1,Home
+107b2d79,January 1 2024,Liverpool F.C.,Newcastle United,90,80.5,83,83.33333333,70,70.2,70.25,76,4,2,Home
+d557afd0,January 2 2024,West Ham United,Brighton & Hove Al..,79,72.8,72.8,61.85714286,65,61.6,67,73,0,0,Draw
+d62dd931,January 12 2024,Burnley,Luton Town,74,73.75,75.66666667,67,73,68.75,71.66666667,64,1,1,Draw
+dd052c34,January 13 2024,Chelsea,Fulham,76,79,83.66666667,68.25,68,75.5,72.33333333,66.75,1,0,Home
+738f8c3e,January 13 2024,Newcastle United,Manchester City,69,69,70,77,75,67.25,68.66666667,74,2,3,Away
+1628c63e,January 14 2024,Everton,Aston Villa,72,64,62,75,78,76.25,71.66666667,71,0,0,Draw
+904ed2f9,January 14 2024,Manchester United,Tottenham Hotspur,63,63.5,63,74,69,69.8,68.25,72.2,2,2,Draw
+006fb5b5,January 20 2024,Arsenal,Crystal Palace,73,73.25,64.5,82.33333333,69,68,66.5,65,5,0,Home
+e0a9c631,January 20 2024,Brentford,Nottingham Forest,79,72,73,68.25,69.5,72,69.2,63.25,3,2,Home
+9a03e25c,January 21 2024,Bournemouth,Liverpool F.C.,69,71.5,69.33333333,69.75,70,70.75,69.6,79,0,4,Away
+abd525b4,January 21 2024,Sheff Utd,West Ham United,75,67.2,68.5,63,66.5,68,67,73,2,2,Draw
+35fb5bc2,January 22 2024,Brighton & Hove Al..,Wolverhampton,73,73,65,61.85714286,68,75.5,72.33333333,72.5,0,0,Draw
+d8679e54,January 30 2024,Aston Villa,Newcastle United,76,79,83,75,69,63.5,63.25,73.33333333,1,3,Away
+9f51ce03,January 30 2024,Crystal Palace,Sheff Utd,71,76,75.5,69,73,68.75,71.66666667,65.5,3,2,Home
+17d24e01,January 30 2024,Fulham,Everton,67,63,66.4,71,65,61.4,67.5,66.5,0,0,Draw
+381f12be,January 30 2024,Luton Town,Brighton & Hove Al..,69,69,70.66666667,61.85714286,69,66.42857143,67,63.5,4,0,Home
+20a16b44,January 30 2024,Nottingham Forest,Arsenal,72,66.75,63,83.33333333,69.5,72,69.8,61,1,2,Away
+1836d9bd,January 31 2024,Liverpool F.C.,Chelsea,74,77.75,77.66666667,68.33333333,90,77,78.33333333,79,4,1,Home
+d10aaae8,January 31 2024,Manchester City,Burnley,66,71.2,63.2,67,78,76.25,76.5,77,3,1,Home
+79ffec97,January 31 2024,Tottenham Hotspur,Brentford,67,63.5,66.5,68.33333333,70,71.6,74,72.33333333,3,2,Home
+16dc9951,February 1 2024,West Ham United,Bournemouth,75,67.2,69.33333333,68.33333333,66.5,68,67,78,1,1,Draw
+457203bc,February 1 2024,Wolverhampton,Manchester United,65,61.6,67.5,74,69,70,66.33333333,69,3,4,Away
+689d15cf,February 3 2024,Brighton & Hove Al..,Crystal Palace,79,72.8,73,61.14285714,73,68.75,72,66,4,1,Home
+a2436e30,February 3 2024,Burnley,Fulham,76,79,77.2,67,78,76.25,75.66666667,64.75,2,2,Draw
+fd68d50e,February 3 2024,Everton,Tottenham Hotspur,72,66.75,62,70.33333333,68,75.5,72.33333333,72.2,2,2,Draw
+67cb7a4e,February 3 2024,Newcastle United,Luton Town,71,74.75,78.25,63.5,63,63.33333333,61.66666667,70.66666667,4,4,Draw
+b3e195c5,February 3 2024,Sheff Utd,Aston Villa,74,75.75,77.66666667,73,69.5,75.4,68.6,63,0,5,Away
+99020abf,February 4 2024,Arsenal,Liverpool F.C.,69,69.33333333,70.66666667,72.66666667,68,65.2,66.5,78.66666667,3,1,Home
+29948898,February 4 2024,Bournemouth,Nottingham Forest,72,66.75,63,69.25,66.5,67.8,68,69,1,1,Draw
+dfde4bd7,February 4 2024,Chelsea,Wolverhampton,67,63,66.5,68.33333333,70,71,73.33333333,72.5,2,4,Away
+dc1428be,February 4 2024,Manchester United,West Ham United,65,61.4,67.5,74,90,80.5,86.8,78,3,0,Home
+2b3630b6,February 5 2024,Brentford,Manchester City,75,67.2,69.33333333,69.5,73,68.5,71.66666667,85.5,1,3,Away
+bf9e0d20,February 10 2024,Fulham,Bournemouth,68,75.5,72.33333333,69.66666667,70,77.5,70.25,64.75,3,1,Home
+29e4d6ac,February 10 2024,Liverpool F.C.,Burnley,73,74.5,73.33333333,64,63,63.33333333,63.75,79,3,1,Home
+1a4e7d02,February 10 2024,Luton Town,Sheff Utd,69,69.33333333,70.66666667,63.5,90,81.25,75,64,1,3,Away
+00ea7906,February 10 2024,Manchester City,Everton,79,72,72.5,70.33333333,68,66.2,66.5,82.66666667,2,0,Home
+1c53666a,February 10 2024,Nottingham Forest,Newcastle United,76,77.5,83.66666667,73.33333333,78,76.25,78,69,2,3,Away
+c0dfccdf,February 10 2024,Tottenham Hotspur,Brighton & Hove Al..,71,74.75,75.5,71.66666667,66.5,67.8,68,72.33333333,2,1,Home
+922cd256,February 10 2024,Wolverhampton,Brentford,69,69.33333333,70.66666667,69.5,74,76.5,77.66666667,72.5,0,2,Away
+fd36479b,February 11 2024,Aston Villa,Manchester United,76,77.5,83.66666667,73,70,71,73.33333333,74,1,2,Away
+a1da23dc,February 11 2024,West Ham United,Arsenal,66,72.8,72.5,81.33333333,69,68.5,65,78,0,6,Away
+1206b952,February 12 2024,Crystal Palace,Chelsea,71,73,77.33333333,66,70,77.5,70.25,66,1,3,Away
+ca1e26a0,February 17 2024,Brentford,Liverpool F.C.,72,66.75,62,69.5,67,63,66.5,79,1,4,Away
+59631171,February 17 2024,Burnley,Arsenal,59,68.16666667,64.66666667,81.33333333,73,68.5,71.66666667,64,0,5,Away
+796ff9f0,February 17 2024,Fulham,Aston Villa,78,71.75,78.25,73,90,81,86.25,64.75,1,2,Away
+78fb7fc2,February 17 2024,Manchester City,Chelsea,65,61.6,67.75,69.75,68,75.5,71.75,82.66666667,1,1,Draw
+083c4444,February 17 2024,Newcastle United,Bournemouth,66,72.75,73.5,68.75,70,71.8,75,72,2,2,Draw
+d657db47,February 17 2024,Nottingham Forest,West Ham United,69,67.6,66.5,64,70,67.8,66,73,2,0,Home
+30193251,February 17 2024,Tottenham Hotspur,Wolverhampton,69,68.5,68.33333333,71.66666667,74,76.5,77.66666667,71,1,2,Away
+49523b04,February 18 2024,Luton Town,Manchester United,70,72.5,70.2,60.5,63,62.71428571,63.75,74,1,2,Away
+811fa03f,February 18 2024,Sheff Utd,Brighton & Hove Al..,76,77.5,77.2,71,75,67.2,69,58,0,5,Away
+573f2f77,February 19 2024,Everton,Crystal Palace,66,72.8,72.5,66.66666667,90,82.25,81.4,75,1,1,Draw
+af88a1aa,February 20 2024,Manchester City,Brentford,72,66.25,62,72,65,61.6,67.75,85.5,1,0,Home
+58636a1e,February 21 2024,Liverpool F.C.,Luton Town,66,73,73.5,79,65,75.5,72.33333333,60.5,4,1,Home
+8f922133,February 24 2024,Arsenal,Newcastle United,67,64,66.4,72.66666667,59,68.2,64.66666667,74,4,1,Home
+f61fbe36,February 24 2024,Aston Villa,Nottingham Forest,73,69,69.2,73,90,81.25,77.14285714,64,4,2,Home
+f6d6a212,February 24 2024,Bournemouth,Manchester City,69,62.66666667,64,68.75,75,67.75,69,94,0,1,Away
+eb7c6993,February 24 2024,Brighton & Hove Al..,Everton,69,68.6,69,69.25,69,67.6,66.5,70.33333333,1,1,Draw
+89cd2d5e,February 24 2024,Crystal Palace,Burnley,69,68.16666667,68.33333333,64,74,74.25,77.66666667,66.66666667,3,0,Home
+45f67948,February 24 2024,Manchester United,Fulham,75,67.75,68.5,65,70,67.8,66,68.33333333,1,2,Away
+ada09dda,February 25 2024,Wolverhampton,Sheff Utd,73,73.66666667,70,62,70,71.8,73.75,71,1,0,Home
+15a04102,February 26 2024,West Ham United,Brentford,79,72,72.5,68.33333333,71,73.2,77.33333333,78,4,2,Home
+ba1992b0,March 2 2024,Brentford,Chelsea,68,75.5,75,72,70,71.8,73.75,66,2,2,Draw
+e9183936,March 2 2024,Everton,West Ham United,70,77.2,69.33333333,68.66666667,73,69,69.2,78,1,3,Away
+20278247,March 2 2024,Fulham,Brighton & Hove Al..,69,67.6,69,68.5,65,61.16666667,64.75,65,3,0,Home
+59f4adc0,March 2 2024,Luton Town,Aston Villa,72,66.25,62,73,70,67.8,65.33333333,63,2,3,Away
+bbae8356,March 2 2024,Newcastle United,Wolverhampton,90,82.5,86.8,73.33333333,68,62.75,66.5,72.5,3,0,Home
+d1a00cf0,March 2 2024,Nottingham Forest,Liverpool F.C.,76,77.5,77.2,79,78,76,79.25,69.33333333,0,1,Away
+8812bfd9,March 2 2024,Tottenham Hotspur,Crystal Palace,74,77.5,77.2,66,67,64.2,65.75,71.5,3,1,Home
+f7674d8b,March 3 2024,Burnley,Bournemouth,72,65.5,62,68.75,74,73.5,76,64,0,2,Away
+615eff06,March 3 2024,Manchester City,Manchester United,69,67.6,69,85.5,69,63.5,64,76,3,1,Home
+2eca8900,March 4 2024,Sheff Utd,Arsenal,75,67.75,68.5,72.66666667,69,67.25,68.33333333,63,0,6,Away
+0e9002ec,March 9 2024,Arsenal,Brentford,73,69,69.2,71.66666667,69,63.5,61.5,70,2,1,Home
+81b6715a,March 9 2024,Bournemouth,Sheff Utd,66,72.16666667,72.8,68.75,65,61.42857143,64.66666667,65.5,2,2,Draw
+fd693c8e,March 9 2024,Crystal Palace,Luton Town,66,75.5,70.66666667,66,74,73.5,76,63,1,1,Draw
+fede7f6e,March 9 2024,Manchester United,Everton,70,72.5,71.4,68.66666667,70,67.75,66.33333333,76,2,0,Home
+b606cbde,March 9 2024,Wolverhampton,Fulham,67,64.2,65.75,65,78,76.25,78.25,72.5,2,1,Home
+a32a7069,March 10 2024,Aston Villa,Tottenham Hotspur,71,72.5,77.33333333,73,68,65.4,67.25,76.33333333,0,4,Away
+f17d9ccd,March 10 2024,Brighton & Hove Al..,Nottingham Forest,72,65.66666667,63,72.75,90,80,86.8,64.2,1,0,Home
+96da3e29,March 10 2024,Liverpool F.C.,Manchester City,69,68.16666667,68,79.5,70,68.5,74.16666667,85.5,1,1,Draw
+9ef133d6,March 10 2024,West Ham United,Burnley,73,69,71.2,64,68,73,75,78,2,2,Draw
+d4b4c06f,March 11 2024,Chelsea,Newcastle United,65,61.5,63.75,69.75,65,60.85714286,64.66666667,74,3,2,Home
+a32a8157,March 13 2024,Bournemouth,Luton Town,66,73.6,71.75,68,64,64.2,65.75,63,4,3,Home
+b280b66a,March 16 2024,Burnley,Brentford,66,75.5,71.75,72,78,75.25,78.25,64,2,1,Home
+8a009cc4,March 16 2024,Fulham,Tottenham Hotspur,72,65.5,63,63.66666667,68,63.5,67.25,76.33333333,3,0,Home
+76d09384,March 16 2024,Luton Town,Nottingham Forest,69,67.25,66.66666667,63,70,71.8,73.33333333,67.66666667,1,1,Draw
+fc356c59,March 17 2024,West Ham United,Aston Villa,64,63.75,66.2,65.66666667,70,66.8,65,73,1,1,Draw
+5f218b76,March 30 2024,Aston Villa,Wolverhampton,68,69.75,75,71,75,67,68.5,76,2,0,Home
+0eaaf0ab,March 30 2024,Bournemouth,Everton,69,67.6,69,68.75,74,74,75,70.33333333,2,1,Home
+43a07892,March 30 2024,Brentford,Manchester United,73,69,71.2,70,71,72.5,77.33333333,74,1,1,Draw
+e68ec2a9,March 30 2024,Chelsea,Burnley,65,61.2,63.2,67,70,70.75,73.75,67,2,2,Draw
+10600f89,March 30 2024,Newcastle United,West Ham United,66,74.2,70.66666667,73.33333333,59,65.5,65,73,4,3,Home
+791fc95a,March 30 2024,Nottingham Forest,Crystal Palace,76,77.5,77.2,66,69,63.4,61.25,68.25,1,1,Draw
+ad4a1302,March 30 2024,Sheff Utd,Fulham,72,66.33333333,64,63.66666667,78,75.25,78.25,65.5,3,3,Draw
+6397e2af,March 30 2024,Tottenham Hotspur,Luton Town,64,64.5,65.75,63,70,72.5,70.75,76.33333333,2,1,Home
+b763b73e,March 31 2024,Liverpool F.C.,Brighton & Hove Al..,75,67.2,69,71,68,79.25,87,83.33333333,2,1,Home
+76b4b194,March 31 2024,Manchester City,Arsenal,73,69,71.2,73.66666667,69,67.75,68,94,0,0,Draw
+1ef36f8d,April 2 2024,Bournemouth,Crystal Palace,78,76.25,79,68,70,66.16666667,66,66,1,0,Home
+feadec6f,April 2 2024,Burnley,Wolverhampton,76,79,78.75,65.5,68,67,71.75,76,1,1,Draw
+52846bc3,April 2 2024,Newcastle United,Everton,69,67.25,66.66666667,70,68,66.2,65.75,73,1,1,Draw
+55996670,April 2 2024,Nottingham Forest,Fulham,64,71.8,67,65,68,70.75,73.75,63.25,3,1,Home
+2600ff86,April 2 2024,West Ham United,Tottenham Hotspur,71,72.5,77.33333333,74.6,65,60.8,64.5,73,1,1,Draw
+77d7e2d6,April 3 2024,Arsenal,Luton Town,70,76.75,70.5,75.5,66,72,64.4,60.5,2,0,Home
+8ec55f05,April 3 2024,Brentford,Brighton & Hove Al..,66,74.25,72.8,70,68,77.75,86.5,61.28571429,0,0,Draw
+ae3ba8e8,April 3 2024,Manchester City,Aston Villa,76,79,77.2,69.4,74,74.5,76,77,4,1,Home
+c6079c2f,April 4 2024,Chelsea,Manchester United,69,67.75,68,67,69,63.33333333,62,68,4,3,Home
+1f5973e2,April 4 2024,Liverpool F.C.,Sheff Utd,64,64,65.75,83.33333333,69,68.16666667,70,68,3,1,Home
+e8f307a3,April 6 2024,Aston Villa,Brentford,73,69,71,68,66,74.5,70.66666667,69.66666667,3,3,Draw
+2047cc32,April 6 2024,Brighton & Hove Al..,Arsenal,72,66,62,73.66666667,68,79.25,83.75,70.33333333,0,3,Away
+fca82852,April 6 2024,Crystal Palace,Manchester City,68,71.8,73.75,66,75,66.8,67.5,85.5,2,4,Away
+cc7efb48,April 6 2024,Everton,Burnley,70,73.25,70.75,65.5,68,67,75,75,1,0,Home
+a9d2819f,April 6 2024,Fulham,Newcastle United,71,74.75,75.5,63.66666667,65,60.5,64.75,73.33333333,0,1,Away
+08114c35,April 6 2024,Luton Town,Bournemouth,68,66.2,65.75,68.75,70,67,65,63,2,1,Home
+4f0b227b,April 6 2024,Wolverhampton,West Ham United,72,66.25,62,78,74,72.33333333,77.66666667,76,1,2,Away
+d57ffe1a,April 7 2024,Manchester United,Liverpool F.C.,69,67.8,70,83.33333333,69,63.33333333,60.66666667,74,2,2,Draw
+d3850c26,April 7 2024,Sheff Utd,Chelsea,66,73.2,63.8,66,78,76.25,77.66666667,65.5,2,2,Draw
+7598049f,April 7 2024,Tottenham Hotspur,Nottingham Forest,65,59.66666667,63.2,63.25,74,72.33333333,77.66666667,74.6,3,1,Home
+32a8be36,April 13 2024,Bournemouth,Manchester United,68,69.66666667,71.75,69,69,62.71428571,60.66666667,74,2,2,Draw
+4a4d2976,April 13 2024,Brentford,Sheff Utd,68,66.2,66.33333333,68.25,64,63.25,65.75,65.5,2,0,Home
+c9ab1f95,April 13 2024,Burnley,Brighton & Hove Al..,76,79,83.66666667,62.14285714,90,77.75,74.2,65.5,1,1,Draw
+40128bc4,April 13 2024,Manchester City,Luton Town,69,67.5,68,60.5,78,76.25,79,82.66666667,5,1,Home
+50db3243,April 13 2024,Newcastle United,Tottenham Hotspur,73,69,71.2,73.33333333,66.5,67,66.75,74.6,4,0,Home
+4460b6c5,April 13 2024,Nottingham Forest,Wolverhampton,71,73.5,74.33333333,64.83333333,66,74.25,72,76,2,2,Draw
+c1739ced,April 14 2024,Arsenal,Aston Villa,58,64,65.5,82.33333333,69.5,72.6,68.8,71.8,0,2,Away
+99113ef3,April 14 2024,Liverpool F.C.,Crystal Palace,69,68,69.33333333,70,68,70.8,75,83.33333333,0,1,Away
+bd62891f,April 14 2024,West Ham United,Fulham,77,69,69.5,63.66666667,75,66.8,68.5,68,0,2,Away
+1a41ac25,April 15 2024,Chelsea,Everton,69,61.25,67.25,71.33333333,74,70.8,61.33333333,70,6,0,Home
+30d3212e,August 11 2023,Almeria,Rayo Vallecano,68,66.57142857,72,65.25,73,72.4,84.25,empty,0,2,Away
+525758cc,August 11 2023,Sevilla,Valencia,66,67.66666667,64,72,69,65.4,66.66666667,67.5,1,2,Away
+c31f0a31,August 12 2023,Athletic Club (MG),Real Madrid,88,79.25,79.4,75,75,70.75,66.75,88,0,2,Away
+8c6555db,August 12 2023,Las Palmas,Mallorca,63,63.71428571,66.4,65.5,66,69.25,66.5,67.5,1,1,Draw
+706596c6,August 12 2023,Real Sociedad,Girona,86,72,77.33333333,69.33333333,71,66.5,69,73,1,1,Draw
+8689fb39,August 13 2023,Celta de Vigo,Osasuna,68,64,66.75,71.5,70,71,65.5,68.75,0,2,Away
+b34ff242,August 13 2023,Getafe,Barcelona S.C.,69,65.8,66.66666667,89,61,63.75,64.25,62,0,0,Draw
+b8258a85,August 13 2023,Villarreal,Real Betis,69,62,67.25,70.66666667,72,62.66666667,66,73.66666667,1,2,Away
+a96e4e26,August 14 2023,Atletico Madrid,Granada,66,62.75,66,80.33333333,70,70.75,71,65.5,3,1,Home
+c36e6859,August 14 2023,Cadiz,Alaves,77,63.4,72.75,62,74,70.8,61.33333333,65.75,1,0,Home
+d447f323,August 18 2023,Mallorca,Villarreal,66,66.75,65,67.5,73,72.4,82.5,72.25,0,1,Away
+8766ab05,August 18 2023,Valencia,Las Palmas,86,72.4,76.5,68,68,69.25,66.5,67.5,1,0,Home
+33737218,August 19 2023,Almeria,Real Madrid,71,66.5,69,66.66666667,75,70.75,66.75,88,1,3,Away
+0df06b3f,August 19 2023,Osasuna,Athletic Club (MG),61,63,64.25,72.5,63,65.71428571,74.66666667,68.75,0,2,Away
+406ca8c9,August 19 2023,Real Sociedad,Celta de Vigo,66,67.5,66.33333333,71.33333333,68,65,70.66666667,71.66666667,1,1,Draw
+95634760,August 20 2023,Real Betis,Atletico Madrid,69,65.75,67.33333333,79.66666667,66,68.5,67.5,71.5,0,0,Draw
+e8867e6b,August 20 2023,Girona,Getafe,66,62.75,63.25,64.33333333,71,72.4,84.25,69.33333333,3,0,Home
+8cd38a49,August 21 2023,Alaves,Sevilla,62,63,64.25,empty,75,70.75,69.5,74,4,3,Home
+bc9648bc,August 21 2023,Granada,Rayo Vallecano,68,65,70.66666667,67.5,72,62.66666667,67,empty,0,2,Away
+f414405a,August 25 2023,Celta de Vigo,Real Madrid,77,63.2,72.33333333,71.33333333,69,65.4,68.33333333,88,0,1,Away
+b2340056,August 25 2023,Las Palmas,Real Sociedad,66,67.25,63.75,65.33333333,66,68.25,69.33333333,71.66666667,0,0,Draw
+6a02cbec,August 26 2023,Cadiz,Almeria,88,75,79,67,63,65.71428571,74.66666667,65.75,1,1,Draw
+e249c708,August 26 2023,Granada,Mallorca,86,73,71.33333333,67.5,74,70.8,62,68.5,3,2,Home
+3aed0598,August 26 2023,Sevilla,Girona,66,61.5,65,69.33333333,70,70.75,71,74.66666667,1,2,Away
+d99a5d06,August 27 2023,Athletic Club (MG),Real Betis,72,62.66666667,67,71.66666667,71,66.5,70,70.5,4,2,Home
+804cc411,August 27 2023,Valencia,Osasuna,70,64,68.4,62.33333333,70,64,69,67.5,1,2,Away
+b10c7abc,August 27 2023,Villarreal,Barcelona S.C.,71,67.16666667,69,77,66,66.2,67.5,73.66666667,3,4,Away
+74b34796,August 28 2023,Getafe,Alaves,62,62,65.25,empty,70,72.5,68,64,1,0,Home
+bec04e9b,August 28 2023,Rayo Vallecano,Atletico Madrid,68,65,70.66666667,79.66666667,74,69.4,63.33333333,68,0,7,Away
+979e8388,September 1 2023,Almeria,Celta de Vigo,77,69.25,72.75,66.66666667,63,65.5,69.2,71.33333333,2,3,Away
+eb5232b2,September 1 2023,Cadiz,Villarreal,88,76,79,65.75,71,72.4,84.75,73,3,1,Home
+3a3b9504,September 2 2023,Alaves,Valencia,77,69.5,71.5,empty,75,72.75,75.66666667,67.5,1,0,Home
+b11051a5,September 2 2023,Real Betis,Rayo Vallecano,88,77.75,77.33333333,68,69,65.75,67.33333333,66.33333333,1,0,Home
+2b3c0a99,September 2 2023,Real Madrid,Getafe,66,66.4,67.5,64.33333333,69,65.2,69,79,2,1,Home
+e1fd4178,September 2 2023,Real Sociedad,Granada,86,72.16666667,71,67.5,68,64,63.33333333,74.66666667,5,3,Home
+8dd16257,September 3 2023,Girona,Las Palmas,71,66.66666667,70,69.33333333,70,64,68.6,63,1,0,Home
+046e92d8,September 3 2023,Mallorca,Athletic Club (MG),71,72.4,82.5,72.5,72,62.66666667,67,68,0,0,Draw
+de343043,September 3 2023,Osasuna,Barcelona S.C.,69,65.75,67.33333333,77,70,62.83333333,63.4,63.75,1,2,Away
+24453748,September 15 2023,Rayo Vallecano,Alaves,66,65,65.25,empty,69,65.2,68.75,65,2,0,Home
+9b96c6da,September 16 2023,Athletic Club (MG),Cadiz,68,67.28571429,70,72.5,74,71,63.5,65,3,0,Home
+91deddae,September 16 2023,Barcelona S.C.,Real Betis,68,63.4,66,80.33333333,66,65,64,70,5,0,Home
+1e04d474,September 16 2023,Celta de Vigo,Mallorca,66,65,65.25,71.33333333,75,72.75,75.66666667,71,0,1,Away
+26f7f1a6,September 16 2023,Valencia,Atletico Madrid,66,66.4,67.5,81.5,66,69.75,69.33333333,66,3,0,Home
+c12983f1,September 17 2023,Getafe,Osasuna,68,66,70.66666667,64,70,68.5,72.5,69.25,3,2,Home
+c0a04549,September 17 2023,Real Madrid,Real Sociedad,66,68,64.5,79,62,61.66666667,65.5,74.66666667,2,1,Home
+b1d20065,September 17 2023,Sevilla,Las Palmas,86,73.4,75.33333333,65.33333333,77,69.5,71.5,71,1,0,Home
+c16dfe0b,September 17 2023,Villarreal,Almeria,72,62,67,67,74,71,63.5,73,2,1,Home
+5f245c9f,September 18 2023,Granada,Girona,61,62.33333333,65.25,72,88,76.75,79.66666667,67.5,2,4,Away
+b058555b,September 22 2023,Alaves,Athletic Club (MG),70,64,68.6,63,69,65.2,68.75,72.5,0,2,Away
+e5d13d76,September 23 2023,Almeria,Valencia,71,66.5,69,67,65,65.5,68,67.5,2,2,Draw
+027eed9e,September 23 2023,Barcelona S.C.,Celta de Vigo,88,78.25,77.5,71.33333333,71,71.4,84.4,80.33333333,3,2,Home
+d6d3de2f,September 23 2023,Girona,Mallorca,66,64.5,64,72,70,68.8,69.2,71,5,3,Home
+72741505,September 23 2023,Osasuna,Sevilla,77,69.5,70.75,69.33333333,69,65.75,66.25,70.66666667,0,0,Draw
+f535ba0a,September 24 2023,Atletico Madrid,Real Madrid,72,62.66666667,67,81.5,70,71.75,64.66666667,84,3,1,Home
+a41377f4,September 24 2023,Real Betis,Cadiz,69,63,64.33333333,65,75,67.6,70.5,66.33333333,1,1,Draw
+0cfa1fb6,September 24 2023,Las Palmas,Granada,68,65,70.66666667,64.5,69,65.8,66.33333333,64.5,1,0,Home
+3ad7ddfb,September 24 2023,Rayo Vallecano,Villarreal,68,62.4,67,68,64,67,69,73,1,1,Draw
+3e8c7ee8,September 24 2023,Real Sociedad,Getafe,61,62.33333333,65.5,64.33333333,71,65.6,69,72.66666667,4,3,Home
+c95852d8,September 26 2023,Mallorca,Barcelona S.C.,86,74,75.33333333,76,70,64.6,68.2,68.5,2,2,Draw
+1a0a12f3,September 26 2023,Sevilla,Almeria,88,77.75,79.33333333,64,71,75,75,70.6,5,1,Home
+5541c885,September 27 2023,Athletic Club (MG),Getafe,71,66.6,68.33333333,72.5,70,72.25,72.5,71,2,2,Draw
+2d774dd9,September 27 2023,Cadiz,Rayo Vallecano,68,67.28571429,72,64.75,66,67,67.5,65,0,0,Draw
+73c339f6,September 27 2023,Real Madrid,Las Palmas,69,64.75,68,61,70,67,74.33333333,79,2,0,Home
+7c83c807,September 27 2023,Villarreal,Girona,77,70.25,70,72,68,67.4,65,71.5,1,2,Away
+4f005fa8,September 28 2023,Celta de Vigo,Alaves,68,62.5,66.75,63,65,68,68,71.33333333,1,1,Draw
+6f6cb00d,September 28 2023,Granada,Real Betis,66,63,62.33333333,64.5,70,71.5,72.5,61,1,1,Draw
+006cb34c,September 28 2023,Osasuna,Atletico Madrid,86,72.6,75.33333333,81.5,71,73.75,77.83333333,69.33333333,0,2,Away
+c5fbae8a,September 29 2023,Barcelona S.C.,Sevilla,70,68.8,69.2,77,70,64,68.2,73,1,0,Home
+2fbd5e47,September 30 2023,Getafe,Villarreal,66,66.8,63.5,64.33333333,75,72.75,75.66666667,71.5,0,0,Draw
+253621ab,September 30 2023,Girona,Real Madrid,66,61.75,63,72,66,68,64.33333333,83,0,3,Away
+32801dbc,September 30 2023,Rayo Vallecano,Mallorca,72,62,67,68.5,61,62.33333333,65.25,65,2,2,Draw
+9689cb22,September 30 2023,Real Sociedad,Athletic Club (MG),69,64.75,68,66.5,61,62.5,65.5,72.66666667,3,0,Home
+3d120d0b,October 1 2023,Alaves,Osasuna,66,67.4,66.5,63,74,67.75,61.8,63.75,0,2,Away
+dd504406,October 1 2023,Almeria,Granada,70,64,69,65.66666667,69,65.75,67.33333333,66,3,3,Draw
+0f112739,October 1 2023,Atletico Madrid,Cadiz,68,62.5,67,80.5,77,70.25,71,65.33333333,3,2,Home
+5668709c,October 1 2023,Real Betis,Valencia,86,73.2,77.33333333,63,68,67.28571429,70.66666667,62,3,0,Home
+b5b5ee07,October 2 2023,Las Palmas,Celta de Vigo,66,67,67.5,67.66666667,74,67.25,62.33333333,63,2,1,Home
+001383d7,October 6 2023,Athletic Club (MG),Almeria,88,77.75,75.33333333,64.66666667,71,79.66666667,84.6,65.33333333,3,0,Home
+2459c550,October 7 2023,Cadiz,Girona,69,65.75,67.33333333,65.5,64,66.6,69,73,0,1,Away
+65eed22a,October 7 2023,Mallorca,Valencia,61,61.75,65.5,68.5,70,67.6,69.2,65.66666667,1,1,Draw
+cf81ed94,October 7 2023,Real Madrid,Osasuna,86,72.75,73,68.66666667,75,70.75,75.66666667,83,4,0,Home
+faf557c5,October 7 2023,Sevilla,Rayo Vallecano,71,65.2,69.5,68,71,67.4,69,70.25,2,2,Draw
+68a32c10,October 8 2023,Alaves,Real Betis,69,64.6,66.33333333,63,61,61.75,66,63,1,1,Draw
+d0fec34b,October 8 2023,Atletico Madrid,Real Sociedad,71,79.75,82.5,81.5,70,72.25,71.66666667,74.66666667,2,1,Home
+deb9ac58,October 8 2023,Celta de Vigo,Getafe,77,69.5,71.75,71.5,66,68.5,66.5,68.33333333,2,2,Draw
+e2ce9278,October 8 2023,Granada,Barcelona S.C.,63,63,66.33333333,72.33333333,66,66.75,63,67.5,2,2,Draw
+539efe2f,October 8 2023,Villarreal,Las Palmas,69,65.75,67.33333333,63.33333333,70,67.6,67.6,70.33333333,1,2,Away
+43b34260,October 20 2023,Osasuna,Granada,68,63.4,66.75,69,75,69,66.5,69.25,2,0,Home
+7e7af068,October 21 2023,Celta de Vigo,Atletico Madrid,72,62,65.5,81.5,65,71.75,69,71.33333333,0,3,Away
+0d187cb4,October 21 2023,Getafe,Real Betis,68,66.33333333,62,66.25,88,76.25,74.5,63.33333333,1,1,Draw
+a4774fc2,October 21 2023,Real Sociedad,Mallorca,63,63.2,66.2,68,68,67.28571429,70.66666667,73,1,0,Home
+a1453e00,October 21 2023,Sevilla,Real Madrid,88,78,75.33333333,88,70,64,68.6,74.33333333,1,1,Draw
+5be40f3e,October 22 2023,Barcelona S.C.,Athletic Club (MG),61,62.66666667,65.5,65.33333333,70,71.2,71.66666667,76,1,0,Home
+eadb4a85,October 22 2023,Girona,Almeria,71,66.16666667,70,65,74,71,62.75,73,5,2,Home
+75aaa3ef,October 22 2023,Las Palmas,Rayo Vallecano,77,63.4,71.75,63.33333333,68,66.57142857,70.66666667,68,0,1,Away
+f86dfb97,October 22 2023,Villarreal,Alaves,68,63.4,66.75,65,69,65.75,65.75,74.5,1,1,Draw
+39c4605e,October 23 2023,Valencia,Cadiz,66,68.5,66.5,65,71,79.75,82.5,67.5,2,0,Home
+390bde4a,October 27 2023,Girona,Celta de Vigo,70,64.6,68.6,71.33333333,65,68.8,69,73,1,0,Home
+22d80391,October 28 2023,Almeria,Las Palmas,61,61.25,63.5,64,69,64.75,66.5,63.5,1,2,Away
+59b0e4f0,October 28 2023,Barcelona S.C.,Real Madrid,86,72.6,74,76,74,71,62.75,88,1,2,Away
+11176e0f,October 28 2023,Cadiz,Sevilla,69,65.2,67,65.75,86,72.6,75.66666667,69.75,2,2,Draw
+eda40c8e,October 28 2023,Mallorca,Getafe,68,66.75,60.66666667,66.25,70,67.6,74.66666667,68.5,0,0,Draw
+73bdd066,October 29 2023,Athletic Club (MG),Valencia,68,66.71428571,70.66666667,65.33333333,75,67.75,72,67.5,2,2,Draw
+a4771eec,October 29 2023,Atletico Madrid,Alaves,88,78.4,75.33333333,65,70,67.25,65,81.5,2,1,Home
+0c248bda,October 29 2023,Real Betis,Osasuna,68,62.8,66.4,69.25,69,65.75,65.75,67,2,1,Home
+0e7c5910,October 29 2023,Rayo Vallecano,Real Sociedad,70,63.6,69,68,70,67.6,74.66666667,74.66666667,2,2,Draw
+c3aa20c5,October 30 2023,Granada,Villarreal,61,62.33333333,65.5,66,65,68.4,69,71,2,3,Away
+52e1b035,November 3 2023,Las Palmas,Atletico Madrid,77,69,72.75,81.5,66,68.4,66,66,2,1,Home
+0d1db511,November 4 2023,Real Betis,Mallorca,61,63.33333333,65.5,68,75,70.75,75.66666667,67,2,0,Home
+133dffca,November 4 2023,Celta de Vigo,Sevilla,77,69,72.75,71.33333333,66,63,63.75,69,1,1,Draw
+2060ad55,November 4 2023,Osasuna,Girona,66,63,65.66666667,73,71,72.4,86,69.25,2,4,Away
+a81185c4,November 4 2023,Real Sociedad,Barcelona S.C.,71,65.8,68.66666667,83,74,71,62.75,74.66666667,0,1,Away
+f68f1f5c,November 5 2023,Alaves,Almeria,69,65.75,65.75,63,70,64.75,72.5,65,1,0,Home
+ff452d69,November 5 2023,Real Madrid,Rayo Vallecano,68,65.16666667,70.66666667,68,71,66.5,70,83,0,0,Draw
+6bc552c2,November 5 2023,Valencia,Granada,73,74,74.8,67.5,68,66.75,60.33333333,67.5,1,0,Home
+d3edf2ae,November 5 2023,Villarreal,Athletic Club (MG),86,73.4,75.66666667,72.5,75,71,68,71,2,3,Away
+ed5f02e2,November 6 2023,Getafe,Cadiz,68,63.4,66.75,65.75,61,62,65.5,68.33333333,1,0,Home
+bdde04ef,November 10 2023,Athletic Club (MG),Celta de Vigo,50,68.75,74.66666667,72.5,66,68.4,66,71.33333333,4,3,Home
+499da981,November 11 2023,Almeria,Real Sociedad,68,63.25,66.75,65.66666667,70,63.6,69,73.66666667,1,3,Away
+da4c3931,November 11 2023,Granada,Getafe,86,72.75,73.66666667,71,74,71,62,67.5,1,1,Draw
+52845bb5,November 11 2023,Osasuna,Las Palmas,66,63,66,63,70,68.25,65,69.25,1,1,Draw
+5f383bb2,November 11 2023,Rayo Vallecano,Girona,66,76.25,78.66666667,72,88,79,76.66666667,65,1,2,Away
+1cb4d5cc,November 11 2023,Real Madrid,Valencia,68,66.75,63,88,66,68.25,69,66,5,1,Home
+cadb3e6a,November 12 2023,Atletico Madrid,Villarreal,69,65.75,65.75,81.5,61,61.2,65.5,73,3,1,Home
+3541e819,November 12 2023,Barcelona S.C.,Alaves,61,63.5,64,65,69,64.6,68,77,2,1,Home
+f4e8506b,November 12 2023,Sevilla,Real Betis,75,70.75,75.66666667,67,71,65.8,69,76.5,1,1,Draw
+7e1b64b6,November 24 2023,Alaves,Granada,66,68.4,66.5,63,70,67.75,67.8,66,3,1,Home
+16b9ac5f,November 25 2023,Atletico Madrid,Mallorca,77,69,72.75,79.33333333,74,71,62,66,1,0,Home
+db6cf568,November 25 2023,Getafe,Almeria,61,61.33333333,64,65.66666667,50,65.8,67,68.33333333,2,1,Home
+01f34256,November 25 2023,Rayo Vallecano,Barcelona S.C.,71,67.2,68,76.33333333,73,74.6,77.8,65,1,1,Draw
+c7b4a2f1,November 25 2023,Valencia,Celta de Vigo,77,69,71.5,71.33333333,64.5,68.2,69,66,0,0,Draw
+835e91b9,November 26 2023,Real Betis,Las Palmas,68,65.83333333,70.66666667,66,70,69.6,72.5,70,1,0,Home
+5d52e4e2,November 26 2023,Cadiz,Real Madrid,66,67.4,66,65.66666667,68,65.16666667,70.66666667,79,0,3,Away
+6693ba62,November 26 2023,Real Sociedad,Sevilla,62,62,65.66666667,72.66666667,69,65.8,69,71.75,2,1,Home
+39aeccb8,November 26 2023,Villarreal,Osasuna,66,65.25,66.33333333,69,69,66.5,67.33333333,73.33333333,3,1,Home
+aef6bb51,November 27 2023,Girona,Athletic Club (MG),86,73.4,77.33333333,72.5,70,64.6,69,69.33333333,1,1,Draw
+12f1bd76,November 29 2023,Mallorca,Cadiz,68,63.25,66.75,64.75,74,64.8,62,65.5,1,1,Draw
+43a9a3f9,December 1 2023,Las Palmas,Getafe,64.5,66.6,69.25,71,75,72.75,75.66666667,67.33333333,2,0,Home
+b88a35df,December 2 2023,Athletic Club (MG),Rayo Vallecano,61,63.33333333,64,72.5,73,79.75,81.5,65,4,0,Home
+3a6cf7d9,December 2 2023,Girona,Valencia,64,67,69,72,70,65.2,74.66666667,67.5,2,1,Home
+5d28eb72,December 2 2023,Osasuna,Real Sociedad,68,63.25,66,68.75,66,80,81.25,72.66666667,1,1,Draw
+bc316609,December 2 2023,Real Madrid,Granada,70,64.6,69.66666667,67.5,69,65.25,68.5,79,2,0,Home
+90d64d3b,December 3 2023,Almeria,Real Betis,69,66,68.5,65.66666667,70,69.6,72,67,0,0,Draw
+0012462a,December 3 2023,Barcelona S.C.,Atletico Madrid,75,72.25,72.5,81.5,68,66.75,63,83,1,0,Home
+aa2065ac,December 3 2023,Mallorca,Alaves,66,64.6,65.66666667,63,74,64.8,62,65,0,0,Draw
+98ae1fe6,December 3 2023,Sevilla,Villarreal,66,80,81.25,71.75,69,66.5,67.33333333,73.33333333,1,1,Draw
+2618d749,December 4 2023,Celta de Vigo,Cadiz,72,61.33333333,64,65,73,78.5,82.4,71.33333333,1,1,Draw
+ecf11fd1,December 8 2023,Getafe,Valencia,77,69,69.75,68.33333333,66,68.75,69,67.5,1,0,Home
+06bb7e90,December 9 2023,Alaves,Las Palmas,68,66.75,63,63,70,69.6,72.5,64.33333333,0,1,Away
+872da7fb,December 9 2023,Real Betis,Real Madrid,66,66.75,63,64.33333333,86,72.5,77.33333333,84,1,1,Draw
+7dacfd9b,December 9 2023,Mallorca,Sevilla,77,69.25,69,65,68,67.28571429,70,74.33333333,1,0,Home
+7c91b9cb,December 9 2023,Villarreal,Real Sociedad,68,65.66666667,61.25,72.5,66,66,66,73.33333333,0,3,Away
+381f0556,December 10 2023,Atletico Madrid,Almeria,71,66.5,69,65.5,61,62.33333333,65.25,79.33333333,2,1,Home
+36e35f1b,December 10 2023,Barcelona S.C.,Girona,66,79.75,81.25,83,70,64.2,69,72,2,4,Away
+7c80b72c,December 10 2023,Cadiz,Osasuna,66,64.6,65.66666667,65.75,70,64.6,68.6,69,1,1,Draw
+2e13f78e,December 11 2023,Granada,Athletic Club (MG),73,78.5,82.4,72.5,86,72.6,75.33333333,67.5,1,1,Draw
+8561242b,December 11 2023,Rayo Vallecano,Celta de Vigo,70,64.6,69.66666667,67.66666667,61,62.33333333,65.25,68,0,0,Draw
+781d0d19,December 15 2023,Osasuna,Rayo Vallecano,68,63.6,66.75,69,66,67.6,69,68,1,0,Home
+f21edbdb,December 16 2023,Athletic Club (MG),Atletico Madrid,86,72.4,77.33333333,72.5,74,66.75,61,81.5,2,0,Home
+57110974,December 16 2023,Celta de Vigo,Granada,61,62.33333333,65.25,71.33333333,69,66,67.8,67.5,1,0,Home
+4d8d0ba8,December 16 2023,Sevilla,Getafe,70,66,67.5,67,70,68.5,72.5,76.5,0,3,Away
+ab58d4c0,December 16 2023,Valencia,Barcelona S.C.,77,69.25,69,83,75,72.75,72.5,65.66666667,1,1,Draw
+29830e6b,December 17 2023,Almeria,Mallorca,66,64.6,64,65.5,68,67.28571429,69.33333333,65,0,0,Draw
+7cbfb8ee,December 17 2023,Real Madrid,Villarreal,68,66.66666667,62.4,84,71,66.25,69,70.75,4,1,Home
+5c3fe234,December 17 2023,Real Sociedad,Real Betis,68,65,66.75,64.33333333,66,67.6,68.5,70.33333333,0,0,Draw
+b26778b7,December 18 2023,Girona,Alaves,68,67.28571429,68.33333333,65,74,66.75,61.33333333,73,3,0,Home
+23fb1e35,December 19 2023,Atletico Madrid,Getafe,55.5,63.25,64,80.5,69,66.5,64.5,67,3,3,Draw
+9a19af2d,December 19 2023,Granada,Sevilla,69,65.8,66.75,66,66,77.8,75.33333333,74.66666667,0,3,Away
+25af4fd3,December 19 2023,Rayo Vallecano,Valencia,86,73.33333333,78,66.5,70,68.8,64.66666667,66,0,1,Away
+1b8fc92b,December 20 2023,Athletic Club (MG),Las Palmas,71,67,69,72.5,71,68.5,77.33333333,63,1,0,Home
+cb6ccdca,December 20 2023,Barcelona S.C.,Almeria,68,63.5,66.75,65,70,65.2,65.75,83,3,2,Home
+9f6ecef6,December 20 2023,Villarreal,Celta de Vigo,74,69.75,61,66.5,75,73.25,75.66666667,69,3,2,Home
+4dec0026,December 21 2023,Alaves,Real Madrid,68,66,66.66666667,63,66,66.75,65.66666667,84,0,1,Away
+ce152000,December 21 2023,Real Betis,Girona,86,73.2,77.33333333,73,66,67.6,69,64.75,1,1,Draw
+58612cde,December 21 2023,Cadiz,Real Sociedad,61,62.75,64,65,70,67,67.4,74,0,0,Draw
+cc0b697d,December 21 2023,Mallorca,Osasuna,69,65.8,66.75,65,75,72.75,75.66666667,68,3,2,Home
+8797c007,December 23 2023,Atletico Madrid,Sevilla,66,78.2,81.33333333,81.5,70,68.25,65.75,74,1,0,Home
+be4710dc,January 2 2024,Getafe,Rayo Vallecano,66,64.5,65.66666667,67,70,64.4,73.33333333,65,0,2,Away
+57a94079,January 2 2024,Real Sociedad,Alaves,77,69.25,72.2,63,68,66.14285714,68.33333333,71.25,1,1,Draw
+2a5dbe16,January 2 2024,Valencia,Villarreal,77,69.25,72.2,64.66666667,66,62,65,70.33333333,3,1,Home
+f235cb36,January 3 2024,Celta de Vigo,Real Betis,66,61.75,64.75,72,73,70.5,83.2,67.66666667,2,1,Home
+1a18f1be,January 3 2024,Girona,Atletico Madrid,69,66,66.66666667,81.5,69,65.75,66.66666667,73,4,3,Home
+81995a26,January 3 2024,Granada,Cadiz,68,66,63,65.25,66,68.5,65,67.5,2,0,Home
+a68c4db0,January 3 2024,Real Madrid,Mallorca,66,64,65.66666667,65,66,67.5,69,88,1,0,Home
+2181388a,January 4 2024,Las Palmas,Barcelona S.C.,72,62.66666667,65.33333333,82,66,70,66.5,67.33333333,1,2,Away
+2d6bd38e,January 4 2024,Osasuna,Almeria,68,66,64.66666667,65.66666667,52,73.25,71.66666667,69.25,1,0,Home
+a599d8e1,January 4 2024,Sevilla,Athletic Club (MG),69,66,66.66666667,65,70,62.66666667,64.8,71,0,2,Away
+dacf8559,January 12 2024,Sevilla,Alaves,77,69.25,69.2,empty,70,66.5,72,67.75,2,3,Away
+cbde4eb0,January 13 2024,Athletic Club (MG),Real Sociedad,69,65.25,68,65,69,65.6,66.75,74.66666667,2,1,Home
+b889c1e1,January 13 2024,Real Betis,Granada,66,73.25,82.66666667,67.5,68,69.66666667,64.75,70,1,0,Home
+2328243e,January 13 2024,Las Palmas,Villarreal,68,65.5,65.5,67.33333333,74,69.75,61,70.75,3,0,Home
+62bdac3e,January 13 2024,Mallorca,Celta de Vigo,71,67.5,68.66666667,72,61,63.5,67,65,1,1,Draw
+ac070af0,January 14 2024,Almeria,Girona,66,62.4,65.66666667,65.5,75,66.6,60.66666667,75,0,0,Draw
+191bdef3,January 14 2024,Cadiz,Valencia,86,72.6,71,65.33333333,70,64,69,66,1,4,Away
+06721bb2,January 19 2024,Alaves,Cadiz,68,63.5,66.4,empty,74,69.75,61,64.75,1,0,Home
+261b5161,January 20 2024,Celta de Vigo,Real Sociedad,69,66,65.75,67.33333333,70,68.75,64,72.5,0,1,Away
+2de52681,January 20 2024,Rayo Vallecano,Las Palmas,69,65.2,70,67.33333333,70,63.16666667,63.6,65,0,2,Away
+56f618cb,January 20 2024,Valencia,Athletic Club (MG),70,66.6,68.25,65,66,69.2,67,66,1,0,Home
+bf30b05f,January 20 2024,Villarreal,Mallorca,86,73.6,74,65,66,68,63.33333333,71,1,1,Draw
+cd2367fb,January 21 2024,Real Betis,Barcelona S.C.,68,66.2,67.5,76.33333333,71,74.6,76.4,66.33333333,2,4,Away
+001f02ea,January 21 2024,Girona,Sevilla,77,69.75,65.5,72,66,63.33333333,65.25,71,5,1,Home
+92457ba9,January 21 2024,Osasuna,Getafe,66,68,63.33333333,70.66666667,66,64,65.66666667,63.33333333,3,2,Home
+044f7144,January 21 2024,Real Madrid,Almeria,64,67.25,60,62,73,69.33333333,73,88,3,2,Home
+3cfa176f,January 22 2024,Granada,Atletico Madrid,86,72.5,68.5,81.5,70,63.16666667,64,67.5,0,1,Away
+851f5d85,January 26 2024,Almeria,Alaves,66,74,82.66666667,65,75,67.2,68,65.5,0,3,Away
+b61e3e2f,January 27 2024,Las Palmas,Real Madrid,71,66.83333333,69,67.33333333,74,69.75,63.25,88,1,2,Away
+c9ebb8f9,January 27 2024,Mallorca,Real Betis,77,68,69.75,65.5,68,65.83333333,70.66666667,64.5,0,1,Away
+72e78a1f,January 27 2024,Real Sociedad,Rayo Vallecano,68,62.2,66.75,65,61,63.25,67,68.33333333,0,0,Draw
+fb9eb11a,January 28 2024,Atletico Madrid,Valencia,68,66.66666667,70,80.5,65,71.2,62.66666667,67.5,2,0,Home
+898ad853,January 28 2024,Celta de Vigo,Girona,66,61.33333333,63.75,70,66,63.33333333,64.33333333,72,0,1,Away
+01dea01a,January 28 2024,Cadiz,Athletic Club (MG),66,63.4,64.33333333,72.5,70,63.33333333,69,64.75,0,0,Draw
+661915d5,January 28 2024,Sevilla,Osasuna,64,67.5,59,63.33333333,68,65.4,66.5,67.75,1,1,Draw
+adf50a1d,January 29 2024,Getafe,Granada,68,66,66.25,68.33333333,73,73.6,78,67,2,0,Home
+cbaaa323,January 31 2024,Atletico Madrid,Rayo Vallecano,86,72,75.75,75,69,65,66.25,65,2,1,Home
+d6106b99,January 31 2024,Barcelona S.C.,Osasuna,61,62.75,64,76.33333333,66,74.6,82.66666667,68,1,0,Home
+92a1197f,February 1 2024,Getafe,Real Madrid,70,64.16666667,69.5,71,75,69,70.5,83,0,2,Away
+5f6e670c,February 2 2024,Athletic Club (MG),Mallorca,61,63.25,67,72.5,69,66,65.25,65,4,0,Home
+37151033,February 3 2024,Alaves,Barcelona S.C.,68,62.8,66.75,65,74,68,63,77,1,3,Away
+92a239f6,February 3 2024,Girona,Real Sociedad,69,65.75,65.75,70.5,70,65,66.33333333,70.8,0,0,Draw
+22e4db63,February 3 2024,Granada,Las Palmas,68,65.5,65.5,64.5,66,67.4,63.33333333,67.33333333,1,1,Draw
+149141f2,February 3 2024,Valencia,Almeria,66,65.83333333,66.5,65,73,72.6,77.16666667,65.66666667,2,1,Home
+faf7791c,February 4 2024,Real Betis,Getafe,68,66,66.25,66,70,71,64,59,1,1,Draw
+b8fec464,February 4 2024,Osasuna,Celta de Vigo,69,64.8,67.5,67,65,70,64.25,63.33333333,0,3,Away
+199f13ef,February 4 2024,Real Madrid,Atletico Madrid,86,72.75,74.5,81.5,70,65,69,84,1,1,Draw
+28a20450,February 4 2024,Villarreal,Cadiz,66,61.25,65,64.75,70,69,71,71,0,0,Draw
+1c2d13c4,February 5 2024,Rayo Vallecano,Sevilla,64,67.25,69,65,74,68,63.6,69,1,2,Away
+4853d9e5,February 9 2024,Cadiz,Real Betis,86,73.6,73,64.75,73,76.33333333,83,61,0,2,Away
+df1c317c,February 10 2024,Alaves,Villarreal,68,66,67.66666667,65,75,65.25,71.2,71,1,1,Draw
+8635863c,February 10 2024,Las Palmas,Valencia,61,63,67,68,64,67.25,69,69,2,0,Home
+501f00a9,February 10 2024,Real Madrid,Girona,65,69.4,68.66666667,72,70,64.6,68.6,88,4,0,Home
+38ef643d,February 10 2024,Real Sociedad,Osasuna,68,64,66.75,69,65,71,68.66666667,67,0,1,Away
+93f25b56,February 11 2024,Getafe,Celta de Vigo,66,61.5,66.25,67,77,68,68.25,68.33333333,3,2,Home
+35c12a15,February 11 2024,Mallorca,Rayo Vallecano,69,65.2,66.33333333,71,70,68.75,64,65,2,1,Home
+dd0585e1,February 11 2024,Sevilla,Atletico Madrid,70,64,69,81.5,69,65.75,65.75,72.66666667,1,0,Home
+aadff460,February 12 2024,Almeria,Athletic Club (MG),77,70,65.25,64.5,88,74.6,82,72.5,0,0,Draw
+39eb65ce,February 16 2024,Villarreal,Getafe,75,69.25,71,68.33333333,66,66.25,65,70.75,1,1,Draw
+d2e1cfdb,February 17 2024,Atletico Madrid,Las Palmas,68,62.8,66.75,75,74,69.75,61,68,5,0,Home
+16accf14,February 17 2024,Celta de Vigo,Barcelona S.C.,66,61.5,66,70,70,65,69,73.33333333,1,2,Away
+acb216f1,February 17 2024,Osasuna,Cadiz,88,74.6,81.33333333,66.66666667,66,61,63.75,68.75,2,0,Home
+9beaaafb,February 17 2024,Valencia,Sevilla,77,69.5,69.8,70.5,75,71.5,72.5,64.66666667,0,0,Draw
+b8a430ca,February 18 2024,Real Betis,Alaves,72,62.66666667,67,65,73,65.6,76.83333333,61,0,0,Draw
+5843757f,February 18 2024,Granada,Almeria,69,65.75,66.25,65,68,64,66.5,64.5,1,1,Draw
+f19651ab,February 18 2024,Mallorca,Real Sociedad,73,73.6,73.6,68,70,67.75,64,72.5,1,2,Away
+8f2c26c1,February 18 2024,Rayo Vallecano,Real Madrid,68,66.5,70.66666667,68,69,64.4,69.33333333,83,1,1,Draw
+cab3844e,February 19 2024,Athletic Club (MG),Girona,66,61.5,66,72.5,86,72.8,74,72,3,2,Home
+4c975b7e,February 23 2024,Real Sociedad,Villarreal,71,66,67,70.25,71,66.8,67,70.75,1,3,Away
+24435ef9,February 24 2024,Alaves,Mallorca,72,62.66666667,65.5,65,70,65.2,67.4,69.5,1,1,Draw
+998ad495,February 24 2024,Almeria,Atletico Madrid,75,66.5,65.5,63.33333333,68,66,67.66666667,75,2,2,Draw
+8f4e2ab7,February 24 2024,Barcelona S.C.,Getafe,73,79.66666667,83,83,66,65.2,65,71,4,0,Home
+05f0bbdc,February 25 2024,Real Betis,Athletic Club (MG),77,60.5,66.2,65,65,68.75,68.66666667,70,3,1,Home
+81b6bcdb,February 25 2024,Cadiz,Celta de Vigo,86,72.75,74.5,64.75,70,64,67.4,70,2,2,Draw
+cbe1823a,February 25 2024,Las Palmas,Osasuna,68,65.5,63,63.5,68,66.4,67.5,64.75,1,1,Draw
+0788c1f1,February 25 2024,Real Madrid,Sevilla,66,61,64.75,88,69,66.5,66.66666667,72.66666667,1,0,Home
+a07bda86,February 26 2024,Girona,Rayo Vallecano,68,62.8,66,72,70,64,68.2,68,3,0,Home
+7ab6dcd9,March 1 2024,Celta de Vigo,Almeria,88,72.2,80.5,63.33333333,65,68.4,67,67.66666667,1,0,Home
+1f2c17eb,March 2 2024,Getafe,Las Palmas,86,72.75,75.75,68.33333333,74,69.75,62,67.33333333,3,3,Draw
+f374824a,March 2 2024,Rayo Vallecano,Cadiz,68,65.83333333,69.33333333,64.75,88,74.6,81.25,68,1,1,Draw
+94990b76,March 2 2024,Sevilla,Real Sociedad,66,63.33333333,65.66666667,68.33333333,70,65.8,65.5,70.5,3,2,Home
+2e5cdea9,March 2 2024,Valencia,Real Madrid,71,66.75,67.25,88,69,65,65.66666667,64.66666667,2,2,Draw
+8c7d46b8,March 3 2024,Athletic Club (MG),Barcelona S.C.,68,63.25,66.4,65.33333333,68,66.5,65,89,0,0,Draw
+f887328c,March 3 2024,Atletico Madrid,Real Betis,70,63,72.4,76,66,65.5,66,66,2,1,Home
+43ea52c2,March 3 2024,Mallorca,Girona,77,69.5,69.75,72,69,64.8,70,68,1,0,Home
+82279c7a,March 3 2024,Villarreal,Granada,68,66.4,67.5,64.5,72,62.33333333,65.5,71.25,5,1,Home
+9bee2dfe,March 4 2024,Osasuna,Alaves,66,62.8,64.5,65,66,65.2,66.5,68.66666667,1,0,Home
+893d91cd,March 8 2024,Barcelona S.C.,Mallorca,72,62.33333333,65.5,71,75,71.5,72.66666667,68,1,0,Home
+4626c60c,March 9 2024,Cadiz,Atletico Madrid,68,63.25,66.4,76,74,68,62,64.75,2,0,Home
+0778b3ab,March 9 2024,Girona,Osasuna,71,66.75,63.4,72,70,67,67,68.66666667,2,0,Home
+68564a87,March 9 2024,Granada,Real Sociedad,66,61.75,66,62,70,68.5,64.66666667,74,2,3,Away
+f3a99bc6,March 9 2024,Valencia,Getafe,66,65.2,66.5,63,69,66.5,65,64.66666667,1,0,Home
+fd381a48,March 10 2024,Alaves,Rayo Vallecano,86,73,73,65,73,73.6,76.4,68,1,0,Home
+a9c711a7,March 10 2024,Real Betis,Villarreal,66,62,67.5,70,65,68.75,68.66666667,71.25,2,3,Away
+c5876baa,March 10 2024,Las Palmas,Athletic Club (MG),70,64.2,68.8,72.5,75,71.5,75.66666667,67.33333333,0,2,Away
+e829e739,March 10 2024,Real Madrid,Celta de Vigo,68,66.25,60.66666667,71.33333333,77,69.75,66.5,88,4,0,Home
+b60cb69e,March 11 2024,Almeria,Sevilla,74,68,61,63.33333333,68,65,65.4,72.66666667,2,2,Draw
+f6be96b2,March 15 2024,Real Sociedad,Cadiz,72,63.33333333,65.5,64.75,69,64.8,65.66666667,73.33333333,2,0,Home
+353fc7dc,March 16 2024,Athletic Club (MG),Alaves,66,62.8,67.33333333,65,73,79.66666667,80.2,72.5,2,0,Home
+a0f615f1,March 16 2024,Getafe,Girona,88,71.2,75.33333333,72,88,68.4,75.33333333,73,1,0,Home
+62e3bbb2,March 16 2024,Mallorca,Granada,71,66.75,63.4,62,69,65.75,66.66666667,68,1,0,Home
+132fdf9c,March 16 2024,Osasuna,Real Madrid,63,64.2,69.33333333,68,70,64.6,70.4,88,2,4,Away
+bccce279,March 17 2024,Atletico Madrid,Barcelona S.C.,68,63.25,66.4,77,65,70,68.5,83,0,3,Away
+09fcfcbf,March 17 2024,Las Palmas,Almeria,68,65.75,60.66666667,65.66666667,70,68,71,67.33333333,0,1,Away
+8ace3465,March 17 2024,Rayo Vallecano,Real Betis,68,73.2,69.33333333,68,66,64,65,70.5,2,0,Home
+677dc25e,March 17 2024,Sevilla,Celta de Vigo,68,67.5,69,71.33333333,69,65.75,66.25,72.66666667,1,2,Away
+d88d960f,March 17 2024,Villarreal,Valencia,86,73.4,73.66666667,65,65,69.6,68.5,69.75,1,0,Home
+8b40ebf8,March 29 2024,Cadiz,Granada,66,63.25,65.66666667,65.75,74,65.5,61,empty,1,0,Home
+2faf48dd,March 30 2024,Almeria,Osasuna,68,65.66666667,61,62,75,68.5,72.5,68,0,3,Away
+0ba647fb,March 30 2024,Barcelona S.C.,Las Palmas,86,72.4,75.66666667,77,70,62.75,68.5,68,1,0,Home
+225535f4,March 30 2024,Getafe,Sevilla,72,62.33333333,64,72,70,64.6,72.6,72.66666667,0,1,Away
+d9329662,March 30 2024,Valencia,Mallorca,69,65.8,66.75,68,73,74.6,76.16666667,63.33333333,0,0,Draw
+47e43855,March 31 2024,Alaves,Real Sociedad,71,66.8,62.66666667,65,70,69.25,72.33333333,75,0,1,Away
+b407fe75,March 31 2024,Celta de Vigo,Rayo Vallecano,77,69.5,70.25,71.33333333,74,65.5,62,65,0,0,Draw
+43f30f97,March 31 2024,Girona,Real Betis,68,65.33333333,66.75,72.5,70,65.2,70.6,70.5,3,2,Home
+cb8f8470,March 31 2024,Real Madrid,Athletic Club (MG),62,65.75,65.75,72.5,68,67.28571429,67.33333333,84,2,0,Home
+ea244c20,April 1 2024,Villarreal,Atletico Madrid,66,62.25,65.66666667,80.5,88,65.4,68.5,73.33333333,1,2,Away
+e8f66280,April 4 2024,Granada,Valencia,66,64.25,65,62.66666667,73,73.6,77.5,66,0,1,Away
+a7ba44ee,April 12 2024,Real Betis,Celta de Vigo,66,64.25,67,71.33333333,70,67.25,67.8,70.5,2,1,Home
+d1461be3,April 13 2024,Atletico Madrid,Girona,71,70.5,70.6,80.5,70,68.75,64.66666667,73,3,1,Home
+a4bd2f2a,April 13 2024,Cadiz,Barcelona S.C.,64,62.25,64.5,65.75,66,63.25,65.66666667,72.66666667,0,1,Away
+8887cd3f,April 13 2024,Mallorca,Real Madrid,68,64.25,65.66666667,71,65,68.6,68.5,74,0,1,Away
+1ebfb4e4,April 13 2024,Rayo Vallecano,Getafe,65,62.85714286,70.5,67.5,75,71.5,71.66666667,65,0,0,Draw
+941a4629,April 14 2024,Athletic Club (MG),Villarreal,63,63.25,63,72.5,74,63.75,63.5,71.25,1,1,Draw
+f08ebff7,April 14 2024,Granada,Alaves,68,60.5,62,58.5,68,68.2,70,62,2,0,Home
+5a35c6d1,April 14 2024,Las Palmas,Sevilla,62,61.75,60.75,68,61,63.25,64.25,72.66666667,0,2,Away
+32b50c2a,April 14 2024,Real Sociedad,Almeria,55,65.75,63.66666667,63.66666667,81,74.2,76,73,2,2,Draw
+47963fdb,April 15 2024,Osasuna,Valencia,62,60.25,61,68,71,68.6,64.33333333,67.5,0,1,Away
+ff59d311,August 11 2023 1,OGC Nice,Lille,55,63,63.5,63.5,65,61.5,61,71,1,1,Draw
+fdbcc9e3,August 12 2023 1,Marseille,Reims,81,75.2,76,66,68,62.25,67,70,2,1,Home
+2e85b460,August 12 2023 1,PSG,Lorient,68,64.25,65.66666667,62.66666667,61,60.33333333,61.33333333,73.25,0,0,Draw
+6e29d5a3,August 13 2023 1,Brest,RC Lens,71,68.6,64.75,64,67,63.75,68.66666667,62,3,2,Home
+68752280,August 13 2023 1,Clermont,AS Monaco,62,60.8,62.5,71.5,68,63,64,61,2,4,Away
+ca893ead,August 13 2023 1,Montpellier,Havre AC,64,62.25,63.66666667,59.5,71,70,70.33333333,62.33333333,2,2,Draw
+1e12937d,August 13 2023 1,FC Nantes,Toulouse,65,64.66666667,70.66666667,65,68,62.25,67,64.5,1,2,Away
+e0073aaf,August 13 2023 1,Rennes,FC Metz,65,61.5,61,62,61,60.33333333,62.5,71.33333333,5,1,Home
+9f7c605e,August 13 2023 1,Strasbourg,Lyon,65,64.66666667,70.66666667,68.33333333,63,63.5,63.25,64,2,1,Home
+02c81085,August 18 2023 1,FC Metz,Marseille,68,64.25,65.66666667,59,67,63.75,69,67.5,2,2,Draw
+39ad4054,August 19 2023 1,Lyon,Montpellier,81,75.2,76,66.5,66,64.25,68.4,63.33333333,1,4,Away
+fad8e14d,August 19 2023 1,Toulouse,PSG,65,61.33333333,61,65.66666667,68,66.75,68.75,63.66666667,1,1,Draw
+680c6c1d,August 20 2023 1,Havre AC,Brest,66,63.5,67.4,64,68,63,62.33333333,59.5,1,2,Away
+283d8d62,August 20 2023 1,RC Lens,Rennes,68,62.25,67,65,61,63,64.66666667,68.5,1,1,Draw
+31fe99c8,August 20 2023 1,Lille,FC Nantes,55,63.2,65.5,63.25,62,60.8,62.5,72,2,0,Home
+f6d67175,August 20 2023 1,Lorient,OGC Nice,63,63.2,64.33333333,64.5,71,70.5,70,67,1,1,Draw
+f06d0bce,August 20 2023 1,AS Monaco,Strasbourg,68,63.33333333,62.33333333,71.5,71,68.6,64.75,62.5,3,0,Home
+4b9f0040,August 20 2023 1,Reims,Clermont,62,60,64,61,62,62.25,60.66666667,69,2,0,Home
+ea724bc0,August 25 2023 1,FC Nantes,AS Monaco,68,64.25,65.66666667,71.5,64,59.8,63.5,62.5,3,3,Draw
+b9c29ee4,August 26 2023 1,Marseille,Brest,65,64.57142857,70.5,65,61,63,65.33333333,67.66666667,2,0,Home
+d3db871d,August 26 2023 1,PSG,RC Lens,63,63.2,64.33333333,72.14285714,68,68.2,69,65,3,1,Home
+344b05de,August 27 2023 1,Clermont,FC Metz,66,61.25,68.75,59,67,64.25,70,60.66666667,0,1,Away
+eb2c366f,August 27 2023 1,Lorient,Lille,67,65.4,65.5,72,61,62.75,61,58,4,1,Home
+4d6e6c68,August 27 2023 1,Montpellier,Reims,62,59,60.66666667,63.33333333,71,70.5,73.66666667,69,1,3,Away
+067a73e7,August 27 2023 1,OGC Nice,Lyon,68,68.2,68,65,67,66,70,71,0,0,Draw
+505ba995,August 27 2023 1,Rennes,Havre AC,65,61.6,61,60.5,71,67.5,65.75,68.5,2,2,Draw
+0b508695,August 27 2023 1,Strasbourg,Toulouse,68,67.6,69,65,64,59.8,63.5,61,2,0,Home
+6eca98c7,September 1 2023 1,FC Nantes,Marseille,62,62,58.66666667,63,68,62.75,65.66666667,67.75,1,1,Draw
+38572486,September 2 2023 1,Brest,Rennes,66,64.5,68.75,64,81,75.2,76,68.5,0,0,Draw
+7a2f8122,September 2 2023 1,AS Monaco,RC Lens,65,62.4,61,71.5,61,63.5,65.33333333,66,3,0,Home
+4519a333,September 3 2023 1,Havre AC,Lorient,65,66.6,71.5,57,68,63.33333333,61.33333333,58,3,0,Home
+26cacbb5,September 3 2023 1,Lille,Montpellier,63,63.5,63.75,68.5,61,60.33333333,61.66666667,62.33333333,1,0,Home
+cd3d8319,September 3 2023 1,Lyon,PSG,71,70,73.66666667,64,81,74.2,75.33333333,72.14285714,1,4,Away
+678bad42,September 3 2023 1,FC Metz,Reims,68,64.25,65.66666667,60,71,66,66,69.5,2,2,Draw
+17e9722e,September 3 2023 1,OGC Nice,Strasbourg,68,62.75,67,71,67,66,68,65,2,0,Home
+12bf8242,September 3 2023 1,Toulouse,Clermont,65,64.66666667,70.66666667,59.5,62,65,64,63.5,2,2,Draw
+f0478368,September 15 2023 1,PSG,OGC Nice,68,64.25,65.66666667,71,64,62.25,61,79.75,2,3,Away
+40754c32,September 16 2023 1,RC Lens,FC Metz,62,61.6,64,61,67,63,63.66666667,66,0,1,Away
+d419c313,September 16 2023 1,Rennes,Lille,65,61.2,61,68.5,61,59.8,61,69,2,2,Draw
+6a2c2932,September 17 2023 1,Clermont,FC Nantes,71,68.8,64.33333333,61.5,61,63.5,66,61.42857143,0,1,Away
+2cbf9481,September 17 2023 1,Lorient,AS Monaco,62,62,60.66666667,71.5,68,63.2,61,64,2,2,Draw
+18b82351,September 17 2023 1,Lyon,Havre AC,68,62.75,63.75,62,68,67.6,69,66.66666667,0,0,Draw
+195b7636,September 17 2023 1,Marseille,Toulouse,71,69.8,71.25,68.33333333,67,63,63.66666667,62.66666667,0,0,Draw
+f12c7a9a,September 17 2023 1,Reims,Brest,66,63.5,67.8,64,64,62.25,61,69,1,2,Away
+b04003c3,September 17 2023 1,Strasbourg,Montpellier,71,68.6,64,63,63,63.5,63.75,59.66666667,2,2,Draw
+74e4b97c,September 22 2023 1,AS Monaco,OGC Nice,65,61.2,61,70,61,59.6,60.5,71,0,1,Away
+7ae5c7ed,September 23 2023 1,Brest,Lyon,65,64.4,67.66666667,64,68,61.8,60,63.33333333,1,0,Home
+4f5c9313,September 23 2023 1,FC Nantes,Lorient,63,63.25,63.25,62.4,67,66,65.2,64,5,3,Home
+941106cf,September 24 2023 1,Havre AC,Clermont,64,62.25,61,61,81,75.2,75,62,2,1,Home
+2e47fd82,September 24 2023 1,RC Lens,Toulouse,68,64.25,65.66666667,63.5,61,63.75,65.33333333,64,2,1,Home
+a5037d9e,September 24 2023 1,FC Metz,Strasbourg,67,62.8,62.33333333,61,68,61.8,60,64.33333333,0,1,Away
+fd6b554c,September 24 2023 1,Montpellier,Rennes,68,61.6,62.5,62,81,79.75,77,58,0,0,Draw
+405fa974,September 24 2023 1,PSG,Marseille,62,62,58.66666667,67.5,71,69,68.5,72.71428571,4,0,Home
+b1ae9dc3,September 26 2023 1,Lille,Reims,68,61.6,62.5,72,66,63.5,69.5,69,1,2,Away
+0730708e,September 29 2023 1,Strasbourg,RC Lens,62,62.25,57.33333333,66,68,62.75,67,64.33333333,0,1,Away
+f443185b,September 30 2023 1,Clermont,PSG,65,63,68.66666667,61,68,68.2,70,71.875,0,0,Draw
+680c833b,September 30 2023 1,AS Monaco,Marseille,68,64.25,64.33333333,71.5,61,63.75,65.33333333,69.5,3,2,Home
+f2fb61f7,October 1 2023 1,Havre AC,Lille,66,63.5,69.5,59.5,67,66,69.5,68.5,0,2,Away
+fd60231d,October 1 2023 1,Lorient,Montpellier,64,61.25,61,62.5,61,62.75,62,62.33333333,0,3,Away
+49bbb3f4,October 1 2023 1,OGC Nice,Brest,63,62,61.75,65,68,67.6,empty,71,0,0,Draw
+cfb7f6ea,October 1 2023 1,Reims,Lyon,81,75.2,76,62.5,61,63.33333333,70.5,69,2,0,Home
+94204a39,October 1 2023 1,Rennes,FC Nantes,63,63.5,64.33333333,63.25,61,59.25,65.33333333,64,3,1,Home
+9baac3cb,October 1 2023 1,Toulouse,FC Metz,71,70,67.33333333,60,71,67,62,63,3,0,Home
+ac3cd65a,October 6 2023 1,Strasbourg,FC Nantes,81,73.25,76,61.5,67,65,64.33333333,71,1,2,Away
+a77842d5,October 7 2023 1,FC Metz,OGC Nice,68,63,64.66666667,58.66666667,71,68.5,58,65,0,1,Away
+8abe55a4,October 7 2023 1,Reims,AS Monaco,64,58.4,61.66666667,71.5,67,63.75,67.33333333,59.33333333,1,3,Away
+f41980c3,October 8 2023 1,Brest,Toulouse,65,60,61,65,71,67,69.5,63.5,1,1,Draw
+b044385d,October 8 2023 1,RC Lens,Lille,65,61.2,68,68.5,68,67.6,64,66,1,1,Draw
+43cc2649,October 8 2023 1,Lyon,Lorient,68,63.33333333,62,62.33333333,68,62.16666667,68.5,67.66666667,3,3,Draw
+4df09039,October 8 2023 1,Marseille,Havre AC,61,63.8,59.33333333,63,66,63.5,60,68.5,3,0,Home
+484e237a,October 8 2023 1,Rennes,PSG,65,61.2,61,71.42857143,67,63.5,69.5,63.5,1,3,Away
+437ba0cb,October 20 2023 1,Havre AC,RC Lens,68,63.25,62,61.33333333,67,63.2,69,71,0,0,Draw
+494deaba,October 21 2023 1,OGC Nice,Marseille,64,58.4,61.66666667,67.66666667,62,62.25,63.5,64,1,0,Home
+28f09198,October 21 2023 1,PSG,Strasbourg,68,64.25,65.66666667,70,68,62.75,57.33333333,68.5,3,0,Home
+de708e26,October 22 2023 1,Lille,Brest,65,62.33333333,68.66666667,64,61,62.75,67,68.5,1,0,Home
+08e896d5,October 22 2023 1,Lorient,Rennes,62,62,56.5,58.66666667,68,68.75,61.5,64.66666667,2,1,Home
+847c54fa,October 22 2023 1,Lyon,Clermont,68,63,63.75,61,71,68.6,68.33333333,61.33333333,1,2,Away
+b33c484a,October 22 2023 1,AS Monaco,FC Metz,67,63.5,68.75,71,61,63.8,64.33333333,62.33333333,2,1,Home
+398e7ed6,October 22 2023 1,FC Nantes,Montpellier,68,63,63.75,62.66666667,81,74.2,65,63,2,0,Home
+f0a8c67d,October 22 2023 1,Toulouse,Reims,64,58.4,63.66666667,69.5,66,63.5,75,68.33333333,1,1,Draw
+1c297781,October 27 2023 1,Clermont,OGC Nice,66,62.5,69.4,61,63,63.25,69.4,66,0,1,Away
+271f272f,October 28 2023 1,RC Lens,FC Nantes,62,62,59.5,62.66666667,61,62.75,64.33333333,69.5,4,0,Home
+5c8bc6ef,October 28 2023 1,Reims,Lorient,65,63,66.5,62.33333333,81,78.25,62,78.25,1,0,Home
+3fc4e3ce,October 29 2023 1,Brest,PSG,68,62.5,62,65,71,67.6,empty,65,2,3,Away
+e4ed3318,October 29 2023 1,Lille,AS Monaco,68,68.75,69.66666667,71,71,70.5,75,61.33333333,2,0,Home
+6d743853,October 29 2023 1,FC Metz,Havre AC,65,60,61,60.33333333,67,62.8,64,58,0,0,Draw
+c7788081,October 29 2023 1,Montpellier,Toulouse,63,63,64.33333333,62.5,68,64.25,72,72.71428571,3,0,Home
+b35db4c8,October 29 2023 1,Rennes,Strasbourg,68,61.25,63.75,68.5,61,63.4,58,62,1,1,Draw
+4f44d7fc,November 3 2023 1,PSG,Montpellier,65,63,66.5,62.5,67,63.5,65.66666667,67.66666667,3,0,Home
+001326cc,November 4 2023 1,Lorient,RC Lens,81,77.33333333,74.66666667,59.66666667,61,62.75,66,66,0,0,Draw
+d8243ab9,November 4 2023 1,Marseille,Lille,65,61.5,60,65,68,69.33333333,70,65,0,0,Draw
+eadb1375,November 5 2023 1,Lyon,FC Metz,71,69.5,74.33333333,60.33333333,63,63,empty,65,1,1,Draw
+ef59a003,November 5 2023 1,AS Monaco,Brest,66,62.5,69.5,70,61,63.8,62.66666667,71.5,2,0,Home
+96b3374a,November 5 2023 1,FC Nantes,Reims,62,62,59.5,64.66666667,64,58.4,69.25,62.66666667,0,1,Away
+fad89d7b,November 5 2023 1,OGC Nice,Rennes,67,61.75,62.33333333,71,71,67.6,64.33333333,67,2,0,Home
+957c6924,November 5 2023 1,Strasbourg,Clermont,65,63,70,61.5,61,59.8,64.66666667,61,0,0,Draw
+f7d3c634,November 5 2023 1,Toulouse,Havre AC,65,61.8,60,61.33333333,68,62.25,61.75,69.5,1,2,Away
+5bdc7c32,November 10 2023 1,Montpellier,OGC Nice,71,70,72.5,62.5,67,62,64,63,0,0,Draw
+8bb49483,November 11 2023 1,Havre AC,AS Monaco,62,62,59.5,73,81,73,62.5,66,0,0,Draw
+61d9e0d0,November 11 2023 1,Reims,PSG,66,61.25,69.5,72.28571429,71,66.4,62,63,0,3,Away
+e0aea3a9,November 12 2023 1,Clermont,Lorient,68,62.5,65.66666667,61,68,63.33333333,66.2,65,1,0,Home
+fe8096da,November 12 2023 1,RC Lens,Marseille,68,61,63,67.5,64,59,76.66666667,65.5,1,0,Home
+f0f7d5b7,November 12 2023 1,Lille,Toulouse,68,65.66666667,68.75,68.5,67,59.75,64.5,79.75,1,1,Draw
+594dba4e,November 12 2023 1,FC Metz,FC Nantes,61,63.5,65.33333333,57.66666667,68,61.75,58,67,3,1,Home
+16251ab0,November 12 2023 1,Rennes,Lyon,65,60.5,59.33333333,64,63,63,62.25,63.33333333,0,1,Away
+6f11a93d,November 24 2023 1,PSG,AS Monaco,61,62.4,66,70,61,62.2,58,59.5,5,2,Home
+4cf8ae40,November 25 2023 1,Clermont,RC Lens,67,65,61.5,61.5,67,63,63.75,66.33333333,0,3,Away
+3d1a3c81,November 25 2023 1,Strasbourg,Marseille,68,60.75,62.33333333,68,68,61.8,65.5,62.5,1,1,Draw
+685f0592,November 26 2023 1,Lorient,FC Metz,68,64.25,65.25,60.33333333,68,62.83333333,63.33333333,57.66666667,2,3,Away
+3835384c,November 26 2023 1,Lyon,Lille,63,63,63.75,68.5,71,68.6,70,62,0,2,Away
+e4cca984,November 26 2023 1,Montpellier,Brest,62,62,59.5,64,68,68.75,68,70.33333333,1,3,Away
+ec8cdc57,November 26 2023 1,FC Nantes,Havre AC,71,70.5,68,63,65,59.8,58,62.33333333,0,0,Draw
+69ee1012,November 26 2023 1,OGC Nice,Toulouse,65,63.83333333,66.66666667,71,81,76.33333333,63.66666667,64,1,0,Home
+068718ca,November 26 2023 1,Rennes,Reims,64,62,62.25,69.5,66,61.25,69.33333333,63.5,3,1,Home
+341877cf,November 29 2023 1,Montpellier,Clermont,67,63,63.5,61,67,63,60,68.33333333,1,1,Draw
+ad372452,December 1 2023 1,Reims,Strasbourg,68,62.5,62.33333333,69.5,68,62.75,76,60.33333333,2,1,Home
+66f5f256,December 2 2023 1,RC Lens,Lyon,68,59.25,63.66666667,63.25,61,62.75,69.2,77.6,3,2,Home
+b0ae3622,December 2 2023 1,FC Nantes,OGC Nice,68,60.75,61.33333333,63.25,71,67.8,69.5,72,1,0,Home
+9f17a676,December 3 2023 1,Brest,Clermont,65,64.66666667,70.66666667,65,68,62.4,68.5,71.5,3,0,Home
+b6e6fdfe,December 3 2023 1,Havre AC,PSG,65,61.8,60.33333333,63,71,68.8,63,62.33333333,0,2,Away
+1edcab1f,December 3 2023 1,Lille,FC Metz,64,64.75,62.33333333,60.33333333,68,74.8,71.33333333,59.66666667,2,0,Home
+caadf3f7,December 3 2023 1,Marseille,Rennes,67,65.4,65.5,67.66666667,67,64.75,61,67.66666667,2,0,Home
+0d5e1575,December 3 2023 1,AS Monaco,Montpellier,68,64.25,63,70,66,61.25,64.25,63.33333333,2,0,Home
+50bf0584,December 3 2023 1,Toulouse,Lorient,68,67.6,68,59.5,71,69.8,76,67,1,1,Draw
+dfac144f,December 6 2023 1,Marseille,Lyon,63,62.75,63.75,63.25,61,62.25,69,69.28571429,3,0,Home
+52a1fcfd,December 7 2023 1,Brest,Strasbourg,65,63.6,67,64,62,62,69.2,68.5,1,1,Draw
+ad238285,December 8 2023 1,Montpellier,RC Lens,63,63,62,62.5,61,63.8,71.33333333,72,0,0,Draw
+2582af0c,December 9 2023 1,PSG,FC Nantes,71,65.2,64.5,63.25,68,64.6,63,67.66666667,2,1,Home
+fdd2c923,December 9 2023 1,Rennes,AS Monaco,64,60.6,62.33333333,70,67,65.4,59.5,62.66666667,1,2,Away
+b6281098,December 10 2023 1,Clermont,Lille,65,62.4,59.33333333,61.5,68,67.6,66,60.33333333,0,0,Draw
+5443d1b1,December 10 2023 1,Lorient,Marseille,62,62,59.5,64.5,61,63.5,63,69.5,2,4,Away
+015e7632,December 10 2023 1,Lyon,Toulouse,68,64.25,65.66666667,66.66666667,68,73.25,65.5,61.33333333,3,0,Home
+e1a3d53e,December 10 2023 1,FC Metz,Brest,67,64.6,68.33333333,65,68,64.6,68.5,66.66666667,0,1,Away
+22646ca5,December 10 2023 1,OGC Nice,Reims,68,64.25,63.33333333,71,71,67.8,65.33333333,68.33333333,2,1,Home
+d15b44c5,December 10 2023 1,Strasbourg,Havre AC,65,61.5,60.33333333,61.5,68,59.25,76,69,2,1,Home
+f66124b8,December 15 2023 1,AS Monaco,Lyon,68,61.5,64,70,68,61,61,71.125,0,1,Away
+8fd0b0fe,December 16 2023 1,Havre AC,OGC Nice,71,68.6,69,61.5,61,60.33333333,70.66666667,64,3,1,Home
+331c82fc,December 16 2023 1,RC Lens,Reims,68,62.25,68.33333333,62,64,63.5,67,68.5,2,0,Home
+204a77b5,December 17 2023 1,Lille,PSG,62,62.25,58.5,empty,67,59.75,63,62.5,1,1,Draw
+f3cfe34d,December 17 2023 1,Lorient,Strasbourg,63,63.25,61.75,63.66666667,67,65.4,61.66666667,63.25,1,2,Away
+a92291bc,December 17 2023 1,Marseille,Clermont,66,61.5,69.2,61.5,68,59.25,62.33333333,59.5,2,1,Home
+eb4084eb,December 17 2023 1,FC Metz,Montpellier,65,64.4,72,57.66666667,71,65.4,67.5,63.66666667,0,1,Away
+17503b00,December 17 2023 1,FC Nantes,Brest,71,66.2,74.33333333,65,81,79.33333333,65.5,70.33333333,0,2,Away
+8197fd69,December 17 2023 1,Toulouse,Rennes,65,62.8,67.66666667,71,61,63,63.66666667,66.66666667,0,0,Draw
+0f7c086f,December 20 2023 1,Brest,Lorient,68,66,68,64,68,64,63.66666667,62.5,4,0,Home
+16bc4ea4,December 20 2023 1,Clermont,Rennes,68,64.25,65.25,61,61,60.5,76,63.5,1,3,Away
+1b327b86,December 20 2023 1,Lyon,FC Nantes,63,63,63.5,61.5,68,64,65.33333333,70.375,1,0,Home
+b8e581d1,December 20 2023 1,Montpellier,Marseille,81,73.25,75.5,69,61,63,61,69,1,1,Draw
+267500aa,December 20 2023 1,OGC Nice,RC Lens,66,61.8,69.75,68.33333333,67,63.75,62.33333333,64,2,0,Home
+fb56b3c2,December 20 2023 1,PSG,FC Metz,62,62.25,60,61,68,61.75,61,62.66666667,3,1,Home
+4e667758,December 20 2023 1,Reims,Havre AC,empty,64.25,60.66666667,61.5,67,65.4,61.5,63.33333333,1,0,Home
+df32fbe8,December 20 2023 1,Strasbourg,Lille,67,65,67.66666667,72,71,69,67,69,2,1,Home
+81c83fe9,December 20 2023 1,Toulouse,AS Monaco,65,62,58.33333333,71,64,57.33333333,63.66666667,71,1,2,Away
+2a8b7749,January 12 2024 1,Marseille,Strasbourg,62,63,64,67.5,61,60,65.5,61.5,1,1,Draw
+7f2cdeb6,January 13 2024 1,AS Monaco,Reims,empty,61.8,70,73,68,60.5,62.25,62,1,3,Away
+6cc45497,January 13 2024 1,Rennes,OGC Nice,63,64.25,65.66666667,66,67,61.75,62,66,2,0,Home
+82c3efb7,January 14 2024 1,Brest,Montpellier,66,59.4,62.33333333,65,71,66,62.5,60.5,2,0,Home
+a8be717d,January 14 2024 1,Havre AC,Lyon,68,66.5,62,60,68,67.6,62.33333333,63,3,1,Home
+0682fa55,January 14 2024 1,RC Lens,PSG,68,70.25,75,71,68,64,67,60.5,0,2,Away
+24f7d86b,January 14 2024 1,Lille,Lorient,71,59.4,63,72,64,61,70.25,71,3,0,Home
+926b0a14,January 14 2024 1,FC Metz,Toulouse,81,58.25,63.66666667,61.66666667,68,61.75,70,66.33333333,0,1,Away
+d2738fb8,January 14 2024 1,FC Nantes,Clermont,68,64.25,65.25,63.33333333,81,69,61,64.66666667,1,2,Away
+952686b7,January 26 2024 1,Lyon,Rennes,68,60.66666667,61.5,73,61,61.6,60.6,60.66666667,2,3,Away
+039fae0f,January 27 2024 1,Marseille,AS Monaco,68,65.4,69.5,62,61,60,68.5,59,2,2,Draw
+69267ef1,January 27 2024 1,OGC Nice,FC Metz,65,62,60.66666667,59.5,empty,66.8,76,63,1,0,Home
+21b6f226,January 28 2024 1,Clermont,Strasbourg,67,65.2,64.33333333,72,71,63.75,60,78,1,1,Draw
+9bdf343f,January 28 2024 1,Lorient,Havre AC,62,63.5,64.6,65,67,67.6,62,64.5,3,3,Draw
+8308b478,January 28 2024 1,Montpellier,Lille,65,59.8,60.66666667,61,68,62.5,62,62,0,0,Draw
+8e2d796d,January 28 2024 1,PSG,Brest,61,66.6,62,64.66666667,66,65,67,66,2,2,Draw
+f3522f33,January 28 2024 1,Reims,FC Nantes,62,62.5,65.25,72.16666667,71,59.5,69.66666667,71,0,0,Draw
+678c2976,January 28 2024 1,Toulouse,RC Lens,71,63,62.33333333,62.25,64,63.25,69.5,67,0,2,Away
+c0fbd8fa,February 2 2024 1,Strasbourg,PSG,68,59.5,61.75,61.5,63,60.5,63,68,1,2,Away
+f7e99caf,February 3 2024 1,FC Nantes,RC Lens,63,65,67.66666667,63.5,61,68.5,61.75,67,0,1,Away
+f3ce3488,February 3 2024 1,Rennes,Montpellier,64,63.5,70.66666667,59.5,71,69.4,63,58,2,1,Home
+19dfaa21,February 4 2024 1,Brest,OGC Nice,67,60,62.33333333,66.33333333,empty,61.5,60,59.5,0,0,Draw
+90c40e1c,February 4 2024 1,Lille,Clermont,65,66.25,67.66666667,63,76,63.75,63,62,4,0,Home
+2e98ccf9,February 4 2024 1,Lyon,Marseille,68,63.25,62.33333333,73,65,65,76,67.66666667,1,0,Home
+2e802ba3,February 4 2024 1,FC Metz,Lorient,67,59.2,62.33333333,69,67,62,61,79.25,1,2,Away
+6b4f65e7,February 4 2024 1,AS Monaco,Havre AC,63,64.25,64.5,63,61,67.6,66.75,58,1,1,Draw
+25718ab1,February 4 2024 1,Reims,Toulouse,62,63.5,68,66,68,60.5,65,71,2,3,Away
+70c7d433,February 9 2024 1,Marseille,FC Metz,56,59.8,57.33333333,empty,68,67.5,67,69,1,1,Draw
+9635699e,February 10 2024 1,RC Lens,Strasbourg,65,64.8,65.75,65,61,62.5,68.5,63.5,3,1,Home
+fb49d66d,February 10 2024 1,PSG,Lille,62,59.8,61,61.5,68,73.25,60,67,3,1,Home
+33d0b78a,February 11 2024 1,Clermont,Brest,71,60.75,62,58,66,69,69.33333333,62,1,1,Draw
+4472d29d,February 11 2024 1,Havre AC,Rennes,65,59,59.5,68.33333333,81,58.33333333,68.5,64.66666667,0,1,Away
+99f9cba1,February 11 2024 1,Lorient,Reims,64,59.83333333,63,71.5,68,62,76,68,2,0,Home
+014cd5b7,February 11 2024 1,Montpellier,Lyon,62,64.25,64.25,62.33333333,61,64.8,63,68.625,1,2,Away
+a2cab916,February 11 2024 1,OGC Nice,AS Monaco,68,63,62.5,68.33333333,68,64.25,60.33333333,66.66666667,2,3,Away
+e6caf939,February 11 2024 1,Toulouse,FC Nantes,56,64,71.5,60.33333333,61,65,67,63,1,2,Away
+205468df,February 16 2024 1,Lyon,OGC Nice,55,68,70.66666667,62,67,58.5,64.33333333,64,1,0,Home
+9e482487,February 17 2024 1,Lille,Havre AC,59,60.4,61,65,empty,63.5,63.75,70,3,0,Home
+56629c17,February 17 2024 1,FC Nantes,PSG,71,71.4,77,70,67,66.6,67.66666667,66.66666667,0,2,Away
+56d7c531,February 18 2024 1,Brest,Marseille,65,61.25,67.5,63,64,62,61.75,66.33333333,1,0,Home
+57c599f6,February 18 2024 1,AS Monaco,Toulouse,81,63.75,66,62,empty,67.75,64.33333333,58,1,2,Away
+4e939d4c,February 18 2024 1,Montpellier,FC Metz,66,60.5,60.33333333,59.5,61,59,64.25,69,3,0,Home
+825ef1ef,February 18 2024 1,Reims,RC Lens,59,62.25,68.4,58,71,59.75,67,67,1,1,Draw
+93f25522,February 18 2024 1,Rennes,Clermont,65,64.25,65.25,62,68,70.2,70.5,64,3,1,Home
+ec531c24,February 18 2024 1,Strasbourg,Lorient,66,65,67.66666667,63.33333333,68,69,62.75,63.25,1,3,Away
+f2778def,February 23 2024 1,FC Metz,Lyon,68,59.5,67,63.5,67,59.75,61,64.66666667,1,2,Away
+53742b6f,February 24 2024 1,Lorient,FC Nantes,67,61.8,57.66666667,61.66666667,61,62.2,76,61,0,1,Away
+9c2847ab,February 24 2024 1,Strasbourg,Brest,68,58.5,62,71,81,68.8,64.66666667,78.75,0,3,Away
+f2b72da5,February 25 2024 1,Havre AC,Reims,62,67.75,69.66666667,67.66666667,71,59.2,64.5,67.66666667,1,2,Away
+7b54b025,February 25 2024 1,RC Lens,AS Monaco,64,62.75,67,59.5,61,66.5,62.5,69.5,2,3,Away
+7b5136c2,February 25 2024 1,Marseille,Montpellier,68,64.25,65.66666667,77.6,63,59.75,63.33333333,61.66666667,4,1,Home
+d4ce6789,February 25 2024 1,OGC Nice,Clermont,68,58.5,62,68,71,67.75,62.5,66,0,0,Draw
+6b8934e3,February 25 2024 1,PSG,Rennes,68,63.25,63.75,71,empty,66.2,67.75,63.25,1,1,Draw
+a07309bd,February 25 2024 1,Toulouse,Lille,64,63.5,68.4,58,68,65.75,61.33333333,71,3,1,Home
+4be6a76c,March 1 2024 1,AS Monaco,PSG,63,60.16666667,63,72,67,60.4,69.66666667,63,0,0,Draw
+c2c8e29e,March 2 2024 1,Clermont,Marseille,66,59.6,60.33333333,63.5,61,62,63.33333333,71,1,5,Away
+92da3973,March 2 2024 1,Reims,Lille,68,71.4,74.66666667,65.66666667,68,65.5,67.66666667,66,0,1,Away
+51912b7d,March 3 2024 1,Brest,Havre AC,65,63.75,71.5,63.33333333,71,61.8,61.33333333,62.33333333,1,0,Home
+736f94f0,March 3 2024 1,Lyon,RC Lens,76,65.4,67.66666667,63,67,63.5,68.75,63,0,3,Away
+e020afbf,March 3 2024 1,Montpellier,Strasbourg,59,67.25,69.33333333,58,61,60.4,67.33333333,68.5,2,2,Draw
+9cd454f2,March 3 2024 1,FC Nantes,FC Metz,67,60.75,63,68.33333333,67,68.8,57.66666667,67.66666667,0,2,Away
+a3ae2f49,March 3 2024 1,Rennes,Lorient,68,64.25,65.25,63.33333333,71,63.5,60,63,1,2,Away
+2269add3,March 3 2024 1,Toulouse,OGC Nice,68,60.2,60.33333333,65,62,63.25,61.33333333,69.5,2,1,Home
+d631a829,March 8 2024 1,OGC Nice,Montpellier,68,63.75,67.66666667,58,61,57,63.33333333,63,1,2,Away
+54c25242,March 9 2024 1,RC Lens,Brest,65,59.33333333,65.33333333,62.5,empty,71.4,68.4,66,1,0,Home
+5ea578e0,March 9 2024 1,Lorient,Lyon,59,61.8,57.66666667,72,61,63.5,64.33333333,72,0,2,Away
+3957eebd,March 10 2024 1,Havre AC,Toulouse,60,67,67.66666667,62,71,61.5,62,61.66666667,1,0,Home
+67041fa5,March 10 2024 1,Lille,Rennes,62,62.6,68.25,61.5,empty,66.8,77,58,2,2,Draw
+b696acad,March 10 2024 1,Marseille,FC Nantes,71,63,67.66666667,73,66,64.75,58.66666667,76.4,2,0,Home
+f7db6990,March 10 2024 1,FC Metz,Clermont,66,67,64.33333333,71,63,60.83333333,69.66666667,69.5,1,0,Home
+d1422003,March 10 2024 1,PSG,Reims,67,61.8,64.33333333,68.5,64,60.8,63.66666667,70.33333333,2,2,Draw
+9a8c884c,March 10 2024 1,Strasbourg,AS Monaco,59,64.25,63.5,67.33333333,81,59.25,58.66666667,63.5,0,1,Away
+863ee181,March 15 2024 1,Toulouse,Lyon,empty,67,70.66666667,64.25,61,56.5,57,69,2,3,Away
+7b5edccd,March 16 2024 1,RC Lens,OGC Nice,63,61,63,63.5,67,71.4,60.33333333,62,1,3,Away
+9e18cf79,March 16 2024 1,FC Nantes,Strasbourg,68,61.75,66.75,58.5,71,67.25,68,63,1,3,Away
+cdf13a58,March 17 2024 1,Brest,Lille,71,62.5,68.2,71.5,61,66.5,63.66666667,63.33333333,1,1,Draw
+f7f8d2b1,March 17 2024 1,Clermont,Havre AC,68,63,64,62.66666667,62,68.8,76,58,2,1,Home
+5494c9d6,March 17 2024 1,AS Monaco,Lorient,67,64.25,63.33333333,62,61,75.66666667,69,80.5,2,2,Draw
+f850eea5,March 17 2024 1,Montpellier,PSG,66,67,67.66666667,67.66666667,68,62.25,66.33333333,65.25,2,6,Away
+d840de58,March 17 2024 1,Reims,FC Metz,63,56.5,61.66666667,72,64,64.75,64,67,2,1,Home
+8cc36332,March 17 2024 1,Rennes,Marseille,empty,61,63,65,81,57.66666667,75,66,2,0,Home
+1488d812,March 29 2024 1,Lille,RC Lens,68,67.75,69.66666667,71.5,68,65,57.66666667,77.66666667,2,1,Home
+6b21872e,March 30 2024 1,Lyon,Reims,59,59.6,58.66666667,61,empty,64.75,66.33333333,62.66666667,1,1,Draw
+ec35ab5c,March 30 2024 1,FC Metz,AS Monaco,64,61.5,67,63.5,71,60,67,70.33333333,2,5,Away
+bfe740ac,March 31 2024 1,Clermont,Toulouse,68,63.5,59.33333333,67,71,68.6,67.66666667,63.33333333,0,3,Away
+84ed0867,March 31 2024 1,Havre AC,Montpellier,68,60.25,60.5,61.5,68,58.83333333,60.25,68.33333333,0,2,Away
+605ef273,March 31 2024 1,Lorient,Brest,empty,61.25,62.33333333,71.5,62,57.66666667,60.33333333,70,0,1,Away
+4b3924f8,March 31 2024 1,Marseille,PSG,62,62.75,64.66666667,72,67,62.6,62,63,0,2,Away
+d3388c96,March 31 2024 1,OGC Nice,FC Nantes,67,78.25,83,61,68,65,61,63.5,1,2,Away
+789f3720,March 31 2024 1,Strasbourg,Rennes,61,64.66666667,64.66666667,64,67,65.6,67,64.5,2,0,Home
+b0aa88a4,April 5 2024 1,Lille,Marseille,65,74.25,74.75,71.5,61,65.5,64.33333333,62.66666667,3,1,Home
+a4636c9d,April 6 2024 1,RC Lens,Havre AC,68,69.25,66.5,58,61,64,67.66666667,61,1,1,Draw
+a0e24fef,April 6 2024 1,PSG,Clermont,68,73.8,75.33333333,61.5,71,65.75,64.33333333,65,1,1,Draw
+f6f76317,April 7 2024 1,Brest,FC Metz,64,67.25,66,67.33333333,61,73.25,69,70.5,4,3,Home
+c0e30df7,April 7 2024 1,AS Monaco,Rennes,64,61.8,59.5,58,empty,63.16666667,64.66666667,65.5,1,0,Home
+95bdd121,April 7 2024 1,Montpellier,Lorient,78,60.33333333,63,68.5,68,68,69,65.5,2,0,Home
+7457568d,April 7 2024 1,FC Nantes,Lyon,62,65,66.75,69,63,66.6,73.5,66.5,1,3,Away
+4c072743,April 7 2024 1,Reims,OGC Nice,69,73.25,74.5,58.5,67,67.2,59.4,72.66666667,0,0,Draw
+919e3eb7,April 7 2024 1,Toulouse,Strasbourg,69,72.75,73.75,62.66666667,63,67.25,68.75,63,0,0,Draw
+eac47cb2,April 12 2024 1,FC Metz,RC Lens,63,60.16666667,63,64,70,63.16666667,69.33333333,66.5,2,1,Home
+6eba535c,April 13 2024 1,Rennes,Toulouse,63,68,68.5,84.25,68,68.6,65.66666667,73,1,2,Away
+7b92b3c7,April 13 2024 1,Strasbourg,Reims,63,61.2,62,66.5,68,65.8,61,65,3,1,Home
+9b9d6335,April 14 2024 1,Clermont,Montpellier,66,64,64.66666667,71.5,66,66,59.6,68.75,1,1,Draw
+2e9cdf18,April 14 2024 1,Havre AC,FC Nantes,78,73.8,75.33333333,68.25,66,66.75,65.66666667,63,0,1,Away
+c832a039,April 14 2024 1,Lyon,Brest,63,64.66666667,64.66666667,74,69,66.25,63.66666667,65,4,3,Home
+97218e9f,August 18 2023,Werder Bremen,FC Bayern,62,65.8,69.66666667,68.75,70,78.25,70,70.5,0,4,Away
+aac55b7f,August 19 2023,FC Augsburg,Gladbach,63,72,75,61.66666667,69,64.6,68.75,67,4,4,Draw
+c05c14ef,August 19 2023,ASC Dortmund,FC Viktoria Koln,68,64.66666667,64.66666667,57.33333333,69,60.6,69,66.5,1,0,Home
+d1a443e5,August 19 2023,TSG Hoffenheim,SC Freiburg,69,66,70,64.5,66,63.16666667,83,65.5,1,2,Away
+063d7b6b,August 19 2023,Bayer Leverkusen,RB Leipzig,64,73.8,75.33333333,71,69,67.75,66.75,84,3,2,Home
+8fe3b615,August 19 2023,VfB Stuttgart,VfL Bochum,70,78.25,83,71.5,63,60.57142857,61.25,54,5,0,Home
+3b6337dc,August 19 2023,VfL Wolfsburg,FC Heidenheim,78,68,68.5,60,68,66.25,59.6,65,2,0,Home
+60fc3feb,98 August 20 2023,Eintracht Frankfurt,Darmstadt 98,64,65.2,66,69,69,67.25,69.75,63,1,0,Home
+d6f1201f,05 August 20 2023,Union Berlin,FSV Mainz,68,66.5,68.33333333,63,70,65.8,63,61,4,1,Home
+195113d1,August 25 2023,RB Leipzig,VfB Stuttgart,69,73.25,74.5,65.5,64,64.75,67.33333333,57.5,5,1,Home
+02deea82,August 26 2023,VfL Bochum,ASC Dortmund,64,73.8,74,74,63,68.6,67,65.5,1,1,Draw
+0fb64fd7,98 August 26 2023,Darmstadt 98,Union Berlin,62,66,68.33333333,66.5,63,79.33333333,63.66666667,68.75,1,4,Away
+4ffd6c40,August 26 2023,SC Freiburg,Werder Bremen,63,73.75,75,73,66,63.16666667,64.66666667,65,1,0,Home
+95224afe,August 26 2023,FC Heidenheim,TSG Hoffenheim,70,64,64,71.33333333,69,68.25,66,63.66666667,2,3,Away
+6ce17247,August 26 2023,FC Viktoria Koln,VfL Wolfsburg,66,64.8,66,65,63,66.6,80.33333333,65.66666667,1,2,Away
+3f7b87b9,August 26 2023,Gladbach,Bayer Leverkusen,69,64.2,66.5,66.5,62,67.25,59.6,83.25,0,3,Away
+f32bb54f,August 27 2023,FC Bayern,FC Augsburg,70,68.4,66,74,69,72,68.5,63,3,1,Home
+53e372dd,05 August 27 2023,FSV Mainz,Eintracht Frankfurt,78,60.16666667,61.5,84,63,68,70,67.75,1,1,Draw
+6533d274,September 1 2023,ASC Dortmund,FC Heidenheim,68,60.66666667,63.5,68.25,68,66.25,66,66.5,2,2,Draw
+c8ab18c8,September 2 2023,FC Augsburg,VfL Bochum,63,59.5,63,63,69,65.8,73.33333333,70.33333333,2,2,Draw
+10204eb8,September 2 2023,TSG Hoffenheim,VfL Wolfsburg,64,63.66666667,63.5,68,64,67.25,69.2,70.66666667,3,1,Home
+949b0917,98 September 2 2023,Bayer Leverkusen,Darmstadt 98,69,78.5,81,71,66,65,67.33333333,61,5,1,Home
+ffd6fa2f,September 2 2023,Gladbach,FC Bayern,63,73.75,72.75,74,62,63.16666667,63.66666667,66,1,2,Away
+fdd85186,September 2 2023,VfB Stuttgart,SC Freiburg,63,66,67.75,61,68,68,66,60,5,0,Home
+0f06a162,05 September 2 2023,Werder Bremen,FSV Mainz,63,66.6,70,71.33333333,69,72,65.25,70.33333333,4,0,Home
+3a3dcb35,September 3 2023,Eintracht Frankfurt,FC Viktoria Koln,64,64.75,64,65,66,68.6,60,64.5,1,1,Draw
+7df62594,September 3 2023,Union Berlin,RB Leipzig,64,66,66.33333333,65,69,65,69.75,64,0,3,Away
+d6d922d0,September 15 2023,FC Bayern,Bayer Leverkusen,78,73.8,75.33333333,65.33333333,62,68,73.33333333,61,2,2,Draw
+fffdfc41,September 16 2023,VfL Bochum,Eintracht Frankfurt,62,73.75,72.75,65,63,60.66666667,65.66666667,69.33333333,1,1,Draw
+363f8d87,September 16 2023,SC Freiburg,ASC Dortmund,68,66.75,67.5,61.5,69,66.75,64,67.5,2,4,Away
+d121d2fe,September 16 2023,FC Viktoria Koln,TSG Hoffenheim,68,60.66666667,63.5,63,63,63.16666667,65.5,66.5,1,3,Away
+1f4fdb5f,05 September 16 2023,FSV Mainz,VfB Stuttgart,70,64.25,64,61,66,68.4,61.66666667,69,1,3,Away
+f3b2aa39,September 16 2023,RB Leipzig,FC Augsburg,69,73.8,75.33333333,66.33333333,69,66.25,69.75,65,3,0,Home
+140f5fb4,September 16 2023,VfL Wolfsburg,Union Berlin,78,79.33333333,80.33333333,81.75,66,64.4,59.6,65.5,2,1,Home
+d58f8b35,98 September 17 2023,Darmstadt 98,Gladbach,62,66.6,67.5,70,69,72,66,63,3,3,Draw
+2185c7f5,September 17 2023,FC Heidenheim,Werder Bremen,63,60.66666667,61.5,64,63,68,66,66.33333333,4,2,Home
+9cc13e55,98 September 22 2023,VfB Stuttgart,Darmstadt 98,68,63.66666667,63,66.5,62,64.75,66,69.66666667,3,1,Home
+6ac8a673,05 September 23 2023,FC Augsburg,FSV Mainz,69,64.4,65.33333333,65,63,68,73.33333333,63,2,1,Home
+047ad2d7,September 23 2023,FC Bayern,VfL Bochum,64,60.66666667,61.5,68,68,66.75,69.2,70.66666667,7,0,Home
+ba296db6,September 23 2023,ASC Dortmund,VfL Wolfsburg,70,72.75,72.66666667,74,66,63.16666667,63.5,64,1,0,Home
+e0aca9dc,September 23 2023,Gladbach,RB Leipzig,63,71.75,72.5,73.5,69,68.4,65.5,66.5,0,1,Away
+3c776110,September 23 2023,Union Berlin,TSG Hoffenheim,64,66.25,66,66,69,63.33333333,67.5,69,0,2,Away
+b15270e1,September 23 2023,Werder Bremen,FC Viktoria Koln,63,66.6,69,63,63,68,63,66,2,1,Home
+04b49830,September 24 2023,Eintracht Frankfurt,SC Freiburg,63,78.25,83,63.75,66,64,66,64.66666667,0,0,Draw
+68a63295,September 24 2023,Bayer Leverkusen,FC Heidenheim,78,66.8,66.33333333,74,69,66.25,59.6,67.5,4,1,Home
+651b8bdf,September 29 2023,TSG Hoffenheim,ASC Dortmund,66,73.8,75.33333333,84.25,63,60.66666667,69.2,63,1,3,Away
+b07cca46,September 30 2023,VfL Bochum,Gladbach,69,72.75,73.75,68,62,64.25,64.66666667,64,1,3,Away
+23d84166,September 30 2023,FC Heidenheim,Union Berlin,68,60.6,61.5,61.5,62,64.6,66.5,64,1,0,Home
+0c06c0c9,September 30 2023,FC Viktoria Koln,VfB Stuttgart,64,67,67,66.33333333,64,72,63.5,69,0,2,Away
+d16559ab,05 September 30 2023,FSV Mainz,Bayer Leverkusen,70,66.33333333,66.33333333,62.5,69,63.33333333,64,63,0,3,Away
+e30a07e3,September 30 2023,RB Leipzig,FC Bayern,69,79.66666667,80.33333333,61.5,66,66.2,64.33333333,63.33333333,2,2,Draw
+330b9850,September 30 2023,VfL Wolfsburg,Eintracht Frankfurt,78,68.4,66.66666667,71,69,64.4,72.66666667,65,2,0,Home
+5ebc00f1,98 October 1 2023,Darmstadt 98,Werder Bremen,63,73.4,75,71,63,66.75,59.4,70.66666667,4,2,Home
+367e0516,October 1 2023,SC Freiburg,FC Augsburg,62,64.25,65.33333333,69.66666667,62,67.8,69,63,2,0,Home
+a2a3e181,05 October 6 2023,Gladbach,FSV Mainz,56,64.25,64.66666667,66.5,63,61.2,66,66.5,2,2,Draw
+7d0fed76,98 October 7 2023,FC Augsburg,Darmstadt 98,64,63.8,66,84,68,65.75,66,62.5,1,2,Away
+4661d112,October 7 2023,ASC Dortmund,Union Berlin,69,64.25,65.33333333,64.5,62,63.33333333,69,69.66666667,4,2,Home
+15bd2f93,October 7 2023,RB Leipzig,VfL Bochum,69,60.4,60.66666667,74,66,67,61.25,64,0,0,Draw
+7eb884e7,October 7 2023,VfB Stuttgart,VfL Wolfsburg,64,60.66666667,62,73.5,66,78.5,69,65,3,1,Home
+0cff2d10,October 7 2023,Werder Bremen,TSG Hoffenheim,68,64.25,64.66666667,59.33333333,68,65.25,59.2,65.5,2,3,Away
+8a7f496b,October 8 2023,FC Bayern,SC Freiburg,63,66.4,64.33333333,69.66666667,63,72,67.6,60,3,0,Home
+72335e6e,October 8 2023,Eintracht Frankfurt,FC Heidenheim,64,68.2,66.33333333,68,69,66.25,81,68,2,0,Home
+f1268661,October 8 2023,Bayer Leverkusen,FC Viktoria Koln,63,72.75,72.66666667,84.25,56,64.6,67.33333333,84.25,3,0,Home
+be058dce,October 20 2023,ASC Dortmund,Werder Bremen,63,73.8,75.33333333,66.5,63,66.33333333,73.33333333,66,1,0,Home
+48110abe,98 October 21 2023,Darmstadt 98,RB Leipzig,68,60.66666667,61.5,72,62,68,66,72.66666667,1,3,Away
+0014bad7,October 21 2023,SC Freiburg,VfL Bochum,68,72.75,73.75,65.66666667,66,63.6,64.33333333,68.66666667,2,1,Home
+e689158b,October 21 2023,TSG Hoffenheim,Eintracht Frankfurt,69,65.25,67.33333333,65,56,78.25,66.33333333,66.5,1,3,Away
+a7af08ab,05 October 21 2023,FSV Mainz,FC Bayern,78,73.8,75.33333333,63.33333333,81,68,67.33333333,68,1,3,Away
+9ab68fca,October 21 2023,Union Berlin,VfB Stuttgart,69,63.25,65.33333333,65.66666667,62,67,59.6,69,0,3,Away
+9a4291a3,October 21 2023,VfL Wolfsburg,Bayer Leverkusen,63,64.2,66,61.5,66,64,77,60.66666667,1,2,Away
+41fd7764,October 22 2023,FC Heidenheim,FC Augsburg,78,66.16666667,66.33333333,65,69,72,67.33333333,84.25,2,5,Away
+5224d2f5,October 22 2023,FC Viktoria Koln,Gladbach,62,60.8,61.5,65,62,68.2,66.66666667,69,3,1,Home
+cfe3b5c3,05 October 27 2023,VfL Bochum,FSV Mainz,69,67.5,66.2,66.5,70,67,63.66666667,66.66666667,2,2,Draw
+b08c06e8,October 28 2023,FC Augsburg,VfL Wolfsburg,64,65.25,67.75,67.5,62,64.6,72.5,63.66666667,3,2,Home
+bc7df752,98 October 28 2023,FC Bayern,Darmstadt 98,63,64.25,65.33333333,70.75,66,67,66,74,8,0,Home
+029be8be,October 28 2023,Gladbach,FC Heidenheim,70,74.75,67.5,74,81,67,67,64,2,1,Home
+c9cde5e8,October 28 2023,RB Leipzig,FC Viktoria Koln,63,64,63.66666667,61.5,62,60.83333333,64.33333333,67.5,6,0,Home
+bbecea98,October 28 2023,VfB Stuttgart,TSG Hoffenheim,56,60.5,63,73.5,68,63.6,66,66.5,2,3,Away
+aed937f1,October 28 2023,Werder Bremen,Union Berlin,62,74.5,72.75,66,68,63.25,66.66666667,60.66666667,2,0,Home
+d332b8cc,October 29 2023,Eintracht Frankfurt,ASC Dortmund,64,72.8,75.33333333,74,66,68.25,62.33333333,66.5,3,3,Draw
+9cc63f4d,October 29 2023,Bayer Leverkusen,SC Freiburg,81,71.75,73.33333333,65.66666667,69,66.6,59,65,2,1,Home
+44974e1b,98 November 3 2023,Darmstadt 98,VfL Bochum,68,65.33333333,66.33333333,65,69,66.4,65.25,63,1,2,Away
+0e6a1a60,November 4 2023,ASC Dortmund,FC Bayern,63,78.33333333,80.33333333,68,62,64.6,66,64.5,0,4,Away
+663aa0ea,November 4 2023,SC Freiburg,Gladbach,78,73.75,74.75,65,69,64.25,66,68,3,3,Draw
+c0894ab7,November 4 2023,TSG Hoffenheim,Bayer Leverkusen,69,65.66666667,66.33333333,65,68,65.25,67.33333333,66.5,2,3,Away
+ab499def,November 4 2023,FC Viktoria Koln,FC Augsburg,66,60.5,63,65.5,63,68.25,64.33333333,69,1,1,Draw
+1161dad0,05 November 4 2023,FSV Mainz,RB Leipzig,70,63.33333333,64.66666667,66.33333333,66,67,65,66.5,2,0,Home
+d81fbe7f,November 4 2023,Union Berlin,Eintracht Frankfurt,81,72.25,74,83.25,63,67.6,67.75,64.75,0,3,Away
+305a9b51,November 5 2023,FC Heidenheim,VfB Stuttgart,78,72,72.5,65,69,64.6,66,66,2,0,Home
+98d8fe64,November 5 2023,VfL Wolfsburg,Werder Bremen,70,61.4,61.5,59.33333333,69,67.2,68.5,68,2,2,Draw
+3037667d,November 10 2023,Gladbach,VfL Wolfsburg,54,66,64.5,72.5,62,63.6,66,68.25,4,0,Home
+3970535a,November 11 2023,FC Augsburg,TSG Hoffenheim,64,60.33333333,63,74,62,66.75,64.33333333,65.66666667,1,1,Draw
+684040d1,November 11 2023,FC Bayern,FC Heidenheim,69,63.6,60.16666667,70.66666667,68,64.5,68,66.5,4,2,Home
+b7bef81f,November 11 2023,VfL Bochum,FC Viktoria Koln,66,64.5,67,68,62,67.4,59.83333333,59.5,1,1,Draw
+f98e467c,98 05 November 11 2023,Darmstadt 98,FSV Mainz,63,60.83333333,63.5,81.75,69,66.8,70,63,0,0,Draw
+5e8f7e88,November 11 2023,VfB Stuttgart,ASC Dortmund,63,67,66,70,62,72.5,65,66.66666667,2,1,Home
+bece4395,November 12 2023,Bayer Leverkusen,Union Berlin,63,66.14285714,60,68,69,64.4,68,64.75,4,0,Home
+fcbc3a03,November 12 2023,RB Leipzig,SC Freiburg,66,73.8,75.33333333,59,62,63.83333333,62.33333333,59.5,3,1,Home
+5c3bedb6,November 12 2023,Werder Bremen,Eintracht Frankfurt,62,65,65.33333333,66.5,69,72.75,72.5,66.5,2,2,Draw
+5ffb46dc,November 24 2023,FC Viktoria Koln,FC Bayern,63,66,66.5,74,66,65.2,64.33333333,71,0,1,Away
+f681bb3c,November 25 2023,ASC Dortmund,Gladbach,69,72,73.75,71,68,63.2,65.33333333,66.5,4,2,Home
+681f0b6f,November 25 2023,Eintracht Frankfurt,VfB Stuttgart,70,66.16666667,66,65,68,72,74.75,66.5,1,2,Away
+057a9eb7,98 November 25 2023,SC Freiburg,Darmstadt 98,69,59.2,60,64.5,69,78.25,67.33333333,70,1,1,Draw
+e30bd7d2,November 25 2023,Union Berlin,FC Augsburg,59,65.25,67,59,68,61.4,60.16666667,67.5,1,1,Draw
+30b8a712,November 25 2023,Werder Bremen,Bayer Leverkusen,68,65,65.33333333,63,66,67.8,72.5,63,0,3,Away
+a98967a4,November 25 2023,VfL Wolfsburg,RB Leipzig,78,66.25,67.33333333,68,62,64.6,83,74,2,1,Home
+d913616c,November 26 2023,FC Heidenheim,VfL Bochum,70,64,64.66666667,63,64,65,62.33333333,81.75,0,0,Draw
+bc0e7fa8,05 November 26 2023,TSG Hoffenheim,FSV Mainz,63,73.8,75.33333333,70.5,78,67.5,67,63,1,1,Draw
+88486a76,98 December 1 2023,Darmstadt 98,FC Viktoria Koln,62,65.25,67.75,68,62,64.6,64.33333333,64,0,1,Away
+a700767e,December 2 2023,VfL Bochum,VfL Wolfsburg,64,71.25,75,74,66,65,65,66.5,3,1,Home
+fa6e2a54,December 2 2023,Gladbach,TSG Hoffenheim,62,67,67,63.33333333,66,62.4,66,empty,2,1,Home
+1277604b,December 2 2023,RB Leipzig,FC Heidenheim,68,58.83333333,59,67.5,81,63.33333333,64.33333333,63.33333333,2,1,Home
+5ea2a1ee,December 2 2023,VfB Stuttgart,Werder Bremen,69,62,62.33333333,70,63,66.6,64.25,72,2,0,Home
+4bea1c30,December 3 2023,FC Augsburg,Eintracht Frankfurt,62,72.5,72.5,68,69,67.5,60,66.5,2,1,Home
+a235a3b6,December 3 2023,Bayer Leverkusen,ASC Dortmund,78,78,67.5,58,62,65,62,66.5,1,1,Draw
+3f2986cd,05 December 3 2023,FSV Mainz,SC Freiburg,69,63.75,64.66666667,65.5,59,64.25,70,63,0,1,Away
+dfcff3ef,December 8 2023,TSG Hoffenheim,VfL Bochum,63,73.8,75.33333333,66.33333333,69,66.5,66,empty,3,1,Home
+f73593b4,December 9 2023,ASC Dortmund,RB Leipzig,63,72,75,68.66666667,62,64.25,67.33333333,63.75,2,3,Away
+251c1dd6,December 9 2023,Eintracht Frankfurt,FC Bayern,66,59.14285714,60,62.66666667,64,65.25,64.66666667,66.5,5,1,Home
+1a98eda2,98 December 9 2023,FC Heidenheim,Darmstadt 98,81,71.75,72.66666667,70.5,66,66.75,66.5,72,3,2,Home
+31e39f60,December 9 2023,Union Berlin,Gladbach,68,66.16666667,69.33333333,65.5,59,63.6,64,69,3,1,Home
+e6729107,December 9 2023,Werder Bremen,FC Augsburg,69,62,59.66666667,71,68,67,67.75,empty,2,0,Home
+9c21532b,December 9 2023,VfL Wolfsburg,SC Freiburg,78,72.4,74,65.25,69,67,67.33333333,63.66666667,0,1,Away
+c88aecd7,05 December 10 2023,FC Viktoria Koln,FSV Mainz,63,65,64.25,61,62,66.5,59.33333333,66.5,0,0,Draw
+a24d6ae4,December 10 2023,VfB Stuttgart,Bayer Leverkusen,66,62,63,63,59,63.8,67,64.66666667,1,1,Draw
+6789ead0,December 15 2023,Gladbach,Werder Bremen,70,78,67.5,71,68,59.85714286,66.33333333,65.5,2,2,Draw
+c6900058,December 16 2023,FC Augsburg,ASC Dortmund,63,77.75,81,83.5,62,67.2,69.75,68.33333333,1,1,Draw
+a08896e6,December 16 2023,VfL Bochum,Union Berlin,69,71.75,73.33333333,65,62,63.25,65.33333333,63,3,0,Home
+6863e2f2,98 December 16 2023,Darmstadt 98,VfL Wolfsburg,64,68.33333333,73.75,74,62,66.25,60,70,0,1,Away
+cafc9381,05 December 16 2023,FSV Mainz,FC Heidenheim,68,64.2,66.5,71,66,72.5,65.66666667,64,0,1,Away
+71872824,December 16 2023,RB Leipzig,TSG Hoffenheim,81,61.33333333,63.5,61.5,69,64.6,63,empty,3,1,Home
+c46446dd,December 17 2023,FC Bayern,VfB Stuttgart,81,65.2,62,70.66666667,69,66.8,68.75,66.66666667,3,0,Home
+bf792334,December 17 2023,SC Freiburg,FC Viktoria Koln,69,65.66666667,67.33333333,68,68,61.8,72.5,66.33333333,2,0,Home
+a0cd5a82,December 17 2023,Bayer Leverkusen,Eintracht Frankfurt,78,63.6,60.42857143,63,64,65.66666667,65,61.5,3,0,Home
+ac181d3a,05 December 19 2023,ASC Dortmund,FSV Mainz,62,64.5,67.75,74,63,66.5,66,64,1,1,Draw
+067ebd6d,98 December 19 2023,TSG Hoffenheim,Darmstadt 98,63,67.5,66,66.5,69,67.25,59.57142857,64.75,3,3,Draw
+be7a1a96,December 19 2023,Werder Bremen,RB Leipzig,63,60.28571429,63,64,68,63.25,67.33333333,64.5,1,1,Draw
+ece3d924,December 20 2023,Eintracht Frankfurt,Gladbach,70,65,66.5,83.5,69,71.75,68,71,2,1,Home
+1d712cc9,December 20 2023,FC Heidenheim,SC Freiburg,66,61.4,61.5,83.5,66,64.6,69.5,64.66666667,3,2,Home
+693808a8,December 20 2023,Bayer Leverkusen,VfL Bochum,62,70,73.66666667,70.66666667,62,64.5,64,70,4,0,Home
+479c1c3c,December 20 2023,VfB Stuttgart,FC Augsburg,69,72.4,75.33333333,71,69,68.2,73.5,62,3,0,Home
+4ca1cef3,December 20 2023,Union Berlin,FC Viktoria Koln,63,77.75,81,68.66666667,66,65,64,67,2,0,Home
+5ccedacd,December 20 2023,VfL Wolfsburg,FC Bayern,62,63.8,63.33333333,63,70,74.75,66.66666667,66.66666667,1,2,Away
+91371afd,January 12 2024,FC Bayern,TSG Hoffenheim,63,77.66666667,80.33333333,65,68,65.66666667,66,61,3,0,Home
+66fc4faa,January 13 2024,FC Augsburg,Bayer Leverkusen,78,65.66666667,67.33333333,67,69,64.5,65,65,0,1,Away
+4ec40540,98 January 13 2024,Darmstadt 98,ASC Dortmund,69,63.8,65,62,68,66.6,69.5,71,0,3,Away
+1b4e7c2f,January 13 2024,SC Freiburg,Union Berlin,81,61.4,61.5,65.5,66,63.4,69.75,59,0,0,Draw
+9bf98d14,January 13 2024,FC Viktoria Koln,FC Heidenheim,64,71.75,71.75,68,62,68,69,65,1,1,Draw
+f78fccc2,05 January 13 2024,FSV Mainz,VfL Wolfsburg,81,71.75,72.5,61.5,62,61.25,65,63,1,1,Draw
+1646b377,January 13 2024,RB Leipzig,Eintracht Frankfurt,70,64.4,66.5,68.25,69,68.2,64,65,0,1,Away
+48d916da,January 14 2024,VfL Bochum,Werder Bremen,64,63.75,64,65,63,61.4,66.2,84.25,1,1,Draw
+20f7e860,January 14 2024,Gladbach,VfB Stuttgart,63,70,72,73,81,64.5,64,66.5,3,1,Home
+853d1bc7,January 20 2024,VfL Bochum,VfB Stuttgart,66,60.14285714,63,74,68,63,65.66666667,63.5,1,0,Home
+262bec03,98 January 20 2024,Darmstadt 98,Eintracht Frankfurt,66,70,72,84.25,62,60.33333333,62.33333333,68,2,2,Draw
+81e30c5a,January 20 2024,SC Freiburg,TSG Hoffenheim,62,75,69.5,66.33333333,69,65.4,67.5,64,3,2,Home
+49675ada,January 20 2024,FC Heidenheim,VfL Wolfsburg,68,63.8,65,84.25,62,63.75,60.42857143,59.5,1,1,Draw
+7aed9153,January 20 2024,FC Viktoria Koln,ASC Dortmund,64,72.25,74,67,69,63.4,60,56,0,4,Away
+a56df31c,January 20 2024,RB Leipzig,Bayer Leverkusen,63,65.5,67.33333333,66.33333333,66,68.6,66,62.5,2,3,Away
+c6332d80,January 21 2024,FC Bayern,Werder Bremen,64,65,68.33333333,65,69,67.25,64,63,0,1,Away
+fa79d782,January 21 2024,Gladbach,FC Augsburg,81,65,65,74,63,69,64,64,1,2,Away
+549b837b,January 24 2024,FC Bayern,Union Berlin,64,73,74.5,71,62,63.5,65.66666667,56,1,0,Home
+5b7e9cd3,05 January 26 2024,Eintracht Frankfurt,FSV Mainz,69,66,66.5,68,66,73,66,59.33333333,1,0,Home
+40038184,January 27 2024,FC Augsburg,FC Bayern,62,64.5,65,63.33333333,63,63,66.25,70,2,3,Away
+c5e04de2,January 27 2024,TSG Hoffenheim,FC Heidenheim,70,71.75,74,70.5,69,74.4,68.5,63.33333333,1,1,Draw
+c7a2c8f1,January 27 2024,Bayer Leverkusen,Gladbach,63,63.8,65,61.5,68,66.75,74.5,64,0,0,Draw
+e0307b8a,January 27 2024,VfB Stuttgart,RB Leipzig,68,66.4,67.5,69,62,68,60.16666667,61.5,5,2,Home
+3490a176,January 27 2024,Werder Bremen,SC Freiburg,68,72.6,74,83.5,59,63.4,69.5,61.66666667,3,1,Home
+8d9dabda,January 27 2024,VfL Wolfsburg,FC Viktoria Koln,63,60.14285714,63,66.33333333,69,66.66666667,69,63,1,1,Draw
+d5fb6e78,January 28 2024,ASC Dortmund,VfL Bochum,78,68.75,66.25,68,69,67.5,67.6,68.25,3,1,Home
+94831b74,98 January 28 2024,Union Berlin,Darmstadt 98,64,61.4,62.33333333,69,62,63.4,64,71,1,0,Home
+6c075db6,February 2 2024,FC Heidenheim,ASC Dortmund,56,63,64,67,68,67.5,64.66666667,60,0,0,Draw
+8638e930,February 3 2024,FC Bayern,Gladbach,69,64.5,62.66666667,63.66666667,66,61.4,66,85.33333333,3,1,Home
+ed400d12,February 3 2024,VfL Bochum,FC Augsburg,63,62.75,64,71,81,68.4,64,63.5,1,1,Draw
+e290014d,98 February 3 2024,Darmstadt 98,Bayer Leverkusen,69,60.16666667,63,66.5,62,65,67,60,0,2,Away
+1caf6190,February 3 2024,SC Freiburg,VfB Stuttgart,63,72.4,74,64.66666667,56,73,61.5,64,1,3,Away
+ffa57b10,February 3 2024,FC Viktoria Koln,Eintracht Frankfurt,68,66.5,67,71,62,68.25,66.66666667,66.33333333,2,0,Home
+aac29d85,05 February 3 2024,FSV Mainz,Werder Bremen,63,63.8,64.33333333,66.33333333,68,63,65.75,68,0,1,Away
+ef553212,February 4 2024,RB Leipzig,Union Berlin,68,66,67.66666667,68,59,63.33333333,74.5,62,2,0,Home
+5832b0ba,February 4 2024,VfL Wolfsburg,TSG Hoffenheim,63,71.75,74.75,68,62,65,67.6,70,2,2,Draw
+b020c917,05 February 7 2024,FSV Mainz,Union Berlin,69,77.5,83,61.5,59,73.25,59.4,65,1,1,Draw
+d8ec709e,February 9 2024,ASC Dortmund,SC Freiburg,68,66,69.33333333,63,63,63.66666667,66.66666667,63,3,0,Home
+f1d93f2a,February 10 2024,FC Augsburg,RB Leipzig,64,73.8,74,63,69,66.75,65.75,63,2,2,Draw
+cad8b5cb,February 10 2024,Eintracht Frankfurt,VfL Bochum,62,73.66666667,75.33333333,63.33333333,63,62.75,74.5,71,1,1,Draw
+cb3e9794,February 10 2024,Bayer Leverkusen,FC Bayern,78,64.75,69.33333333,63.33333333,68,66.66666667,58.6,66,3,0,Home
+ca8e752c,98 February 10 2024,Gladbach,Darmstadt 98,81,62.5,64,65,69,66.25,66,60,0,0,Draw
+55c0668e,February 10 2024,Union Berlin,VfL Wolfsburg,70,60,63,60,66,68.25,63.5,69,1,0,Home
+0e7196f4,February 10 2024,Werder Bremen,FC Heidenheim,69,63.4,65,70.5,62,67.5,67.33333333,63,1,2,Away
+c5cb718a,February 11 2024,TSG Hoffenheim,FC Viktoria Koln,81,70.66666667,74.75,65.5,63,62.83333333,66.5,71,1,1,Draw
+8a942999,05 February 11 2024,VfB Stuttgart,FSV Mainz,62,66.14285714,69,66.33333333,66,63.8,67.4,60,3,1,Home
+23e6e69b,February 16 2024,FC Viktoria Koln,Werder Bremen,68,74,75.33333333,63.5,66,61.4,68.5,69.66666667,0,1,Away
+495996b3,98 February 17 2024,Darmstadt 98,VfB Stuttgart,63,72.5,72.4,73,59,67,59.6,64,1,2,Away
+dc9bd3f1,February 17 2024,FC Heidenheim,Bayer Leverkusen,64,59.83333333,63,79.5,62,67.4,64.33333333,68.25,1,2,Away
+1087676d,February 17 2024,TSG Hoffenheim,Union Berlin,64,65.75,65,67.5,62,68.25,59.25,65.5,0,1,Away
+09ef0419,05 February 17 2024,FSV Mainz,FC Augsburg,70,64,65.75,71.5,68,62.75,69,66,1,0,Home
+2562b3f2,February 17 2024,RB Leipzig,Gladbach,81,71.75,75,83.5,69,63.25,66.33333333,69,2,0,Home
+8834fb75,February 17 2024,VfL Wolfsburg,ASC Dortmund,68,67,66,63.5,62,66,66.75,60,1,1,Draw
+3729d74c,February 18 2024,VfL Bochum,FC Bayern,63,66,64.66666667,61.66666667,57,61.25,63.5,66.33333333,3,2,Home
+61bcf887,February 18 2024,SC Freiburg,Eintracht Frankfurt,70,72.4,74,61.5,64,64.6,65,65,3,3,Draw
+f1ee2f4d,05 February 23 2024,Bayer Leverkusen,FSV Mainz,63,68.6,66.33333333,66.33333333,63,65.25,66,64,2,1,Home
+2b197304,February 24 2024,FC Bayern,RB Leipzig,64,63.8,64.33333333,73,62,72.5,61.25,63,2,1,Home
+41a1026d,February 24 2024,Gladbach,VfL Bochum,69,75,80.33333333,66.5,69,63.4,64.66666667,65.5,5,2,Home
+5c9a36d8,February 24 2024,VfB Stuttgart,FC Viktoria Koln,68,63.25,63,78.5,69,63,69,62,1,1,Draw
+307bb1fe,98 February 24 2024,Werder Bremen,Darmstadt 98,69,60,60.25,68,62,66,72.75,61.5,1,1,Draw
+7619c72c,February 25 2024,FC Augsburg,SC Freiburg,69,71.75,75,61,68,67.5,64,72.5,2,1,Home
+9da49b22,February 25 2024,ASC Dortmund,TSG Hoffenheim,64,67.5,68.5,68,69,72.5,59.2,63,2,3,Away
+41a055f9,February 25 2024,Eintracht Frankfurt,VfL Wolfsburg,81,66,67.5,63,63,73.66666667,68,63,2,2,Draw
+fd3df072,March 1 2024,SC Freiburg,FC Bayern,68,72.6,75.33333333,72.33333333,63,65.5,67.4,64,2,2,Draw
+3d96e277,March 2 2024,VfL Bochum,RB Leipzig,63,62.6,63,72.5,62,68,74.5,71,1,4,Away
+fb8f1eb7,98 March 2 2024,Darmstadt 98,FC Augsburg,78,60.2,61.5,66.5,68,64.2,75.33333333,64,0,6,Away
+451ca624,March 2 2024,FC Heidenheim,Eintracht Frankfurt,62,60.4,61.25,74,62,63.4,67.5,60,1,2,Away
+7e9375f7,05 March 2 2024,FSV Mainz,Gladbach,70,64.66666667,64.66666667,65.5,66,68,66,65.5,1,1,Draw
+a5477209,March 2 2024,Union Berlin,ASC Dortmund,69,65,65.75,66.33333333,68,65.66666667,59.83333333,64,0,2,Away
+3a645dc5,March 2 2024,VfL Wolfsburg,VfB Stuttgart,68,68.4,66.33333333,83.5,69,67.5,64.5,71,2,3,Away
+1e6c5f41,March 3 2024,TSG Hoffenheim,Werder Bremen,63,63.8,64.33333333,62.25,68,75,67,83.5,2,1,Home
+45ef7b37,March 3 2024,FC Viktoria Koln,Bayer Leverkusen,63,71.5,75,59,81,68.4,68.33333333,63.5,0,2,Away
+cf9a3f12,March 8 2024,VfB Stuttgart,Union Berlin,68,72.4,75.33333333,73,62,65,67,72,2,0,Home
+f5e3c688,March 9 2024,FC Augsburg,FC Heidenheim,63,72.5,73.66666667,68.75,69,66.66666667,80.33333333,60,1,0,Home
+13642200,05 March 9 2024,FC Bayern,FSV Mainz,69,65.66666667,71.5,68,66,72.5,66.33333333,61.66666667,8,1,Home
+d2df2d6e,March 9 2024,Gladbach,FC Viktoria Koln,64,73.6,74,70.5,62,63.2,66.5,66,3,3,Draw
+c7a7fa1e,98 March 9 2024,RB Leipzig,Darmstadt 98,64,65.5,67.5,61.66666667,56,65.33333333,66.25,68,2,0,Home
+93f65055,March 9 2024,Werder Bremen,ASC Dortmund,69,64.6,66,59.33333333,70,63.4,73.6,69,1,2,Away
+a3e71105,March 10 2024,VfL Bochum,SC Freiburg,64,67.6,65.66666667,65,62,68,61,83.5,1,2,Away
+e64845a2,March 10 2024,Eintracht Frankfurt,TSG Hoffenheim,70,63.8,64.75,66.33333333,64,64.8,64,62.5,3,1,Home
+e496288a,March 10 2024,Bayer Leverkusen,VfL Wolfsburg,69,59,63,64.5,69,67.66666667,60,66.5,2,0,Home
+e1fbd27a,March 15 2024,FC Viktoria Koln,RB Leipzig,70,60.6,62.33333333,62.5,68,66.66666667,65.66666667,67.33333333,1,5,Away
+fbdd5729,98 March 16 2024,Darmstadt 98,FC Bayern,63,64.14285714,68,66.33333333,62,61.4,64,74,2,5,Away
+960bc764,March 16 2024,FC Heidenheim,Gladbach,56,72.5,75,72.66666667,68,63.4,66,62,1,1,Draw
+4ec68df2,March 16 2024,TSG Hoffenheim,VfB Stuttgart,64,72.5,74.5,68.5,62,65,66.25,62.6,0,3,Away
+df59d301,05 March 16 2024,FSV Mainz,VfL Bochum,63,79.33333333,80.33333333,72.33333333,68,68.4,61.5,63,2,0,Home
+bdb8f06f,March 16 2024,Union Berlin,Werder Bremen,63,64,65,66.5,66,65,60.16666667,72,2,1,Home
+20a7ebf0,March 16 2024,VfL Wolfsburg,FC Augsburg,70,60.6,63,74,69,67.5,65.75,67,1,3,Away
+fc260c9c,March 17 2024,ASC Dortmund,Eintracht Frankfurt,78,72.75,74,63.5,62,67.75,66,70,3,1,Home
+5b15a938,March 17 2024,SC Freiburg,Bayer Leverkusen,68,64.75,63.66666667,64.66666667,69,64,69.75,67.33333333,2,3,Away
+2214f825,March 30 2024,FC Bayern,ASC Dortmund,64,65.83333333,69.5,63,62,63.4,69,65,0,2,Away
+2c607fee,March 30 2024,Eintracht Frankfurt,Union Berlin,68,64.75,61.66666667,65,63,65.83333333,66,59,0,0,Draw
+c6837308,March 30 2024,Bayer Leverkusen,TSG Hoffenheim,63,74,73.5,59.5,66,65.6,63,63,2,1,Home
+ec7eb5c4,March 30 2024,Gladbach,SC Freiburg,69,61.4,61.5,63,63,66.75,60.16666667,64,0,3,Away
+bd8a352b,05 March 30 2024,RB Leipzig,FSV Mainz,64,70.75,73.66666667,68,69,66.66666667,69.5,66.5,0,0,Draw
+14145f04,March 30 2024,Werder Bremen,VfL Wolfsburg,70,72.75,74.5,72.33333333,68,63,67.33333333,66,0,2,Away
+01fc81d2,March 31 2024,FC Augsburg,FC Viktoria Koln,64,65.66666667,63.5,71,56,63,67,60,1,1,Draw
+9a5b5b37,98 March 31 2024,VfL Bochum,Darmstadt 98,64,59.57142857,60,81.75,69,73,66.66666667,62.6,2,2,Draw
+c2bf703c,March 31 2024,VfB Stuttgart,FC Heidenheim,63,72,73,63.6,68,64.2,63,63,3,3,Draw
+d488395d,April 5 2024,Eintracht Frankfurt,Werder Bremen,78,63.25,63.75,59.5,66,66.6,65.33333333,68,1,1,Draw
+7f40218d,April 6 2024,ASC Dortmund,VfB Stuttgart,68,63.5,63,68,70,64.75,73.33333333,63,0,1,Away
+007c65cc,April 6 2024,SC Freiburg,RB Leipzig,70,69.75,71.33333333,66.33333333,56,63.6,65.66666667,70,1,4,Away
+f162ca67,April 6 2024,FC Heidenheim,FC Bayern,63,75.8,79.66666667,68,59,64.5,69,68.75,3,2,Home
+d8652581,April 6 2024,FC Viktoria Koln,VfL Bochum,69,68.4,72,66.33333333,62,64.8,63.25,62,2,1,Home
+d905f8cf,05 98 April 6 2024,FSV Mainz,Darmstadt 98,64,71.4,71.5,79,62,67.25,65.75,65,4,0,Home
+8d50a0dc,April 6 2024,Union Berlin,Bayer Leverkusen,65,71.2,73.66666667,65,68,69.2,67.33333333,77.66666667,0,1,Away
+55760d88,April 7 2024,TSG Hoffenheim,FC Augsburg,69,72.6,72,69,76,63.5,64.66666667,72,3,1,Home
+48bbbaa4,April 7 2024,VfL Wolfsburg,Gladbach,78,75,73,71,66,64,68.6,62.5,1,3,Away
+77277650,April 12 2024,FC Augsburg,Union Berlin,76,63.16666667,63,61,70,69.2,70,65.5,2,0,Home
+40ea8291,April 13 2024,FC Bayern,FC Viktoria Koln,70,71.2,75,54.5,68,66,63.25,61,2,0,Home
+402ab1ff,April 13 2024,VfL Bochum,FC Heidenheim,68,71,75.25,71,66,65,65.33333333,66.33333333,1,1,Draw
+37ed39d6,April 13 2024,Gladbach,ASC Dortmund,78,75,73,62.5,65,72.6,70,67.5,1,2,Away
+dc48a914,April 13 2024,RB Leipzig,VfL Wolfsburg,80,63.25,63.75,61.33333333,64,70.5,69,74,3,0,Home
+50a48ffc,April 13 2024,VfB Stuttgart,Eintracht Frankfurt,59,69,69.5,63.4,68,63.6,63.25,65.5,3,0,Home
+4cb378dd,98 April 14 2024,Darmstadt 98,SC Freiburg,79,67.25,68.25,83,68,75.8,72.75,62,0,1,Away
+995e3537,April 14 2024,Bayer Leverkusen,Werder Bremen,70,66.5,66,72,59,64.2,72,66.5,5,0,Home
+b787871d,August 19 2023,Empoli,Hellas Verona,80,73,76.33333333,69,68,70.6,66.75,68,0,1,Away
+305afcf5,August 19 2023,Frosinone,Napoli,57,63.6,62.75,72.5,68,63.6,79.66666667,66,1,3,Away
+8260e428,August 19 2023,Genoa,Fiorentina,63,63.25,65.5,65.4,70,66,68.33333333,65.5,1,4,Away
+254420f7,August 19 2023,Internazionale,Monza,68,75,73,79,68,63.4,72.25,65.4,2,0,Home
+3e38d727,August 20 2023,Lecce,Lazio,66,63.2,65.33333333,66,69,73,65.33333333,75.33333333,2,1,Home
+9191f715,August 20 2023,AS Roma,Salernitana,76,71.2,74.75,72.5,76,64.2,69,62.33333333,2,2,Draw
+32dc37db,August 20 2023,Sassuolo,Atalanta,59,68.25,68.25,69,65,74.6,63,83,0,2,Away
+8b6e8a62,August 20 2023,Udinese,Juventus,66,70.25,72,79,78,75.8,76.33333333,66,0,3,Away
+93dccf6e,August 21 2023,Bologna,AC Milan,80,63.5,63.25,62.5,64,63,68.33333333,69,0,2,Away
+fdc03e7f,August 21 2023,Torino,Cagliari,68,62,63.5,61.83333333,70,69.2,72,65.75,0,0,Draw
+0b355cdd,August 26 2023,Frosinone,Atalanta,79,68.8,66,73.5,65,72,79.66666667,66,2,1,Home
+3c6a9d3d,August 26 2023,Hellas Verona,AS Roma,68,65,62.33333333,72,70,76.4,65.25,65,2,1,Home
+4cc2731e,August 26 2023,AC Milan,Torino,76,66.5,66,77.66666667,59,70.25,68.25,80.33333333,4,1,Home
+3d880bc3,August 26 2023,Monza,Empoli,65,65.6,65.33333333,62,76,64.8,75,66,2,0,Home
+d179c57a,August 27 2023,Fiorentina,Lecce,63,73.5,73,65,64,69,79.66666667,68.5,2,2,Draw
+6992283e,August 27 2023,Juventus,Bologna,63,74.6,72,79,69,63.6,72,83,1,1,Draw
+e7878318,August 27 2023,Lazio,Genoa,68,62.8,62.33333333,65,78,66,68.33333333,62,0,1,Away
+4401df22,August 27 2023,Napoli,Sassuolo,66,71,74.75,72,66,62,68.75,70,2,0,Home
+631e94b3,August 28 2023,Cagliari,Internazionale,66,63.5,63,72,68,64.2,66,83,0,2,Away
+767c80b3,August 28 2023,Salernitana,Udinese,80,65,62.33333333,75.33333333,76,69.4,69,83,1,1,Draw
+03e9b7f3,September 1 2023,AS Roma,AC Milan,78,71.2,74.25,66,78,62.75,62.75,75.33333333,1,2,Away
+ebe46174,September 1 2023,Sassuolo,Hellas Verona,59,66.75,69.25,64,76,63.6,65.33333333,66,3,1,Home
+6e72c38b,September 2 2023,Atalanta,Monza,79,63.6,64,61.83333333,64,65.4,66.33333333,61.66666667,3,0,Home
+1b8aeae3,September 2 2023,Bologna,Cagliari,65,65.6,65.33333333,65,69,64.2,62.75,65.75,2,1,Home
+2c2145a0,September 2 2023,Napoli,Lazio,68,64,63.66666667,72,63,63.6,64.5,66,1,2,Away
+6a639449,September 2 2023,Udinese,Frosinone,70,68.2,73.33333333,72,57,62.8,69,62,0,0,Draw
+b14694a6,September 3 2023,Empoli,Juventus,68,72,71.33333333,79,63,72,65.25,65.5,0,2,Away
+c59bb445,September 3 2023,Internazionale,Fiorentina,66,74.6,72,68.5,68,76.8,66,69,4,0,Home
+79dc2417,September 3 2023,Lecce,Salernitana,66,71.2,74.75,64,68,69.4,62.33333333,65,2,0,Home
+83d4ffcd,September 3 2023,Torino,Genoa,65,68.25,69.25,75,68,65,76.33333333,63,1,0,Home
+528f1128,September 16 2023,Genoa,Napoli,76,63.25,63,64.33333333,66,64.25,77.66666667,66,2,2,Draw
+10a39d69,September 16 2023,Internazionale,AC Milan,66,71.2,74.75,65,70,63,66.66666667,69,5,1,Home
+b3226234,September 16 2023,Juventus,Lazio,78,68.6,65.4,79,68,63.6,67.33333333,65.75,3,1,Home
+3ac89aa7,September 17 2023,Cagliari,Udinese,79,73.6,72.75,72,63,64.2,63.75,63,0,0,Draw
+2a18afe9,September 17 2023,Fiorentina,Atalanta,68,74.25,72.25,62,59,64.5,63.5,79.66666667,3,2,Home
+f3fd4b8a,September 17 2023,Frosinone,Sassuolo,63,62,63,72,76,69.4,64.5,83,4,2,Home
+3cf257a0,September 17 2023,Monza,Lecce,70,70,74,65,78,65,65.33333333,69,1,1,Draw
+f164bc78,September 17 2023,AS Roma,Empoli,69,76.4,79.66666667,70.25,68,64,66,66,7,0,Home
+2e114c4b,September 18 2023,Hellas Verona,Bologna,78,70.5,72.66666667,79,64,65.4,69,65,0,0,Draw
+a9334418,September 18 2023,Salernitana,Torino,66,72,76.33333333,68.5,68,65.6,65.33333333,65,0,3,Away
+c66e200a,September 22 2023,Lecce,Genoa,63,71,71.66666667,75,59,72,63.66666667,63,1,0,Home
+da7586b5,September 22 2023,Salernitana,Frosinone,79,71.2,75.25,72,66,70.25,65.33333333,65.5,1,1,Draw
+5778b5c6,September 23 2023,Lazio,Monza,78,65.75,67,62,68,62.75,69,71,1,1,Draw
+bbc5eb68,September 23 2023,AC Milan,Hellas Verona,76,65,63.5,79,65,74.4,76.33333333,69,1,0,Home
+14cf8fd1,September 23 2023,Sassuolo,Juventus,76,74.5,72.66666667,64.25,68,62.5,74,66,4,2,Home
+915c6bb6,September 24 2023,Atalanta,Cagliari,69,75.2,76.33333333,67.25,64,64,62.25,64.33333333,2,0,Home
+17137b70,September 24 2023,Bologna,Napoli,70,71,74.75,73.5,65,65,72.75,72,0,0,Draw
+8d6212de,September 24 2023,Empoli,Internazionale,68,65,69,59,66,70,63,66,0,1,Away
+fdd625ef,September 24 2023,Torino,AS Roma,68,71.25,74.2,75,70,63.6,64,73,1,1,Draw
+a7ffc8e0,September 24 2023,Udinese,Fiorentina,80,65.2,67,83,76,66.4,67,73.66666667,0,2,Away
+eb1af48a,September 26 2023,Juventus,Lecce,78,63,62.5,75.33333333,76,64.25,71.66666667,66,1,0,Home
+520c6833,September 27 2023,Cagliari,AC Milan,79,66,69,80.33333333,66,65.16666667,65.33333333,66.5,1,3,Away
+46a8983c,September 27 2023,Empoli,Salernitana,68,62.75,65,63.4,78,77.2,67.33333333,64,1,0,Home
+3e492e66,September 27 2023,Hellas Verona,Atalanta,70,65,62.75,79,63,68.75,64,63.33333333,0,1,Away
+e70ac4b1,September 27 2023,Internazionale,Sassuolo,66,74.25,71,72.33333333,65,61.4,67,65.5,1,2,Away
+69d105e3,September 27 2023,Lazio,Torino,59,65.75,69.25,65,64,62.25,79.66666667,63.6,2,0,Home
+464aa9ae,September 27 2023,Napoli,Udinese,70,73.66666667,72,79,69,70.25,68,65.75,4,1,Home
+c8e4b03a,September 28 2023,Frosinone,Fiorentina,68,71.25,73,74,65,63.5,62.75,69,1,1,Draw
+44c33847,September 28 2023,Genoa,AS Roma,68,64.25,63.25,75,68,72,65,69.25,4,1,Home
+9a8e6c44,September 28 2023,Monza,Bologna,80,71.2,73.25,73.5,65,73,74,74,0,0,Draw
+4c10f199,September 30 2023,Lecce,Napoli,68,66.6,66.75,79,66,62.2,64.25,83,0,4,Away
+a315e1cc,September 30 2023,AC Milan,Lazio,78,70,71.66666667,72,78,68.75,76.33333333,70,2,0,Home
+276d542d,September 30 2023,Salernitana,Internazionale,70,63.2,64,62,68,65.4,73.33333333,64,0,4,Away
+13a50e02,October 1 2023,Atalanta,Juventus,65,68.4,74,66,62,72.5,64,66,0,0,Draw
+8f129029,October 1 2023,Bologna,Empoli,79,76,79.66666667,66,68,65.2,67.2,73.66666667,3,0,Home
+0133f321,October 1 2023,AS Roma,Frosinone,70,71,74,65,76,64.25,67,66,2,0,Home
+507d7e86,October 1 2023,Udinese,Genoa,69,72.75,71,70,66,70,76.5,80.33333333,2,2,Draw
+7dd8d98a,October 2 2023,Fiorentina,Cagliari,68,71.25,71.75,73.5,76,64.2,67,76.33333333,3,0,Home
+13b84a7a,October 2 2023,Sassuolo,Monza,76,63.75,61.8,62.66666667,76,63.6,65.75,65.4,0,1,Away
+ea8ff4b0,October 2 2023,Torino,Hellas Verona,78,62.5,63.5,79,65,72.5,71.66666667,64,0,0,Draw
+26509ebd,October 6 2023,Lecce,Sassuolo,79,65,63,66,68,68.8,69,68,1,1,Draw
+3bd415eb,October 7 2023,Genoa,AC Milan,60,66,67,72,59,64.75,66,71.5,0,1,Away
+b46d0026,October 7 2023,Internazionale,Bologna,70,63.8,65.33333333,66,78,64,76.5,66,2,2,Draw
+1d1f902c,October 7 2023,Juventus,Torino,62,65,63,68,70,77.2,64,66,2,0,Home
+604ceaa0,October 8 2023,Cagliari,AS Roma,63,64.5,70,66.5,61,64.6,65,63.4,1,4,Away
+ea945c75,October 8 2023,Frosinone,Hellas Verona,68,63.75,61.8,66.66666667,69,73,63.33333333,64.5,2,1,Home
+c0603b97,October 8 2023,Lazio,Atalanta,66,70.8,72.75,83,64,62.5,79.66666667,66,3,2,Home
+d0fdea52,October 8 2023,Monza,Salernitana,68,66,66.75,73.5,66,68.4,67.5,74,3,0,Home
+2cc7a7ed,October 8 2023,Napoli,Fiorentina,68,74.75,71.33333333,79,78,68.4,74.33333333,66,1,3,Away
+a4d889b8,October 21 2023,Hellas Verona,Napoli,68,70.6,75,74,68,76.4,63.5,71,1,3,Away
+b756439f,October 21 2023,Sassuolo,Lazio,62,71,71.66666667,66,65,64.6,74,63.33333333,0,2,Away
+e8141133,October 21 2023,Torino,Internazionale,70,67.25,70,64,65,64.25,74,83,0,3,Away
+045aca2a,October 22 2023,Atalanta,Genoa,70,71.2,75,65,78,65.8,79.66666667,64,2,0,Home
+bea57463,October 22 2023,AC Milan,Juventus,80,72.75,71.33333333,72,64,73.2,67.5,76.33333333,0,1,Away
+87563b45,October 22 2023,AS Roma,Monza,79,73,76.33333333,63,76,66.6,65.33333333,64,1,0,Home
+6635e569,October 22 2023,Salernitana,Cagliari,69,63,62.2,65,63,64.75,66,70.75,2,2,Draw
+e961a763,October 23 2023,Fiorentina,Empoli,68,70.25,65,73.5,76,64.75,73.66666667,66.66666667,0,2,Away
+cd802be7,October 23 2023,Udinese,Lecce,79,63.8,65.66666667,66,76,69.25,66.75,83,1,1,Draw
+7f1d09c9,October 27 2023,Genoa,Salernitana,80,71,72.8,79,78,63.6,62.33333333,64,1,0,Home
+0c01fc2f,October 28 2023,Juventus,Hellas Verona,76,63.33333333,63,66,64,64.75,63.66666667,64,1,0,Home
+8fe12227,October 28 2023,Lecce,Torino,62,64.75,65,79,66,73,68,74,0,1,Away
+4f7ed7cb,October 28 2023,Sassuolo,Bologna,69,65.4,65.33333333,73.5,66,64.75,64.33333333,74,1,1,Draw
+0272be62,October 29 2023,Cagliari,Frosinone,68,63.5,63.66666667,63.6,78,69.5,64.5,66,4,3,Home
+027a1ba2,October 29 2023,Internazionale,AS Roma,70,63.75,63,73.5,70,71,71.5,65,1,0,Home
+70a51fa4,October 29 2023,Monza,Udinese,63,75,70.5,73.5,68,76.4,62.75,62.66666667,1,1,Draw
+ede9d5b8,October 29 2023,Napoli,AC Milan,65,66,66,76.66666667,65,68.4,68.5,69,2,2,Draw
+6e46ce92,October 30 2023,Empoli,Atalanta,66,68.25,70,76.33333333,68,73,67,63,0,3,Away
+624e865d,October 30 2023,Lazio,Fiorentina,66,64.4,63.66666667,66,68,65,79.66666667,67.75,1,0,Home
+f1f6882a,November 3 2023,Bologna,Lazio,62,71,74.25,63.6,65,73,73.33333333,74,1,0,Home
+c8fcbfaf,November 4 2023,Atalanta,Internazionale,80,62.75,62.25,63,78,71,74.66666667,64.5,1,2,Away
+8a7a42ac,November 4 2023,AC Milan,Udinese,70,68.5,74,79,68,63.8,67.5,69,0,1,Away
+ab7a7fcd,November 4 2023,Salernitana,Napoli,68,70,74.25,62.5,68,65.4,76.33333333,63.4,0,2,Away
+56068b2c,November 5 2023,Cagliari,Genoa,65,75,70.75,71,69,62.6,71.66666667,83,2,1,Home
+8603814f,November 5 2023,Fiorentina,Juventus,70,67,71,68,78,64.2,65.5,67.5,0,1,Away
+128aed93,November 5 2023,Hellas Verona,Monza,63,63.2,63.33333333,64,76,73,69,72.66666667,1,3,Away
+4c1693f0,November 5 2023,AS Roma,Lecce,79,62.75,62.25,65,67,65,65.33333333,64,2,1,Home
+5dfc2507,November 6 2023,Frosinone,Empoli,79,64,63.33333333,80,64,69.5,66,76.33333333,2,1,Home
+d9d399b5,November 6 2023,Torino,Sassuolo,80,75.6,79.66666667,66,67,64.75,71,63.6,2,1,Home
+1aa2417e,November 10 2023,Genoa,Hellas Verona,76,71,75.25,73.5,69,65.2,67.33333333,61,1,0,Home
+3de0d6e2,November 10 2023,Sassuolo,Salernitana,62,68.25,67.8,64.5,61,67,68.5,66,2,2,Draw
+30bc4996,November 11 2023,Juventus,Cagliari,63,63,65,79,70,64,63.33333333,65.75,2,1,Home
+26587ad3,November 11 2023,Lecce,AC Milan,65,72.83333333,71,64,65,63.8,67,60,2,2,Draw
+2f8d44e3,November 11 2023,Monza,Torino,78,62.75,60.75,69.5,66,64.75,74,78,1,1,Draw
+0bdc5ea4,November 12 2023,Fiorentina,Bologna,70,63,63.33333333,75,78,72.75,63.33333333,64.5,2,1,Home
+93b6cf24,November 12 2023,Internazionale,Frosinone,68,74.5,72.75,73.5,64,63.6,65.5,69,2,0,Home
+1c159031,November 12 2023,Lazio,AS Roma,68,69.75,71.66666667,72,57,63.8,63.5,64.33333333,0,0,Draw
+c54b9d5c,November 12 2023,Napoli,Empoli,78,68.5,67.8,65,68,69.25,74.66666667,empty,0,1,Away
+df8d2100,November 12 2023,Udinese,Atalanta,63,75.6,79.66666667,64,66,72.75,65.33333333,69,1,1,Draw
+67af3925,November 25 2023,Atalanta,Napoli,62,71,74.25,63.66666667,76,71.25,67.5,66.33333333,1,2,Away
+875da0ea,November 25 2023,AC Milan,Fiorentina,80,61.75,65,83,65,68.75,68.5,62.66666667,1,0,Home
+0084ffeb,November 25 2023,Salernitana,Lazio,69,70.5,74.75,79,61,63.8,76.33333333,61,2,1,Home
+47ec2cb2,November 26 2023,Cagliari,Monza,68,74.16666667,73.33333333,74,68,69.25,74,64.5,1,1,Draw
+ff49299b,November 26 2023,Empoli,Sassuolo,78,74.5,72.75,64.66666667,76,64.8,74,80.33333333,3,4,Away
+1860d133,November 26 2023,Frosinone,Genoa,70,61.75,64.25,69.66666667,65,69.5,67.5,65.75,2,1,Home
+5d1039da,November 26 2023,Juventus,Internazionale,68,75,79.66666667,64,64,63.6,69.25,64,1,1,Draw
+2b8b1d61,November 26 2023,AS Roma,Udinese,79,64,62,64,68,63.6,66.75,69,3,1,Home
+a564e4e1,November 27 2023,Bologna,Torino,78,65.2,66.5,73.5,76,64.75,67,80.33333333,2,0,Home
+d50d93be,November 27 2023,Hellas Verona,Lecce,80,70.8,75.25,68.33333333,79,74.16666667,65.33333333,75,2,2,Draw
+54baa72c,December 1 2023,Monza,Juventus,68,68.25,69.2,60,76,65,64.66666667,75.33333333,1,2,Away
+0780d7e3,December 2 2023,Genoa,Empoli,78,63.8,62.25,83,64,72.75,63.33333333,67,1,1,Draw
+e8ae600f,December 2 2023,Lazio,Cagliari,65,63.33333333,62.2,79,68,69.25,70,69,1,0,Home
+c2a7440f,December 2 2023,AC Milan,Frosinone,66,66,67,66.5,70,68.25,63.75,66,3,1,Home
+d152da0e,December 3 2023,Fiorentina,Salernitana,70,64.25,62.66666667,72.5,69,63.5,73.66666667,68,3,0,Home
+5e47db9d,December 3 2023,Lecce,Bologna,68,63.75,62.75,68.5,61,68.75,68.5,65,1,1,Draw
+60106a8e,December 3 2023,Napoli,Internazionale,62,63.25,63,77.5,65,64.6,69.2,62.75,0,3,Away
+78393dd6,December 3 2023,Sassuolo,AS Roma,63,71.2,73.75,66.5,68,63.8,64.5,64.33333333,1,2,Away
+18868f08,December 3 2023,Udinese,Hellas Verona,66,69.5,69,83,78,66.8,71.66666667,68.5,3,3,Draw
+426a05d8,December 4 2023,Torino,Atalanta,65,75,79.66666667,64,68,65.2,69,64.5,3,0,Home
+f2ffde12,December 8 2023,Juventus,Napoli,62,73.75,72.33333333,70.66666667,76,64.25,66,80.33333333,1,0,Home
+0c234040,December 9 2023,Atalanta,AC Milan,63,64.5,65.33333333,79,68,64.5,74,69,3,2,Home
+5325a9b6,December 9 2023,Hellas Verona,Lazio,70,63,61.83333333,74,61,69,67.5,74,1,1,Draw
+26772f25,December 9 2023,Internazionale,Udinese,69,69.75,65.25,64,68,73.33333333,65.25,66.5,4,0,Home
+5f74c6e7,December 10 2023,Frosinone,Torino,78,74.5,75.33333333,64,76,63.5,65.33333333,75.33333333,0,0,Draw
+c46b68ad,December 10 2023,Monza,Genoa,80,66,67,71,70,65,69.2,66,1,0,Home
+ebfc4b5d,December 10 2023,AS Roma,Fiorentina,65,70.6,74.75,64,64,73,71.75,67,1,1,Draw
+1935ee01,December 10 2023,Salernitana,Bologna,64,64,62.5,63,76,64.2,64.33333333,72,1,2,Away
+9d5df4d8,December 11 2023,Cagliari,Sassuolo,69,63.2,63,62,70,69.5,63.5,66,2,1,Home
+a83df9d0,December 11 2023,Empoli,Lecce,80,73.8,79.66666667,69,61,73.8,76.33333333,65.5,1,1,Draw
+c95a31e6,December 15 2023,Genoa,Juventus,66,70.8,73,68.25,65,66.8,68.25,67,1,1,Draw
+9ca90d35,December 16 2023,Lecce,Frosinone,79,68.25,69.25,83,68,73,69.25,74,2,1,Home
+1b1b2ce1,December 16 2023,Napoli,Cagliari,65,69.75,67,79,78,63.25,79.66666667,61,2,1,Home
+d64c7b97,December 16 2023,Torino,Empoli,62,65.6,65.33333333,71,68,62.5,71.66666667,64.33333333,1,0,Home
+0562758e,December 17 2023,Bologna,AS Roma,78,64.33333333,62.8,65,68,64.25,76.33333333,64.5,2,0,Home
+182d1f9b,December 17 2023,Fiorentina,Hellas Verona,70,65.5,65,68.33333333,76,73.66666667,62.8,80.33333333,1,0,Home
+ebcc474c,December 17 2023,Lazio,Internazionale,68,70.75,74,79,64,64.5,60.75,67,0,2,Away
+5c1fc7a4,December 17 2023,AC Milan,Monza,69,63.5,61.75,68,68,64.2,65.75,67,3,0,Home
+2e9fcf23,December 17 2023,Udinese,Sassuolo,66,63.5,64.5,75,78,65.5,71.75,74.5,2,2,Draw
+ff7b7785,December 22 2023,Empoli,Lazio,65,70.8,74.25,66.5,76,65.5,65.66666667,70.75,0,2,Away
+9c0fc917,December 22 2023,Monza,Fiorentina,70,73,75.33333333,62,76,76,66,72.66666667,0,1,Away
+bdb5f23c,December 22 2023,Salernitana,AC Milan,79,68.25,67.4,74.5,68,65,67,64,2,2,Draw
+fc3e6bb7,December 22 2023,Sassuolo,Genoa,62,67.5,64,74,64,64.5,64.8,64,1,2,Away
+bf3695d0,December 23 2023,Bologna,Atalanta,68,65,63,69,61,63,79.66666667,61,1,0,Home
+44fc849f,December 23 2023,Frosinone,Juventus,70,62.25,65,68.33333333,78,70.6,63,65.33333333,1,2,Away
+bd8f8dc3,December 23 2023,Hellas Verona,Cagliari,80,63.8,63,68,65,62.6,65.33333333,71,2,0,Home
+a4100b39,December 23 2023,Internazionale,Lecce,68,70.25,71.33333333,66.5,63,68.8,63,67,2,0,Home
+b532dc3c,December 23 2023,AS Roma,Napoli,61,73,72.66666667,66,66,64,74.75,68,2,0,Home
+325f62dc,December 23 2023,Torino,Udinese,65,70,74.5,73.5,70,68.8,64.33333333,66,1,1,Draw
+af10add0,December 29 2023,Fiorentina,Torino,68,73.66666667,69,63,78,62.25,70,83,1,0,Home
+ce6440ec,December 29 2023,Genoa,Internazionale,62,73,73.33333333,66.5,68,65.5,66,64,1,1,Draw
+0127e76f,December 29 2023,Lazio,Frosinone,69,66.8,71.66666667,79,65,62.4,70,71,3,1,Home
+247f8cd7,December 29 2023,Napoli,Monza,80,64.8,66,79,64,63.4,64.25,63.33333333,0,0,Draw
+65cf973f,December 30 2023,Atalanta,Lecce,70,62,62.33333333,74,79,64.2,64.8,70,1,0,Home
+9baa497e,December 30 2023,Cagliari,Empoli,78,76.2,79.66666667,73.5,61,65,63.66666667,61,0,0,Draw
+c3c1ffd2,December 30 2023,Hellas Verona,Salernitana,67,73,69,66,68,70.2,63,69,0,1,Away
+d034386f,December 30 2023,Juventus,AS Roma,76,68.5,67,64.66666667,63,64.66666667,68.25,67,1,0,Home
+2441721c,December 30 2023,AC Milan,Sassuolo,66,69.5,70.66666667,64,68,63,62.75,69,1,0,Home
+9577ee17,December 30 2023,Udinese,Bologna,64,66.8,74,68,68,61.5,72.75,66.5,3,0,Home
+430b16c5,January 5 2024,Bologna,Genoa,78,72.25,72.66666667,79,57,64.2,63.75,66,1,1,Draw
+79f61c8a,January 6 2024,Frosinone,Monza,67,70.6,74.75,79,66,64.8,65.33333333,61,2,3,Away
+d238abdd,January 6 2024,Internazionale,Hellas Verona,68,73.6,71,65.33333333,62,64,63.66666667,64,2,1,Home
+77d540ef,January 6 2024,Lecce,Cagliari,69,67.25,73.4,76.33333333,63,65,68.25,67,1,1,Draw
+729b1cb3,January 6 2024,Sassuolo,Fiorentina,76,72.25,72.66666667,69,68,62.25,69,65,1,0,Home
+84fd252a,January 7 2024,Empoli,AC Milan,80,62.5,62.66666667,70.66666667,63,69.5,63,79,0,3,Away
+6d865e81,January 7 2024,AS Roma,Atalanta,79,63.2,63,62,65,64.2,62.75,66,1,1,Draw
+e74d3589,January 7 2024,Salernitana,Juventus,78,74.16666667,69.25,83,65,72.83333333,64.25,71,1,2,Away
+6dd86ed1,January 7 2024,Torino,Napoli,70,64.25,66,75.33333333,68,66.75,68.25,62.66666667,3,0,Home
+65d51821,January 7 2024,Udinese,Lazio,80,62.83333333,63,66.5,63,75,68.33333333,67,1,2,Away
+6b9bc82f,January 13 2024,Genoa,Torino,64,70.6,74,68.33333333,57,65,71.5,66,0,0,Draw
+1e1a6ee6,January 13 2024,Hellas Verona,Empoli,62,62.5,62,70.25,65,61.5,66,66,2,1,Home
+f42d4375,January 13 2024,Monza,Internazionale,78,72.25,72.66666667,79,68,72.4,73.66666667,65,1,5,Away
+4481a44c,January 13 2024,Napoli,Salernitana,66,68.75,71.66666667,72,66,61.8,62.66666667,61,2,1,Home
+91852b28,January 14 2024,Cagliari,Bologna,62,64.2,65,65.33333333,68,62,64.4,69,2,1,Home
+b52c1e88,January 14 2024,Fiorentina,Udinese,79,64.5,63,79,63,65,72,66,2,2,Draw
+945c196b,January 14 2024,Lazio,Lecce,64,70.25,73.33333333,79,78,63.75,65.33333333,68,1,0,Home
+3877f7ac,January 14 2024,AC Milan,AS Roma,80,66.4,65.5,62.66666667,68,65,65.33333333,74,3,1,Home
+fb9c9cdb,January 15 2024,Atalanta,Frosinone,69,70.25,74,64,78,64.5,62.66666667,83,5,0,Home
+a5520dc8,January 16 2024,Juventus,Sassuolo,66,69,70.66666667,65.33333333,68,63.75,62.33333333,64.66666667,3,0,Home
+4979e519,January 20 2024,AS Roma,Hellas Verona,65,68.25,66,72,68,70.25,67,61,2,1,Home
+5bfc3571,January 20 2024,Udinese,AC Milan,76,62.5,62,64,67,74.16666667,63.16666667,74,2,3,Away
+57d1e07a,January 21 2024,Empoli,Monza,70,72.25,72.66666667,71,65,73,66,62.75,3,0,Home
+b6ac3781,January 21 2024,Frosinone,Cagliari,70,66.4,65.33333333,62.66666667,66,67,74,61,3,1,Home
+5faf15cc,January 21 2024,Lecce,Juventus,69,70.6,73.25,79,68,62,71.75,65,0,3,Away
+9513979f,January 21 2024,Salernitana,Genoa,68,76.8,79.66666667,68.33333333,65,70,73.66666667,66,1,2,Away
+94279bcd,January 26 2024,Cagliari,Torino,64,61,64.4,72,66,76.8,68.25,72,1,2,Away
+8d8d45e1,January 27 2024,Atalanta,Udinese,80,60.4,65.25,66.5,65,66.6,65.25,66.5,2,0,Home
+ae33c4fb,January 27 2024,Juventus,Empoli,70,62.75,62,71,63,64.5,73.33333333,66,1,1,Draw
+0956366b,January 27 2024,AC Milan,Bologna,79,63.4,62.75,66,76,64.33333333,79.66666667,71,2,2,Draw
+102c1e1a,January 28 2024,Fiorentina,Internazionale,78,67.75,74.6,79,78,64.25,69.33333333,65.33333333,0,1,Away
+73b5dbc0,January 28 2024,Genoa,Lecce,68,63.75,63.5,68.33333333,67,64.5,62.66666667,75.33333333,2,1,Home
+4d9bfc36,January 28 2024,Hellas Verona,Frosinone,66,68.25,68.75,74,68,63.2,63.2,69,1,1,Draw
+5f2e86f8,January 28 2024,Lazio,Napoli,64,70.25,69.5,62.66666667,66,69.75,66,69,0,0,Draw
+16c39caa,January 28 2024,Monza,Sassuolo,62,70.6,73.75,79,76,59.6,65.33333333,72.66666667,1,0,Home
+d0918b41,January 29 2024,Salernitana,AS Roma,70,61.5,64.75,65,78,65,68.33333333,83,1,2,Away
+28d15df1,February 2 2024,Lecce,Fiorentina,65,72.16666667,76.5,70,68,61.6,71.33333333,69,3,2,Home
+6b5e4d06,February 3 2024,Bologna,Sassuolo,68,68.25,70,83,68,72.66666667,66.33333333,65,4,2,Home
+fdc54c79,February 3 2024,Empoli,Genoa,69,75.4,79.66666667,61,65,71.75,70,66.5,0,0,Draw
+14c72d2c,February 3 2024,Frosinone,AC Milan,68,64.75,63.25,62,66,69.75,63.5,72,2,3,Away
+31094073,February 3 2024,Udinese,Monza,68,70.4,74.25,62.66666667,70,64.5,71.75,65.33333333,0,0,Draw
+839bed1a,February 4 2024,Atalanta,Lazio,78,61.5,63.8,64,63,67,76.5,66,3,1,Home
+df2030e2,February 4 2024,Internazionale,Juventus,61,64.8,66.5,79,69,64.5,69.5,63.6,1,0,Home
+9333828d,February 4 2024,Napoli,Hellas Verona,78,62.5,62,68.5,66,63.2,62.75,65.5,2,1,Home
+0aa345fd,February 4 2024,Torino,Salernitana,68,68,71.25,73.5,68,65,73.33333333,67,0,0,Draw
+41f47040,February 9 2024,Salernitana,Empoli,79,68.25,66.5,64.5,65,61.5,66.75,62.33333333,1,3,Away
+c058cdf4,February 10 2024,Cagliari,Lazio,68,72,72.5,72,78,63.2,68.33333333,65.33333333,1,3,Away
+7d4cb549,February 10 2024,AS Roma,Internazionale,66,65,62.5,62,76,61,69,73.75,2,4,Away
+44120e9d,February 10 2024,Sassuolo,Torino,64,70,73.33333333,68,69,61.8,64.25,64.5,1,1,Draw
+50fb8ad3,February 11 2024,Bologna,Lecce,63,68.25,68,73.5,65,70.25,68.33333333,66.5,4,0,Home
+6d37f665,February 11 2024,Fiorentina,Frosinone,68,64.8,66.5,83,76,73,66,70,5,1,Home
+af2e9e84,February 11 2024,Genoa,Atalanta,80,64.5,66.75,65,70,63.25,65.33333333,65,1,4,Away
+5cba7c58,February 11 2024,Monza,Hellas Verona,62,62.5,63,70,63,70.6,76.33333333,66,0,0,Draw
+70d80153,February 12 2024,Juventus,Udinese,76,65,62.5,61,68,70.5,76.5,69,0,1,Away
+218232ce,February 14 2024,Bologna,Fiorentina,68,64,63.66666667,70.66666667,68,65,63.33333333,62,2,0,Home
+19a73f2f,February 16 2024,Internazionale,Salernitana,66,74,73.66666667,62.66666667,63,76.2,74.75,66,4,0,Home
+adbef025,February 16 2024,Torino,Lecce,70,72,73,73,66,61.8,73.33333333,63,2,0,Home
+1e203a3e,February 17 2024,Atalanta,Sassuolo,64,69.75,72.5,73.5,65,70,65.66666667,62,3,0,Home
+b690885f,February 17 2024,Hellas Verona,Juventus,62,71.4,75.25,70,76,65.25,75.66666667,79.66666667,2,2,Draw
+bf05bb55,February 17 2024,Napoli,Genoa,59,70.4,74.25,65,78,67.8,65,78,1,1,Draw
+802e40b2,February 18 2024,Empoli,Fiorentina,64,73,76.5,72.66666667,68,64.6,73.66666667,64.66666667,1,1,Draw
+ea07d8c6,February 18 2024,Frosinone,AS Roma,80,71.5,73,73.5,79,68.25,66,70,0,3,Away
+c79de8a0,February 18 2024,Lazio,Bologna,69,71,74.6,70.66666667,76,62.5,69,72.66666667,1,2,Away
+c735ea6b,February 18 2024,Monza,AC Milan,63,69.75,72.5,65,68,65,65.33333333,69,4,2,Home
+8b73e145,February 18 2024,Udinese,Cagliari,79,63,65.5,63,78,64,68,78.5,1,1,Draw
+e7598003,February 22 2024,Torino,Lazio,76,71.2,73.75,65,65,73,63,62.33333333,0,2,Away
+35d4984a,February 23 2024,Bologna,Hellas Verona,80,65,62.5,66,76,75.8,62.33333333,73.66666667,2,0,Home
+e0b0bdc5,February 24 2024,Genoa,Udinese,63,63.75,63,78,70,67.8,65.33333333,65,2,0,Home
+9eb1114c,February 24 2024,Salernitana,Monza,69,61,64,79,68,73.8,76.5,69,0,2,Away
+fd1c0d24,February 24 2024,Sassuolo,Empoli,66,71.75,68,64.5,63,63.5,75.66666667,66,2,3,Away
+9809e688,February 25 2024,Cagliari,Napoli,68,64.8,66.5,67,68,64.5,64.66666667,73.5,1,1,Draw
+21134622,February 25 2024,Juventus,Frosinone,62,72,76.33333333,70,64,64,79.66666667,62,3,2,Home
+e65f6ac6,February 25 2024,Lecce,Internazionale,59,68.25,70,77.5,68,69.75,65.75,65,0,4,Away
+030a751b,February 25 2024,AC Milan,Atalanta,68,64.8,62.5,79,65,74.4,64.75,71,1,1,Draw
+76d3d638,February 26 2024,Fiorentina,Lazio,78,63.75,65.33333333,79,76,65,64.33333333,77.5,2,1,Home
+60c4d8af,February 26 2024,AS Roma,Torino,66,63.75,63.66666667,64.5,78,62.5,70.33333333,78,3,2,Home
+70446f62,February 28 2024,Internazionale,Atalanta,76,71.25,73.4,62.5,68,64.25,68.5,67,4,0,Home
+3019b840,February 28 2024,Sassuolo,Napoli,68,70.2,74.25,75,78,62,63.33333333,74,1,6,Away
+2c7b2e0f,March 1 2024,Lazio,AC Milan,62,61,64.4,65,66,70.25,62,62.5,0,1,Away
+d4ae6c82,March 2 2024,Monza,AS Roma,66,75,75.33333333,66,70,64.5,64.5,65,1,4,Away
+576d1e86,March 2 2024,Torino,Fiorentina,65,69.5,72,61,65,64,63,66.33333333,0,0,Draw
+9b628018,March 2 2024,Udinese,Salernitana,63,68,67.6,69.66666667,69,64.25,73.33333333,63.6,1,1,Draw
+27aab55a,March 3 2024,Atalanta,Bologna,79,64.25,63,70.66666667,78,61,63.5,67.25,1,2,Away
+af92650d,March 3 2024,Empoli,Cagliari,68,63.4,62.33333333,80.33333333,68,73,65.5,65,0,1,Away
+0960e2c8,March 3 2024,Frosinone,Lecce,80,65,63.66666667,70,64,74.16666667,66,63,1,1,Draw
+90141069,March 3 2024,Hellas Verona,Sassuolo,76,67.8,65.66666667,64,63,63,64.4,66,1,0,Home
+51db492f,March 3 2024,Napoli,Juventus,68,74.75,75.33333333,70.66666667,64,69.2,76.5,63,2,1,Home
+c4577218,March 4 2024,Internazionale,Genoa,65,76.8,79.66666667,66,61,64.4,70,75.33333333,2,1,Home
+9d189799,March 8 2024,Napoli,Torino,62,65,70.33333333,79,70,70,63,65,1,1,Draw
+de22618d,March 9 2024,Bologna,Internazionale,68,70.75,72.6,72,61,73,63.75,62.5,0,1,Away
+446ec5e0,March 9 2024,Cagliari,Salernitana,68,72.75,74.25,61,63,69.5,66.5,66,4,2,Home
+f8dba673,March 9 2024,Genoa,Monza,80,64,63.33333333,72.33333333,68,62.8,69.5,61,2,3,Away
+def050b8,March 9 2024,Sassuolo,Frosinone,78,71.6,72,75.33333333,76,62.2,76.5,74.5,1,0,Home
+363812cb,March 10 2024,Fiorentina,AS Roma,66,69.4,73,66,78,76.8,68.25,68.5,2,2,Draw
+b18f50f9,March 10 2024,Juventus,Atalanta,63,64.5,65.6,66,65,64.4,65.33333333,66.33333333,2,2,Draw
+d48f5312,March 10 2024,Lecce,Hellas Verona,80,67.5,70,62,69,65,64.66666667,65.4,0,1,Away
+11b229fa,March 10 2024,AC Milan,Empoli,65,64.8,62.5,64.66666667,66,64.5,79.66666667,70.66666667,1,0,Home
+b33bb354,March 11 2024,Lazio,Udinese,78,62,62.66666667,66,61,69.25,64,69,1,2,Away
+241bbdd3,March 15 2024,Empoli,Bologna,79,70.4,70.75,76.33333333,76,64,68.25,75.5,0,1,Away
+8ec58037,March 16 2024,Frosinone,Lazio,70,62.2,64.66666667,83,68,70,65,66,2,3,Away
+d2087228,March 16 2024,Monza,Cagliari,61,63.25,63.25,69.5,61,65,68.25,61,1,0,Home
+4a8236bd,March 16 2024,Salernitana,Lecce,62,62,62.66666667,79,68,63.6,63.66666667,61,0,1,Away
+6309f668,March 16 2024,Udinese,Torino,64,73.75,71.33333333,80,64,61,71.33333333,83,0,2,Away
+73d4a95b,March 17 2024,Hellas Verona,AC Milan,63,70,74.6,66,68,74.16666667,62.4,64.66666667,1,3,Away
+3ea9e35f,March 17 2024,Internazionale,Napoli,65,69.8,75,66.5,63,73,63.66666667,66,1,1,Draw
+4406f8bc,March 17 2024,Juventus,Genoa,61,68.5,70,71,65,64,64,66.33333333,0,0,Draw
+a59ffc20,March 17 2024,AS Roma,Sassuolo,64,64.2,66.5,64,68,63,73.33333333,69,1,0,Home
+a9ac1dd4,March 30 2024,Fiorentina,AC Milan,80,69.75,65.25,69.5,68,64.5,76.33333333,64.5,1,2,Away
+949865c6,March 30 2024,Genoa,Frosinone,63,65.5,67,63.33333333,61,64.4,67,72.66666667,1,1,Draw
+2b4a58d1,March 30 2024,Lazio,Juventus,79,76.4,79.66666667,63,62,69.25,66,60,1,0,Home
+45e6d215,March 30 2024,Napoli,Atalanta,68,67.16666667,72.33333333,79,65,75,64.75,66,0,3,Away
+a797c77d,March 30 2024,Torino,Monza,66,68.25,67,62.25,68,73,63.66666667,61.5,1,0,Home
+b2dfb23d,April 1 2024,Bologna,Salernitana,69,62,63,61.5,78,63.5,68.25,68.5,3,0,Home
+f7d8a40e,April 1 2024,Cagliari,Hellas Verona,70,74.16666667,73.33333333,62.66666667,76,64,79.66666667,78.33333333,1,1,Draw
+58bfb9d7,April 1 2024,Internazionale,Empoli,78,62,63,79,63,61.5,76.33333333,65,2,0,Home
+e48fdc60,April 1 2024,Lecce,AS Roma,61,64,63.66666667,79,61,64.8,62.66666667,61.5,0,0,Draw
