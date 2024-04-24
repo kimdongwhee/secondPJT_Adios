@@ -16,7 +16,7 @@ import os
 #from dotenv import load_dotenv
 #load_dotenv()
 global myOpenAI_key
-#global myZenrows
+global myZenrows
 myOpenAI_key=st.secrets["myOpenAI"]
 myZenrows=st.secrets["myZenrows"]
 
