@@ -130,53 +130,56 @@ def summary_news(x):
     # └ length_function : 텍스트 길이 계산
     # └ is_separator_regex : 구분자를 정규 표현식으로 처리해야하는지에 대한 여부
     #웹사이트 내용 크롤링 후 chunk 단위로 분할
-    for i in range(10):
-        WebBaseLoader(x[i])
-        text_splitter = CharacterTextSplitter(
-            separator="\n\n",
-            chunk_size=25000,
-            chunk_overlap=2500,
-            length_function=len,
-            is_separator_regex=False
-        )
+    try:
+        for i in range(10):
+            WebBaseLoader(x[i])
+            text_splitter = CharacterTextSplitter(
+                separator="\n\n",
+                chunk_size=25000,
+                chunk_overlap=2500,
+                length_function=len,
+                is_separator_regex=False
+            )
 
-        docs = WebBaseLoader(x[i]).load_and_split(text_splitter)
+            docs = WebBaseLoader(x[i]).load_and_split(text_splitter)
 
-        #chunk 작업 단위 별 Template 지정
-        template = '''너는 유럽 축구리그의 모든 정보를 아는 축구 전문가야. 다음 내용을 한국어로 요약해줘:
-        {text}
-        '''
-        Kr_arrange_template = '''{text}
-        요약 결과는 다음과 같은 형식으로 작성해줘.
-        ------------------------------------------------------------------------------
-        \n(1) 기사제목 : 최대 20자
-        \n(2) 기사내용 : 기사 최대 두줄까지 요약한 내용
-        \n(3) 작성자 : 기사를 작성한 이름
-        \n(4) 작성일자 : (해당 기사가 등록된 년도, 월, 일) ex)yyyy-mm-dd
-        \n
-        ------------------------------------------------------------------------------
-        '''
+            #chunk 작업 단위 별 Template 지정
+            template = '''너는 유럽 축구리그의 모든 정보를 아는 축구 전문가야. 다음 내용을 한국어로 요약해줘:
+            {text}
+            '''
+            Kr_arrange_template = '''{text}
+            요약 결과는 다음과 같은 형식으로 작성해줘.
+            ------------------------------------------------------------------------------
+            \n(1) 기사제목 : 최대 20자
+            \n(2) 기사내용 : 기사 최대 두줄까지 요약한 내용
+            \n(3) 작성자 : 기사를 작성한 이름
+            \n(4) 작성일자 : (해당 기사가 등록된 년도, 월, 일) ex)yyyy-mm-dd
+            \n
+            ------------------------------------------------------------------------------
+            '''
 
-        # Prompt 템플릿
-        sub_prompt = PromptTemplate(template=template, input_variables=["text"])
-        last_prompt = PromptTemplate(template=Kr_arrange_template, input_variables=["text"])
+            # Prompt 템플릿
+            sub_prompt = PromptTemplate(template=template, input_variables=["text"])
+            last_prompt = PromptTemplate(template=Kr_arrange_template, input_variables=["text"])
 
-        # llm 모델 객체 생성
-        llm = ChatOpenAI(temperature = 0,
-                        model_name = "gpt-3.5-turbo-0125",
-                        api_key = myOpenAI_key)
-        
-        # 요약정의
-        chain = load_summarize_chain(
-            llm,
-            map_prompt=sub_prompt,
-            combine_prompt=last_prompt,
-            chain_type="map_reduce",
-            verbose=False
-        )
-        global final_contents
-        final_contents = chain.invoke(docs)
-        summary_results_list.append(final_contents)
+            # llm 모델 객체 생성
+            llm = ChatOpenAI(temperature = 0,
+                            model_name = "gpt-3.5-turbo-0125",
+                            api_key = OPENAI_API_KEY)
+            
+            # 요약정의
+            chain = load_summarize_chain(
+                llm,
+                map_prompt=sub_prompt,
+                combine_prompt=last_prompt,
+                chain_type="map_reduce",
+                verbose=False
+            )
+            global final_contents
+            final_contents = chain.invoke(docs)
+            summary_results_list.append(final_contents)
+    except ValueError:
+        pass
 
 #기본함수실행
 if __name__ == '__main__' :
