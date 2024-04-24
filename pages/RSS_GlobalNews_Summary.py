@@ -1,10 +1,9 @@
 #라이브러리 정의
 import streamlit as st
 import pandas as pd
+from streamlit_autorefresh import st_autorefresh
 from bs4 import BeautifulSoup 
-import schedule
 import requests
-import time
 from datetime import datetime
 from langchain_openai import ChatOpenAI
 from langchain_community.document_loaders import WebBaseLoader
@@ -197,7 +196,6 @@ st.markdown("Open AI 기반의 영국, 독일, 스페인, 이탈리아 축구리
 #Streamlit 바디
 st.markdown(f"업데이트 시간 : {update_time}")
 tab_1, tab_2, tab_3, tab_4 = st.tabs(["영국 축구 News📜", "독일 축구 News📜", "스페인 축구 News📜", "이탈리아 축구 News📜"])
-
 # └ 영국뉴스
 with tab_1:
     eng_title= eng_newsList
@@ -212,7 +210,6 @@ with tab_1:
         summary_news(eng_newsList_url)
         for v in range(len(summary_results_list)):
             st.markdown(summary_results_list[v]["output_text"])
-
 # └ 독일뉴스
 with tab_2:
     ger_title= ger_newsList
@@ -227,7 +224,6 @@ with tab_2:
         summary_news(ger_newsList_url)
         for v in range(len(summary_results_list)):
             st.markdown(summary_results_list[v]["output_text"])
-
 # └ 스페인뉴스
 with tab_3:
     spa_title= spa_newsList
@@ -242,7 +238,6 @@ with tab_3:
         summary_news(spa_newsList_url)
         for v in range(len(summary_results_list)):
             st.markdown(summary_results_list[v]["output_text"])
-
 # └ 이탈리아 뉴스
 with tab_4:
     ita_title= ita_newsList
