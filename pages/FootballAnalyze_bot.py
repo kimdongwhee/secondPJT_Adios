@@ -110,7 +110,7 @@ with tab_1:
 with tab_2:
     st.subheader(":two: Searching and Compare Player")
     # 골키퍼 데이터프레임
-    gkStatsDf=pd.read_csv('./useData/GK.csv',index_col=0,encoding='utf-16').\
+    gkStatsDf=pd.read_csv('./useData/GK_kshi.csv',index_col=0,encoding='utf-16').\
         drop(['player_position','player_overall','player_potential'],axis=1)
 
     # 선수이름 모두 영어로 변환
