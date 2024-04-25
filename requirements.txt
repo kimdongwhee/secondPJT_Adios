@@ -9,5 +9,5 @@ schedule
 streamlit_autorefresh
 unidecode
 plotly
-pysqlite3-binary
+pysqlite3
 chromadb
