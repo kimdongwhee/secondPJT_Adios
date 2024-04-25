@@ -492,7 +492,7 @@ with tab_2:
                 pass
 
 
-st.code('''#라이브러리
+code_source = '''#라이브러리
 import streamlit as st
 from streamlit_chat import message
 import requests
@@ -983,4 +983,5 @@ with tab_2:
                         width=600,height=600)
                     st.plotly_chart(fig_ngk_physical_1,use_container_width=True)
             except:
-                pass''')
+                pass'''
+st.code(code_source, language='python')
