@@ -17,4 +17,4 @@ tensorflow
 pyvis
 stvis
 joblib
-sklearn
+scikit-learn
