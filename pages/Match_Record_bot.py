@@ -29,7 +29,7 @@ myOpenAI_key = st.secrets["OPENAI_API_KEY"]
 st.set_page_config(layout="wide")
 tab_1, tab_2 = st.tabs(["Chat-bot", "Code"])
 with tab_1:
-    st.header("Match Record Bot🤖🧠🚀") #로봇_얼굴::뇌::앵귈라_섬_깃발::우주_침략자:
+    st.header("Match Record Ovis🤖🧠🚀") #로봇_얼굴::뇌::앵귈라_섬_깃발::우주_침략자:
     st.markdown("23/24년도 유럽 5대 리그 경기결과 관련 질의에 대한 답변이 가능한 챗봇 페이지")
     #Streamlit : 데이터 호출
     raw_data = pd.read_csv("./useData/matchResult_bot_data.csv")
