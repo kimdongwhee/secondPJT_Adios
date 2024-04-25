@@ -27,7 +27,7 @@ myOpenAI_key = st.secrets["OPENAI_API_KEY"]
 # myOpenAI_key = os.getenv("myOpenAI")
 #Streamlit : 헤더
 st.set_page_config(layout="wide")
-tab_1, tab2 = st.tabs(["Chat-bot", "Code"])
+tab_1, tab_2 = st.tabs(["Chat-bot", "Code"])
 with tab_1:
     st.header("Match Record Bot🤖🧠🚀") #로봇_얼굴::뇌::앵귈라_섬_깃발::우주_침략자:
     st.markdown("23/24년도 유럽 5대 리그 경기결과 관련 질의에 대한 답변이 가능한 챗봇 페이지")
@@ -88,6 +88,7 @@ with tab_1:
         #대화 히스토리 저장 영역
         if "messages" not in st.session_state:
             st.session_state["messages"] = []
+            
 with tab_2:
     source_code='''st.set_page_config(layout="wide")
 st.header("Match Record Bot🤖🧠🚀") #로봇_얼굴::뇌::앵귈라_섬_깃발::우주_침략자:
