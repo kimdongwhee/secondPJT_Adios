@@ -492,7 +492,8 @@ with tab_2:
                 pass
 
 
-code_source = '''#라이브러리
+code_source = '''
+#라이브러리
 import streamlit as st
 from streamlit_chat import message
 import requests
@@ -658,7 +659,7 @@ with tab_2:
                 # 골키핑 스탯 컨테이너
                 # 스탯 종류가 많아서 두 개 컬럼으로 나눠서 시각화
                 with st.container(border=True):
-                    st.markdown('''##### **Goalkeeping Stats**''')
+                    st.markdown("##### **Goalkeeping Stats**")
                     gk_categoryGoalkeeping=columnDict['GK']['GoalKeeping']
                     col1_1,col2_1=st.columns(2)
                     with col1_1:
@@ -722,7 +723,7 @@ with tab_2:
                 # 멘탈 스탯 컨테이너
                 # 골키핑 스탯과 같은 이유로 두 개 컬럼으로 나눠서 시각화
                 with st.container(border=True):
-                    st.markdown('''##### **Mental Stats**''')
+                    st.markdown('##### **Mental Stats**')
                     gk_categoryMental=columnDict['GK']['Mental']
                     col1_2,col2_2=st.columns(2)
                     with col1_2:
@@ -782,7 +783,7 @@ with tab_2:
                     gk_categoryTechnical=columnDict['GK']['Technical']
                     col1_3,col2_3=st.columns(2)
                     with col1_3:    # 피지컬 스탯 컬럼
-                        st.markdown('''##### **Physical Stats**''')
+                        st.markdown('##### **Physical Stats**')
                         gk_Physical_1=gkNameSelectedDf[[i for i in gk_categoryPhysical]].reset_index().drop('index',axis=1)
                         gk_Physical_1_mean=pd.DataFrame(gkStatsDf[gk_categoryPhysical].mean()).transpose()
                         fig_gk_physical_1=go.Figure()
@@ -806,7 +807,7 @@ with tab_2:
                         )
                         st.plotly_chart(fig_gk_physical_1,use_container_width=True)
                     with col2_3:    # 테크니컬 스탯 컬럼
-                        st.markdown('''##### **Technical Stats**''')
+                        st.markdown('##### **Technical Stats**')
                         gk_Technical_1=gkNameSelectedDf[[i for i in gk_categoryTechnical]].reset_index().drop('index',axis=1)
                         gk_Technical_1_mean=pd.DataFrame(gkStatsDf[gk_categoryTechnical].mean()).transpose()
                         fig_gk_technical_1=go.Figure()
@@ -849,7 +850,7 @@ with tab_2:
                 st.subheader(f"{nkeeperName} vs Mean")
                 # 테크니컬 스탯 컨테이너
                 with st.container(border=True):
-                    st.markdown('''##### **Technical Stats**''')
+                    st.markdown('##### **Technical Stats**')
                     ngk_categoryTechnical=columnDict['nGK']['Technical']
                     col3_1,col4_1=st.columns(2)
                     with col3_1:
@@ -904,7 +905,7 @@ with tab_2:
                 
                 # 멘탈 스탯 컨테이너
                 with st.container(border=True):
-                    st.markdown('''##### **Mental Stats**''')
+                    st.markdown('##### **Mental Stats**''
                     ngk_categoryMental=columnDict['nGK']['Mental']
                     col3_2,col4_2=st.columns(2)
                     with col3_2:
@@ -960,7 +961,7 @@ with tab_2:
                 # 피지컬 스탯 컨테이너
                 with st.container(border=True):
                     ngk_categoryPhysical=columnDict['nGK']['Physical']
-                    st.markdown('''##### **Physical Stats**''')
+                    st.markdown('##### **Physical Stats**')
                     ngk_Physical_1=ngkNameSelectedDf[[i for i in ngk_categoryPhysical]].reset_index().drop('index',axis=1)
                     ngk_Physical_1_mean=pd.DataFrame(ngkStatsDf[ngk_categoryPhysical].mean()).transpose()
                     fig_ngk_physical_1=go.Figure()
