@@ -9,3 +9,4 @@ schedule
 streamlit_autorefresh
 unidecode
 plotly
+pysqlite3-binary
