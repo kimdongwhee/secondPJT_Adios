@@ -10,6 +10,6 @@ streamlit_autorefresh
 unidecode
 plotly
 pysqlite3-binary
-chromadb==0.3.22
+chromadb
 langchain-community
 pydantic-settings
