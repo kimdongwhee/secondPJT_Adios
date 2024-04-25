@@ -32,13 +32,13 @@ all_player = pd.read_csv("./useData/total_all_position.csv", encoding="utf-16", 
 #streamlit 페이지 활용범위 설정
 st.set_page_config(layout="wide")
 #streamlit페이지 제목
-st.header("Data Analyze with Javis🤖")
+st.header("Data Analyze with Ovis🤖")
 #streamlit 텝메뉴
 tab_1, tab_2 = st.tabs(["Talk with Chat-bot","Searching and Compare Player"])
 #=======================================================================================================================
 #streamlit 챗봇영역
 with tab_1:
-    st.subheader(":one: Talking with JAVIS")
+    st.subheader(":one: Talking with OVIS")
     st.dataframe(all_player, use_container_width=True, hide_index=True)
     #대화 히스토리 저장 영역
     if "messages" not in st.session_state:
