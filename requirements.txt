@@ -13,10 +13,3 @@ pysqlite3-binary
 chromadb
 langchain-community
 pydantic-settings
-tensorflow
-pyvis
-stvis
-joblib
-scikit-learn
-lightgbm
-pycaret
