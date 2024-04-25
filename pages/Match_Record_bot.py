@@ -1,5 +1,5 @@
 #라이브러리
-import os
+#import os
 from langchain_community.document_loaders.csv_loader import CSVLoader
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
@@ -17,7 +17,7 @@ import openai
 #from dotenv import load_dotenv
 #import os
 #API 활용별 키
-myOpenAI_key = st.secrets["myOpenAI"]
+myOpenAI_key = st.secrets["OPENAI_API_KEY"]
 #load_dotenv()
 #myOpenAI_key = os.getenv("OPENAI_API_KEY") 
 # myOpenAI_key = os.getenv("myOpenAI")
