@@ -18,3 +18,4 @@ pyvis
 stvis
 joblib
 scikit-learn
+lightgbm
