@@ -11,3 +11,4 @@ unidecode
 plotly
 pysqlite3-binary
 chromadb==0.3.22
+langchain-community
