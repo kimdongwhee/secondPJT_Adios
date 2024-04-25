@@ -16,3 +16,4 @@ pydantic-settings
 tensorflow
 pyvis
 stvis
+joblib
