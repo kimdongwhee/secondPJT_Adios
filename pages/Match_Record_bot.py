@@ -1,4 +1,7 @@
 #라이브러리
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 #import os
 from langchain_community.document_loaders.csv_loader import CSVLoader
 from langchain.embeddings import OpenAIEmbeddings
