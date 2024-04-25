@@ -73,32 +73,32 @@ def main():
     st.subheader(SUB_TITLE_1)
 
     # Load data
-    FW_df = pd.read_csv('data/Scaled_ST.csv', encoding='utf-16', index_col=0)
-    MID_df = pd.read_csv('data/Scaled_MID.csv', encoding='utf-16', index_col=0)
-    DF_df = pd.read_csv('data/Scaled_DC.csv', encoding='utf-16', index_col=0)
+    FW_df = pd.read_csv('./useData/Scaled_ST.csv', encoding='utf-16', index_col=0)
+    MID_df = pd.read_csv('./useData/Scaled_MID.csv', encoding='utf-16', index_col=0)
+    DF_df = pd.read_csv('./useData/Scaled_DC.csv', encoding='utf-16', index_col=0)
     
     # Load Scaler
-    with open('data/OP_ST_Scaler.pkl', 'rb') as f:
+    with open('./useData/OP_ST_Scaler.pkl', 'rb') as f:
         fw_scaler = pickle.load(f)
-    with open('data/OP_MID_Scaler.pkl', 'rb') as f:
+    with open('./useData/OP_MID_Scaler.pkl', 'rb') as f:
         mid_scaler = pickle.load(f)
-    with open('data/OP_DC_Scaler.pkl', 'rb') as f:
+    with open('./useData/OP_DC_Scaler.pkl', 'rb') as f:
         df_scaler = pickle.load(f)
 
     # Load Potential Model
-    fw_potential_model = joblib.load('data/Potential_ST_Model.pkl')
-    mid_potential_model = joblib.load('data/Potential_MID_Model.pkl')
-    df_potential_model = joblib.load('data/Potential_DC_Model.pkl')
+    fw_potential_model = joblib.load('./useData/Potential_ST_Model.pkl')
+    mid_potential_model = joblib.load('./useData/Potential_MID_Model.pkl')
+    df_potential_model = joblib.load('./useData/Potential_DC_Model.pkl')
 
     # Load Overall Model
-    fw_overall_model = joblib.load('data/Overall_ST_Model.pkl')
-    mid_overall_model = joblib.load('data/Overall_MID_Model.pkl')
-    df_overall_model = joblib.load('data/Overall_DC_Model.pkl')
+    fw_overall_model = joblib.load('./useData/Overall_ST_Model.pkl')
+    mid_overall_model = joblib.load('./useData/Overall_MID_Model.pkl')
+    df_overall_model = joblib.load('./useData/Overall_DC_Model.pkl')
     
     # Load Market Value Model
-    fw_mv_model = joblib.load('data/MarketV_ST_Model.joblib')
-    mid_mv_model = joblib.load('data/MarketV_MID_Model.pkl')
-    df_mv_model = joblib.load('data/MarketV_DC_Model.pkl')
+    fw_mv_model = joblib.load('./useData/MarketV_ST_Model.joblib')
+    mid_mv_model = joblib.load('./useData/MarketV_MID_Model.pkl')
+    df_mv_model = joblib.load('./useData/MarketV_DC_Model.pkl')
 
     # Load Columns
     fw_columns = list(fw_overall_model.feature_names_in_)
