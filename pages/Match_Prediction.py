@@ -5,7 +5,7 @@ import tensorflow as tf     # 모델 불러오기 위해 사용
 from unidecode import unidecode as ucd  # 선수이름 영어로 변환하기 위해 사용
 
 st.set_page_config(layout='wide')   # 페이지 레이아웃 넓게 사용
-st.title('경기 결과 예측!')
+st.title('경기 결과 예측 :trophy:')
 
 # 발표용 탭, 코드용 탭 구분
 tab_1,tab_2=st.tabs(['Match Prediction','Code'])
