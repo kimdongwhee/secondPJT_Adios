@@ -31,7 +31,7 @@ with tab_1:
 
     # 모델 개요 컨테이너
     with st.container(border=True):
-        st.subheader('가상 드래프트 승부예측')
+        st.subheader(':one: 가상 드래프트 승부예측')
         st.divider()
         first_col1,first_col2,first_col3=st.columns(3)
         with first_col1:    # input 설명
