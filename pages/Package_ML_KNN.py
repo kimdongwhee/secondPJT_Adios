@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_extras.metric_cards import style_metric_cards
 import pandas as pd
 import numpy as np
 import pickle
@@ -8,6 +7,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from pyvis.network import Network
 from stvis import pv_static
 
+# tab_allin1,tab_code=st.tabs(['ML-to-KNN','Code'])
 # Titles
 WEB_TITLE = '📊_player_model'
 TITLE_1 = 'Player Ability Prediction Model'
