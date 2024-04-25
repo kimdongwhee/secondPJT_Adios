@@ -14,3 +14,5 @@ chromadb
 langchain-community
 pydantic-settings
 tensorflow
+pyvis
+stvis
