@@ -526,4 +526,4 @@ with tab_4:
                 st.markdown(summary_results_list[v]["output_text"])
     
     '''
-    st.code(source_code, , language='python')
+    st.code(source_code, language='python')
