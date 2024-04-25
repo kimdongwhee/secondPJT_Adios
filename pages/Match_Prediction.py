@@ -188,7 +188,7 @@ with tab_1:
 
     # 가상 드래프트 매치 결과 컨테이너
     with st.container(border=True):
-        st.subheader('어떤 팀이 이길까용?')
+        st.subheader(':three: Predict Result')
         # 홈, 어웨이팀 포지션(DC, MID, ST) 평균 산출
         df_mean_home=np.mean([lb_433_rating_home,lcb_433_rating_home,rcb_433_rating_home,rb_433_rating_home])
         mf_mean_home=np.mean([lcm_433_rating_home,cm_433_rating_home,rcm_433_rating_home])
