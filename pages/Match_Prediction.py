@@ -49,7 +49,7 @@ with tab_1:
 
     # 가상 드래프트 컨테이너
     with st.container(border=True):
-        st.subheader('넣고 싶은 선수를 선택하세요')
+        st.subheader(':two: Home/Away 선수선택 및 승부예측')
         draftcol1,draftcol2=st.columns(2)
         # 홈, 어웨이 포메이션 4-3-3으로 고정
         with draftcol1:
