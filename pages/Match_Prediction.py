@@ -454,3 +454,4 @@ with tab_1:
             st.markdown(f"##### <center> 2 : 홈팀 승리 -> {prediction['Home(2)'][0]*100} %</center>",unsafe_allow_html=True)
 '''
     st.code(source_code,'python')
+st.page_link('https://sayoof-adios2.streamlit.app/',label='ML-to-KNN')
