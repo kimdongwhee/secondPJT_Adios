@@ -11,7 +11,7 @@ st.title('경기 결과 예측 :trophy:')
 tab_1,tab_2=st.tabs(['Match Prediction','Code'])
 
 with tab_1:
-    model=tf.keras.models.load_model('./useData/match_pred_DL.h5')     # 모델 로드
+    model=tf.keras.models.load_model('./useData/match_pred_DL_bigDK.h5')     # 모델 로드
 
     # 골키퍼 스탯 로드
     gkPlayer=pd.read_csv('./useData/GK_kshi.csv',encoding='utf-16')[['player_nm','player_overall','player_team','player_position']]
@@ -41,6 +41,7 @@ with tab_1:
         with first_col2:
             st.markdown('#### <center> 다중분류 딥러닝 알고리즘</center>',unsafe_allow_html=True)
             st.markdown('##### <center><b> Keras 기반</b></center>',True)
+            st.markdown('##### <center><b> Model Accuracy : 0.42</b></center>',True)
         with first_col3:    # output 설명
             st.markdown('#### <center> Output : 3개 클래스로 분류될 확률</center>',unsafe_allow_html=True)
             st.markdown('##### <center> 0 : 무승부</center>',unsafe_allow_html=True)
