@@ -38,7 +38,7 @@ tab_1, tab_2, tab_3 = st.tabs(["Talk with Chat-bot","Searching and Compare Playe
 #=======================================================================================================================
 #streamlit 챗봇영역
 with tab_1:
-    st.subheader(":one: Talking with OVIS")
+    st.subheader(":one: Talking with Ovis")
     st.dataframe(all_player, use_container_width=True, hide_index=True)
     #대화 히스토리 저장 영역
     if "messages" not in st.session_state:
