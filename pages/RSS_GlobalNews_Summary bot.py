@@ -409,10 +409,10 @@ def summary_news(x):
             docs = WebBaseLoader(x[i]).load_and_split(text_splitter)
 
             #chunk 작업 단위 별 Template 지정
-            template = '''너는 유럽 축구리그의 모든 정보를 아는 축구 전문가야. 다음 내용을 한국어로 요약해줘:
+            template = "너는 유럽 축구리그의 모든 정보를 아는 축구 전문가야. 다음 내용을 한국어로 요약해줘:
             {text}
             "
-            Kr_arrange_template = '''{text}
+            Kr_arrange_template = "text}
             요약 결과는 다음과 같은 형식으로 작성해줘.
             ------------------------------------------------------------------------------
             \n(1) 기사제목 : 최대 20자
