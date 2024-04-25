@@ -151,4 +151,4 @@ if user_input := st.chat_input("분석할 내용을 입력해주세요."):
     if "messages" not in st.session_state:
         st.session_state["messages"] = []
 '''
-st.code(source_code, language='python')
+    st.code(source_code, language='python')
