@@ -13,3 +13,4 @@ pysqlite3-binary
 chromadb
 langchain-community
 pydantic-settings
+tensorflow
